@@ -1,0 +1,530 @@
+<?xml version="1.0" encoding="windows-1251" standalone="yes" ?><!-- edited with XML Spy v4.2 U (http://www.xmlspy.com) by Morgoth (Targem) -->
+<resource><!--Default buttons--><!-- Общие в т.ч. вне игры -->
+	<string
+		id="ok"
+		value="OK" />
+
+	<string
+		id="cancel"
+		value="Kyanseru" />
+
+	<string
+		id="Cancel"
+		value="Kyanseru" />
+
+	<string
+		id="yes"
+		value="Hai" />
+
+	<string
+		id="no"
+		value="Ie" />
+
+	<string
+		id="error"
+		value="Era" />
+
+	<string
+		id="save"
+		value="Hozon" />
+
+	<string
+		id="Default"
+		value="Deforuto" />
+
+	<string
+		id="Close"
+		value="Chikai" />
+
+	<string
+		id="Control"
+		value="Kontororu" />
+
+	<string
+		id="Exit"
+		value="Deguchi" />
+
+	<string
+		id="Delete"
+		value="Shokyo" />
+
+	<string
+		id="CloseWindow"
+		value="U~indo o tojiru" />
+
+	<string
+		id="Date"
+		value="Hidzuke" />
+
+	<string
+		id="SaveName"
+		value="Namae" />
+
+	<string
+		id="SortByName"
+		value="Hozon-mei de narabe kaeru" />
+
+	<string
+		id="SortByDate"
+		value="Jikan o setsuyaku shite narabe kaeru" />
+
+	<string
+		id="ServiceSymbolsUsed"
+		value="Не допускается использование в имени|следующих служебных символов:|@ff904040%s" />
+
+	<string
+		id="quitGame"
+		value="Gemu o shuryo shimasu ka?" />
+
+	<string
+		id="ChoseDifficultyLevel"
+		value="Gaido o sentaku shite kudasai" />
+<!-- Главное меню -->
+	<string
+		id="New Game"
+		value="Atarashi gemu" />
+
+	<string
+		id="StartNetGame"
+		value="Atarashi gemu o hajimeru" />
+
+	<string
+		id="Credits"
+		value="Kaihatsu-sha" />
+
+	<string
+		id="Load Game"
+		value="Gemu o daunrodo suru" />
+
+	<string
+		id="Options"
+		value="Settei" />
+
+	<string
+		id="Quit to Windows"
+		value="Gemu o shuryo suru" />
+
+	<string
+		id="Profile"
+		value="Purofiru" />
+
+	<string
+		id="ProfileDontChosen"
+		value="sentaku sa rete inai" />
+
+	<string
+		id="Intro"
+		value="Shokai bideo" />
+
+	<string
+		id="OpenSavesList"
+		value="Hozon sa reta gemu no risuto o hiraku" />
+
+	<string
+		id="ShowIntro"
+		value="Shokai bideo o miru" />
+
+	<string
+		id="HandleGameOptions"
+		value="Gemu settei o chosei suru" />
+
+	<string
+		id="ShowCredits"
+		value="Kaihatsu-sha no risuto o miru" />
+<!-- Окно загрузки -->
+	<string
+		id="load"
+		value="Daunrodo" />
+
+	<string
+		id="LoadGame"
+		value="Hozon shita gemu o rodo suru" />
+
+	<string
+		id="SavedGameLoading"
+		value="Hozon shita gemu o rodo suru" />
+<!-- Профиль -->
+	<string
+		id="DeleteProfileWarning"
+		value="Hozon sa rete iru gemu wa subete sakujo sa remasu.|Tsudzuku?" />
+
+	<string
+		id="DefaultProfileName"
+		value="Pureya" />
+
+	<string
+		id="Create"
+		value="Sakusei suru" />
+
+	<string
+		id="CreateProfile"
+		value="Atarashi purofairu o sakusei suru" />
+
+	<string
+		id="NewProfile"
+		value="Atarashi purofiru" />
+
+	<string
+		id="ProfileExists"
+		value="Onaji namae no Purofairu ga sudeni sonzai shimasu.|Betsu no namae o nyuryoku shite kudasai" />
+
+	<string
+		id="EmptyProfileName"
+		value="Namae ga nai to purofiru o sakusei dekimasen" />
+
+	<string
+		id="ProfileCreateError"
+		value="Purofairu sakusei era" />
+
+	<string
+		id="ProfileDeleteError"
+		value="Purofairu sakujo era" />
+
+	<string
+		id="Chose"
+		value="Erabu" />
+
+	<string
+		id="DeleteProfile"
+		value="Purofiru no sakujo" />
+
+	<string
+		id="ChoseProfile"
+		value="Genzai no purofairu o sentaku" />
+
+	<string
+		id="CancelExit"
+		value="Hozon sezu ni u~indo o tojiru" />
+
+	<string
+		id="ChangePlayerProfile"
+		value="Pureya no purofiru o henko suru" />
+
+	<string
+		id="ChangeProfile"
+		value="Purofairu henshu" />
+
+	<string
+		id="CurProfile"
+		value="Genzai no purofiru" />
+
+	<string
+		id="InvalidProfileName"
+		value="Mukona purofairu-meidesu" />
+<!-- Текст сплэшей -->
+	<string
+		id="Loading"
+		value="Yomikomi-chu" />
+
+	<string
+		id="LoadingDots"
+		value="YOMIKOMI-CHU ..." />
+
+	<string
+		id="LoadWorld"
+		value="RODINGUREBERU" />
+
+	<string
+		id="InitWorld"
+		value="REBERU NO SHOKKA" />
+
+	<string
+		id="MainMenuLoading"
+		value="Yomikomi-chu" />
+
+	<string
+		id="AnimatedModelsServer"
+		value="animeshon'obujekuto" />
+
+	<string
+		id="StaticModelsServer"
+		value="seiteki obujekuto" />
+
+	<string
+		id="LightsServer"
+		value="kogen" />
+
+	<string
+		id="SpritesServer"
+		value="supuraito" />
+
+	<string
+		id="ParticlesServer"
+		value="ryushi shisutemu" />
+
+	<string
+		id="SoundsServer"
+		value="oto" />
+
+	<string
+		id="MusicServer"
+		value="ongaku" />
+<!-- замените это на более благозвучное -->
+	<string
+		id="ProjectorsServer"
+		value="supottoraito" />
+
+	<string
+		id="DecalsServer"
+		value="dekaru" />
+
+	<string
+		id="Precaching"
+		value="Kyasshingu" />
+<!-- Окно настроек -->
+	<string
+		id="Video"
+		value="Gurafikkuato" />
+
+	<string
+		id="Sound"
+		value="Oto" />
+
+	<string
+		id="Game"
+		value="Gemu" />
+
+	<string
+		id="Video settings"
+		value="Gurafikku settei" />
+
+	<string
+		id="Far dist"
+		value="Hyoji han'i" />
+
+	<string
+		id="Gamma"
+		value="Ganma" />
+
+	<string
+		id="Resolution"
+		value="Kyoka" />
+
+	<string
+		id="GraphicQuality"
+		value="Gurafikku no shitsu" />
+
+	<string
+		id="Grass"
+		value="Kusa" />
+
+	<string
+		id="TextureResolution"
+		value="Tekusucha kaizodo" />
+
+	<string
+		id="Antialiasing"
+		value="Anchieiriashingu" />
+
+	<string
+		id="Filtration"
+		value="Roka" />
+
+	<string
+		id="BlumQuality"
+		value="Burumu hinshitsu" />
+
+	<string
+		id="WaterQuality"
+		value="Suishitsu" />
+
+	<string
+		id="Audio settings"
+		value="Saundo settei" />
+
+	<string
+		id="Fx vol"
+		value="Efekutoboryumu" />
+
+	<string
+		id="Music vol"
+		value="Ongaku no onryo" />
+
+	<string
+		id="Speak vol"
+		value="Hanashi-ryo" />
+
+	<string
+		id="Game settings"
+		value="Gemu no settei" />
+
+	<string
+		id="DialogPause"
+		value="Taiwa o ichiji teishi suru" />
+
+	<string
+		id="AutoHelp"
+		value="Jido teian" />
+
+	<string
+		id="MouseSensitivity"
+		value="Mausu kando" />
+
+	<string
+		id="MouseYAxisFlip"
+		value="Jiku hanten Y" />
+
+	<string
+		id="MouseXAxisFlip"
+		value="Jiku hanten X" />
+
+	<string
+		id="Keys"
+		value="Juyona imi" />
+
+	<string
+		id="RestoreDef"
+		value="Deforuto-chi ni modosu" />
+
+	<string
+		id="Apply"
+		value="Tekiyo suru" />
+
+	<string
+		id="Recommended"
+		value="Suisho" />
+
+	<string
+		id="None"
+		value="Ie" />
+
+	<string
+		id="Near"
+		value="Chikai" />
+
+	<string
+		id="Far"
+		value="Toi" />
+
+	<string
+		id="LowQuality"
+		value="Hikui" />
+
+	<string
+		id="MediumQuality"
+		value="Heikin" />
+
+	<string
+		id="HighQuality"
+		value="Takai" />
+
+	<string
+		id="CustomQuality"
+		value="Kasutamu" />
+
+	<string
+		id="MaxQuality"
+		value="Saidai" />
+
+	<string
+		id="LowResolution"
+		value="Hikui" />
+
+	<string
+		id="HighResolution"
+		value="Takai" />
+
+	<string
+		id="CustomResolution"
+		value="Kasutamu" />
+
+	<string
+		id="BilinearFiltration"
+		value="Bairinia" />
+
+	<string
+		id="TrilinearFiltration"
+		value="Toririnia" />
+
+	<string
+		id="AnisotropFiltration"
+		value="Ihosei" />
+
+	<string
+		id="CustomFiltration"
+		value="Kasutamu" />
+
+	<string
+		id="Antialiasing_x2"
+		value="x2" />
+
+	<string
+		id="Antialiasing_x4"
+		value="x4" />
+
+	<string
+		id="Antialiasing_x8"
+		value="x8" />
+
+	<string
+		id="Antialiasing_x16"
+		value="x16" />
+
+	<string
+		id="CustomAntialiasing"
+		value="Kasutamu" />
+
+	<string
+		id="OptionsChanged"
+		value="Settei ga henko sa remashita. Henko naiyo o hozon?" />
+
+	<string
+		id="ShadowsQuality"
+		value="Kage no hinshitsu" />
+
+	<string
+		id="NumBattleReplies"
+		value="Sento-chu no rain-su" />
+
+	<string
+		id="Control settings"
+		value="Kontororu settei" />
+
+	<string
+		id="BindingsChanged"
+		value="Kontororuki ga henko sa remashita. Henko naiyo o hozon?" />
+
+	<string
+		id="GameDifficulty"
+		value="Gaido" />
+
+	<string
+		id="EasyLevel"
+		value="Shoshinsha" />
+
+	<string
+		id="MediumLevel"
+		value="Keiken hofuna" />
+
+	<string
+		id="HardLevel"
+		value="Puro" />
+
+	<string
+		id="ImpossibleLevel"
+		value="Masuta" />
+<!-- DemoSplashWnd -->
+	<string
+		id="Targem Link Tip"
+		value="Таргем" />
+
+	<string
+		id="Buka Link Tip"
+		value="Бука" />
+
+	<string
+		id="ExMachina URL"
+		value="http://www.targem.ru" />
+
+	<string
+		id="Buka URL"
+		value="http://www.buka.ru" />
+
+	<string
+		id="Nival URL"
+		value="http://www.nival.com" />
+
+	<string
+		id="AutoSave"
+		value="Автосохранение" />
+</resource>
