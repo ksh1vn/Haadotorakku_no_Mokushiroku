@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="windows-1251" standalone="yes" ?><!-- edited with XML Spy v4.2 U (http://www.xmlspy.com) by Morgoth (Targem) -->
+<resource><!--Default buttons-->
+	<string
+		id="fm_relation_changed"
+		value="Anata wa izureka no habatsu to tekitai kankei ni natte shimaimashita." />
+
+	<string
+		id="fm_hunt_completed"
+		value="Kari wa owarimashita. Hakai sa reta torakku wa subete baisho-kin o shiharawa remashita." />
+
+	<string
+		id="fm_dynamic_quest_completed"
+		value="Tasuku o kanryo shimashita &quot;%1s&quot;." />
+
+	<string
+		id="fm_dynamic_quest_failed_because_hirer_becames_enemy"
+		value="Anata wa sono ninmu ni shippai shimashita &quot;%1s&quot;, nazenara, kokyaku gurupu to no kankei o dainashi ni shite shimattakaradesu." />
+
+	<string
+		id="fm_convoy_failed"
+		value="Anata wa azukatte ita torakku o mamoru koto ga dekimasendeshita. Ima wa hoshu o kitai subekide wa arimasen." />
+
+	<string
+		id="fm_history_got"
+		value="Atarashi kiji ga janaru ni keisai sa remashita." />
+
+	<string
+		id="fm_book_got"
+		value="Atarashi hon ga janaru ni keisai sa remashita." />
+
+	<string
+		id="fm_fail_quest"
+		value="Anata wa sono ninmu ni shippai shimashita." />
+
+	<string
+		id="fm_complete_quest"
+		value="Tasuku wa kanryo shimashita." />
+
+	<string
+		id="fm_take_quest"
+		value="Atarashi tasuku o uketorimashita." />
+
+	<string
+		id="fm_cant_move"
+		value="Kono michi ga doko ni tsudzuite iru no ka wakaranainode, koko ni tomarimasu." />
+
+	<string
+		id="fm_not_suzet"
+		value="Nani ka kimyona basho. Koko kara hanareta ho ga i yo. " />
+
+	<string
+		id="fm_race_start_1"
+		value="Обратный отсчёт:  ...%1d..." />
+
+	<string
+		id="fm_race_start_0"
+		value="С Т А Р Т" />
+
+	<string
+		id="fm_race_start_false"
+		value="Фальстарт." />
+
+	<string
+		id="fm_race_chekpoint"
+		value="Контрольная точка!" />
+
+	<string
+		id="fm_race_chekpoint_notright"
+		value="Неверная контрольная точка!" />
+
+	<string
+		id="fm_race_firslap"
+		value="Первый круг завершён." />
+
+	<string
+		id="fm_race_finish"
+		value="Ф И Н И Ш" />
+
+	<string
+		id="fm_race_finish_1"
+		value="ПЕРВЫЙ" />
+
+	<string
+		id="fm_race_finish_2"
+		value="ВТОРОЙ" />
+
+	<string
+		id="fm_race_finish_3"
+		value="ТРЕТИЙ" />
+
+	<string
+		id="fm_race_finish_less"
+		value="Вы на %1d месте из %2d." />
+
+	<string
+		id="fm_race_finish_lose"
+		value="Вы проиграли гонку." />
+
+	<string
+		id="fm_race_somedie"
+		value="Один из участников выбыл." />
+
+	<string
+		id="fm_town_enter"
+		value="Kurakushon (%1m) o oshite toshi ni hairimasu." />
+
+	<string
+		id="fm_town_cant_enter_enemy"
+		value="Kono toshi wa tekitai-tekidearu tame hairu koto ga dekimasen." />
+
+	<string
+		id="fm_town_cant_enter_locked"
+		value="Kono machi wa heisa sa rete iru tame hairu koto ga dekimasen." />
+
+	<string
+		id="fm_take_chest_hint"
+		value="(%1m) o oshite u~eito o mochiagemasu." />
+
+	<string
+		id="fm_all_chests_taken"
+		value="Груз взят на борт." />
+
+	<string
+		id="fm_item_pickup"
+		value="Aitemu o hiroimashita: %1s." />
+
+	<string
+		id="fm_sunrise"
+		value="Asagakita." />
+
+	<string
+		id="fm_day"
+		value="Taihen'na tsuitachi ga hajimarimashita." />
+
+	<string
+		id="fm_sunset"
+		value="Yugata ga kita." />
+
+	<string
+		id="fm_night"
+		value="Yoru ga kita." />
+
+	<string
+		id="fm_save_is_not_allowed"
+		value="Сохранение сейчас не разрешено." />
+
+	<string
+		id="fm_player_add_money"
+		value="%1d koin o uketorimashita!" />
+
+	<string
+		id="fm_player_give_money"
+		value="%1d koin o purezento shimashita." />
+
+	<string
+		id="fm_player_add_thing"
+		value="Aitemu %1p o uketorimashita!" />
+
+	<string
+		id="fm_cheat_is_not_allowed"
+		value="@FF22FF22Использование читов @FF2222FFЗАПРЕЩЕНО@FFFFFFFF" />
+
+	<string
+		id="fm_cheat_is_allowed"
+		value="@FF22FF22Chito o shiyo suru to era ga hassei suru kanosei ga arimasu.@FFFFFFFF" />
+
+	<string
+		id="fm_items_remained_on_ground"
+		value="Hontai ni jubun'na supesu ga arimasen. Kiki u~indo o hiraku ni wa, %1m o oshimasu." />
+</resource>
