@@ -50,55 +50,55 @@
 
 	<string
 		id="fm_race_start_1"
-		value="Обратный отсчёт:  ...%1d..." />
+		value="Byoyomi:  ...%1d..." />
 
 	<string
 		id="fm_race_start_0"
-		value="С Т А Р Т" />
+		value="H A J I M E R U" />
 
 	<string
 		id="fm_race_start_false"
-		value="Фальстарт." />
+		value="Machigatta sutato." />
 
 	<string
 		id="fm_race_chekpoint"
-		value="Контрольная точка!" />
+		value="Chekkupointo!" />
 
 	<string
 		id="fm_race_chekpoint_notright"
-		value="Неверная контрольная точка!" />
+		value="Chekkupointo ga mukodesu!" />
 
 	<string
 		id="fm_race_firslap"
-		value="Первый круг завершён." />
+		value="Saisho no sakuru ga kansei shimashita." />
 
 	<string
 		id="fm_race_finish"
-		value="Ф И Н И Ш" />
+		value="S H I A G E R U" />
 
 	<string
 		id="fm_race_finish_1"
-		value="ПЕРВЫЙ" />
+		value="HAJIME" />
 
 	<string
 		id="fm_race_finish_2"
-		value="ВТОРОЙ" />
+		value="SEKANDO" />
 
 	<string
 		id="fm_race_finish_3"
-		value="ТРЕТИЙ" />
+		value="SADO" />
 
 	<string
 		id="fm_race_finish_less"
-		value="Вы на %1d месте из %2d." />
+		value="Anata wa %2d kara %1d i ni imasu." />
 
 	<string
 		id="fm_race_finish_lose"
-		value="Вы проиграли гонку." />
+		value="Anata wa resu ni makemashita." />
 
 	<string
 		id="fm_race_somedie"
-		value="Один из участников выбыл." />
+		value="Sankasha no hitori ga datsuraku shita." />
 
 	<string
 		id="fm_town_enter"
