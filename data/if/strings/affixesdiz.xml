@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="windows-1251" standalone="yes" ?><!-- edited with XML Spy v4.2 U (http://www.xmlspy.com) by Morgoth (Targem) -->
+<resource><!--Default buttons--><!-- Названия -->
+	<string
+		id="useless_cabin"
+		value="Yakudatazu" />
+
+	<string
+		id="useless_cabin_localizedform_0"
+		value="Yakudatazu" />
+
+	<string
+		id="useless_cabin_localizedform_1"
+		value="Yakudatazu" />
+
+	<string
+		id="useless_basket"
+		value="Yakudatazu" />
+
+	<string
+		id="useless_basket_localizedform_0"
+		value="Yakudatazu" />
+
+	<string
+		id="useless_basket_localizedform_1"
+		value="Yakudatazu" />
+
+	<string
+		id="useless_gun"
+		value="Yakudatazu" />
+
+	<string
+		id="useless_gun_localizedform_0"
+		value="Yakudatazu" />
+
+	<string
+		id="useless_gun_localizedform_1"
+		value="Yakudatazu" />
+
+	<string
+		id="rusty_cabin"
+		value="Rasuti" />
+
+	<string
+		id="rusty_cabin_localizedform_0"
+		value="Rasuti" />
+
+	<string
+		id="rusty_cabin_localizedform_1"
+		value="Rasuti" />
+
+	<string
+		id="rusty_basket"
+		value="Rasuti" />
+
+	<string
+		id="rusty_basket_localizedform_0"
+		value="Rasuti" />
+
+	<string
+		id="rusty_basket_localizedform_1"
+		value="Rasuti" />
+
+	<string
+		id="rusty_gun"
+		value="Rasuti" />
+
+	<string
+		id="rusty_gun_localizedform_0"
+		value="Rasuti" />
+
+	<string
+		id="rusty_gun_localizedform_1"
+		value="Rasuti" />
+
+	<string
+		id="excellent_cabin"
+		value="Subarashi" />
+
+	<string
+		id="excellent_cabin_localizedform_0"
+		value="Subarashi" />
+
+	<string
+		id="excellent_cabin_localizedform_1"
+		value="Subarashi" />
+
+	<string
+		id="excellent_basket"
+		value="Subarashi" />
+
+	<string
+		id="excellent_basket_localizedform_0"
+		value="Subarashi" />
+
+	<string
+		id="excellent_basket_localizedform_1"
+		value="Subarashi" />
+
+	<string
+		id="excellent_gun"
+		value="Subarashi" />
+
+	<string
+		id="excellent_gun_localizedform_0"
+		value="Subarashi" />
+
+	<string
+		id="excellent_gun_localizedform_1"
+		value="Subarashi" />
+
+	<string
+		id="advanced_cabin"
+		value="Jokyu" />
+
+	<string
+		id="advanced_cabin_localizedform_0"
+		value="Jokyu" />
+
+	<string
+		id="advanced_cabin_localizedform_1"
+		value="Jokyu" />
+
+	<string
+		id="advanced_basket"
+		value="Jokyu" />
+
+	<string
+		id="advanced_basket_localizedform_0"
+		value="Jokyu" />
+
+	<string
+		id="advanced_basket_localizedform_1"
+		value="Jokyu" />
+
+	<string
+		id="advanced_gun"
+		value="Jokyu" />
+
+	<string
+		id="advanced_gun_localizedform_0"
+		value="Jokyu" />
+
+	<string
+		id="advanced_gun_localizedform_1"
+		value="Jokyu" />
+
+	<string
+		id="slow_gun"
+		value="Osoi" />
+
+	<string
+		id="slow_gun_localizedform_0"
+		value="Osoi" />
+
+	<string
+		id="slow_gun_localizedform_1"
+		value="Osoi" />
+
+	<string
+		id="assault_gun"
+		value="Kogeki teki" />
+
+	<string
+		id="assault_gun_localizedform_0"
+		value="Kogeki teki" />
+
+	<string
+		id="assault_gun_localizedform_1"
+		value="Kogeki teki" />
+
+	<string
+		id="rapid_firing_gun"
+		value="Sokusha" />
+
+	<string
+		id="rapid_firing_gun_localizedform_0"
+		value="Sokusha" />
+
+	<string
+		id="rapid_firing_gun_localizedform_1"
+		value="Sokusha" />
+
+	<string
+		id="weak_gun"
+		value="Yowai" />
+
+	<string
+		id="weak_gun_localizedform_0"
+		value="Yowai" />
+
+	<string
+		id="weak_gun_localizedform_1"
+		value="Yowai" />
+
+	<string
+		id="deadly_gun"
+		value="Ri saru" />
+
+	<string
+		id="deadly_gun_localizedform_0"
+		value="Ri saru" />
+
+	<string
+		id="deadly_gun_localizedform_1"
+		value="Ri saru" />
+
+	<string
+		id="destructive_gun"
+		value="Hakai teki" />
+
+	<string
+		id="destructive_gun_localizedform_0"
+		value="Hakai teki" />
+
+	<string
+		id="destructive_gun_localizedform_1"
+		value="Hakai teki" />
+
+	<string
+		id="with_truncated_barrel_gun"
+		value="Torimingu sareta bareru" />
+
+	<string
+		id="with_truncated_barrel_gun_localizedform_0"
+		value="torimingu sareta bareru" />
+
+	<string
+		id="with_truncated_barrel_gun_localizedform_1"
+		value="torimingu sareta bareru" />
+
+	<string
+		id="with_enlarged_barrel_gun"
+		value="Kakudai sareta jushin" />
+
+	<string
+		id="with_enlarged_barrel_gun_localizedform_0"
+		value="kakudai sareta jushin" />
+
+	<string
+		id="with_enlarged_barrel_gun_localizedform_1"
+		value="kakudai sareta jushin" />
+
+	<string
+		id="with_long_barrel_gun"
+		value="Rongu bareru" />
+
+	<string
+		id="with_long_barrel_gun_localizedform_0"
+		value="rongu bareru" />
+
+	<string
+		id="with_long_barrel_gun_localizedform_1"
+		value="rongu bareru" />
+
+	<string
+		id="without_cooling_gun"
+		value="Reikyaku nashi" />
+
+	<string
+		id="without_cooling_gun_localizedform_0"
+		value="reikyaku nashi" />
+
+	<string
+		id="without_cooling_gun_localizedform_1"
+		value="reikyaku nashi" />
+
+	<string
+		id="with_water_cooling_gun"
+		value="Suireishiki" />
+
+	<string
+		id="with_water_cooling_gun_localizedform_0"
+		value="suireishiki" />
+
+	<string
+		id="with_water_cooling_gun_localizedform_1"
+		value="suireishiki" />
+
+	<string
+		id="with_nitro_cooling_gun"
+		value="Chisso reikyaku" />
+
+	<string
+		id="with_nitro_cooling_gun_localizedform_0"
+		value="chisso reikyaku" />
+
+	<string
+		id="with_nitro_cooling_gun_localizedform_1"
+		value="chisso reikyaku" />
+
+	<string
+		id="without_sight_gun"
+		value="Sukopu nashi" />
+
+	<string
+		id="without_sight_gun_localizedform_0"
+		value="sukopu nashi" />
+
+	<string
+		id="without_sight_gun_localizedform_1"
+		value="sukopu nashi" />
+
+	<string
+		id="with_laser_sight_gun"
+		value="Reza saitotsuki" />
+
+	<string
+		id="with_laser_sight_gun_localizedform_0"
+		value="reza saitotsuki" />
+
+	<string
+		id="with_laser_sight_gun_localizedform_1"
+		value="reza saitotsuki" />
+
+	<string
+		id="with_electric_sight_gun"
+		value="Dendo gaido" />
+
+	<string
+		id="with_electric_sight_gun_localizedform_0"
+		value="dendo gaido" />
+
+	<string
+		id="with_electric_sight_gun_localizedform_1"
+		value="dendo gaido" />
+<!-- Описания -->
+	<string
+		id="useless_cabin_diz"
+		value=" Kyabin to no obarappu| Ama -10% -15% | Saiko sokudo -10% -15% | Pawa -10% -15%" />
+
+	<string
+		id="rusty_cabin_diz"
+		value=" Kyabin to no obarappu| Ama -5% -7% | Saiko sokudo -5% -7% | Pawa -5% -7%" />
+
+	<string
+		id="excellent_cabin_diz"
+		value=" Kyabin to no obarappu| Ama +5% +7% | Saiko sokudo +5% +7% | Pawa +5% +7%" />
+
+	<string
+		id="advanced_cabin_diz"
+		value=" Kyabin to no obarappu| Ama +10% +15% | Saiko sokudo +10% +15% | Pawa +10% +15%" />
+
+	<string
+		id="useless_basket_diz"
+		value=" Bodi ni tekiyo| Ama -10% -15%" />
+
+	<string
+		id="rusty_basket_diz"
+		value=" Bodi ni tekiyo| Ama -5% -7%" />
+
+	<string
+		id="excellent_basket_diz"
+		value=" Bodi ni tekiyo| Ama +5% +7%" />
+
+	<string
+		id="advanced_basket_diz"
+		value=" Bodi ni tekiyo| Ama +10% +15%" />
+
+	<string
+		id="useless_gun_diz"
+		value=" Buki ni tekiyo| Tsuyo sa -10% -15% | Dameji -10% -15% | Seido -10% -15%" />
+
+	<string
+		id="rusty_gun_diz"
+		value=" Buki ni tekiyo| Tsuyo sa -5% -7% | Dameji -5% -7% | Seido -5% -7% " />
+
+	<string
+		id="excellent_gun_diz"
+		value=" Buki ni tekiyo| Tsuyo sa +5% +7% | Dameji +5% +7% | Seido +5% +7% " />
+
+	<string
+		id="advanced_gun_diz"
+		value=" Buki ni tekiyo| Tsuyo sa +10% +15% | Dameji +10% +15% | Seido +10% +15%" />
+
+	<string
+		id="slow_gun_diz"
+		value=" Buki ni tekiyo| Hassha sokudo -5% -7%" />
+
+	<string
+		id="assault_gun_diz"
+		value=" Buki ni tekiyo| Hassha sokudo +5% +7%" />
+
+	<string
+		id="rapid_firing_gun_diz"
+		value=" Buki ni tekiyo| Hassha sokudo +10% +15%" />
+
+	<string
+		id="weak_gun_diz"
+		value=" Buki ni tekiyo| Dameji -5% -7%" />
+
+	<string
+		id="deadly_gun_diz"
+		value=" Buki ni tekiyo| Dameji +5% +7%" />
+
+	<string
+		id="destructive_gun_diz"
+		value=" Buki ni tekiyo| Dameji +10% +15%" />
+
+	<string
+		id="with_truncated_barrel_gun_diz"
+		value=" Buki ni tekiyo| Shagekijo -5% -7%" />
+
+	<string
+		id="with_enlarged_barrel_gun_diz"
+		value=" Buki ni tekiyo| Shagekijo +5% +7%" />
+
+	<string
+		id="with_long_barrel_gun_diz"
+		value=" Buki ni tekiyo| Shagekijo +10% +15%" />
+
+	<string
+		id="without_cooling_gun_diz"
+		value=" Buki ni tekiyo| Juden jikan +5% +7%" />
+
+	<string
+		id="with_water_cooling_gun_diz"
+		value=" Buki ni tekiyo| Juden jikan -5% -7%" />
+
+	<string
+		id="with_nitro_cooling_gun_diz"
+		value=" Buki ni tekiyo| Juden jikan -10% -15%" />
+
+	<string
+		id="without_sight_gun_diz"
+		value=" Buki ni tekiyo| Seido -5% -7%" />
+
+	<string
+		id="with_laser_sight_gun_diz"
+		value=" Buki ni tekiyo| Seido +5% +7%" />
+
+	<string
+		id="with_electric_sight_gun_diz"
+		value=" Buki ni tekiyo| Seido +10% +15%" />
+</resource>

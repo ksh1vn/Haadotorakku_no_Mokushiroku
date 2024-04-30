@@ -218,15 +218,15 @@
 
 	<string
 		id="LoadingDots"
-		value="YOMIKOMI-CHU ..." />
+		value="Yomikomi-chu ..." />
 
 	<string
 		id="LoadWorld"
-		value="RODINGUREBERU" />
+		value="Rodingureberu" />
 
 	<string
 		id="InitWorld"
-		value="REBERU NO SHOKKA" />
+		value="Reberu no shokka" />
 
 	<string
 		id="MainMenuLoading"

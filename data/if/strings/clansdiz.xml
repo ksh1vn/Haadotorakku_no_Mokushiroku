@@ -1,0 +1,678 @@
+<?xml version="1.0" encoding="windows-1251" standalone="yes" ?><!-- edited with XML Spy v4.2 U (http://www.xmlspy.com) by Morgoth (Targem) -->
+<resource><!--Default buttons--><!-- Названия -->
+	<string
+		id="Belong_1100"
+		value="Senshu no gurupu wake" />
+
+	<string
+		id="Belong_1100_abb"
+		value="Ari" />
+
+	<string
+		id="Belong_1002"
+		value="Furosha" />
+
+	<string
+		id="Belong_1002_abb"
+		value="Furosha" />
+
+	<string
+		id="Belong_1003"
+		value="Bokenshatachi" />
+
+	<string
+		id="Belong_1003_abb"
+		value="BK" />
+
+	<string
+		id="Belong_1004"
+		value="Kenkyusha" />
+
+	<string
+		id="Belong_1004_abb"
+		value="Shikingu" />
+
+	<string
+		id="Belong_1005"
+		value="Yubokumin" />
+
+	<string
+		id="Belong_1005_abb"
+		value="Yubokumin" />
+
+	<string
+		id="Belong_1006"
+		value="Yohei" />
+
+	<string
+		id="Belong_1006_abb"
+		value="Yohei" />
+
+	<string
+		id="Belong_1007"
+		value="Herarudo" />
+
+	<string
+		id="Belong_1007_abb"
+		value="Herarudo" />
+
+	<string
+		id="Belong_1008"
+		value="Famazu Yunion" />
+
+	<string
+		id="Belong_1008_abb"
+		value="FY" />
+
+	<string
+		id="Belong_1009"
+		value="Keihatsushatachi" />
+
+	<string
+		id="Belong_1009_abb"
+		value="Kagakusha" />
+
+	<string
+		id="Belong_1010"
+		value="Kita Ruto no Shonintachi" />
+
+	<string
+		id="Belong_1010_abb"
+		value="KRS" />
+
+	<string
+		id="Belong_1011"
+		value="Gyokai Dantai" />
+
+	<string
+		id="Belong_1011_abb"
+		value="GD" />
+
+	<string
+		id="Belong_1012"
+		value="Ryodan" />
+
+	<string
+		id="Belong_1012_abb"
+		value="Ryodan" />
+
+	<string
+		id="Belong_1013"
+		value="Fe rikkusu no chimu" />
+
+	<string
+		id="Belong_1013_abb"
+		value="FC" />
+
+	<string
+		id="Belong_1014"
+		value="Ryoshi" />
+
+	<string
+		id="Belong_1014_abb"
+		value="Ryoshi" />
+
+	<string
+		id="Belong_1015"
+		value="Hiro no Yoake" />
+
+	<string
+		id="Belong_1015_abb"
+		value="HY" />
+
+	<string
+		id="Belong_1016"
+		value="Dokuritsu Toshi Rengo" />
+
+	<string
+		id="Belong_1016_abb"
+		value="DTR" />
+
+	<string
+		id="Belong_1017"
+		value="Hikari no Kyokai" />
+
+	<string
+		id="Belong_1017_abb"
+		value="HK" />
+
+	<string
+		id="Belong_1018"
+		value="Bosu Gundan" />
+
+	<string
+		id="Belong_1018_abb"
+		value="BG" />
+
+	<string
+		id="Belong_1019"
+		value="Doruido" />
+
+	<string
+		id="Belong_1019_abb"
+		value="Doruido" />
+
+	<string
+		id="Belong_1020"
+		value="Tetsu no Kodomotachi" />
+
+	<string
+		id="Belong_1020_abb"
+		value="TK" />
+
+	<string
+		id="Belong_1021"
+		value="Orakuru no Shimobe tachi" />
+
+	<string
+		id="Belong_1021_abb"
+		value="OS" />
+
+	<string
+		id="Belong_1022"
+		value="Kotetsu no Kyojin" />
+
+	<string
+		id="Belong_1022_abb"
+		value="KK" />
+
+	<string
+		id="Belong_1023"
+		value="Harakatto" />
+
+	<string
+		id="Belong_1023_abb"
+		value="Harakatto" />
+
+	<string
+		id="Belong_1024"
+		value="Kortodadamu" />
+
+	<string
+		id="Belong_1024_abb"
+		value="Korto" />
+
+	<string
+		id="Belong_1025"
+		value="Arufa ran" />
+
+	<string
+		id="Belong_1025_abb"
+		value="Arufa" />
+
+	<string
+		id="Belong_1026"
+		value="Seru seri" />
+
+	<string
+		id="Belong_1026_abb"
+		value="Seru seri" />
+
+	<string
+		id="Belong_1027"
+		value="Miritari" />
+
+	<string
+		id="Belong_1027_abb"
+		value="Miritari" />
+
+	<string
+		id="Belong_1028"
+		value="Hanta" />
+
+	<string
+		id="Belong_1028_abb"
+		value="Hanta" />
+
+	<string
+		id="Belong_1029"
+		value="Beazu" />
+
+	<string
+		id="Belong_1029_abb"
+		value="Beazu" />
+
+	<string
+		id="Belong_1030"
+		value="Nieri" />
+
+	<string
+		id="Belong_1030_abb"
+		value="Nieri" />
+
+	<string
+		id="Belong_1040"
+		value="Hanrangun" />
+
+	<string
+		id="Belong_1040_abb"
+		value="Hanrangun" />
+
+	<string
+		id="Belong_1041"
+		value="Akuseru" />
+
+	<string
+		id="Belong_1041_abb"
+		value="HY" />
+
+	<string
+		id="Belong_1042"
+		value="Risa" />
+
+	<string
+		id="Belong_1042_abb"
+		value="Kenkyusha" />
+
+	<string
+		id="Belong_1043"
+		value="Jion Shi" />
+
+	<string
+		id="Belong_1043_abb"
+		value="HY" />
+
+	<string
+		id="Belong_1044"
+		value="Toranpu" />
+
+	<string
+		id="Belong_1044_abb"
+		value="Toranpu" />
+
+	<string
+		id="Belong_1045"
+		value="Kita Ruto no Shonintachi" />
+
+	<string
+		id="Belong_1045_abb"
+		value="KRS" />
+
+	<string
+		id="Belong_1046"
+		value="Hiro no Yoake" />
+
+	<string
+		id="Belong_1046_abb"
+		value="HY" />
+
+	<string
+		id="Belong_1047"
+		value="Kita Ruto no Shonintachi" />
+
+	<string
+		id="Belong_1047_abb"
+		value="KRS" />
+
+	<string
+		id="Belong_1048"
+		value="Hiro no Yoake" />
+
+	<string
+		id="Belong_1048_abb"
+		value="HY" />
+
+	<string
+		id="Belong_1049"
+		value="Orakuru no Shimobe tachi" />
+
+	<string
+		id="Belong_1049_abb"
+		value="OS" />
+
+	<string
+		id="Belong_1050"
+		value="Shinku" />
+
+	<string
+		id="Belong_1050_abb"
+		value="Toranpu" />
+
+	<string
+		id="Belong_1051"
+		value="Famazu Yunion" />
+
+	<string
+		id="Belong_1051_abb"
+		value="FY" />
+
+	<string
+		id="Belong_1052"
+		value="Keihatsushatachi" />
+
+	<string
+		id="Belong_1052_abb"
+		value="Kagakusha" />
+
+	<string
+		id="Belong_1053"
+		value="Hatsudensho" />
+
+	<string
+		id="Belong_1053_abb"
+		value="GH" />
+
+	<string
+		id="Belong_1054"
+		value="Dokuritsu Toshi Rengo" />
+
+	<string
+		id="Belong_1054_abb"
+		value="DTR" />
+
+	<string
+		id="Belong_1060"
+		value="Sabaku no Junin " />
+
+	<string
+		id="Belong_1060_abb"
+		value="SJ" />
+
+	<string
+		id="Belong_1061"
+		value="Kagakusha no Tachi" />
+
+	<string
+		id="Belong_1061_abb"
+		value="Difenda" />
+
+	<string
+		id="Belong_1062"
+		value="Kyoki no Guntai" />
+
+	<string
+		id="Belong_1062_abb"
+		value="Kyojin" />
+
+	<string
+		id="Belong_1063"
+		value="Ron Bandittsu" />
+
+	<string
+		id="Belong_1063_abb"
+		value="Banditto" />
+
+	<string
+		id="Belong_1064"
+		value="Urukku no Minpei" />
+
+	<string
+		id="Belong_1064_abb"
+		value="TK" />
+
+	<string
+		id="Belong_1065"
+		value="Aku no Sanzoku" />
+
+	<string
+		id="Belong_1065_abb"
+		value="Banditto" />
+
+	<string
+		id="Belong_1066"
+		value="Ryoshi" />
+
+	<string
+		id="Belong_1066_abb"
+		value="Ryoshi" />
+
+	<string
+		id="Belong_1067"
+		value="Koko Gakusha" />
+
+	<string
+		id="Belong_1067_abb"
+		value="Kagakusha" />
+
+	<string
+		id="Belong_1068"
+		value="Supurimu Doruido" />
+
+	<string
+		id="Belong_1068_abb"
+		value="Doruido" />
+	
+	<string
+		id="Belong_1069"
+		value="Orakuru no Shimobe tachi" />
+
+	<string
+		id="Belong_1069_abb"
+		value="СО" />
+
+	<string
+		id="Belong_1080"
+		value="Nenryo Hokyu" />
+
+	<string
+		id="Belong_1080_abb"
+		value="Nenryo Hokyu" />
+<!-- Описания -->
+	<string
+		id="Belong_1002_diz"
+		value="Haikai suru tozoku nitotte, shinseina mono nado nani mo nai. Karera no kogeki wa, ichi nin no tabibitodearo to buso shita kyarabantaidearoto, dare demo hyoteki ni suru koto ga dekiru." />
+
+	<string
+		id="Belong_1003_diz"
+		value="Karera wa suriru o motomete sekaiju o kake meguru. Totsuzen no kozeriai de wa, kogekigawa ni mo bogyogawa ni mo kuwawaru koto ga dekiru." />
+
+	<string
+		id="Belong_1004_diz"
+		value="Saikin wa hotondo inaku nattaga, moshi ekusupurora ni au koto ga dekireba, tanoshi kaiwa to komatta toki no tedasuke ga kitai dekiru." />
+
+	<string
+		id="Belong_1005_diz"
+		value="Dono habatsu ni mo zokusanai dokuritsu shita toreda wa, saisho ni atta hito to yorokonde torihiki suru." />
+
+	<string
+		id="Belong_1006_diz"
+		value="Kono sonkei sareru girudo wa, bunmei sekai de mottomo kikenna faita de kosei sareteiru. Karera wa kin o harau mono no gawa de tatakai, meiyo no okite o mamoru." />
+
+	<string
+		id="Belong_1007_diz"
+		value="Konnanna jidai ni wa, saigai no zencho ga itaru tokoro ni arawareru." />
+
+	<string
+		id="Belong_1008_diz"
+		value="Katsute karera no sosen ga sodeatta yo ni, nomintachi wa tochi o tagayasu. Dare mo ga tsuneni shokuryo o hitsuyo to shi, karera kara ubau mono wa ta ni nani mo nai tame, karera wa kiken ni michita sekai de hissori to sonzai shiteiru." />
+
+	<string
+		id="Belong_1009_diz"
+		value="Shomin wa kono gurupu o kiratteiru. Toiunomo, kodai sekai no chishiki o atsumeru keimokatachi wa, kogakuna hoshu o eru kotode shika chishiki o kyoyu shinaikarada. Sarani, karera wa yohei toshite kodo suru koto ga hotondode, joheki no hogoka ni tomaru koto o konomu." />
+
+	<string
+		id="Belong_1010_diz"
+		value="Sekiyu no torihiki de saisho no shuto o kizuita seijitsuna sh?nintachi. Sonogo, hito o yosetsukenai kita no heru chiho ni shinshutsu shi, toshi zentai o kensetsu shita. Fukinshinna raibarutachi wa karera ni shitto shi, bogai kosaku o soshiki suru." />
+
+	<string
+		id="Belong_1011_diz"
+		value="Kako ni okashita ikutsu ka no fushoji ya, samazamana gyangu ya yohei to no tsunagari kara, karera o 'shikuretto araiansu' to yobu hito mo iru. Domei ga tohin o kaishime, mitsuyuhin no torihiki mo jisanai to kangaeru no mo muri hanai." />
+
+	<string
+		id="Belong_1012_diz"
+		value="Fetarando no kenryoku o shoaku shiyo to suru su oku no gyangu no hitotsuda. Karera ga kodai no gunji kichi ni sennyu shi, keikaku o tassei suru tame no shin no chikara o te ni ireta kotode, jokyo wa fukuzatsu ni natteiru." />
+
+	<string
+		id="Belong_1013_diz"
+		value="Ejji no hiyokuna heigen ni sumitsuki, ta no gyangu kara hogo suru kawari ni nomin kara mitsugibutsu o atsumeru sho akutotachi. Kono jokyo wa koko su nen tsuzuiteori, dare nitotte mo kotsugoda." />
+
+	<string
+		id="Belong_1014_diz"
+		value="Неизвестно, что удается им выловить в мертвых холодных водах, но живут эти люди безбедно. Иногда торгуют с чужаками, но чаще просто атакуют иноземцев без предупреждения." />
+
+	<string
+		id="Belong_1015_diz"
+		value="Вдохновляемые харизматичным лидером Акселем, жители Аржана в едином порыве поднялись на борьбу с соседями, когда-то обидевшими их, и довольно успешно расширяют свою зону влияния, подминая под себя все новые селения. Не брезгуют услугами наемников и головорезов всех мастей." />
+
+	<string
+		id="Belong_1016_diz"
+		value="Нападение когда-то лояльных соседей сплотило людей Либриума, и, следуя заветам предков, они решили сражаться за свою независимость. В ведении войны чаще прибегают к шпионажу и саботажу, чем к грубой силе." />
+
+	<string
+		id="Belong_1017_diz"
+		value="Эта таинственная организация имеет адептов по всему миру. Хотя активное содействие АР немного подпортило их репутацию искателей истины и порядка, влияние Церкви весьма велико." />
+
+	<string
+		id="Belong_1018_diz"
+		value="Армия Босса" />
+
+	<string
+		id="Belong_1019_diz"
+		value="Эти дети природы живут в мире с вселенной, выращивая невиданные деревья и совершая ритуалы у их корней, они превозносят жизнь во всех ее проявлениях. Не любят иноземцев, считая их испорченными людьми." />
+
+	<string
+		id="Belong_1020_diz"
+		value="Бывшие друиды, разочаровавшиеся в своей вере, начали поклоняться металлическим идолам, которые все чаще появляются в Священной роще. Они лояльны по отношению к пришельцам из-за моря и охотно торгуют с ними. Дети Железа рассчитывают сами когда-нибудь получить такие же прочные нержавеющие тела, как и идолы, которым они поклоняются." />
+
+	<string
+		id="Belong_1021_diz"
+		value="Малочисленная секта, живущая около башни Оракула и почитающая его как бога." />
+
+	<string
+		id="Belong_1022_diz"
+		value="Таинственные порождения адского пламени, способные крушить скалы и валить огромные деревья. Встреча с любым из их племени несет быструю смерть. Только Дети Железа смогли найти с ними общий язык." />
+
+	<string
+		id="Belong_1023_diz"
+		value="Коренные жители Оазии, которые пытаются восстановить то, что разрушила долгая война. Но почему-то им никак не удается завершить начатое…" />
+
+	<string
+		id="Belong_1024_diz"
+		value="Коренные жители Оазии." />
+
+	<string
+		id="Belong_1025_diz"
+		value="Люди, измученные постоянными нападениями неизвестного врага. Но почему-то им никак не удается победить..." />
+
+	<string
+		id="Belong_1026_diz"
+		value="Старики, так же известные как Хранители Памяти, покинули большие города и организовали свою небольшую коммуну." />
+
+	<string
+		id="Belong_1027_diz"
+		value="Военные" />
+
+	<string
+		id="Belong_1028_diz"
+		value="Охотники" />
+
+	<string
+		id="Belong_1029_diz"
+		value="Медведи" />
+
+	<string
+		id="Belong_1030_diz"
+		value="Ньери" />
+
+	<string
+		id="Belong_1040_diz"
+		value="Повстанцы" />
+
+	<string
+		id="Belong_1041_diz"
+		value="Аксель" />
+
+	<string
+		id="Belong_1042_diz"
+		value="Лиса" />
+
+	<string
+		id="Belong_1043_diz"
+		value="Город Зеон" />
+
+	<string
+		id="Belong_1044_diz"
+		value="Бродяги" />
+
+	<string
+		id="Belong_1045_diz"
+		value="Kita Ruto no Shonintachi" />
+
+	<string
+		id="Belong_1046_diz"
+		value="Hiro no Yoake" />
+
+	<string
+		id="Belong_1047_diz"
+		value="Kita Ruto no Shonintachi" />
+
+	<string
+		id="Belong_1048_diz"
+		value="Hiro no Yoake" />
+
+	<string
+		id="Belong_1049_diz"
+		value="Orakuru no Shimobe tachi" />
+
+	<string
+		id="Belong_1050_diz"
+		value="Скиталец Синкс. Не имеет постоянного место обитания. И вообще, странный тип." />
+
+	<string
+		id="Belong_1051_diz"
+		value="Союз фермеров" />
+
+	<string
+		id="Belong_1052_diz"
+		value="Просветители" />
+
+	<string
+		id="Belong_1053_diz"
+		value="Жители города Сель сохраняют нейтралитет и снабжают энергией обе враждующие стороны. Никто, кроме них, не может обслуживать электростанцию, поэтому они до сих пор не подвергаются нападениям." />
+
+	<string
+		id="Belong_1054_diz"
+		value="Союз Независимых Городов" />
+
+	<string
+		id="Belong_1060_diz"
+		value="Жители города Казиф. Контролируют практически всю нефть региона." />
+
+	<string
+		id="Belong_1061_diz"
+		value="Исследователи инопланетной техники" />
+
+	<string
+		id="Belong_1062_diz"
+		value="Эти люди ведут себя не совсем адекватно." />
+
+	<string
+		id="Belong_1063_diz"
+		value="Им надоел разбой, только уединение в джунглях помогает их душам." />
+
+	<string
+		id="Belong_1064_diz"
+		value="Не всем религия железа по душе." />
+
+	<string
+		id="Belong_1065_diz"
+		value="Банда, с которой торгуют Северные торговцы. Предположительно находятся в союзе с рыбаками" />
+
+	<string
+		id="Belong_1066_diz"
+		value="Неизвестно, что удается им выловить в мертвых холодных водах, но живут эти люди безбедно. Иногда торгуют с чужаками, но чаще просто атакуют иноземцев без предупреждения." />
+
+	<string
+		id="Belong_1067_diz"
+		value="Группа археологов, исследующая древние руины между городом Порто и деревней Олимпийская." />
+
+	<string
+		id="Belong_1068_diz"
+		value="Верховный Друид" />
+
+	<string
+		id="Belong_1080_diz"
+		value="Заправка" />
+
+	<string
+		id="Belong_1081"
+		value="Бандит" />
+
+	<string
+		id="Belong_1081_abb"
+		value="Бандит" />
+
+	<string
+		id="Belong_1081_diz"
+		value="Бандит" />
+</resource>
