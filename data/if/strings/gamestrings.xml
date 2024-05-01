@@ -262,527 +262,527 @@
 <!-- Характеристики машины/кабины/кузова/оружия/гаджетов -->
 	<string
 		id="Power"
-		value="Мощность" />
+		value="Pawaa" />
 
 	<string
 		id="EnginePower"
-		value="Мощность двигателя" />
+		value="Mootaa shutsuryoku" />
 
 	<string
 		id="Torque"
-		value="Крутящий момент" />
+		value="Toruku" />
 
 	<string
 		id="Durability"
-		value="Прочность" />
+		value="Tsuyo sa" />
 
 	<string
 		id="Speed"
-		value="Скорость" />
+		value="Supiido" />
 
 	<string
 		id="MaxSpeed"
-		value="Максимальная скорость" />
+		value="Saikoo sokudo" />
 
 	<string
 		id="Weight"
-		value="Масса" />
+		value="Juuryoo" />
 
 	<string
 		id="Damage"
-		value="Повреждение" />
+		value="Dameeji" />
 
 	<string
 		id="FiringRate"
-		value="Скорость стрельбы" />
+		value="Hassha sokudo" />
 
 	<string
 		id="FiringRange"
-		value="Дальность поражения" />
+		value="koogeki hani" />
 
 	<string
 		id="Armor"
-		value="Броня" />
+		value="Aamaa" />
 
-		<string
+	<string
 		id="ArmorTip"
-		value="Общая броня кузова и кабины" />
+		value="Ippan tekina bodi to kyabu no sookoo" />
 
 	<string
 		id="MaxArmor"
-		value="Максимальная броня" />
+		value="Saidai aamaa" />
 
 	<string
 		id="Solidity"
-		value="Прочность" />
+		value="Tsuyo sa" />
 
 	<string
 		id="Resistance"
-		value="Сопротивление" />
+		value="Teikoo" />
 
 	<string
 		id="ShellPool"
-		value="Боезапас" />
+		value="Danyaku" />
 
 	<string
 		id="ChargeSize"
-		value="Количество зарядов в обойме" />
+		value="Kurippu no chaajisuu" />
 
 	<string
 		id="RechargingTime"
-		value="Время перезарядки" />
+		value="Juuden jikan" />
 
 	<string
 		id="BasketCapacity"
-		value="Объём кузова" />
+		value="Taiseki" />
 
 	<string
 		id="GADGET_COMMON"
-		value="улучшение автомобиля" />
+		value="sharyoo kairyoo" />
 
 	<string
 		id="GADGET_WEAPON"
-		value="улучшение оружия" />
+		value="buki kairyoo" />
 
 	<string
 		id="GADGET_ENGINE"
-		value="улучшение двигателя" />
+		value="enjin kairyoo" />
 
 	<string
 		id="GadgetType"
-		value="Тип устройства" />
+		value="Soochi no shurui" />
 
 	<string
 		id="Piercing"
-		value="пули" />
+		value="dangan" />
 
 	<string
 		id="Blast"
-		value="взрыв" />
+		value="bakuhatsu" />
 
 	<string
 		id="Energy"
-		value="энергия" />
+		value="enerugii" />
 
 	<string
 		id="ResistDamage"
-		value="Сопротивление урону" />
+		value="Dameeji taisei" />
 
 	<string
 		id="PiercingCap"
-		value="Пули" />
+		value="Dangan" />
 
 	<string
 		id="BlastCap"
-		value="Взрыв" />
+		value="Bakuhatsu" />
 
 	<string
 		id="EnergyCap"
-		value="Энергия" />
+		value="Enerugii" />
 
 	<string
 		id="Fuel"
-		value="Горючее" />
+		value="Nenryoo" />
 
 	<string
 		id="Construction"
-		value="Конструкция" />
+		value="Dezain" />
 
 	<string
 		id="MaxConstruction"
-		value="Максимальная конструкция" />
+		value="Saidai sekkei" />
 
 	<string
 		id="PiercingResistance"
-		value="Сопротивление проникающим повреждениям" />
+		value="Kantsuu dameeji e no taisei" />
 
 	<string
 		id="BlastResistance"
-		value="Сопротивление взрывным повреждениям" />
+		value="Bakuhatsubutsu nitaisuru taisei" />
 
 	<string
 		id="EnergyResistance"
-		value="Сопротивление энергетическим повреждениям" />
+		value="Enerugii dameeji e no taisei" />
 
 	<string
 		id="VehicleControl"
-		value="Управляемость" />
+		value="Kanrisei" />
 
 	<string
 		id="FuelTankCapacity"
-		value="Объём бензобака" />
+		value="Gasorin tanku yooryoo" />
 
 	<string
 		id="Accuracy"
-		value="Точность" />
+		value="Seido" />
 
 	<string
 		id="CabinDurability"
-		value="Броня кабины" />
+		value="Kyabu aamaa" />
 
 	<string
 		id="BasketDurability"
-		value="Броня кузова" />
+		value="Bodiaamaa" />
 
 	<string
 		id="GunType"
-		value="Тип оружия" />
+		value="Buki no shurui" />
 
 	<string
 		id="MachineGun"
-		value="Пулемёт" />
+		value="Mashin gan" />
 
 	<string
 		id="Cannon"
-		value="Пушка" />
+		value="Kyanon" />
 
 	<string
 		id="ShotGun"
-		value="Дробовик" />
+		value="Shotto gan" />
 
 	<string
 		id="Laser"
-		value="Лазерная установка" />
+		value="Reezaa no secchi" />
 
 	<string
 		id="Plasma"
-		value="Плазменная пушка" />
+		value="Purazuma gan" />
 
 	<string
 		id="Rocket"
-		value="Ракетная установка" />
+		value="Rokettoranchaa" />
 
 	<string
 		id="Artillery"
-		value="Миномёт" />
+		value="Morutaru" />
 
 	<string
 		id="Thunderbolt"
-		value="Молниемёт" />
+		value="Raitoningu gan" />
 
 	<string
 		id="Mine"
-		value="Миноукладчик" />
+		value="Peebaa" />
 
 	<string
 		id="Nail"
-		value="Гвозди" />
+		value="Neiru" />
 
 	<string
 		id="Turbo"
-		value="Турбо-ускоритель" />
+		value="Taabo akuseru" />
 
 	<string
 		id="Oil"
-		value="Масло" />
+		value="Oiru" />
 
 	<string
 		id="Type_Smoke"
-		value="Дымовая завеса" />
+		value="Sumookusukuriin" />
 <!-- Энциклопедия -->
 	<string
 		id="Weapon"
-		value="Оружие" />
+		value="Buki" />
 
 	<string
 		id="Gadgets"
-		value="Устройства" />
+		value="Debaisu" />
 
 	<string
 		id="Vehicles"
-		value="Автомобили" />
+		value="Jidosha" />
 
 	<string
 		id="VehicleParts"
-		value="Детали автомобилей" />
+		value="jidoosha buhin" />
 
 	<string
 		id="Affixes"
-		value="Модификаторы" />
+		value="Shuushokugo" />
 
 	<string
 		id="Clans"
-		value="Группировки" />
+		value="Guruupu wake" />
 <!-- Окно ремонта -->
 	<string
 		id="Cabin"
-		value="Кабина" />
+		value="Kokkupitto" />
 
 	<string
 		id="Basket"
-		value="Кузов" />
+		value="Bodi waaku" />
 <!-- Мастерская (гараж) -->
 	<string
 		id="Repairing"
-		value="Починка" />
+		value="Pochinka" />
 
 	<string
 		id="Refuelling"
-		value="Заправка" />
+		value="Nenryoo hokyuu" />
 
 	<string
 		id="Recharging"
-		value="Перезарядка оружия" />
+		value="Buki no riroodo" />
 
 	<string
 		id="BuySkin"
-		value="Перекрасить" />
+		value="Sai chakushoku" />
 
 	<string
 		id="NextSkin"
-		value="Следующая расцветка" />
+		value="Tsugi no iro" />
 
 	<string
 		id="PrevSkin"
-		value="Предыдущая расцветка" />
+		value="Mae no iro" />
 
 	<string
 		id="SkinAlreadySet"
-		value="Эта расцветка уже является текущей" />
+		value="Kono karaa ringu wa sudeni genzai no monodearu." />
 
 	<string
 		id="Skinning"
-		value="Покраска машины" />
+		value="Jidoosha tosoo" />
 
 	<string
 		id="BuyCabin"
-		value="Купить кабину" />
+		value="Kyabin o koonyuu suru" />
 
 	<string
 		id="BuyBasket"
-		value="Купить кузов" />
+		value="Bodi o kau" />
 
 	<string
 		id="BuyVehicle"
-		value="Купить машину" />
+		value="Kuruma o kau" />
 
 	<string
 		id="RefuelMax"
-		value="Заправить по максимуму" />
+		value="Saidaigen no juten" />
 
 	<string
 		id="RepairMax"
-		value="Починить по максимуму" />
+		value="Saidaigen no juuten" />
 
 	<string
 		id="RechargeMax"
-		value="Зарядить оружие по максимуму" />
+		value="Buki o saidai yooryoo made sooten suru" />
 
 	<string
 		id="NextVehicle"
-		value="Следующая машина" />
+		value="Tsugi no kuruma" />
 
 	<string
 		id="PrevVehicle"
-		value="Предыдущая машина" />
+		value="Mae no mashin" />
 
 	<string
 		id="NumUnitsToBuy"
-		value="Количество для покупки" />
+		value="Koonyuu suuryoo" />
 
 	<string
 		id="Refuel"
-		value="Заправить" />
+		value="Nenryoo hokyuu" />
 
 	<string
 		id="Repair"
-		value="Починить" />
+		value="Shuusei suru" />
 
 	<string
 		id="Recharge"
-		value="Перезарядить" />
+		value="Riroodo" />
 
 	<string
 		id="ToAdvancedMode"
-		value="К расширенному режиму" />
+		value="Adobansu moodo e" />
 
 	<string
 		id="ToSimpleMode"
-		value="К простому режиму" />
+		value="Shinpurumoodo e" />
 
 	<string
 		id="More"
-		value="Больше" />
+		value="Motto miru" />
 
 	<string
 		id="Less"
-		value="Меньше" />
+		value="Yori sukunai" />
 
 	<string
 		id="OneUnitPrice"
-		value="Цена за единицу" />
+		value="Tanka" />
 
 	<string
 		id="NumUnitsToBuy"
-		value="Количество для покупки" />
+		value="Koonyuu suuryoo" />
 
 	<string
 		id="SummaryPrice"
-		value="Общая стоимость" />
+		value="Soo hiyoo" />
 
 	<string
 		id="RepairNotNeed"
-		value="Починка не требуется" />
+		value="Shuuri fuyoo" />
 
 	<string
 		id="RepairUnavailable"
-		value="Не хватает денег на починку" />
+		value="Shuurihi ga tarinai" />
 
 	<string
 		id="RepairPartial"
-		value="Частичная починка" />
+		value="Bubun shuuri" />
 
 	<string
 		id="RepairFull"
-		value="Полная починка" />
+		value="Kanzen shuuri" />
 
 	<string
 		id="RefuelNotNeed"
-		value="Заправка не требуется" />
+		value="Kyuuyu fuyoo" />
 
 	<string
 		id="RefuelUnavailable"
-		value="Не хватает денег на заправку" />
+		value="Gasorinsutando ni juubunna shikin ga nai" />
 
 	<string
 		id="RefuelPartial"
-		value="Частичная заправка" />
+		value="Bubun kyuuyu" />
 
 	<string
 		id="RefuelFull"
-		value="Полная заправка" />
+		value="Furu kyuuyu" />
 
 	<string
 		id="RechargeNotNeed"
-		value="Зарядка не требуется" />
+		value="Juuden fuyoo" />
 
 	<string
 		id="RechargeUnavailable"
-		value="Не хватает денег на зарядку" />
+		value="Juudenkidai ga tarinai" />
 
 	<string
 		id="RechargePartial"
-		value="Частичная зарядка" />
+		value="Bubun juuden" />
 
 	<string
 		id="RechargeFull"
-		value="Полная зарядка" />
+		value="Furu juden" />
 
 	<string
 		id="State"
-		value="Статус" />
+		value="Suteetasu" />
 
 	<string
 		id="LeftItemsInCabin"
-		value="В кабине остались установленные приспособления и/или оружие.|Они будут проданы вместе с кабиной.|Продолжить?" />
+		value="Soochaku shita gia ya buki wa kokkupitto ni nokoru.|Kyabin to issho ni hanbai sareru.|Tsuzukeyoo ka?" />
 
 	<string
 		id="LeftItemsInBasket"
-		value="В кузове остались установленные приспособления и/или оружие.|Они будут проданы вместе с кузовом.|Продолжить?" />
+		value="Soochaku sareta s?chi ya buki wa shatai ni nokosareta.|Bodi waaku totomoni hanbai sareru.|Tsuzukeyoo ka?" />
 
 	<string
 		id="LeftItemsInVehicle"
-		value="В машине остались установленные приспособления и/или оружие.|Они будут проданы вместе с машиной.|Продолжить?" />
+		value="Shanai ni wa s?chi ya buki ga nokosareteita.|Shanai ni wa soochi ya buki ga nokosareteita.|Tsuzukeyoo ka?" />
 
 	<string
 		id="BuyItemsCost"
-		value="Стоимость покупаемых предметов" />
+		value="Koonyuu hinmoku no hiyoo" />
 
 	<string
 		id="SellItemsCost"
-		value="Стоимость продаваемых предметов" />
+		value="Hanbai shoohin no genka" />
 
 	<string
 		id="Sum:"
-		value="Итого:" />
+		value="Gookei:" />
 
 	<string
 		id="Select"
-		value="Выбрать" />
+		value="Sentaku" />
 
 	<string
 		id="EnterVehicleTrade"
-		value="Войти в режим покупки машины" />
+		value="Mashin koonyuu moodo ni hairu" />
 
 	<string
 		id="VehiclePrice"
-		value="Цена машины" />
+		value="Kikai kakaku" />
 
 	<string
 		id="ReturnToWorkshop"
-		value="Вернуться в главное окно мастерской" />
+		value="Waakushoppu no mein windoo ni modoru" />
 <!-- Магазин -->
 	<string
 		id="GunsAndGadgets"
-		value="Оружие и устройства улучшения" />
+		value="Buki to kyooka soochi" />
 
 	<string
 		id="ShowAllWares"
-		value="Показать все товары" />
+		value="Subete no seihin o hyooji" />
 
 	<string
 		id="ShowTownSelledWares"
-		value="Показать товары, продаваемые городом" />
+		value="Shi niyotte hanbai sareta aitemu o hyooji suru" />
 
 	<string
 		id="NoWare"
-		value="Товара нет в наличии" />
+		value="Zaikogire" />
 <!-- Комбо-бокс выбора карт -->
 	<string
 		id="All"
-		value="Все" />
+		value="Subete" />
 <!-- Карта -->
 	<string
 		id="NavPoint"
-		value="Ориентир" />
+		value="Rando maaku" />
 
 	<string
 		id="ToGlobalMap"
-		value="Перейти к карте мира" />
+		value="Sekai chizu e" />
 
 	<string
 		id="ToLocalMap"
-		value="Перейти к карте местности" />
+		value="Rokeeshon mappu e" />
 
 	<string
 		id="MapUnavailable"
-		value="Подробная карта местности пока недоступна." />
+		value="Kono chiiki no shoosaina chizu wa mada nyuushu dekinai." />
 
 	<string
 		id="TradeMode"
-		value="Показать список цен" />
+		value="Kakaku risuto o hyooji" />
 
 	<string
 		id="InfoMode"
-		value="Показать описание" />
+		value="Setsumei o hyooji" />
 
 	<string
 		id="SavePrices"
-		value="Добавить город в список для сохранения цен" />
+		value="Toshi o risuto ni tsuika shite kakaku o setsuyaku" />
 
 	<string
 		id="RemovePrices"
-		value="Удалить город из списка для сохранения цен" />
+		value="Kakaku o setsuyaku suru tame ni risuto kara toshi o sakujo suru" />
 
 	<string
 		id="ShowObjectNames"
-		value="Показать названия объектов" />
+		value="Obujekutomei no hyooji" />
 
 	<string
 		id="HideObjectNames"
-		value="Скрыть названия объектов" />
+		value="Obujekutomei o kakusu" />
 
 	<string
 		id="Description"
-		value="Описание" />
+		value="Setsumei" />
 
 	<string
 		id="Ruined"
-		value="@ff904040Разрушено" />
+		value="@ff904040Hakai sareta" />
 <!-- Список оружия -->
 	<string
 		id="KeySet"
-		value="Сочетание клавиш" />
+		value="Kii no kumiawase" />
 <!-- Журнал -->
 	<string
 		id="History"
@@ -826,87 +826,87 @@
 
 	<string
 		id="PeaceAvailable"
-		value="Возможно улучшить отношения с группировкой,|если переговорить с ее представителями|в одном из городов" />
+		value="Izure ka no toshi ni iru habatsu no daihyoo to hanasu kotode,|habatsu to no kankei o kaizen suru koto ga dekiru." />
 <!-- Квестлог -->
 	<string
 		id="ShowAllQuests"
-		value="Показать все задания" />
+		value="Subete no kyuujin o hyooji suru" />
 
 	<string
 		id="ShowNoncompletedQuests"
-		value="Показать только невыполненные задания" />
+		value="Mi kanryoo no tasuku nomi o hyooji suru" />
 
 	<string
 		id="ShowQuestItems"
-		value="Показать специальные предметы" />
+		value="Supesharu aitemu o hyooji" />
 
 	<string
 		id="ShowQuests"
-		value="Показать задания" />
+		value="Wariate o hyooji" />
 
 	<string
 		id="Quests"
-		value="Задания" />
+		value="Tasuku" />
 <!-- Инвентарь -->
 	<string
 		id="PickUpAll"
-		value="Подобрать всё" />
+		value="Subete sentaku" />
 <!-- Общий интерфейс с закладками -->
 	<string
 		id="TabBtn_Questlog"
-		value="Задания" />
+		value="Tasuku" />
 
 	<string
 		id="TabBtn_Map"
-		value="Карта" />
+		value="Chizu" />
 
 	<string
 		id="TabBtn_Journal"
-		value="Журнал" />
+		value="Jaanaru" />
 
 	<string
 		id="TabBtn_Inventory"
-		value="Содержимое кузова" />
+		value="Bodi kontentsu" />
 
 	<string
 		id="TabBtn_Characteristic"
-		value="Информация о машине" />
+		value="Mashin joohoo" />
 <!-- Окно помощи -->
 	<string
 		id="DontShowAutoHelp"
-		value="Не показывать автоматические подсказки" />
+		value="Jidoo puronputo o hyooji shinai" />
 
 	<string
 		id="Radar"
-		value="Радар" />
+		value="Reedaa" />
 
 	<string
 		id="Speedometer"
-		value="Спидометр" />
+		value="Supiido meetaa" />
 
 	<string
 		id="Timer"
-		value="Таймер" />
+		value="Taimaa" />
 
 	<string
 		id="FadingMessages"
-		value="Сообщения" />
+		value="Messeeji" />
 
 	<string
 		id="ImportantFadingMessages"
-		value="Важные сообщения" />
+		value="Juuyoona messeeji" />
 
 	<string
 		id="TargetInfo"
-		value="Информация о цели" />
+		value="Taagetto joohoo" />
 
 	<string
 		id="TargetCapture"
-		value="Захват цели" />
+		value="Taagetto kakutoku" />
 
 	<string
 		id="ActionIcons"
-		value="Действия" />
+		value="Koodoo" />
 <!-- Окно бара -->
 	<string
 		id="TalkWithNpc"

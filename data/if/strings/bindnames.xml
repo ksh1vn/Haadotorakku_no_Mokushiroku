@@ -138,7 +138,7 @@
 
 	<string
 		id="IM_UI_INVENTORY"
-		value="Sochi/Mise" />
+		value="Soochi/Mise" />
 
 	<string
 		id="IM_UI_MENUBOOK"
@@ -170,7 +170,7 @@
 
 	<string
 		id="IM_UI_VEHICLE_INFO"
-		value="Sharyo joho/Wakushoppu" />
+		value="Sharyo joho/Waakushoppu" />
 
 	<string
 		id="IM_QUICK_SAVE"
