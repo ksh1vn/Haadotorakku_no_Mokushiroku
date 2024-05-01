@@ -58,7 +58,7 @@
 
 	<string
 		id="Belong_1008"
-		value="Famazu Yunion" />
+		value="Faamaazu Yunion" />
 
 	<string
 		id="Belong_1008_abb"
@@ -122,7 +122,7 @@
 
 	<string
 		id="Belong_1016"
-		value="Dokuritsu Toshi Rengo" />
+		value="Dokuritsu Toshi Rengoo" />
 
 	<string
 		id="Belong_1016_abb"
@@ -330,7 +330,7 @@
 
 	<string
 		id="Belong_1051"
-		value="Famazu Yunion" />
+		value="Faamaazu Yunion" />
 
 	<string
 		id="Belong_1051_abb"
@@ -354,7 +354,7 @@
 
 	<string
 		id="Belong_1054"
-		value="Dokuritsu Toshi Rengo" />
+		value="Dokuritsu Toshi Rengoo" />
 
 	<string
 		id="Belong_1054_abb"
@@ -498,7 +498,7 @@
 
 	<string
 		id="Belong_1014_diz"
-		value="Неизвестно, что удается им выловить в мертвых холодных водах, но живут эти люди безбедно. Иногда торгуют с чужаками, но чаще просто атакуют иноземцев без предупреждения." />
+		value="Gokkan no umi de nani ga ereru no ka wa fumeidaga, karera wa yutakana seikatsu o okutteiru. Bugaisha to kooeki suru koto mo aruga, keikoku nashi ni gaikokujin o osoo koto no hoo ga ooi." />
 
 	<string
 		id="Belong_1015_diz"
@@ -506,83 +506,83 @@
 
 	<string
 		id="Belong_1016_diz"
-		value="Нападение когда-то лояльных соседей сплотило людей Либриума, и, следуя заветам предков, они решили сражаться за свою независимость. В ведении войны чаще прибегают к шпионажу и саботажу, чем к грубой силе." />
+		value="Katsute wa chuusei o chikatteita rinjintachi no koogeki niyori, riburiamu no hitobito wa danketsu shi, sosen no kairitsu nishitagai, dokuritsu no tame ni tatakau koto o ketsui shita. Sensoo nioite wa , buryoku yori mo choohoo katsudoo ya hakai koosaku ni tayoru koto ga ooi." />
 
 	<string
 		id="Belong_1017_diz"
-		value="Эта таинственная организация имеет адептов по всему миру. Хотя активное содействие АР немного подпортило их репутацию искателей истины и порядка, влияние Церкви весьма велико." />
+		value="Kono nazomeita soshiki ni wa sekaijuu ni shinpoosha ga iru. AR no sekkyoku tekina enjo niyori, shinri to chitsujo no tanky?sha toshite no hyooban wa yaya ochitaga, kyookai no eikyooryoku wa ookii." />
 
 	<string
 		id="Belong_1018_diz"
-		value="Армия Босса" />
+		value="Bosu Gundan" />
 
 	<string
 		id="Belong_1019_diz"
-		value="Эти дети природы живут в мире с вселенной, выращивая невиданные деревья и совершая ритуалы у их корней, они превозносят жизнь во всех ее проявлениях. Не любят иноземцев, считая их испорченными людьми." />
+		value="Kono shizen no kodomotachi wa uchuu to heiwa ni kurashi, me ni mienai jumoku o sodate, sono ne de gishiki o okonau. Karera wa gaikokujin o kirai, daraku shita ningenda to kangaeteiru." />
 
 	<string
 		id="Belong_1020_diz"
-		value="Бывшие друиды, разочаровавшиеся в своей вере, начали поклоняться металлическим идолам, которые все чаще появляются в Священной роще. Они лояльны по отношению к пришельцам из-за моря и охотно торгуют с ними. Дети Железа рассчитывают сами когда-нибудь получить такие же прочные нержавеющие тела, как и идолы, которым они поклоняются." />
+		value="Katsute no doruido kyooto wa shinkoo ni genmetsu shi, kinzokusei no guuzoo o suuhai suru yoo ni natta. Karera wa umi no mukoo kara yattekita i hoshijin ni chuusei o chikai, susunde karera to kooeki o okonau. Tetsu no kodomotachi jishin mo, itsu no hi ka jibuntachi ga suuhai suru guuzoo to onaji kurai tsuyoi sutenresukoo no nikutai o te ni ireru koto o kitai shiteiru." />
 
 	<string
 		id="Belong_1021_diz"
-		value="Малочисленная секта, живущая около башни Оракула и почитающая его как бога." />
+		value="Orakuru no too no chikaku ni sumi, kare o kami toshite agameru chiisana shuuha." />
 
 	<string
 		id="Belong_1022_diz"
-		value="Таинственные порождения адского пламени, способные крушить скалы и валить огромные деревья. Встреча с любым из их племени несет быструю смерть. Только Дети Железа смогли найти с ними общий язык." />
+		value="Iwa o kudaki, kyoboku o taosu koto ga dekiru jigoku no honoo no shinpi tekina ikimono. Karera no ichizoku to sooguu sureba, tachimachi shi o maneku. Tetsu no kodomotachi dake ga karera to kyootsuu no kyoochi o miidasu koto ga dekiru." />
 
 	<string
 		id="Belong_1023_diz"
-		value="Коренные жители Оазии, которые пытаются восстановить то, что разрушила долгая война. Но почему-то им никак не удается завершить начатое…" />
+		value="Nagai sensoo de hakai sareta mono o saiken shiyoo to shiteiru oashia no genjuumintachi. Shikashi naze ka, karera wa jibuntachi ga hajimeta koto o owaraseru koto ga dekinai yooda..." />
 
 	<string
 		id="Belong_1024_diz"
-		value="Коренные жители Оазии." />
+		value="Oashia no genjuumin." />
 
 	<string
 		id="Belong_1025_diz"
-		value="Люди, измученные постоянными нападениями неизвестного врага. Но почему-то им никак не удается победить..." />
+		value="Michi no teki no taema nai koogeki ni kurushimerareru min. Shikashi, naze ka karera wa kesshite katsu koto ga dekinai..." />
 
 	<string
 		id="Belong_1026_diz"
-		value="Старики, так же известные как Хранители Памяти, покинули большие города и организовали свою небольшую коммуну." />
+		value="Memorii kiipaa to yobareru roojintachi wa daitoshi o hanare, chiisana komyuun o soshiki shita." />
 
 	<string
 		id="Belong_1027_diz"
-		value="Военные" />
+		value="Miritarii" />
 
 	<string
 		id="Belong_1028_diz"
-		value="Охотники" />
+		value="Hantaa" />
 
 	<string
 		id="Belong_1029_diz"
-		value="Медведи" />
+		value="Beaazu" />
 
 	<string
 		id="Belong_1030_diz"
-		value="Ньери" />
+		value="Nieri" />
 
 	<string
 		id="Belong_1040_diz"
-		value="Повстанцы" />
+		value="Hanrangun" />
 
 	<string
 		id="Belong_1041_diz"
-		value="Аксель" />
+		value="Akuseru" />
 
 	<string
 		id="Belong_1042_diz"
-		value="Лиса" />
+		value="Risa" />
 
 	<string
 		id="Belong_1043_diz"
-		value="Город Зеон" />
+		value="Jion Shi" />
 
 	<string
 		id="Belong_1044_diz"
-		value="Бродяги" />
+		value="Furoosha" />
 
 	<string
 		id="Belong_1045_diz"
@@ -606,73 +606,73 @@
 
 	<string
 		id="Belong_1050_diz"
-		value="Скиталец Синкс. Не имеет постоянного место обитания. И вообще, странный тип." />
+		value="Wan daraa shinku teijuu nashi. Kimyoona otoko." />
 
 	<string
 		id="Belong_1051_diz"
-		value="Союз фермеров" />
+		value="Faamaazu Yunion" />
 
 	<string
 		id="Belong_1052_diz"
-		value="Просветители" />
+		value="Keihatsushatachi" />
 
 	<string
 		id="Belong_1053_diz"
-		value="Жители города Сель сохраняют нейтралитет и снабжают энергией обе враждующие стороны. Никто, кроме них, не может обслуживать электростанцию, поэтому они до сих пор не подвергаются нападениям." />
+		value="Seru no machi no juumintachi wa chuuritsu o tamochi, ryoo jinei ni denryoku o kyookyu shiteiru. Karera igai ni wa hatsudensho o iji suru koto wa dekinainode, kore made koogeki sareta koto hanai." />
 
 	<string
 		id="Belong_1054_diz"
-		value="Союз Независимых Городов" />
+		value="Dokuritsu Toshi Rengooo" />
 
 	<string
 		id="Belong_1060_diz"
-		value="Жители города Казиф. Контролируют практически всю нефть региона." />
+		value="Kashifu shi no juumin. Kono chiiki no sekiyu o jisshitsu teki ni subete shihai shiteiru." />
 
 	<string
 		id="Belong_1061_diz"
-		value="Исследователи инопланетной техники" />
+		value="Eirian tekunorojii no kenkyuusha." />
 
 	<string
 		id="Belong_1062_diz"
-		value="Эти люди ведут себя не совсем адекватно." />
+		value="Kono hitotachi wa tekisetsuna furumai o shiteinai." />
 
 	<string
 		id="Belong_1063_diz"
-		value="Им надоел разбой, только уединение в джунглях помогает их душам." />
+		value="Ryakudatsu ni akiakishi, janguru de no kodoku dake ga karera no tamashii o sukuu." />
 
 	<string
 		id="Belong_1064_diz"
-		value="Не всем религия железа по душе." />
+		value="Dare mo ga tetsu no shuukyoo ni najimeru wakede hanai." />
 
 	<string
 		id="Belong_1065_diz"
-		value="Банда, с которой торгуют Северные торговцы. Предположительно находятся в союзе с рыбаками" />
+		value="Hoppoo booekishoo no torihiki aite. Ryooshi to te o musundeiru to omowareru." />
 
 	<string
 		id="Belong_1066_diz"
-		value="Неизвестно, что удается им выловить в мертвых холодных водах, но живут эти люди безбедно. Иногда торгуют с чужаками, но чаще просто атакуют иноземцев без предупреждения." />
+		value="Gokkan no umi de nani ga ereru no ka wa fumeidaga, karera wa yutakana seikatsu o okutteiru. Bugaisha to k?eki suru koto mo aruga, keikoku nashi ni gaikokujin o osoo koto no hoo ga ooi." />
 
 	<string
 		id="Belong_1067_diz"
-		value="Группа археологов, исследующая древние руины между городом Порто и деревней Олимпийская." />
+		value="Poruto shi to orinpia mura no ma ni aru kodai iseki o tansaku suru kooko gakusha chiimu." />
 
 	<string
 		id="Belong_1068_diz"
-		value="Верховный Друид" />
+		value="Supuriimu doruido." />
 
 	<string
 		id="Belong_1080_diz"
-		value="Заправка" />
+		value="Nenryoo hokyuu" />
 
 	<string
 		id="Belong_1081"
-		value="Бандит" />
+		value="Banditto" />
 
 	<string
 		id="Belong_1081_abb"
-		value="Бандит" />
+		value="Banditto" />
 
 	<string
 		id="Belong_1081_diz"
-		value="Бандит" />
+		value="Banditto" />
 </resource>
