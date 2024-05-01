@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="windows-1251" standalone="yes" ?><!-- edited with XML Spy v4.2 U (http://www.xmlspy.com) by Morgoth (Targem) -->
+<resource><!--Default buttons-->
+	<string
+		id="stat_Wares"
+		value="Yusoo kamotsu (ko)" />
+
+	<string
+		id="stat_RealTime"
+		value="Shiai jikan (toki : gijiroku)" />
+
+	<string
+		id="stat_GameTime"
+		value="Shiai jikan (hi)" />
+
+	<string
+		id="stat_PeoplesKilled"
+		value="Satsugai sareta juumin" />
+
+	<string
+		id="stat_PathElapsed"
+		value="Tabi shita michi (kiro)" />
+
+	<string
+		id="stat_GDP"
+		value="Kaseida okane" />
+
+	<string
+		id="stat_DeathCounter"
+		value="Senshu shiboosuu" />
+
+	<string
+		id="stat_VehiclesKilled"
+		value="Hakai sareta kuruma" />
+
+	<string
+		id="stat_ShellsEmitted"
+		value="Chaaji hassha" />
+
+	<string
+		id="stat_FavoriteGun"
+		value="Okiniiri no buki" />
+
+	<string
+		id="stat_HitRatio"
+		value="Dageki seido (%)" />
+</resource>
