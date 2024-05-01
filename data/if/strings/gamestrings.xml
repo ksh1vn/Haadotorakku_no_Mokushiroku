@@ -678,11 +678,11 @@
 
 	<string
 		id="LeftItemsInBasket"
-		value="Soochaku sareta s?chi ya buki wa shatai ni nokosareta.|Bodi waaku totomoni hanbai sareru.|Tsuzukeyoo ka?" />
+		value="Soochaku sareta soochi ya buki wa shatai ni nokosareta.|Bodi waaku totomoni hanbai sareru.|Tsuzukeyoo ka?" />
 
 	<string
 		id="LeftItemsInVehicle"
-		value="Shanai ni wa s?chi ya buki ga nokosareteita.|Shanai ni wa soochi ya buki ga nokosareteita.|Tsuzukeyoo ka?" />
+		value="Shanai ni wa soochi ya buki ga nokosareteita.|Shanai ni wa soochi ya buki ga nokosareteita.|Tsuzukeyoo ka?" />
 
 	<string
 		id="BuyItemsCost"
