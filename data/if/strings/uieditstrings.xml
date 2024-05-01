@@ -74,7 +74,7 @@
 
 	<string
 		id="quitGame"
-		value="Gemu o shuryo shimasu ka?" />
+		value="Geemu o shuryo shimasu ka?" />
 
 	<string
 		id="ChoseDifficultyLevel"
@@ -82,11 +82,11 @@
 <!-- Главное меню -->
 	<string
 		id="New Game"
-		value="Atarashi gemu" />
+		value="Atarashi geemu" />
 
 	<string
 		id="StartNetGame"
-		value="Atarashi gemu o hajimeru" />
+		value="Atarashi geemu o hajimeru" />
 
 	<string
 		id="Credits"
@@ -94,7 +94,7 @@
 
 	<string
 		id="Load Game"
-		value="Gemu o daunrodo suru" />
+		value="Geemu o daunrodo suru" />
 
 	<string
 		id="Options"
@@ -102,7 +102,7 @@
 
 	<string
 		id="Quit to Windows"
-		value="Gemu o shuryo suru" />
+		value="Geemu o shuryo suru" />
 
 	<string
 		id="Profile"
@@ -118,7 +118,7 @@
 
 	<string
 		id="OpenSavesList"
-		value="Hozon sa reta gemu no risuto o hiraku" />
+		value="Hozon sa reta geemu no risuto o hiraku" />
 
 	<string
 		id="ShowIntro"
@@ -126,7 +126,7 @@
 
 	<string
 		id="HandleGameOptions"
-		value="Gemu settei o chosei suru" />
+		value="Geemu settei o chosei suru" />
 
 	<string
 		id="ShowCredits"
@@ -138,15 +138,15 @@
 
 	<string
 		id="LoadGame"
-		value="Hozon shita gemu o rodo suru" />
+		value="Hozon shita geemu o rodo suru" />
 
 	<string
 		id="SavedGameLoading"
-		value="Hozon shita gemu o rodo suru" />
+		value="Hozon shita geemu o rodo suru" />
 <!-- Профиль -->
 	<string
 		id="DeleteProfileWarning"
-		value="Hozon sa rete iru gemu wa subete sakujo sa remasu.|Tsudzuku?" />
+		value="Hozon sa rete iru geemu wa subete sakujo sa remasu.|Tsudzuku?" />
 
 	<string
 		id="DefaultProfileName"
@@ -282,7 +282,7 @@
 
 	<string
 		id="Game"
-		value="Gemu" />
+		value="Geemu" />
 
 	<string
 		id="Video settings"
@@ -346,7 +346,7 @@
 
 	<string
 		id="Game settings"
-		value="Gemu no settei" />
+		value="Geemu no settei" />
 
 	<string
 		id="DialogPause"

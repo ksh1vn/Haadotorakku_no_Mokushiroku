@@ -110,11 +110,11 @@
 
 	<string
 		id="GameWasSaved"
-		value="Gemu ga hozon sa remashita: @ffffd86e%1s" />
+		value="Geemu ga hozon sa remashita: @ffffd86e%1s" />
 
 	<string
 		id="GameWasLoaded"
-		value="Gemu ga rodo sa remashita: @ffffd86e%1s" />
+		value="Geemu ga rodo sa remashita: @ffffd86e%1s" />
 
 	<string
 		id="GameSaving"
@@ -126,7 +126,7 @@
 
 	<string
 		id="SaveGame"
-		value="Gemu o hozon suru" />
+		value="Geemu o hozon suru" />
 
 	<string
 		id="AddNavPoint"
@@ -210,7 +210,7 @@
 <!-- Игровое меню -->
 	<string
 		id="ExitCurGame"
-		value="Genzai no gemu o shuryo shimasu ka?|Chui: Hozon sa rete inai deta wa subete ushinawa remasu." />
+		value="Genzai no geemu o shuryo shimasu ka?|Chui: Hozon sa rete inai deta wa subete ushinawa remasu." />
 
 	<string
 		id="Quit to Main Menu"
@@ -222,23 +222,23 @@
 
 	<string
 		id="ResumeGame"
-		value="Gemu ni modoru" />
+		value="Geemu ni modoru" />
 
 	<string
 		id="GameOver"
-		value="Gemuoba" />
+		value="Geemuoba" />
 
 	<string
 		id="Load Last Game"
-		value="Saishin no gemu o daunrodo" />
+		value="Saishin no geemu o daunrodo" />
 
 	<string
 		id="Start Game From Begin"
-		value="Gemu o yarinaosu" />
+		value="Geemu o yarinaosu" />
 
 	<string
 		id="quitGameWithSaveWarn"
-		value="Gemu o yameru?|Chui: Hozon sa rete inai deta wa subete ushinawa remasu." />
+		value="Geemu o yameru?|Chui: Hozon sa rete inai deta wa subete ushinawa remasu." />
 <!-- Окно сохранения -->
 	<string
 		id="SaveNameDemand"
@@ -250,15 +250,15 @@
 
 	<string
 		id="SaveGameDeleteWarning"
-		value="Sentaku shita gemu ga sakujo sa remasu. Tsudzuku?" />
+		value="Sentaku shita geemu ga sakujo sa remasu. Tsudzuku?" />
 
 	<string
 		id="SavingCurrentGame"
-		value="Genzai no gemu o hozon suru" />
+		value="Genzai no geemu o hozon suru" />
 
 	<string
 		id="DeleteGame"
-		value="Hozon shita gemu o sakujo suru" />
+		value="Hozon shita geemu o sakujo suru" />
 <!-- Характеристики машины/кабины/кузова/оружия/гаджетов -->
 	<string
 		id="Power"
