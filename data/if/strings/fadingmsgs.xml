@@ -118,7 +118,7 @@
 
 	<string
 		id="fm_all_chests_taken"
-		value="Груз взят на борт." />
+		value="Kamotsu wa sennai ni hakobikomareta." />
 
 	<string
 		id="fm_item_pickup"
@@ -142,7 +142,7 @@
 
 	<string
 		id="fm_save_is_not_allowed"
-		value="Сохранение сейчас не разрешено." />
+		value="Genzai, hozon wa kyoka sareteinai." />
 
 	<string
 		id="fm_player_add_money"
@@ -158,7 +158,7 @@
 
 	<string
 		id="fm_cheat_is_not_allowed"
-		value="@FF22FF22Использование читов @FF2222FFЗАПРЕЩЕНО@FFFFFFFF" />
+		value="@FF2222FFChiito no shiyoo wa kinjirareteiru!@FFFFFFFF" />
 
 	<string
 		id="fm_cheat_is_allowed"
