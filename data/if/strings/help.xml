@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="windows-1251" standalone="yes" ?>
+<resource>
+	<string
+		id="HELP_ID_INVENTORY_title"
+		value="Setsubi" />
+
+	<string
+		id="HELP_ID_INVENTORY"
+		value="Windoo no hidari hanbun ni wa, torakku no shatai no nakami, soochaku sareteiru buki, kakushu kyooka soochi to sono surotto ga hyooji sareteiru. Migigawa wa 'rando' windoo de, chikaku no kibako ni aru aitemu, akutibuna aitemu no rittai gazoo (kaasoru o awaseru) , soshite 'pikku ooru' botan ga hyooji sareru. Buki no aiko n wa, shatai ya kibako kara buki no surotto ni doraggu ando doroppu dekimasu. Surotto kara buki o, kaagowindoo kara aitemu o rando windoo ni okuto, geemu mein gamen no pureiyaa no kuruma no chikaku ni, pureiyaa ga rando windoo ni idoo saseta aitemu ga haitteiru kibako ga hyooji saremasu." />
+
+	<string
+		id="HELP_ID_VEHICLE_CHARACTERISTICS_title"
+		value="Kikai tokusei" />
+
+	<string
+		id="HELP_ID_VEHICLE_CHARACTERISTICS"
+		value="Windoo no migi hanbun ni wa , pureiyaa no sharyoo no shoosaina tokusei , buki o soobi shita pureiyaa no sharyoo no 3D gazoo, unten seki, shatai no tokusei ga hyooji saremasu. Gazoo no shita ni aru botan wa, hyooji sareru joohoo o kirikaemasu? sharyoo nitsuite, shatai to unten seki nitsuite, buki nitsuite. Kono windoo de wa, buki guruupu o sai wariate suru koto ga dekimasu. Windoo no hidari hanbun ni wa, torakku bodi no naiyoo, soobi sareteiru buki to sono surotto, kakushu kyooka debaisu ga hyooji saremasu. Sono tame, torakku ni atarashii debaisu o toritsuke, sono tokusei ga dono yoo ni henka suru ka o kakunin suru koto ga dekimasu." />
+
+	<string
+		id="HELP_ID_QUESTLOG_QUESTS_title"
+		value="Tasuku risuto" />
+
+	<string
+		id="HELP_ID_QUESTLOG_QUESTS"
+		value="Kono menyuu de wa, anata ga okonau koto ni dooi shita, mataha sudeni itta subete no tasuku o mitsukeru koto ga dekimasu. Tasuku wa sukurooru o tsukatte, kaishi chiten mataha shuuryoo chiten ga aru mappu de firuta ringu dekimasu. Mata, subete no tasuku o hyooji suru ka, akutibuna tasuku dake o hyooji suru ka o kirikaeru koto mo dekimasu. Kaku tasuku ni wa, sore o kanryoo suru tame ni hitsuyoona akushon o setsumei suru setsumei ga arimasu. Setsumei no yoko ni wa botan ga ari, sore o osuto mappu ya reedaa joo ni shigoto no rando maaku ga hyooji saremasu. Tasuku ni wa, sore o seikoo saseru tame ni kanryoo shinakerebanaranai ikutsu ka no koomoku ga aru baai ga aru. Korera no koomoku wa tasuku no setsumei no shita ni ari, sorezore mappu joo no basho o shimesu koto ga dekiru. Tokubetsuna koomoku no risuto o hiraku botan mo aru." />
+
+	<string
+		id="HELP_ID_QUESTLOG_QUEST_ITEMS_title"
+		value="Tokubetsu kamoku" />
+
+	<string
+		id="HELP_ID_QUESTLOG_QUEST_ITEMS"
+		value="Supesharu aitemu botan o kurikku suruto, tasuku o kanryoo suru tame ni hitsuyoona aitemu no risuto to sono setsumei, 3D gazoo ga hyooji saremasu." />
+
+	<string
+		id="HELP_ID_LOCAL_MAP_title"
+		value="Genchi chizu" />
+
+	<string
+		id="HELP_ID_LOCAL_MAP"
+		value="Chizu wa, chikei joo no hookoo o kakunin suru tame no juuyoona tsuurudesu. Chizu ni wa, toshi, chizu kara no deguchi, tokubetsu ni chuui subeki basho nado, subete no juuyoona obujekuto ga hyooji saremasu. Chizu ni wa tsu no moodo ga arimasu. Windoo no migi joo ni aru taioo suru kii o osu koto de kirikaeru koto ga dekimasu. Joohoo moodo de wa, mausu no hidari botan de chizu joo no obujekuto o kurikku suruto, sono tekisuto no setsumei o miru koto ga dekimasu. Booeki moodo de shuuraku o sentaku suruto, sono shuuraku o saigo ni hoomon shita toki no subete no shoohin no kakaku o miru koto ga dekimasu. Kakaku no risuto wa, kongo no sankoo no tame ni kioku shiteoku koto ga dekimasu (tatoeba, betsu no mappu no kakaku o sugu ni miru koto ga dekimasu)." />
+
+	<string
+		id="HELP_ID_GLOBAL_MAP_title"
+		value="Sekai chizu" />
+
+	<string
+		id="HELP_ID_GLOBAL_MAP"
+		value="Guroobaru mappu de wa, pureiyaa ga otozureta subete no chiiki to, sonokan no tsuushin keiro o miru koto ga deki, sudeni oopun shiteiru chiiki o kirikaeru koto mo dekiru." />
+
+	<string
+		id="HELP_ID_HISTORY_title"
+		value="Rekishi" />
+
+	<string
+		id="HELP_ID_HISTORY"
+		value="Hisutorii wa, pureeyaa ni okotta mottomo juuyoona dekigoto o subete kiroku shita monodearu." />
+
+	<string
+		id="HELP_ID_BOOKS_title"
+		value="Shoseki (Shiryoo)" />
+
+	<string
+		id="HELP_ID_BOOKS"
+		value="Shoseki ni wa, furui shinbun, zasshi, hon nado, samazamana joohoogen ga osamerareteiru." />
+
+	<string
+		id="HELP_ID_RELATIONS_title"
+		value="Guruupu wake" />
+
+	<string
+		id="HELP_ID_RELATIONS"
+		value="Kotonaru habatsu to ryookoona kankei o tamotsu koto wa, sekai de ikinokoru tame no juuyoona yoosodearu. Kono sekushon de wa, dare ga anata nitaishite atatakai kanjoo o daiteiru no ka, soshite dare ga anata no nodo ni kamitsukoo to shiteiru no ka o shiru koto ga dekiru." />
+
+	<string
+		id="HELP_ID_STATS_title"
+		value="Tookei" />
+
+	<string
+		id="HELP_ID_STATS"
+		value="Kono sekushon o mireba, senshu no idoo kyori, shottosuu, kakutoku shookin o itsu demo shiraberu koto ga dekiru." />
+
+	<string
+		id="HELP_ID_ENCYCLOPAEDIA_title"
+		value="Hyakka jiten" />
+
+	<string
+		id="HELP_ID_ENCYCLOPAEDIA"
+		value="Kyarakuta ga geemu chuu ni chikuseki shita chishiki wa subete koko ni okareru. Taikoosha ya buki, habatsu no setsumei nadoda." />
+
+	<string
+		id="HELP_ID_SHOP_GUNS_title"
+		value="Shoppu/buki koonyuu" />
+
+	<string
+		id="HELP_ID_SHOP_GUNS"
+		value="Koko de buki ya kyooka aitemu o koonyuu shi, sugu ni tekisetsuna surotto ya bodi ni haichi suru koto ga dekimasu. Koonyuu suru ni wa, aitemu no aiko n o shoppu windoo (gamen migigawa) kara bodi no windoo (gamen hidarigawa) ni doraggu suru ka, tekisetsuna surotto ni chokusetsu doraggu shimasu. Shoppu no aitemu o migi kurikku shite koonyuu suru koto mo dekimasu. Kono baai, aitemu wa torakku no nidai ni hyooji sare, hitsuyoona kingaku ga okane kara sashihikaremasu. Nani ka o uru ni wa, nidai no aiko n o torakku no bodi (gamen hidarigawa) kara shoppu windoo (gamen migigawa) ni doraggu shimasu. Mataha, aitemu o migi kurikku shite uru koto mo dekimasu. Koonyuu suru aitemu no kakaku to tokusei ga tsuuru chippu ni hyooji saremasu. Koonyuu shikin ga tarinai baai ya, torakku ni hitsuyoona surotto ga nai baai wa, aitemu no aiko n to tsuuru chippu ni hyooji saremasu." />
+
+	<string
+		id="HELP_ID_SHOP_GOODS_title"
+		value="Shoppu/shoohin no koonyuu" />
+
+	<string
+		id="HELP_ID_SHOP_GOODS"
+		value="Shoohin o koonyuu suru moodo o sentaku suruto, koonyuu kanoona subete no shoohin no risuto, koonyuu kakaku, hanbai kakaku, suuryoo ga hyooji saremasu. Kono toshi de hanbai sareteinai shoohin wa haiiro de hyooji saremasu. Tokubetsuna firutaa o yuukoo ni suruto, uri ni dasareteiru shoohin dake o hyooji suru koto ga dekimasu. Shoohin no kakaku wa, pureiyaa no koodoo niyotte dooteki ni henka shimasu. Aitemu o uruto, sono jiten de ichiji teki ni shijoo ga hoowa jootai ni narimasu. Kono shoohin wa shibaraku no ma kakaku ga sagari, sonogo kakaku ga agarihajimemasu. Kau toki wa, sono gyaku no jookyoo ga kansatsu sareru. Torihiki wa shoohingoto ni riarutaimu de okonawareru. Machi ni wa itteiryoo no shoohin ga aru. Sore wa jikan totomoni kaifuku suru. Tsuujoo, machi wa donna shoohin de mo koonyuu suruga, kakaku wa ookiku hendoo suru. Sono tame, kookana shinamono o kau mae ni kooeki ruuto o teisatsu suru koto wa ri ni kanatteiru. Kishoona shinamono o horidashimono toshite te ni ireru tame ni wa, aru chiiki kara betsu no chiiki e to idoo shinakerebanaranai koto mo aru. Shikashi, kinrin no ikutsu ka no shuurakunaideareba, kanari yuuekina torihiki ga dekiru koto mo ooi." />
+
+	<string
+		id="HELP_ID_WORKSHOP_title"
+		value="Мастерская" />
+
+	<string
+		id="HELP_ID_WORKSHOP"
+		value="Вы зашли в Мастерскую.|Здесь вы можете починить, заправить свою машину, улучшить броню. Так же вы можете поменять кузов или кабину.|Если у вас хватит денег, то вы можете приобрести себе автомобиль другого типа.|В левой половине этого окна расположена информация о Вашем грузовике, в правой – список услуг мастерской." />
+
+	<string
+		id="HELP_ID_WORKSHOP_CABINS_title"
+		value="Смена кабины" />
+
+	<string
+		id="HELP_ID_WORKSHOP_CABINS"
+		value="Для смены кабины достаточно нажать кнопку «смена кабины», затем выбрать нужную кабину из списка нажатием мыши. При этом изменения отобразятся на трёхмерном изображении грузовика и в его описании. Когда Вы уверены в выборе кабины, нажмите кнопку «купить» на ее иконке. Откроется окно подтверждения покупки." />
+
+	<string
+		id="HELP_ID_WORKSHOP_BASKETS_title"
+		value="Смена кузова" />
+
+	<string
+		id="HELP_ID_WORKSHOP_BASKETS"
+		value="Чтобы сменить кузов, достаточно нажать кнопку «смена кузова», затем выбрать нужный кузов из списка нажатием мыши. При этом изменения отобразятся на трёхмерном изображении грузовика и в его описании. Когда Вы уверены в выборе кузова, нажмите кнопку «купить» на его иконке. Откроется окно подтверждения покупки." />
+
+	<string
+		id="HELP_ID_WORKSHOP_VEHICLE_title"
+		value="Покупка новой машины" />
+
+	<string
+		id="HELP_ID_WORKSHOP_VEHICLE"
+		value="Чтобы купить новую машину, необходимо нажать кнопку «покупка машины». Откроется окно, где Вы сможете выбрать понравившуюся машину из числа доступных и настроить ее цвет. Когда Вы уверены в выборе, нажмите кнопку «Выбрать»." />
+
+	<string
+		id="HELP_ID_WORKSHOP_SKIN_title"
+		value="Перекраска" />
+
+	<string
+		id="HELP_ID_WORKSHOP_SKIN"
+		value="Выберите желаемую расцветку и нажмите кнопку, чтобы перекрасить автомобиль." />
+
+	<string
+		id="HELP_ID_WORKSHOP_REFUEL_title"
+		value="Заправка" />
+
+	<string
+		id="HELP_ID_WORKSHOP_REFUEL"
+		value="Нажмите кнопку «Полный бак», для заправки полного бака или насколько хватит денег.|Если вы хотите контролировать количество топлива, которое покупаете, нажмите кнопку «ручная заправка». При помощи ползунка установите необходимое количество и подтвердите покупку." />
+
+	<string
+		id="HELP_ID_WORKSHOP_REPAIR_title"
+		value="Починка" />
+
+	<string
+		id="HELP_ID_WORKSHOP_REPAIR"
+		value="Нажмите кнопку «Починить всё», для полной починки всех деталей машины или насколько хватит денег. Если вы хотите контролировать, какие именно части подвергнутся починке, нажмите кнопку «починить вручную». Вы увидите список всех деталей, которые можно починить и, сколько это будет стоить. При нажатии на название части совершится починка.|Если же вам нужно определить, в какой степени починится та или иная деталь, вы можете нажать кнопку тонкой настройки напротив её названия. При помощи ползунка установите необходимое качество починки и подтвердите покупку, нажав на название детали.|На всплывающих подсказках вы увидите подробную информацию о починке." />
+
+	<string
+		id="HELP_ID_WORKSHOP_RECHARGE_title"
+		value="Покупка боеприпасов" />
+
+	<string
+		id="HELP_ID_WORKSHOP_RECHARGE"
+		value="Перезаряжаются только те пушки, которые имеют ограниченный боезапас. Это относится в большей мере к крупным орудиям и ракетам.|Нажмите кнопку «Зарядить всё», для полной перезарядки всех пушек, установленных на машине или насколько хватит денег.|Если вы хотите контролировать, какие именно орудия будут перезаряжены, нажмите кнопку «ручная перезарядка». Вы увидите список всех пушек, которые можно зарядить и, сколько это будет стоить. При нажатии на название пушки совершится перезарядка.|Если же вам нужно определить, сколько именно зарядов приобрести для данной пуки, вы можете нажать кнопку тонкой настройки напротив её названия. При помощи ползунка установите необходимое качество зарядов и подтвердите покупку, нажав на название оружия.|На всплывающих подсказках вы увидите подробную информацию о перезарядке." />
+
+	<string
+		id="HELP_ID_BUY_CABIN_title"
+		value="Подтверждение покупки кабины" />
+
+	<string
+		id="HELP_ID_BUY_CABIN"
+		value="Вам будет предложено переместить содержимое всех слотов старой кабины (левая сторона) на слоты новой (правая сторона). Это можно сделать вручную или воспользовавшись кнопкой «переместить всё». Также в этом окне можно оценить количество слотов под оружие и прочие устройства на новой кабине и узнать окончательную цену сделки. Если вас что-то не устраивает, нажмите клавишу «отмена». Если же вы уверены в своей  покупке – жмите «купить»|При этом все предметы, оставшиеся в слотах левой половины экрана будут проданы вместе со старой кабиной." />
+
+	<string
+		id="HELP_ID_BUY_BASKET_title"
+		value="Подтверждение покупки кузова" />
+
+	<string
+		id="HELP_ID_BUY_BASKET"
+		value="Вам будет предложено переместить содержимое всех слотов старого кузова (левая сторона) на слоты нового (правая сторона). Это можно сделать вручную или воспользовавшись кнопкой «переместить всё». Также в этом окне можно оценить количество слотов под оружие и прочие устройства на новой кабине и узнать окончательную цену сделки. Если вас что-то не устраивает, нажмите клавишу «отмена». Если же вы уверены в своей  покупке – жмите «купить»|При этом все предметы, оставшиеся в слотах левой половины экрана будут проданы вместе со старым кузовом." />
+
+	<string
+		id="HELP_ID_BUY_VEHICLE_title"
+		value="Подтверждение покупки машины" />
+
+	<string
+		id="HELP_ID_BUY_VEHICLE"
+		value="Вам будет предложено переместить содержимое всех слотов старого грузовика (левая сторона) на слоты нового (правая сторона). Это можно сделать вручную или воспользовавшись кнопкой «переместить всё». Также в этом окне можно оценить количество слотов под оружие и прочие устройства на новой кабине и узнать окончательную цену сделки. Если вас что-то не устраивает, нажмите клавишу «отмена». Если же вы уверены в своей  покупке – жмите «купить»|При этом все предметы, оставшиеся в слотах левой половины экрана будут проданы вместе со старым грузовиком." />
+
+	<string
+		id="HELP_ID_TOWN_title"
+		value="Город" />
+
+	<string
+		id="HELP_ID_TOWN"
+		value="Города и деревни занимают важнейшее место в мире Ex Machina: это очаги торговли, науки и, самое главное, жизни. Тут игрок сможет починить и заправить свой грузовик, пополнить запасы вооружения и заработать денег торговлей. Не говоря уже об общении с местными жителями. |Нажав одну из кнопок в верхней правой части экрана, вы сможете попасть в Бар, Магазин или Мастерскую." />
+
+	<string
+		id="HELP_ID_BAR_title"
+		value="Бар" />
+
+	<string
+		id="HELP_ID_BAR"
+		value="Вам придётся часто заходить в бар, для получения и выполнения заданий.|В правой половине экрана находятся иконки всех, кто сейчас находится в баре. По крайней мере, один из них всегда готов дать вам несложное задание. Для начала разговора, щёлкните мышкой по изображению персонажа." />
+
+	<string
+		id="HELP_ID_TALK_WITH_NPC_title"
+		value="Разговор" />
+
+	<string
+		id="HELP_ID_TALK_WITH_NPC"
+		value="В этом окне Вы видите крупное изображение персонажа, с которым ведется беседа, его реплики и доступные Вам варианты ответа.| Для произнесения реплики выберите её при помощи мыши или соответствующей цифровой клавиши. Закрыть это окно можно только выбрав соответствующую реплику диалога." />
+
+	<string
+		id="HELP_ID_RADAR"
+		value="В левом верхнем углу экрана находится радар. На нём Вы сможете увидеть противников (в виде красных точек), машину игрока (в самом центре), куда направлена камера (сектор) и метки ориентиров. Расстояние до ориентиров показано цифрами справа от радара (цвет цифр соответствует цвету метки ориентира). " />
+
+	<string
+		id="HELP_ID_RADAR_title"
+		value="Радар" />
+
+	<string
+		id="HELP_ID_SPEEDOMETER"
+		value="Спидометр отражает текущую скорость грузовика в цифровом и аналоговом виде. При включении задней передачи цифры становятся красными." />
+
+	<string
+		id="HELP_ID_SPEEDOMETER_title"
+		value="Спидометр" />
+
+	<string
+		id="HELP_ID_HP"
+		value="Конструкция - это целостность Вашей машины.  Если не следить за ее уровнем, то персонаж может погибнуть. Когда конструкция находится на опасно низком уровне, загорается красная лампочка. Починиться можно в мастерских, которые находятся как в городах, так и просто разбросаны по миру." />
+
+	<string
+		id="HELP_ID_HP_title"
+		value="Конструкция" />
+
+	<string
+		id="HELP_ID_FUEL"
+		value="Следует следить за уровнем топлива, иначе можно оказаться в тяжелой ситуации. С пустым баком грузовик может передвигаться лишь очень с небольшой скоростью на резервных батареях. Когда горючее находится на опасно низком уровне, загорается красная лампочка. Заправиться можно в мастерских, которые находятся как в городах, так и просто разбросаны по миру." />
+
+	<string
+		id="HELP_ID_FUEL_title"
+		value="Горючее" />
+
+	<string
+		id="HELP_ID_DURABILITY"
+		value="В верхней части экрана расположено схематичное изображение кузова и кабины грузовика, изменением цвета сигнализирующее о состоянии брони этих частей (зеленый – идеальное состояние, красный – получены большие повреждения, серый - получены критические повреждения);" />
+
+	<string
+		id="HELP_ID_DURABILITY_title"
+		value="Броня" />
+
+	<string
+		id="HELP_ID_TIMER"
+		value="Таймер появляется, когда игроку дано задание, которое необходимо выполнить за ограниченное время" />
+
+	<string
+		id="HELP_ID_TIMER_title"
+		value="Таймер" />
+
+	<string
+		id="HELP_ID_WEAPON"
+		value="На иконке справа находятся изображение орудия, номер его группы, количество боеприпасов и заполнение обоймы. С каждым выстрелом зеленая полоска (количество патронов в обойме) уменьшается. Когда обойма пуста, автоматически начинается перезарядка, во время которой стрельба невозможна. Также можно перезарядиться в любой нужный момент (нажав клавишу «R»). На это время полоска меняет свой цвет и наполняется." />
+
+	<string
+		id="HELP_ID_WEAPON_title"
+		value="Оружие" />
+
+	<string
+		id="HELP_ID_FADING_MESSAGES"
+		value="Различные текстовые сообщения, реплики противников, отображаются в этой области." />
+
+	<string
+		id="HELP_ID_FADING_MESSAGES_title"
+		value="Сообщения" />
+
+	<string
+		id="HELP_ID_IMPORTANT_FADING_MESSAGES"
+		value="Важные сообщения, касающиеся получения и выполнения заданий, отображаются в этом месте." />
+
+	<string
+		id="HELP_ID_IMPORTANT_FADING_MESSAGES_title"
+		value="Важные сообщения" />
+
+	<string
+		id="HELP_ID_TARGET_INFO"
+		value="В центре экрана находится прицел. Над ним – название машины, находящейся под прицелом, и группировки, которой она  принадлежит. Цвет надписи соответствует отношению машины к игроку: красный – враждебное, зеленый – дружественное. Слева от прицела – индикатор, показывающий конструкцию противника, справа – показывающий его броню. Под прицелом – расстояние до врага." />
+
+	<string
+		id="HELP_ID_TARGET_INFO_title"
+		value="Информация о противнике" />
+
+	<string
+		id="HELP_ID_TARGET_CAPTURE"
+		value="Если на грузовике установлена хотя бы одна самонаводящаяся ракета, то при наведении на противника автоматически начнется его захват системой наведения. Когда красная окружность заполнится, ракета наведена. " />
+
+	<string
+		id="HELP_ID_TARGET_CAPTURE_title"
+		value="Захват цели" />
+
+	<string
+		id="HELP_ID_ACTION_ICONS"
+		value="Когда появляется иконка Груза, это означает, что можно подобрать предметы, лежащие в ящике, при помощи клавиши I. Когда появляется иконка Гудка, это означает, что вы находитесь в черте города и можете заехать внутрь, нажав на клавишу H." />
+
+	<string
+		id="HELP_ID_ACTION_ICONS_title"
+		value="Действия" />
+
+	<string
+		id="HELP_ID_HOW_TO_USE_MAIN_GAME_INTERFACE_HELP"
+		value="Наведите курсор мыши на название элемента, чтобы получить информацию о нём." />
+
+	<string
+		id="HELP_ID_HOW_TO_USE_MAIN_GAME_INTERFACE_HELP_title"
+		value="Экран разъяснения интерфейса." />
+</resource>
