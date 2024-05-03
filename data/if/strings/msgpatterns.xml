@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="windows-1251" standalone="yes" ?><!-- edited with XML Spy v4.2 U (http://www.xmlspy.com) by Morgoth (Targem) -->
+<resource>
+	<string
+		id="MsgQuestTaken"
+		value="%1s misshon ga ukeireraremashita" />
+
+	<string
+		id="MsgQuestFailed"
+		value="%1s misshon shippai" />
+
+	<string
+		id="MsgQuestCompleted"
+		value="%1s misshon kanryoo" />
+</resource>
