@@ -1,0 +1,530 @@
+<?xml version="1.0" encoding="windows-1251" standalone="yes" ?>
+<resource>
+	<string
+		id="r1m1_TheTown_diz"
+		value="Kita no shoonintachi to no kooeki dake de naritatteiru chiisana machida." />
+
+	<string
+		id="r1m1_PetrolStationTown1_diz"
+		value="Kyuuyu. Shuuri to kyuuyu ga dekiru." />
+
+	<string
+		id="r1m1_PetrolStationTown2_diz"
+		value="Kyuuyu. Shuuri to kyuuyu ga dekiru." />
+
+	<string
+		id="r1m1_PetrolStationTown3_diz"
+		value="Kyuuyu. Shuuri to kyuuyu ga dekiru." />
+
+	<string
+		id="r1m2_PetrolStationTown1_diz"
+		value="Kyuuyu. Shuuri to kyuuyu ga dekiru." />
+
+	<string
+		id="r1m2_PetrolStationTown2_diz"
+		value="Kyuuyu. Shuuri to kyuuyu ga dekiru." />
+
+	<string
+		id="r1m2_PetrolStationTown3_diz"
+		value="Kyuuyu. Shuuri to kyuuyu ga dekiru." />
+
+	<string
+		id="r1m2_PetrolStationTown4_diz"
+		value="Kyuuyu. Shuuri to kyuuyu ga dekiru." />
+
+	<string
+		id="r1m2_PetrolStationTown5_diz"
+		value="Kyuuyu. Shuuri to kyuuyu ga dekiru." />
+
+	<string
+		id="r1m3_PetrolStationTown1_diz"
+		value="Kyuuyu. Shuuri to kyuuyu ga dekiru." />
+
+	<string
+		id="r1m3_PetrolStationTown2_diz"
+		value="Kyuuyu. Shuuri to kyuuyu ga dekiru." />
+
+	<string
+		id="r1m3_PetrolStationTown3_diz"
+		value="Kyuuyu. Shuuri to kyuuyu ga dekiru." />
+
+	<string
+		id="r1m3_PetrolStationTown4_diz"
+		value="Kyuuyu. Shuuri to kyuuyu ga dekiru." />
+
+	<string
+		id="r1m3_PetrolStationTown5_diz"
+		value="Kyuuyu. Shuuri to kyuuyu ga dekiru." />
+
+	<string
+		id="r2m1_PetrolStationTown1_diz"
+		value="Kyuuyu. Shuuri to kyuuyu ga dekiru." />
+
+	<string
+		id="r2m1_PetrolStationTown2_diz"
+		value="Kyuuyu. Shuuri to kyuuyu ga dekiru." />
+
+	<string
+		id="r2m1_PetrolStationTown3_diz"
+		value="Kyuuyu. Shuuri to kyuuyu ga dekiru." />
+
+	<string
+		id="r2m1_PetrolStationTown4_diz"
+		value="Kyuuyu. Shuuri to kyuuyu ga dekiru." />
+
+	<string
+		id="r2m1_PetrolStationTown5_diz"
+		value="Kyuuyu. Shuuri to kyuuyu ga dekiru." />
+
+	<string
+		id="r2m2_PetrolStationTown1_diz"
+		value="Kyuuyu. Shuuri to kyuuyu ga dekiru." />
+
+	<string
+		id="r2m2_PetrolStationTown2_diz"
+		value="Kyuuyu. Shuuri to kyuuyu ga dekiru." />
+
+	<string
+		id="r2m2_PetrolStationTown3_diz"
+		value="Kyuuyu. Shuuri to kyuuyu ga dekiru." />
+
+	<string
+		id="r4m1_PetrolStationTown1_diz"
+		value="Kyuuyu. Shuuri to kyuuyu ga dekiru." />
+
+	<string
+		id="r4m1_PetrolStationTown2_diz"
+		value="Kyuuyu. Shuuri to kyuuyu ga dekiru." />
+
+	<string
+		id="r4m1_PetrolStationTown3_diz"
+		value="Kyuuyu. Shuuri to kyuuyu ga dekiru." />
+
+	<string
+		id="r4m1_PetrolStationTown4_diz"
+		value="Kyuuyu. Shuuri to kyuuyu ga dekiru." />
+
+	<string
+		id="r4m1_PetrolStationTown5_diz"
+		value="Kyuuyu. Shuuri to kyuuyu ga dekiru." />
+
+	<string
+		id="r4m1_PetrolStationTown6_diz"
+		value="Kyuuyu. Shuuri to kyuuyu ga dekiru." />
+
+	<string
+		id="r4m1_PetrolStationTown7_diz"
+		value="Kyuuyu. Shuuri to kyuuyu ga dekiru." />
+
+	<string
+		id="r4m2_PetrolStationTown61_diz"
+		value="Kyuuyu. Shuuri to kyuuyu ga dekiru." />
+
+	<string
+		id="r1m1_TheContraVillage_diz"
+		value="Kono henpina mura no juumin wa gaikokujin o kiratteiru." />
+
+	<string
+		id="r1m1_TheGloohoe_diz"
+		value="Hoomu suiito hoomu." />
+
+	<string
+		id="r1m1_TheOilVillage_diz"
+		value="Hanei suru nooson." />
+
+	<string
+		id="r1m1_TheFreedom_diz"
+		value="Kono shuuraku wa toozoku ni osowareru koto ga ooi." />
+
+	<string
+		id="r1m1_ToR1M3_diz"
+		value="Vaateruranto e no michi" />
+
+	<string
+		id="r1m1_ToR4M1_diz"
+		value="Wahato e no michi" />
+
+	<string
+		id="r1m1_ToR1M2_diz"
+		value="Rijin e no michi" />
+
+	<string
+		id="r1m2_ToR1M1_diz"
+		value="Krai e no michi" />
+
+	<string
+		id="r1m2_ToR1M3_diz"
+		value="Vaateruranto e no michi" />
+
+	<string
+		id="r1m4_ToR1M3_diz"
+		value="Vaateruranto e no michi" />
+
+	<string
+		id="r1m4_ToR3M1_diz"
+		value="Doruido no mori e" />
+
+	<string
+		id="r2m1_ToR2M2_diz"
+		value="Arujan e no michi" />
+
+	<string
+		id="r2m1_ToR2M2small_diz"
+		value="Arujan e no michi" />
+
+	<string
+		id="r2m1_ToR1M3_diz"
+		value="Vaateruranto e no michi" />
+
+	<string
+		id="r2m1_ToR3M1_diz"
+		value="Doruido guroobu e no tabi" />
+
+	<string
+		id="r2m2_ToR2M1_diz"
+		value="Riburiamu e no michi" />
+
+	<string
+		id="r2m2_ToR2M1small_diz"
+		value="Riburiamu e no michi" />
+
+	<string
+		id="r3m1_ToR2M1_diz"
+		value="Riburiamu e no michi" />
+
+	<string
+		id="r3m1_ToR3M2_diz"
+		value="Igunotto e no michi" />
+
+	<string
+		id="r3m2_ToR3M1_diz"
+		value="Doruido guroobu e no tabi" />
+
+	<string
+		id="r4m1_ToR1M1_diz"
+		value="Krai e no michi" />
+
+	<string
+		id="r4m1_ToR2M2_diz"
+		value="Arujan e no michi" />
+
+	<string
+		id="r4m1_ToR4M2_diz"
+		value="Zarumeku e shuppatsu" />
+
+	<string
+		id="r1m2_Esting_diz"
+		value="Noochi ni kakomareta machi. Rejiina zendo to fataarando no hanbun ni jagaimo o kyookyuu shiteiru." />
+
+	<string
+		id="r1m2_Midragd_diz"
+		value="Keimoo shugisha no chuushin toshi. Karera jishin no kotoba o karireba 'Umarekawatta sekai no kagaku no to'. Koko de wa kowareta soobihin ya aatifakuto o itsu de mo uru koto ga deki, un ga yokereba kookyuu soobi o kau koto mo dekiru." />
+
+	<string
+		id="r1m2_Porto_diz"
+		value="Ippan ni shinjirareteiru no to wa hantai ni, keimookatachi wa jooheki no ushiro ni tojikomotteiru dakedenaku, supiido de sekai o tabi suru hoohoo o mosaku shiteiru. Saiken sare, kanzen ni kinoo suru minatodearu kono machi wa, kaiyoo fukkoo no saisho no ichi nomidearu." />
+
+	<string
+		id="r1m2_TheArtefact_diz"
+		value="Jimoto no noomintachi wa, chikaku de kodai no sooko o hakken shi, jibuntachi o furumono tansakusha ni bunrui shinaoshita." />
+
+	<string
+		id="r1m2_TheSign_diz"
+		value="Noochi kaitaku" />
+
+	<string
+		id="r1m2_TheRace_diz"
+		value="Katsute wa sabaibaru reesu ga okonawareta bashodattaga, ima wa kinzokuhen de oowareta nohara ga nokotteiru dakeda." />
+
+	<string
+		id="r1m2_TheOlimp_diz"
+		value="Juumin no seikei o dookoo iu no wa muzukashiiga, kanari yuufuku ni kurashiteiru." />
+
+	<string
+		id="r1m2_TheTickets_diz"
+		value="Kodai enkei toogijoo no iseki wa, ooku no bookenka o kono chi ni hikitsukeru." />
+
+	<string
+		id="r1m3_Pesht_diz"
+		value="mottomo juuyoona kooekiro no koosaten ni ichi suru hashi no machi wa, sekai de yuiitsu, tsuukooryoo ga kooshiki ni chooshuu sareru bashodearu. Sono tame, samazamana habatsu ga nagai ma, kono ittai no nottori o kakusaku shitekita." />
+
+	<string
+		id="r1m3_Asgard_diz"
+		value="Ikken suruto, hitozato ni mayoikonda yoona murada. Shikashi jissai wa, okushidento to no mitsu booeki no chuushinchina noda." />
+
+	<string
+		id="r1m3_Minin_diz"
+		value="Jiyuu booeki no gajoodeari, seijitsuna roodoo niyotte tassei sareru koto no mohandearu. Shin no yoosaideari, kyoosoo aite kara no yuukoo tekina hoomon ni tachimukau junbi ga dekiteiru." />
+
+	<string
+		id="r1m3_TheShahts_diz"
+		value="Koko no roodooshatachi wa, kichoohin o motomete nan ton mo no suna ya ishi o kakiatsumeteiru." />
+
+	<string
+		id="r1m3_TheForgotten_diz"
+		value="Dooyara seirai no taida ga, kono mura no juumin ga koo ricchi kara rieki o eru koto o samatageteiru yooda. Aruiha kyoosoo o osoreteiru no kamo shirenai." />
+
+	<string
+		id="r1m3_TheVozleMinin_diz"
+		value="Nagai ma, nani mo suru koto ga nakatta chiisana mura." />
+
+	<string
+		id="r1m3_TheBanditOilMine_diz"
+		value="Sekiyu no kyookyuugen. Soshite kita no booekishoo no shuunyuugen de mo aru." />
+
+	<string
+		id="r1m3_TheBase_diz"
+		value="Kono kodai no gunji kichi no chika ni wa, tairyoo no buki ga kakusareteiru." />
+
+	<string
+		id="r1m3_ToR1M1_diz"
+		value="Krai e no michi" />
+
+	<string
+		id="r1m3_ToR2M1_diz"
+		value="Riburiamu e no michi" />
+
+	<string
+		id="r1m3_ToR1M2_diz"
+		value="Rijin e no michi" />
+
+	<string
+		id="r1m3_ToR1M4_diz"
+		value="Hel e no michi" />
+
+	<string
+		id="r1m4_TheOlme_diz"
+		value="Kita ruuto no shoonintachi nitotte tomi no gensendeari, maitsuki nan juu ton mo no kishoohin o kyookyuu shiteiru. Zannenna koto ni, jimoto juumin wa gaikokujin no raihoo ni kanarazushimo juubunna hannoo o shimesanai tame, machi wa hijoo ni yoosai ka sareteiru." />
+
+	<string
+		id="r1m4_FVOnOcean_diz"
+		value="Umibe no gyoson. &quot;Honmono no ryooshi wa shinanai&quot; to jimoto no kotowaza ga hokorashige ni sengen shiteiru." />
+
+	<string
+		id="r1m4_FVNearOlme_diz"
+		value="Arayuru michi ga koosa suru mura." />
+
+	<string
+		id="r1m4_FVCalis_diz"
+		value="Iseki de no nyuushoku." />
+
+	<string
+		id="r1m4_FVCordan_diz"
+		value="Numachi no do de mo, mainichi teinei ni tagayaseba, yutakana minori o motarashitekureru." />
+
+	<string
+		id="r1m4_FVPerch_diz"
+		value="Hitozato hanareta koozan mura. Ryooshidearu jimoto no hitobito wa kono jookyoo ni fungai shiteiru." />
+
+	<string
+		id="r1m4_FVBerko_diz"
+		value="Yunion akindo mura." />
+
+	<string
+		id="r1m4_StorageVil_diz"
+		value="Ryooshi kara shoonin e, soshite mata ryooshi kara shoonin e to, taezu hito no te ga irekawaru kichoona senryaku busshidearu." />
+
+	<string
+		id="r2m1_TheGelvetcia_diz"
+		value="DTR no shutodeari, gaikoku kara no shinryaku nitaisuru senryaku keikaku no hasshoochideari, koohanna joohoomoo no chuushin kyoten de mo aru." />
+
+	<string
+		id="r2m1_TheSel_diz"
+		value="Kono machi to shuuhen no mura no juumin wa, sokoku no booei ni subete o sasageteiru. DTR no shokuryoo to sangyoo kiban." />
+
+	<string
+		id="r2m1_TheTuzz_diz"
+		value="Dokuritsu no shuyoo gunji kichi de, suu hyaku nin no heishi ga chuuya o towazu kinmu shi, minkanjin nitaisuru ikanaru kiken mo gekitai dekiru taisei o totonoeteiru." />
+
+	<string
+		id="r2m1_TheDoubtful_diz"
+		value="Hitozato hanareta mura." />
+
+	<string
+		id="r2m1_TheUnderAttaks_diz"
+		value="HY ni tabitabi koogeki sareteiru kokkyoo no mura." />
+
+	<string
+		id="r2m1_TheVill2_diz"
+		value="Kono mura no hitobito wa, HY to tatakau toiu kyootsuu no mokuteki no tame ni subete o sasageteiru." />
+
+	<string
+		id="r2m1_TheVill1_diz"
+		value="Senji chuu, katei o mamoru koto wa juuyoona shigotodeattakara, juumintachi wa kenmei ni hataraita." />
+
+	<string
+		id="r2m2_Monastery_diz"
+		value="Keimoo shugi kyookai no gajoo. Sono takai hei no mukoo ni nani ga kakusareteiru no ka, shiru hito wa sukunai." />
+
+	<string
+		id="r2m2_Marezzia_diz"
+		value="Iatsu tekina hitobito wa, akuseru no fuetsuzukeru yoohei gundan ni shokuryoo o kyookyuu suru tame, chuuya o towazu koko de hataraiteiru." />
+
+	<string
+		id="r2m2_Zeon_diz"
+		value="Akuseru no chika kichi. Sono seikakuna basho o shitteiru no wa, kare ni chikai ichi nigiri no ningen dakeda. yagate zenkoku ni hirogatta &quot;Hiiro no yoake&quot; undoo wa koko kara hajimatta." />
+
+	<string
+		id="r2m2_Toskana_diz"
+		value="Nankoofuraku no yoosai wa, aru jan jinmin minpei to kashita kyooakuhan no kyodaina ichidan no koodoo o choosei suru." />
+
+	<string
+		id="r2m2_GranicaVillage_diz"
+		value="Sono na no toori kokkyoo no murada. Shikashi, dono kokkyoo o sashiteiru no ka, moo dare mo oboeteinai." />
+
+	<string
+		id="r2m2_ZnakiVillage_diz"
+		value="Noojoo wakai." />
+
+	<string
+		id="r2m2_NewVillage_diz"
+		value="Kono mura no juunin wa, tokiniha sensoo toojikoku soohoo ni saabisu o teikyoo shinakerebanaranai koto mo aru. Shikashi, karera wa kono koto o koohyoo shitagaranai." />
+
+	<string
+		id="r2m2_EnterToSubmarine_loc_diz"
+		value="Wahato de" />
+
+	<string
+		id="r3m1_TheSet_diz"
+		value="Jurei o kasaneta kashi no ki no yoo ni, kokudo ni sobietatsu doruido no soogonna toshi." />
+
+	<string
+		id="r3m1_TheFist_diz"
+		value="Mori no naka no shissona shuuraku. Gaikai no arashi no naka no shizukana ikkaku." />
+
+	<string
+		id="r3m1_TheUluk_diz"
+		value="Doruido no shinkoo o uragitta tetsu no kodomotachi wa, jibuntachi no kangaeru bi nishitagatte kokyoo o saiken shita." />
+
+	<string
+		id="r3m1_TheRazboynik_diz"
+		value="Toozoku no mura." />
+
+	<string
+		id="r3m1_ToR1M4_diz"
+		value="Koko kara heru made iku koto ga dekiru." />
+
+	<string
+		id="r3m2_OracleDefendersVil_diz"
+		value="Orakuru no shugoshatachi wa, orakuru no shisen ga jibuntachi ni mukerareru koto o negai, koko de gishiki o okonau." />
+
+	<string
+		id="r3m2_AloneDruid_diz"
+		value="Sennin no ie" />
+
+	<string
+		id="r4m1_TheGadad_diz"
+		value="Shuto wahato wa oashia no shin no hoosekida. Kono toshi wa nagai ma, hirui naki buki shokunin to kenchikuka de yuumeidatta." />
+
+	<string
+		id="r4m1_TheKef_diz"
+		value="Katsute eiga o hokotta kono machi wa, koko suu nen de koohai shiteshimatta. Shikashi, katsute no eiga no omokage wa mada nokotteiru." />
+
+	<string
+		id="r4m1_TheKazif_diz"
+		value="Reesu no suriru o ajiwaitai hitotachi no tame ni, machi no hitotachi wa seidaina shoo o kaisai suru. Zannennagara, koko ni koreru hito wa hotondo inai." />
+
+	<string
+		id="r4m1_r4_AlihamVil_diz"
+		value="Shi no sabaku no haji ni ichi suru kono shuuraku wa, ooku no koto o keiken shitekita." />
+
+	<string
+		id="r4m1_Buhara_loc_diz"
+		value="Hiagatta umi no kishibe ni aru kodai no minato. Umi o miru koto no nai nan juu seki mo no fune ga, koko de hibi o sugoshiteiru." />
+
+	<string
+		id="r4m1_TheOilCity_diz"
+		value="Chihoo seifu no yataibone wa, mottomo yutakana yudendearu." />
+
+	<string
+		id="r4m1_TheZuhel_diz"
+		value="Taema nai koogeki ni kurushimu nyuushokuchi." />
+
+	<Object
+		Name="PetrolStationTown1_diz"
+		FullName="Nenryoo hokyuu" />
+
+	<Object
+		Name="PetrolStationTown2_diz"
+		FullName="Nenryoo hokyuu" />
+
+	<Object
+		Name="PetrolStationTown3_diz"
+		FullName="Nenryoo hokyuu" />
+
+	<Object
+		Name="PetrolStationTown4_diz"
+		FullName="Nenryoo hokyuu" />
+
+	<Object
+		Name="PetrolStationTown5_diz"
+		FullName="Nenryoo hokyuu" />
+
+	<Object
+		Name="PetrolStationTown6"
+		FullName="Nenryoo hokyuu" />
+
+	<Object
+		Name="PetrolStationTown7"
+		FullName="Nenryoo hokyuu" />
+
+	<string
+		id="r4m2_ScientiferVillage_diz"
+		value="Watashitachi no sekai to i hoshijin no densengen to no kyookai ni ichi suru kagaku teki nyuushokuchi." />
+
+	<string
+		id="r4m2_MilitaryBase_diz"
+		value="Soko wa oashia zendo o kyoofu ni otoshiireru bashoda. Kyoojintachi ga atsumari, dare demo korosu junbi ga dekiteiru bashoda. Soshite koko kara, karera wa chinamagusai sakusen o kaishi suru." />
+
+	<string
+		id="r4m2_PetrolStationTower_diz"
+		value="Nenryoo hokyuu" />
+
+	<string
+		id="demo_TheOlme_diz"
+		value="Kita ruuto no shoonintachi nitotte tomi no gensendeari, maitsuki nan juu ton mo no kishoohin o kyookyuu shiteiru. Zannenna koto ni, jimoto juumin wa gaikokujin no raihoo ni kanarazushimo juubunna hannoo o shimesanai tame, machi wa hijoo ni yoosai ka sareteiru." />
+
+	<string
+		id="demo_FVOnOcean_diz"
+		value="Umibe no gyoson. &quot;Honmono no ryooshi wa shinanai&quot; to jimoto no kotowaza ga hokorashige ni sengen shiteiru." />
+
+	<string
+		id="demo_FVNearOlme_diz"
+		value="Arayuru michi ga koosa suru mura." />
+
+	<string
+		id="demo_FVCalis_diz"
+		value="Iseki de no nyuushoku." />
+
+	<string
+		id="demo_FVCordan_diz"
+		value="Numachi no do de mo, mainichi teinei ni tagayaseba, yutakana minori o motarashitekureru." />
+
+	<string
+		id="demo_FVPerch_diz"
+		value="Hitozato hanareta koozan mura. Ryooshidearu jimoto no hitobito wa kono jookyoo ni fungai shiteiru." />
+
+	<string
+		id="demo_FVBerko_diz"
+		value="Yunion akindo mura." />
+
+	<string
+		id="r3m1_r3_FarVillage_diz"
+		value="Hitozato hanareta doruido no mura. Kikai suuhaisha to no sensoo ni kakawaritakunai doruido ga sundeiru." />
+
+	<string
+		id="r4m2_CrazyBase_diz"
+		value="Gunji kichi ni wa busoo shita heishi ga afure, shatei kyorinai ni iru mono o hikisakoo to suru." />
+
+	<string
+		id="r3m2_AloneDruidBuilding_diz"
+		value="Kodokuna doruido no sumai. Seken ni iyake ga sashita no ka, tsuihoo sareta no ka, rekishi wa oshietekurenai." />
+
+	<string
+		id="ArcadeScout01_diz"
+		value="Migakiagerareta kuruma. Hyoojun tekina bodi waakudaga, ta wa subete yuniiku." />
+
+	<string
+		id="Formula01_diz"
+		value="Kinzokukuzu de tsukutta tada no reeshingukaada." />
+</resource>
