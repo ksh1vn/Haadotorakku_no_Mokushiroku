@@ -106,217 +106,217 @@
 
 	<string
 		id="HELP_ID_WORKSHOP_title"
-		value="Мастерская" />
+		value="Waakushoppu" />
 
 	<string
 		id="HELP_ID_WORKSHOP"
-		value="Вы зашли в Мастерскую.|Здесь вы можете починить, заправить свою машину, улучшить броню. Так же вы можете поменять кузов или кабину.|Если у вас хватит денег, то вы можете приобрести себе автомобиль другого типа.|В левой половине этого окна расположена информация о Вашем грузовике, в правой – список услуг мастерской." />
+		value="Anata wa waakushoppu ni hairimashita.|Koko de wa kuruma no shuuri, nenryoo hokyuu, sookoo no kyooka ga dekimasu. Mata, bodi ya kyabin o henkoo suru koto mo dekimasu. Okane ni yoyuu ga areba, betsu no taipu no kuruma o kau koto mo dekimasu.|Windoo no hidari hanbun ni wa anata no torakku nikansuru joohoo ga ari, migi hanbun ni wa waakushoppu saabisu no risuto ga arimasu." />
 
 	<string
 		id="HELP_ID_WORKSHOP_CABINS_title"
-		value="Смена кабины" />
+		value="Kyabin no henkoo" />
 
 	<string
 		id="HELP_ID_WORKSHOP_CABINS"
-		value="Для смены кабины достаточно нажать кнопку «смена кабины», затем выбрать нужную кабину из списка нажатием мыши. При этом изменения отобразятся на трёхмерном изображении грузовика и в его описании. Когда Вы уверены в выборе кабины, нажмите кнопку «купить» на ее иконке. Откроется окно подтверждения покупки." />
+		value="Untendai o henkoo suru ni wa, untendai henkoo botan o kurikku shi, risuto kara kiboo no untendai o mausu kurikku de sentaku suru dakedesu. Henkoo wa torakku no 3D gazoo to sono setsumei ni hyooji saremasu. Untendai no sentaku nitsuite kakushin ga motetara, sono aikon no 'koonyuu' botan o kurikku shitekudasai. Koonyuu o kakunin suru windoo ga hirakimasu." />
 
 	<string
 		id="HELP_ID_WORKSHOP_BASKETS_title"
-		value="Смена кузова" />
+		value="Bodi kookan" />
 
 	<string
 		id="HELP_ID_WORKSHOP_BASKETS"
-		value="Чтобы сменить кузов, достаточно нажать кнопку «смена кузова», затем выбрать нужный кузов из списка нажатием мыши. При этом изменения отобразятся на трёхмерном изображении грузовика и в его описании. Когда Вы уверены в выборе кузова, нажмите кнопку «купить» на его иконке. Откроется окно подтверждения покупки." />
+		value="Bodi o henkoo suru ni wa, bodi henkoo botan o kurikku shi, mausu o kurikku shite risuto kara kiboo no bodi o sentaku suru dakedesu. Henkoo wa torakku no 3D gazoo to sono setsumei ni hyooji saremasu. Bodi ga kimattara , aiko n no 'koonyuu' botan o kurikku shitekudasai. Koonyuu kakunin windoo ga hirakimasu." />
 
 	<string
 		id="HELP_ID_WORKSHOP_VEHICLE_title"
-		value="Покупка новой машины" />
+		value="Shinsha koonyuu" />
 
 	<string
 		id="HELP_ID_WORKSHOP_VEHICLE"
-		value="Чтобы купить новую машину, необходимо нажать кнопку «покупка машины». Откроется окно, где Вы сможете выбрать понравившуюся машину из числа доступных и настроить ее цвет. Когда Вы уверены в выборе, нажмите кнопку «Выбрать»." />
+		value="Shinsha o koonyuu suru ni wa, 'Kuruma o kau' botan o kurikku suru hitsuyoo ga aru. Windoo ga hirakimasunode, sono naka kara o sukina mashin o erabi, iro o kasutamaizu shitekudasai. Sentaku ga kimattara, 'Sentaku' botan o oshitekudasai." />
 
 	<string
 		id="HELP_ID_WORKSHOP_SKIN_title"
-		value="Перекраска" />
+		value="Sai tosoo" />
 
 	<string
 		id="HELP_ID_WORKSHOP_SKIN"
-		value="Выберите желаемую расцветку и нажмите кнопку, чтобы перекрасить автомобиль." />
+		value="Kiboo no karaa ringu o sentaku shi, botan o oshite kuruma o nurikaeru." />
 
 	<string
 		id="HELP_ID_WORKSHOP_REFUEL_title"
-		value="Заправка" />
+		value="Nenryoo hokyuu" />
 
 	<string
 		id="HELP_ID_WORKSHOP_REFUEL"
-		value="Нажмите кнопку «Полный бак», для заправки полного бака или насколько хватит денег.|Если вы хотите контролировать количество топлива, которое покупаете, нажмите кнопку «ручная заправка». При помощи ползунка установите необходимое количество и подтвердите покупку." />
+		value="Man tan kyuuyu botan o osuto, man tan kyuuyu ga dekimasu. Koonyuu suru nenryoo no ryoo o kontorooru shitai baai wa, 'Shudoo kyuuyu' botan o oshitekudasai. Suraidaa de hitsuyooryoo o settei shi, koonyuu o kakutei shimasu." />
 
 	<string
 		id="HELP_ID_WORKSHOP_REPAIR_title"
-		value="Починка" />
+		value="Shuuri" />
 
 	<string
 		id="HELP_ID_WORKSHOP_REPAIR"
-		value="Нажмите кнопку «Починить всё», для полной починки всех деталей машины или насколько хватит денег. Если вы хотите контролировать, какие именно части подвергнутся починке, нажмите кнопку «починить вручную». Вы увидите список всех деталей, которые можно починить и, сколько это будет стоить. При нажатии на название части совершится починка.|Если же вам нужно определить, в какой степени починится та или иная деталь, вы можете нажать кнопку тонкой настройки напротив её названия. При помощи ползунка установите необходимое качество починки и подтвердите покупку, нажав на название детали.|На всплывающих подсказках вы увидите подробную информацию о починке." />
+		value="Subete no paatsu o shuuri suru baai wa, 'Subete shuuri' botan o kurikku shimasu. Dono bubun o shuuri suru ka o kontorooru shitai baai wa, 'Shudoo de shuuri' botan o kurikku shitekudasai. Shuuri kanoona subete no buhin no risuto to shuuri hiyoo ga hyooji saremasu. Buhin no namae o kurikku suruto, sono buhin ga shuuri saremasu. Paatsu no shuuri hani o kimetai baai wa, paatsumei no yoko ni aru bi choosei botan o kurikku shitekudasai. Suraidaa o shiyoo shite kiboo no shuuri hinshitsu o settei shi, buhinmei o kurikku shite koonyuu o kakutei shimasu. Tsuuru chippu ni shuuri nikansuru shoosai joohoo ga hyooji saremasu." />
 
 	<string
 		id="HELP_ID_WORKSHOP_RECHARGE_title"
-		value="Покупка боеприпасов" />
+		value="Danyaku no koonyuu" />
 
 	<string
 		id="HELP_ID_WORKSHOP_RECHARGE"
-		value="Перезаряжаются только те пушки, которые имеют ограниченный боезапас. Это относится в большей мере к крупным орудиям и ракетам.|Нажмите кнопку «Зарядить всё», для полной перезарядки всех пушек, установленных на машине или насколько хватит денег.|Если вы хотите контролировать, какие именно орудия будут перезаряжены, нажмите кнопку «ручная перезарядка». Вы увидите список всех пушек, которые можно зарядить и, сколько это будет стоить. При нажатии на название пушки совершится перезарядка.|Если же вам нужно определить, сколько именно зарядов приобрести для данной пуки, вы можете нажать кнопку тонкой настройки напротив её названия. При помощи ползунка установите необходимое качество зарядов и подтвердите покупку, нажав на название оружия.|На всплывающих подсказках вы увидите подробную информацию о перезарядке." />
+		value="Danyaku no ryoo ga kagirareteiru juu dake ga sai sooten sareru. Kore wa omo ni oogata no juu to misairu ni tekiyoo sareru. Riroodooorubotan o osuto, sharyoo ni toosai sareteiru subete no juu, mataha shiyoo kanoona dake no okane ga kanzen ni riroodo saremasu. Dono juu ga riroodo sareru ka o kontorooru shitai baai wa, manyuaruriroodobotan o kurikku shimasu. Riroodo kanoona subete no juu no risuto to, sono hiyoo ga hyooji saremasu. Juu no namae o kurikku suruto riroodo saremasu. Shitei sareta juu no koonyuu suru chaajisuu o kettei suru hitsuyoo ga aru baai, sono juu no namae no yoko ni aru bi choosei botan o kurikku suru koto ga dekimasu. Suraidaa o tsukatte kiboo no chaaji no shitsu o settei shi, juu no namae o kurikku shite koonyuu o kakutei shimasu. Tsuuru chippu ni wa riroodo nikansuru shoosai joohoo ga hyooji saremasu." />
 
 	<string
 		id="HELP_ID_BUY_CABIN_title"
-		value="Подтверждение покупки кабины" />
+		value="Kyabin koonyuu no kakunin" />
 
 	<string
 		id="HELP_ID_BUY_CABIN"
-		value="Вам будет предложено переместить содержимое всех слотов старой кабины (левая сторона) на слоты новой (правая сторона). Это можно сделать вручную или воспользовавшись кнопкой «переместить всё». Также в этом окне можно оценить количество слотов под оружие и прочие устройства на новой кабине и узнать окончательную цену сделки. Если вас что-то не устраивает, нажмите клавишу «отмена». Если же вы уверены в своей  покупке – жмите «купить»|При этом все предметы, оставшиеся в слотах левой половины экрана будут проданы вместе со старой кабиной." />
+		value="Kyuu kyabin (hidarigawa) no subete no surotto no naiyoo o, shin kyabin (migigawa) no surotto ni idoo suru yoo motomeraremasu. Kore wa shudoo de okonau ka, subete idoo botan o tsukatte okonau. Mata, kono windoo de wa, atarashii kyabin no buki ya sonota no debaisu no surottosuu o mitsumoru koto ga deki, torihiki no saishuu kakaku o shiru koto ga dekimasu. Manzoku dekinai baai wa, 'Kyanseru' botan o oshitekudasai. Koonyuu ga kakujitsudeareba, 'Koonyuu' o kurikku shitekudasai. Gamen hidarigawa no surotto ni nokotteiru aitemu wa, furui kyabin to issho ni baikyaku saremasu." />
 
 	<string
 		id="HELP_ID_BUY_BASKET_title"
-		value="Подтверждение покупки кузова" />
+		value="Bodi koonyuu no kakunin" />
 
 	<string
 		id="HELP_ID_BUY_BASKET"
-		value="Вам будет предложено переместить содержимое всех слотов старого кузова (левая сторона) на слоты нового (правая сторона). Это можно сделать вручную или воспользовавшись кнопкой «переместить всё». Также в этом окне можно оценить количество слотов под оружие и прочие устройства на новой кабине и узнать окончательную цену сделки. Если вас что-то не устраивает, нажмите клавишу «отмена». Если же вы уверены в своей  покупке – жмите «купить»|При этом все предметы, оставшиеся в слотах левой половины экрана будут проданы вместе со старым кузовом." />
+		value="Kyuu hontai (hidarigawa) no subete no surotto no naiyoo o, shin hontai (migigawa) no surotto ni idoo suru yoo motomeraremasu. Kore wa shudoo de okonau koto mo, subete idoo botan o tsukatte okonau koto mo dekimasu. Mata, kono windoo de wa, atarashii takushii ni toosai sareru buki ya sonota no debaisu no surottosuu o mitsumori, torihiki no saishuu kakaku o shiru koto ga dekimasu. Manzoku dekinai baai wa, 'kyanseru' botan o oshitekudasai. Koonyuu ga kakujitsuna baai wa, 'koonyuu' o kurikku shitekudasai. Gamen hidari hanbun no surotto ni nokotteiru aitemu wa, furui shatai to issho ni baikyaku saremasu." />
 
 	<string
 		id="HELP_ID_BUY_VEHICLE_title"
-		value="Подтверждение покупки машины" />
+		value="Kuruma koonyuu no kakunin" />
 
 	<string
 		id="HELP_ID_BUY_VEHICLE"
-		value="Вам будет предложено переместить содержимое всех слотов старого грузовика (левая сторона) на слоты нового (правая сторона). Это можно сделать вручную или воспользовавшись кнопкой «переместить всё». Также в этом окне можно оценить количество слотов под оружие и прочие устройства на новой кабине и узнать окончательную цену сделки. Если вас что-то не устраивает, нажмите клавишу «отмена». Если же вы уверены в своей  покупке – жмите «купить»|При этом все предметы, оставшиеся в слотах левой половины экрана будут проданы вместе со старым грузовиком." />
+		value="Furui torakku (hidarigawa) no subete no surotto no naiyoo o, atarashii torakku (migigawa) no surotto ni idoo suru yoo motomeraremasu. Kore wa, shudoo de okonau koto mo, subete idoo botan o tsukatte okonau koto mo dekimasu. Mata, kono windoo de wa, atarashii kyabu no buki ya sonota no debaisu no surottosuu o mitsumoru koto ga deki, torihiki no saishuu kakaku o shiru koto ga dekimasu. Manzoku dekinai baai wa, 'kyanseru' botan o oshitekudasai. Koonyuu ga kakujitsuna baai wa, 'koonyuu' botan o oshitekudasai gamen hidarigawa no surotto ni nokotteiru subete no aitemu wa, furui torakku to issho ni baikyaku saremasu." />
 
 	<string
 		id="HELP_ID_TOWN_title"
-		value="Город" />
+		value="Toshi" />
 
 	<string
 		id="HELP_ID_TOWN"
-		value="Города и деревни занимают важнейшее место в мире Ex Machina: это очаги торговли, науки и, самое главное, жизни. Тут игрок сможет починить и заправить свой грузовик, пополнить запасы вооружения и заработать денег торговлей. Не говоря уже об общении с местными жителями. |Нажав одну из кнопок в верхней правой части экрана, вы сможете попасть в Бар, Магазин или Мастерскую." />
+		value="Machi ya mura wa 'Ekusumakina' no sekai de mottomo juuyoona basho o shimeteiru. Booeki, kagaku, soshite mottomo juuyoona seikatsu no chuushinchidearu. Pureiyaa wa koko de, torakku no shuuri ya kyuuyu, buki no hokyuu o okonai, kooeki de okane o kasegu koto ga dekiru. Jimoto no hitobito to no komyunikeeshon wa iumademonai. Gamen migi joo no botan o osuto, baa, shoppu, waakushoppu ni idoo shimasu." />
 
 	<string
 		id="HELP_ID_BAR_title"
-		value="Бар" />
+		value="Baa" />
 
 	<string
 		id="HELP_ID_BAR"
-		value="Вам придётся часто заходить в бар, для получения и выполнения заданий.|В правой половине экрана находятся иконки всех, кто сейчас находится в баре. По крайней мере, один из них всегда готов дать вам несложное задание. Для начала разговора, щёлкните мышкой по изображению персонажа." />
+		value="Gamen no migi hanbun ni wa, genzai baa ni iru zenin no aiko n ga arimasu. Gamen no migi hanbun ni wa, genzai baa ni iru hitotachi no aiko n ga hyooji sareteimasu. Kaiwa o hajimeru ni wa, kyarakutaa no gazoo o kurikku shitekudasai." />
 
 	<string
 		id="HELP_ID_TALK_WITH_NPC_title"
-		value="Разговор" />
+		value="Kaiwa" />
 
 	<string
 		id="HELP_ID_TALK_WITH_NPC"
-		value="В этом окне Вы видите крупное изображение персонажа, с которым ведется беседа, его реплики и доступные Вам варианты ответа.| Для произнесения реплики выберите её при помощи мыши или соответствующей цифровой клавиши. Закрыть это окно можно только выбрав соответствующую реплику диалога." />
+		value="Kono windoo ni wa, kaiwa shiteiru kyarakutaa no ookina gazoo to, sono kyarakutaa no serifu, soshite riyoo kanoona kaitoo no sentakushi ga hyooji saremasu. Serifu o iu ni wa, mausu ka suuji kii de sentaku shimasu. Kono windoo o tojiru ni wa, taioo suru daiarogukyuu o sentaku shimasu." />
 
 	<string
 		id="HELP_ID_RADAR"
-		value="В левом верхнем углу экрана находится радар. На нём Вы сможете увидеть противников (в виде красных точек), машину игрока (в самом центре), куда направлена камера (сектор) и метки ориентиров. Расстояние до ориентиров показано цифрами справа от радара (цвет цифр соответствует цвету метки ориентира). " />
+		value="Gamen hidariue ni wa reedaa ga arimasu. Reedaa ni wa teki (akai ten), pureiyaa no kuruma (chuuoo) , kamera ga muiteiru basho (sekutaa), rando maaku ga hyooji saremasu. Rando maaku made no kyori wa, reedaa no migigawa ni aru suuji de shimesaremasu (Suuji no iro wa rando maaku no iro ni taioo shiteimasu). " />
 
 	<string
 		id="HELP_ID_RADAR_title"
-		value="Радар" />
+		value="Reedaa" />
 
 	<string
 		id="HELP_ID_SPEEDOMETER"
-		value="Спидометр отражает текущую скорость грузовика в цифровом и аналоговом виде. При включении задней передачи цифры становятся красными." />
+		value="Supiido meetaa wa, torakku no genzai sokudo o dejitaru to anarogu de hyooji shimasu. Ribaasugia o ireruto suuji ga akaku narimasu." />
 
 	<string
 		id="HELP_ID_SPEEDOMETER_title"
-		value="Спидометр" />
+		value="Supiido meetaa" />
 
 	<string
 		id="HELP_ID_HP"
-		value="Конструкция - это целостность Вашей машины.  Если не следить за ее уровнем, то персонаж может погибнуть. Когда конструкция находится на опасно низком уровне, загорается красная лампочка. Починиться можно в мастерских, которые находятся как в городах, так и просто разбросаны по миру." />
+		value="Kensetsu wa mashin no kanzenseidearu. Sono reberu o kanshi shinaito, kyarakutaa ga shindeshimau koto ga arimasu. Konsutorakushon ga kikenna hodo hikuku naruto, akai ranpu ga tentoo shimasu. Shuuri wa waakushoppu de ukeru koto ga deki, waakushoppu wa machi chuu ya sekaijuu ni tenzai shiteimasu." />
 
 	<string
 		id="HELP_ID_HP_title"
-		value="Конструкция" />
+		value="Tsuyo sa" />
 
 	<string
 		id="HELP_ID_FUEL"
-		value="Следует следить за уровнем топлива, иначе можно оказаться в тяжелой ситуации. С пустым баком грузовик может передвигаться лишь очень с небольшой скоростью на резервных батареях. Когда горючее находится на опасно низком уровне, загорается красная лампочка. Заправиться можно в мастерских, которые находятся как в городах, так и просто разбросаны по миру." />
+		value="Nenryoo reberu o monitaa shite okanakereba, konnanna jookyoo ni ochiiru kanoosei ga aru. Tanku ga soradato, torakku wa bakkuappu batterii de hijoo ni teisoku de shika sookoo dekimasen. Nenryoo reberu ga kikenna hodo hikuku naruto, akai ranpu ga tentoo shimasu. Kyuuyu wa, toshibu dakedenaku sekaijuu ni tenzai suru seibi koojoo de okonau koto ga dekiru." />
 
 	<string
 		id="HELP_ID_FUEL_title"
-		value="Горючее" />
+		value="Nenryoo" />
 
 	<string
 		id="HELP_ID_DURABILITY"
-		value="В верхней части экрана расположено схематичное изображение кузова и кабины грузовика, изменением цвета сигнализирующее о состоянии брони этих частей (зеленый – идеальное состояние, красный – получены большие повреждения, серый - получены критические повреждения);" />
+		value="Gamen joobu ni wa, torakku no bodi to unten seki no moshikizu ga ari, korera no paatsu no sookoo no jootai o shimesu tame ni iro ga henka suru (ryokushoku wa kanzenna jootai, akairo wa ookina dameeji o uketa jootai, haiiro wa chimei tekina dameeji o uketa jootai);" />
 
 	<string
 		id="HELP_ID_DURABILITY_title"
-		value="Броня" />
+		value="Aamaa" />
 
 	<string
 		id="HELP_ID_TIMER"
-		value="Таймер появляется, когда игроку дано задание, которое необходимо выполнить за ограниченное время" />
+		value="Taimaa wa, pureeyaa ga kagirareta jikannai ni kanryoo suru tasuku o ataerareta toki ni hyooji saremasu." />
 
 	<string
 		id="HELP_ID_TIMER_title"
-		value="Таймер" />
+		value="Taimaa" />
 
 	<string
 		id="HELP_ID_WEAPON"
-		value="На иконке справа находятся изображение орудия, номер его группы, количество боеприпасов и заполнение обоймы. С каждым выстрелом зеленая полоска (количество патронов в обойме) уменьшается. Когда обойма пуста, автоматически начинается перезарядка, во время которой стрельба невозможна. Также можно перезарядиться в любой нужный момент (нажав клавишу «R»). На это время полоска меняет свой цвет и наполняется." />
+		value="Migigawa no aiko n wa, juu no gazoo, guruupu bangoo, danyaku no ryoo, kurippu no zanryoo o hyooji shimasu. Utsu tabi ni midori no baa (kurippu no tamasuu) ga hetteikimasu. Kurippu ga sora ni naruto jidooteki ni riroodo ga hajimari, sonokan wa shageki wa dekimasen. Mata, itsu demo ('R' kii o oshite) riroodo suru koto ga dekimasu. Kono toki, baa no iro ga kawari, man tan ni narimasu." />
 
 	<string
 		id="HELP_ID_WEAPON_title"
-		value="Оружие" />
+		value="Buki" />
 
 	<string
 		id="HELP_ID_FADING_MESSAGES"
-		value="Различные текстовые сообщения, реплики противников, отображаются в этой области." />
+		value="Kono eria ni wa, samazamana tekisuto messeeji ya taisen aite no repurika ga hyooji sareteiru." />
 
 	<string
 		id="HELP_ID_FADING_MESSAGES_title"
-		value="Сообщения" />
+		value="Messeeji" />
 
 	<string
 		id="HELP_ID_IMPORTANT_FADING_MESSAGES"
-		value="Важные сообщения, касающиеся получения и выполнения заданий, отображаются в этом месте." />
+		value="Kadai no juryoo to kanryoo nikansuru juuyoona messeeji wa, kono basho ni hyooji saremasu." />
 
 	<string
 		id="HELP_ID_IMPORTANT_FADING_MESSAGES_title"
-		value="Важные сообщения" />
+		value="Juuyoona messeeji" />
 
 	<string
 		id="HELP_ID_TARGET_INFO"
-		value="В центре экрана находится прицел. Над ним – название машины, находящейся под прицелом, и группировки, которой она  принадлежит. Цвет надписи соответствует отношению машины к игроку: красный – враждебное, зеленый – дружественное. Слева от прицела – индикатор, показывающий конструкцию противника, справа – показывающий его броню. Под прицелом – расстояние до врага." />
+		value="Gamen chuuoo ni wa sukoopu ga aru. Sono ue ni wa, juujisen joo ni aru sharyoo no namae to, sono sharyoo ga zokusuru habatsu ga hyooji sareteiru. Aka wa tekitai teki, midori wa yuukoo tekidearu. Shoojunki no hidarigawa ni wa teki no koozoo o shimesu injikeeta ga ari, migigawa ni wa teki no sookoo o shimesu injikeeta ga aru. Shoojunki no shita wa teki to no kyoridesu." />
 
 	<string
 		id="HELP_ID_TARGET_INFO_title"
-		value="Информация о противнике" />
+		value="Teki no joohoo" />
 
 	<string
 		id="HELP_ID_TARGET_CAPTURE"
-		value="Если на грузовике установлена хотя бы одна самонаводящаяся ракета, то при наведении на противника автоматически начнется его захват системой наведения. Когда красная окружность заполнится, ракета наведена. " />
+		value="Torakku ni hoomingu misairu ga 1 hatsu ijoo toosai sareteiru baai, teki ni mukeruto hoomingu shisutemu ga jidooteki ni hosoku o kaishi suru. Akamaru ga nuritsubusareruto, misairu wa hoomingu shiteiru." />
 
 	<string
 		id="HELP_ID_TARGET_CAPTURE_title"
-		value="Захват цели" />
+		value="Taagetto kakutoku" />
 
 	<string
 		id="HELP_ID_ACTION_ICONS"
-		value="Когда появляется иконка Груза, это означает, что можно подобрать предметы, лежащие в ящике, при помощи клавиши I. Когда появляется иконка Гудка, это означает, что вы находитесь в черте города и можете заехать внутрь, нажав на клавишу H." />
+		value="Kaagoaikon ga hyooji saretara, I kii o oshite kibako no naka no aitemu o pikkuappu dekiru koto o imi suru. HUD aiko n ga hyooji saretara, shigaichi ni iru koto o imi shi, H kii o osu koto de shigaichinai o sookoo dekiru." />
 
 	<string
 		id="HELP_ID_ACTION_ICONS_title"
-		value="Действия" />
+		value="Koodoo" />
 
 	<string
 		id="HELP_ID_HOW_TO_USE_MAIN_GAME_INTERFACE_HELP"
-		value="Наведите курсор мыши на название элемента, чтобы получить информацию о нём." />
+		value="Aitemumei ni mausu kaasoru o awaseruto, sono aitemu nikansuru joohoo ga hyooji saremasu." />
 
 	<string
 		id="HELP_ID_HOW_TO_USE_MAIN_GAME_INTERFACE_HELP_title"
-		value="Экран разъяснения интерфейса." />
+		value="Intaa feisu no meikaku ka gamen." />
 </resource>
