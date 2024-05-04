@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="windows-1251" standalone="yes" ?>
+<DialogsResource><!--Root-->
+	<Reply
+		name="Dynamic00"
+		text="Kon'nichiwa, ryokoo-sha-san."
+		role="NPC"
+		scriptResult="ConversationWnd:ShowDynamicQuestsMenu()"
+		nextReplies="EndDlg2 Dlg_pl_000020" />
+
+	<Reply
+		name="Dlg_pl_000020"
+		text="Dooyara doa o machigaeta yoodesu."
+		role="PLAYER"
+		scriptCondition="GetCurNpc():HasNotTakenDynamicQuests()"
+		scriptResult="ConversationWnd:EndConversation()" />
+
+	<Reply
+		name="Dynamic00_plYes0"
+		text="Mochiron dooi shimasu."
+		role="PLAYER"
+		scriptResult="ConversationWnd:GetCurrentDynamicQuest():Take(); ConversationWnd:EndConversation()" />
+
+	<Reply
+		name="Dynamic00_plNo0"
+		text="Mushiro kotowaritaidesu ne."
+		role="PLAYER"
+		scriptResult="ConversationWnd:EndConversation()" />
+
+	<Reply
+		name="Dynamic00_Destroy00"
+		text="Watashi ni au shigoto wa arimasu ka?"
+		role="PLAYER"
+		nextReplies="Dynamic00_Destroy00_npc0" />
+
+	<Reply
+		name="Dynamic00_Destroy00_npc0"
+		text="Kinrin de jooshuuhan ga katsudoo-chuu. Kare no kubi ni kakatta shookin wa - %3d."
+		role="NPC"
+		nextReplies="Dynamic00_plYes0 Dynamic00_plNo0" />
+
+	<Reply
+		name="Dynamic00_Destroy01"
+		text="Watashi ni au shigoto wa arimasu ka?"
+		role="PLAYER"
+		nextReplies="Dynamic00_Destroy01_npc0" />
+
+	<Reply
+		name="Dynamic00_Destroy01_npc0"
+		text="Darekaga sakumotsu o yaki, idonidoku o irete imasu. Osoraku, koreha teki no supaidesu. Kare o koroseba te ni hairudarou %3d."
+		role="NPC"
+		nextReplies="Dynamic00_plYes0 Dynamic00_plNo0" />
+
+	<Reply
+		name="Dynamic00_Destroy02"
+		text="Watashi ni au shigoto wa arimasu ka?"
+		role="PLAYER"
+		nextReplies="Dynamic00_Destroy02_npc0" />
+
+	<Reply
+		name="Dynamic00_Destroy02_npc0"
+		text="Kyoojin ga sono chiiki o kuruma de hashirimawari, machibuse o shite murabito-tachi o kowagara semasu. Sorehodo kikende wa arimasenga, hitobito wa kujoo o iimasu. Anata ga kare to torihiki sureba, %3d wa anata no mono ni narimasu."
+		role="NPC"
+		nextReplies="Dynamic00_plYes0 Dynamic00_plNo0" />
+
+	<Reply
+		name="Dynamic00_Reach00"
+		text="Watashi ni au shigoto wa arimasu ka?"
+		role="PLAYER"
+		nextReplies="Dynamic00_Reach00_npc0" />
+
+	<Reply
+		name="Dynamic00_Reach00_npc0"
+		text="Kenkyuu deeta to sanpuru o %2n oyaji ni motte iku hitsuyoo ga arimasu. Sonobade seisan shite kuremasu. %3d wa, kono yoona sasaina sagyoo ni tekishita shoohindesu."
+		role="NPC"
+		nextReplies="Dynamic00_plYes0 Dynamic00_plNo0" />
+
+	<Reply
+		name="Dynamic00_Reach01"
+		text="Watashi ni au shigoto wa arimasu ka?"
+		role="PLAYER"
+		nextReplies="Dynamic00_Reach01_npc0" />
+
+	<Reply
+		name="Dynamic00_Reach01_npc0"
+		text="%2n no mura no kukaku o ikutsu ka atsumemashita. Toori ga kattara todokete kudasai. Sono mondai wa kinkyuude wa arimasen. Soo sureba kyuuryoo wa moraeru yo %3d."
+		role="NPC"
+		nextReplies="Dynamic00_plYes0 Dynamic00_plNo0" />
+
+	<Reply
+		name="Dynamic00_Convoy00"
+		text="Watashi ni au shigoto wa arimasu ka?"
+		role="PLAYER"
+		nextReplies="Dynamic00_Convoy00_npc0" />
+
+	<Reply
+		name="Dynamic00_Convoy00_npc0"
+		text="Dooro o idoo suru no wa kiken ni nattanode, yuujin no 1-ri ga %2n ni iku hitsuyoo ga arimasu. Doochuu de kare o hogo suru to, toochaku-ji ni %3d o uketorimasu."
+		role="NPC"
+		nextReplies="Dynamic00_plYes0 Dynamic00_plNo0" />
+
+	<Reply
+		name="Dynamic00_Convoy01"
+		text="Watashi ni au shigoto wa arimasu ka?"
+		role="PLAYER"
+		nextReplies="Dynamic00_Convoy01_npc0" />
+
+	<Reply
+		name="Dynamic00_Convoy01_npc0"
+		text="Kokode wa darekaga tonari no toshi to booeki o kakuritsu shi, shoohin no sanpuru o motte kite imasu. Karera o %2n no mura made goei shi, shippo ga nai koto o kakuninshitekudasai. Soo soo! Hoobi – %3d."
+		role="NPC"
+		nextReplies="Dynamic00_plYes0 Dynamic00_plNo0" />
+
+	<Reply
+		name="EndDlg1"
+		text="Watashi ni au shigoto wa arimasu ka?"
+		role="PLAYER"
+		scriptResult="ConversationWnd:EndConversation()"
+		nextReplies="Dlg_npc_000017" />
+
+	<Reply
+		name="EndDlg2"
+		text="Nani no nyuusudesu ka?"
+		role="PLAYER"
+		scriptCondition="not GetCurNpc():HasNotTakenDynamicQuests()"
+		nextReplies="Dlg_npc_000017" />
+
+	<Reply
+		name="Dlg_npc_000017"
+		text="Soozoo shite mite kudasai, subete ga junchoodesu! Matomona yoohei ni wa tewosashinoberu mono wa nani mo nai."
+		role="NPC"
+		nextReplies="Dlg_pl_000018" />
+
+	<Reply
+		name="Dlg_pl_000018"
+		text="Sore wa zan'nenda. Wakarimashita, mata kimasu."
+		role="PLAYER"
+		scriptResult="ConversationWnd:EndConversation()" />
+
+	<Reply
+		name="Dynamic00_Peace00"
+		text="Mondai ga 1-tsu arimasu: Guruupu to kenka shite shimaimashita %2b..."
+		role="PLAYER"
+		nextReplies="Dynamic00_Peace00_npc0" />
+
+	<Reply
+		name="Dynamic00_Peace00_npc0"
+		text="%2b o teki to sengen sa seru tame ni isshookenmei hataraita yoodesu ne... Watashiniha ikutsu ka no kone ga aru node, anata no genkin junbikin no %3d paasento o shigikai de anata ni yoi kotoba o kakeru koto ga dekimasu."
+		role="NPC"
+		nextReplies="Dynamic00_plYes0 Dynamic00_plNo0" />
+
+	<Reply
+		name="Dynamic00_Peace01"
+		text="Kondo wa tasuke ga hitsuyoodesu. aab to watashi wa 1-tsu no mondai de dooi dekimasendeshita. Soshite ima..."
+		role="PLAYER"
+		nextReplies="Dynamic00_Peace01_npc0" />
+
+	<Reply
+		name="Dynamic00_Peace01_npc0"
+		text="%2b ga anata to kakawaritakunai no wa wakatte imasu. Anata no genkin junbikin no %3d paasento to iu hikaemena tesuuryoo de, anata ga karera no ma de nanrakano ken'i o kakutoku suru no o otetsudai shimasu."
+		role="NPC"
+		nextReplies="Dynamic00_plYes0 Dynamic00_plNo0" />
+
+	<Reply
+		name="Dynamic00_Hunt00"
+		text="Watashi ni au shigoto wa arimasu ka?"
+		role="PLAYER"
+		nextReplies="Dynamic00_Hunt00_npc0" />
+
+	<Reply
+		name="Dynamic00_Hunt00_npc0"
+		text="Sanzoku kari no shiizun ga happyoo sa remashita. Kaku teki sharyoo o hakai suruto %3d o kakutoku dekimasu. Shiharai wa shuryoo kikan no shuuryoo-ji ni okonawa remasu."
+		role="NPC"
+		nextReplies="Dynamic00_plYes0 Dynamic00_plNo0" />
+
+	<Reply
+		name="Dynamic00_Hunt01"
+		text="Watashi ni au shigoto wa arimasu ka?"
+		role="PLAYER"
+		nextReplies="Dynamic00_Hunt01_npc0" />
+
+	<Reply
+		name="Dynamic00_Hunt01_npc0"
+		text="Sanzoku-tachi wa haji o sukkari ushinatta nodesu! Karera wa marude jibun no sooko ni iku ka no yoo ni watashitachi no ryoodo o shuugeki shimasu. Watashitachi wa karera ni yoi kyookun o oshieru hitsuyoo ga arimasu. Nan'ninka utte, kowagara sete kudasai. Gooi sa reta jikan ni maniaeba, sorezore %3d o uketorimasu."
+		role="NPC"
+		nextReplies="Dynamic00_plYes0 Dynamic00_plNo0" />
+</DialogsResource>
