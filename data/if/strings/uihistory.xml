@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="windows-1251" standalone="yes" ?><!-- edited with XML Spy v4.2 U (http://www.xmlspy.com) by Morgoth (Targem) -->
+<resource>
+	<string
+		id="r1_Firsy_History_00"
+ 		value="Koko suu-nen, chichi to watashi wa furui torakku de hanbai-yoo no yasai o yuujini ni hakonde imasu. Watashi jishin wa kuruma no unten ga kanari joozudesuga, kyoo made chichi wa watashi ga hitori de machi ni iku koto o yurushite kuremasendeshita. Shikashi kyoode wa, subete ga watashi ni yurusa rete iru yoodesu. Sore wa watashi no tanjoobi no seida to omoimasu. Chichi wa watashi ni nanika sapuraizu o yooi shite ite, hitorininaritai to omotte imasu. Saa, dai tokai no seikatsu ni tobikonde mimasu!" />
+
+	<string
+		id="r1_Yes_Lisa_History_01"
+		value="Machi kara sorehodo tookunai tokoro de, yoki senu deai ga okorimashita. Hayai kuruma ni notte iru shinsetsuna on'nanoko ga watashi ni tasuke o motomete kimashita. Kanojo no gaiken to taido kara handan suru to, watashi wa kanojo ga toozoku to kankei shite iru node wanai ka to utagattaga, watashi wa dooi shita. Hito o shinrai suruhitsuyoogaaru to iu kotoda. Sore ni, mawari o an'nai shite hoshii to tanomu no mo warui kotode wa nai to omoimasu." />
+
+	<string
+		id="r1_No_Lisa_History_02"
+		value="Machi kara sorehodo tookunai tokoro de, yoki senu deai ga okorimashita. Hayai kuruma ni notte iru shinsetsuna on'nanoko ga watashi ni tasuke o motomete kimashita. Kanojo no gaiken to taido kara, kanojo ga sanzoku to kankei ga aru koto wa sugu ni wakarimashita. Mochiron, watashi wa kanojo no ayashii nimotsu no yusoo ni wa kyooryoku shimasendeshitaga, akuma wa zenryoo de, nagaiai watashi no tamashii ni shizumimashita. Shikashi, sorosoro hondai ni torikakaranakereba, ooku no jikan o muda ni shite shimaimasu." />
+
+	<string
+		id="r1_Three_Villages_00"
+		value="Shikashi, tonikaku chichi wa watashi ni nani o iu tsumoridatta nodeshou ka? Mookaeru jikandesu, soodenaito moosukoshi okurete shimaimasu." />
+
+	<string
+		id="r1_First_Felix_Meet_00"
+		value="Kuso sanzoku-me! Inochi wa mattaku arimasen. Watashi no torakku wa furuikedo taikyuu-sei ga takakute yokattadesu! Ferikusu no sanzoku o taoshimashitaga, doo iu wake ka karera no fukushuu no odoshi ga watashi no kokoro ni shimikomimashita." />
+
+	<string
+		id="r1_After_Gloohoe_To_Ben_01"
+		value="Sudeni tooku kara watashi no furusato no mura no ue ni kemuri ga miemashita. Nanimono ka ga muboobina juumin o osoi, mura o yakiharau to iu osoroshii koto ga okorimashita. Chichioya wa jimen ni yokotawatte ite,-ryoku ga nukete imashita. Kare wa saigo no doryoku de, seijin no okurimonodearu ribon o musunda hako o watashi ni tewatashi,`ben dorosseru o mitsukete' to iinagara iki o hikitotta. Watashi wa shisha o maisoo shi, tsugini jibun no jinsei o doosureba yoi ka wakarazu, torakku no unten-dai ni nori,-bako o akemashita. Soko ni wa chichi ga tameta chokin to, hikaru enban-gata no shikake, soshite watashi ni ateta fuusho ga haitte ita." />
+
+	<string
+		id="r1_After_Gloohoe_To_Felix_02"
+		value="Sudeni tooku kara watashi no furusato no mura no ue ni kemuri ga miemashita. Nanimono ka ga muboobina juumin o osoi, mura o yakiharau to iu osoroshii koto ga okorimashita. Dare ga, naze kono zangyaku kooi o okonatta no ka o shiru mono wa dare mo ikinokotte imasen. Shikashi, dare o semerubeki ka wa wakatte imashita. Akuyaku ferikusu wa yakusoku o mamotta… watashi ni nokosa reta koto wa tada hitotsu, fukushuuda. Watashi wa mina o toozoku to tatakau yoo ni sodatemasu!" />
+
+	<string
+		id="r1_After_Letter_00"
+		value="Soko ni kaka rete iru koto o shinjirunara, watashi wa yooshideari, watashi no hontoo no chichioya wa tanken-ka no Iwan guodatta to iu koto ni narimasu. Kare ni nokosa reta no wa watashi no kuruma to yooto fumei no disuku dakedeshita. Iwan jishin wa nan-nen mo mae ni shissoo shi, osoraku nakunattadeshou. Watashinojinsei wa subete hikkurikaerimashita. Tachinaoru tame ni wa, mi no chichioya ni tsuite subete o shirabenakereba narimasen! Moshi kare ga ikite irunara, dokoni ite mo watashi wa kare o mitsukete, naze watashi o suteta no ka o shirabemasu. Mazu saisho ni ben dorosseru to hanasu hitsuyoo ga arimasu." />
+
+	<string
+		id="r1_South_About_Felix_00"
+		value="Ferikkusu wa koko de nagaiai katsudoo shite iru koto ga hanmei shimashita. Kare wa noomin-tachi to nanrakano kyootei o musubi,`hogo' to hikikae ni toozoku-tachi ni mitsugimono o shiharau yoo ni shita. Kono shisutemu wa, Deaf ga hakai sa reru made seijoo ni kinoo shimashita. Hitobito wa ima demo ferikkusu ni taishite koe o ageru koto o osorete imasuga, watashi wa nantoka tasuke o eru koto ga dekimashita. Hitori no zen'nin ga teikyoo shita kyooryokuna buki no tasuke o karite, watashidake ga aku no su o jooka suru koto ga dekimasu." />
+
+	<string
+		id="r1_Before_Ben_00"
+		value="Gutaitekina koto o shiru made ni, nando mo ryokoo shinakereba narimasendeshita. Watashi no umaresodatta basho igai ni, hoka no toshi ya mura ga aru to wa yosoo shite imasendeshita. Saigo ni, ben no koya e no michi o oshiete moraimashita." />
+
+	<string
+		id="r1_After_Ben_00"
+		value="Roojin wa watashi no naka ni minareta tokuchoo o miidashi, watashi o jibun no mono to shite ukeiremashita. Kare no ie wa kimyoona monode ippaideshita. Watashi ga ko no hanashi o suru to, ben wa sukoshi kangaete, watashinochichi wa yaku 20-nen mae ni hontooni shissoo shita noda to iimashita. Kare wa hijoo ni juuyoona mono o mitsukemashitaga, sore ga anzendearu to kakushin suru made wa darenimo sore ga nandearu ka o hanashitaku arimasendeshita. Ben wa mata, chichioya ga dono yoona hitodeatta ka, soshite tanken-ka to shite no seikatsu ga dono yoona monodatta ka ni tsuite sukoshi hanashimashita. Sono disuku o mite, kare wa chichioya ga hon no yoona mono o yomikaki dekiru kikai o motte ita koto o omoidashimashita. Kare wa chichioya ga katsute sunde hataraite ita basho o yubisashita." />
+
+	<string
+		id="r1_Kill_Felix_00"
+		value="Sanzoku no kyoten wa haikyo to natte ori, ferikusu wa shippo o ashi no ma ni hasande toosoo shita. Kare wa chichi no shi ni nani no kankei mo nakattanode, reikoku ni kare o utsu yuuki wa arimasendeshita. Kare ga don'nani gokuaku hitodeatte mo, watashi ga kare o sabaku no wa watashide wa arimasen. Roosha o horoboshita akuyaku wa, korera hitonigiri no akuyaku yori mo haruka ni kyooryokuna karyoku o motte imashita. Watashi jishin mo karera no ajito o shuugeki shita toki ni sono kotoni kidzukimashitaga, riidaa no kotoba wa watashi no suisoku o uradzukeru monodeshita. Osoroshii hanzai no yuiitsu no mokugeki-sha wa, kita kara no gesuto, Risadeshita. Soodesune, watashi wa kanojo o mitsukete subete o shirabemasu." />
+
+	<string
+		id="r1_Father_Room_00"
+		value="Ben'noie ga watashi ni totte kimyoo ni omoeta to shite mo, chichi no ie wa tadatada odorokubeki monodeshita. To wa ie, watashi ni totte chichi no ie ni michita kimyoona mono wa subete yakunitatanai gominoyamadeshita. Seimei no chookoo o shimeshita kuruma wa ichi-dai mo arimasendeshita. Kore wa, kowareta mado ya amamori suru yane kara shimetta kuuki ga haitte kuru koto ga gen'indearu kanoosei ga arimasu. Hitotsudake watashi no chuui o hiita koto ga arimashita. Ienomawari o aruite iru to, watashi no shita no ita ga ware, mezurashii katachi no omamori ga oka rete iru kakure basho o hakken shimashita." />
+
+	<string
+		id="r1_About_Lisa_After_Base_00"
+		value="Kono shoojo wa sorehodo tanjunde wa arimasen. Kanojo no tomodachi wa kyooaku-han de ippaidesu. Bakuzento shita gimon ni sainama rete imasu. Watashi wa sono ashiato o nan-kiro mo tabi shite kimashitaga, dooyara sore ga don'na torina no ka rikai shi hajimete iru yoodesu." />
+
+	<string
+		id="r1_Dialod_With_Lisa_00"
+		value="Kono tsumi no nai ikimono o doo yatte utagau koto ga dekimasu ka? Kanojo wa tada kowakute, dekiru kagiri tasuke o motomemashita. Kawaisoona koto ni, aruzan no bookundearu osorubeki akuseru ga sono eikyoo-ryoku o azuma ni hirogeru koto o ketsui shita to tsuge rareta. Kare no yoohei-tachi wa kyoohaku seisaku o tsuikyuu shi hajime, watashi no furusato no mura wa sono gisei to narimashita. Fukushuu suru made yasumanai yo. Nanto shite mo akuseru ni tadori tsuku!" />
+
+	<string
+		id="r1_See_Tonnel_00"
+		value="Yoohei-tachi wa ton'neru o kayotte idoo shimasuga, sono iriguchi wa asugarudo kara sorehodo tookunai tokoro ni arimasu. Koko wa kanari kiken'na bashodesu. Jimoto no hitobito wa sanzoku to kyooryoku shi, torofii o kattari buki o uttari shite okane o kaseide iru node wanai ka to omoimasu." />
+
+	<string
+		id="r2_After_Tonnel_00"
+		value="Nantoka ton'neru no kagi o te ni ire, heddoraito o tayori ni suujikan idoo shita nochi, mattaku atarashii basho ni iru koto ni kidzukimashita." />
+
+	<string
+		id="r2_Find_Lisa_00"
+		value="Jimoto juumin to hajimete atta nochi, koko no dootoku wa watashitachi no chiiki hodo bunmei-ka sa rete inai koto ni kidzukimashita. Shikashi, Risa ga aruzan o kyoten to suru sanzoku no riidaadearu akuseru no joshudearu koto o shiru koto ga dekimashita. |Dooyara, kono akuseru wa kesshite kantande wa arimasen. Kare wa sukaaretto doon to yoba reru guruupu o un'ei shite imasuga, sore wa tan'naru kyooaku-han no shuudande wa arimasen. Karera wa riburiumu to honkaku-tekina sensoo o kurihirogete ori, sarani soreijoo no koto o mezashite iru yooda. Watashihitoride wa tootei tadoritsuke-soo ni arimasen." />
+
+	<string
+		id="r2_Find_Axel_00"
+		value="Jimoto juumin to hajimete atta nochi, koko no dootoku wa watashitachi no chiiki hodo bunmei-ka sa rete inai koto ni kidzukimashita. Kono konran no naka de akuseru ni tadoritsuku no ga yori kantan ni narimasu. |Teisei. Koko ni wa seifu ga sonzai shi, ringoku to no hontoo no sensoo sae okotte iru koto ga hanmei shimashita. Mondai wa, akuseru ga masani sono shuu no riidaadeari, sonomama kare ni chikadzuku hoohoo ga nai to iu kotodesu. Atama o hatarakaseru hitsuyoo ga arimasu." />
+
+	<string
+		id="r2_SNG_00"
+		value="DTR ni sanka shimashita. Dokuritsu toshi rengoo to wa, riburiumu no juunin ga mizukara o yonde iru monodesu. Karera ga shinryaku-sha to tatakau no wa taigimeibundearu yoo ni watashiniha omoemasu. Sore ni, akuseru to iu kyootsuu no teki ga iru." />
+
+	<string
+		id="r2_AR_00"
+		value="Watashi wa, akuseru ni tootatsu suru mottomo kakujitsuna hoohoo wa, kare no sukaaretto doon-gun no heishi no hitori ni naru kotoda to kesshin shimashita. Nokotte iru no wa, shiki-kan no sonkei o atsume, shoo ni nomineeto sa reru koto dakedesu. Soshite, watashi ga akuseru ni chokusetsu atta toki, kare wa watashi kara nigemasen." />
+
+	<string
+		id="r2_Before_Axel_00"
+		value="Masani kore ga sensoodatta. Tsuneni chokusetsuteki katsu oopundearu to wa kagirimasenga, tsuneni hakai-tekidesu. Soshite,-go de kookai suru kamo shirenai koto o takusan shinakereba narimasendeshita. Shikashi, ima wa ginen ni fukette iru baaide wa arimasen. Akuseru wa moosugu watashi no te no naka ni arimasu." />
+
+	<string
+		id="r2_After_Axel_01"
+		value="Riidaa no HY o yabutta nochi wa, totemo kuyashikattadesu. Watashi wa yaban hito ya zan'nin'na satsujin-sha to no deai o kitai shite imashitaga, watashi no me no mae ni wa sekai no unmei o anjiru satori o aita otoko ga tatte imashita. Soshite, watashi wa kare no yarikata ni wa dooi dekimasendeshitaga, hankan o daka seru koto wa arimasendeshita. Sarani, kitsune ga kare ni ataeta osoroshii hanzai ni tsuite, kare wa mujitsudearu koto ga hanmei shita. Akuma ga watashitachi futari o damashita koto ga hanmei shimashita. Kanojo wa batsu o nogareru koto wanaidarou." />
+
+	<string
+		id="r2_After_Axel_02"
+		value="Riidaa HY o yabutta nochi wa, totemo kuyashikattadesu. Watashi wa yaban hito ya zan'nin'na satsujin-sha to no deai o kitai shite imashitaga, watashi no me no mae ni wa sekai no unmei o anjiru satori o aita otoko ga tatte imashita. Soshite, watashi wa kare no yarikata ni wa dooi dekimasendeshitaga, hankan o daka seru koto wa arimasendeshita. Sarani, Risa wa kare no shiranai tokoro de koodoo shimashita." />
+
+	<string
+		id="r2_Lisa_After_Axel_01"
+		value="Doko o sagaseba yoi no ka ga wakari, kaihoo-sha to shite no hyooban mo etanode, ato wa chikaku no doko ka ni kakurete iru kitsune o mitsukeru tame ni tekisetsuna hito ni ikutsu ka no shitsumon o suru dakedeshita. Watashi ga kanojo ni oitsuita toki, kanojo wa nantoka sookoosha ni tobikomi, watashi no shitsumon ni taisuru kotae o eru mae ni watashi ni fusawashii kyohi han'noo o shimeshimashita." />
+
+	<string
+		id="r2_Lisa_After_Axel_02"
+		value="Watashi wa riburiumu no eiyuu ni nattanode, kitsune o tsuiseki shi, saishuutekini kanojo to sotchoku ni hanasu koto wa muzukashii kotode wa arimasendeshita. Kanojo wa nan-nen mo mae ni shissoo shita yuumeina tanken-ka Iwan guo o sagashite iru koto ga hanmei shita. Sonomichi wa kanojo o watashi no furusato no mura ni michibikimashitaga,-ji sudeni ososhideshita. Michi no satsujin-sha ga shi no sabaku kara yattekite, subete no shooko o inmetsu shimashita." />
+
+	<string
+		id="r2_With_Lisa_To_Oracul_01"
+		value="Tatoe chinohate made itte mo, kanarazu han'nin o oitsukimasu. Shikashi, shi no sabaku de ikinokoru koto ga dekita hito wa dare mo imasen. Kita no shima no shintaku-sha wa subete no shitsumon no kotae o shitte iru to iwa rete imasu. Sorede Risa to watashi wa kare no tokoro e ikimasu. Hai, kanojo wa watashitoisshoni ikimashita. Kanojo wa Iwan ni kansuru juuyoona joohoo ga fukuma rete iru arushuno disuku o motte imashitaga, shoojo wa sore o kaidoku dekimasendeshita." />
+
+	<string
+		id="r1_Before_Desert_00"
+		value="Middogarudo no masutaa-tachi wa atarashii soochi no kumitate o yorokonde tetsudatte kuremashitaga, hitsuyoona zairyoo ga arimasendeshita. Maa, watashi ga sagashita no wa kore ga hajimetede wa arimasen. Hitsuyoona mono wa nani no mondai mo naku te ni ire, shigoto no daikin o shiharattanode, hateshinaku tsudzuku sabaku no kunan ni mo taeru koto ga dekiru kuruma no shoyuu-shadearu koto ga wakarimashita." />
+
+	<string
+		id="r1_Lisa_Thief_00"
+		value="Watashi no yorokobi wa nagaku wa tsudzukanakatta. Furui yuujin no Risa ga ryoohoo no disuku to Kaimon no kagi o nusumimashita. Senro wa nishi ni tsudzuite imasu. Sokode watashi wa akuma ni oitsuki, naze kanojo ga watashidake ni kachi no aru mono o hitsuyoo to suru no ka o shirabemasu." />
+
+	<string
+		id="r1_After_Boss1"
+		value="Watashi wa kono yoona kaibutsu ga sekai ni sonzai suru to wa yosoo shite imasendeshitaga, kyoo watashi wa sonoochi no 1-biki ni chokusetsu au kikai ga arimashita. Kekkyokunotokoro, Kaimon e no michi wa keibi sa rete imashitaga, nando ka fumitsuke rareru node wanai ka to omoimashitaga, watashi wa nantoka anchisukiru o taosu koto ga dekimashita." />
+
+	<string
+		id="r3_After_WaterGate_1"
+		value="Yooyaku kaigan ni toochaku suru to, sugu ni Kaimon ga me ni hairimashita. Sore wa kengona jimen no hashi ni tatsu soodaina kenzoobutsudeshita. Chikadzuite sukoshi atatamatta amyuretto o zujoo ni kakageta shunkan, suichuu kara kyodaina sakana ga yukkuri to sugata o arawashita. So no yoona kaibutsu wa akumu no nakade shika yumemiru koto ga dekimasen. Sakana wa watashi no torakku ga 2-dai dooji ni hairu hodo no kuchi o ake, watashi o-chuu ni manekiireru ka no yoo ni katamarimashita. Kyoofu o norikoete, watashi wa kuruma de hashi o watatte sakana no haranouchi ni hairimashita. Nakanihairu to sugu ni,-guchi ga batan to shimari, kaibutsu ga mizushibuki to gooon o tatete umi no fuka-sa ni tobikomu no o kanjimashita. |Kono sakana wa watashi no torakku to onajiyoona ookina kikaidearu koto ga hanmei shimashita." />
+
+	<string
+		id="r3_JustGo_1"
+		value="Atarashii kaigai chiiki wa hijoo ni mezurashii koto ga hanmei shimashita. Kyodaina kigi ya shimetta omoi kuuki ga genshitekina mono o omoidasa semashita." />
+
+	<string
+		id="r3_Fist_Fight_1"
+		value="Janguru o tooru yuiitsu no michi wa sugu ni watashi o chiisana shuuraku ni michibikimashita. Tashika ni, sokode wa karera wa amari shinsetsu ni watashi o mukaete kuremasendeshita. Sorede, watashi wa hangeki shite, yori shinsetsuna oyaji o sagasanakereba narimasendeshita. |Kimyoona koto ni, 1-tsu wa sugu ni mitsukarimashita. Karera wa torakku ni notta watashi o marude kazoku no yoo ni ukeire, koogeki-tekina doruido soo to notatakai ni kyooryoku shite kureru to mooshidete kuremashita." />
+
+	<string
+		id="r3_Uluk_LureDruid"
+		value="Watashi wa sore ni dooi shimashitaga, machibuse to iu kangae wa amari sukide wa arimasendeshita. Watashi no hooshi to hikikae ni, kikai suuhai-sha-tachi wa watashi ni shintaku e no michi o oshiete kuremashita." />
+
+	<string
+		id="r3_Uluk_NoLureDruid"
+		value="Watashi wa kono chinamagusai jiken de karera o tasukenai to kesshin shi, mori no shuto Sesu ni un tameshi ni ikimashita." />
+
+	<string
+		id="r3_Fist_Friendly"
+		value="Janguru o tooru yuiitsu no michi wa sugu ni watashi o chiisana shuuraku ni michibikimashita. Tashika ni, sokode karera wa watashi o amari shinsetsu ni mukaete kuremasendeshitaga, watashi wa kono gokai o nantoka gomakashimashita. Orakuru e no michi o shitte iru no wa Sesu ni sumu aakudoruido dakeda to iu koto ga hanmei shitanode, kare o sagashi ni ikimashita." />
+
+	<string
+		id="r3_Set_HelpMainDruid_1"
+		value="Dai doruido wa watashi ni muzukashii ninmu o ataemashitaga, suunin no kootetsu no kaibutsu ga watashi no shoori e no ishi o uchikudaku koto wa dekimasendeshita. Sorekara watashi wa roojin no shinrai o ete, saishuutekini shintaku no basho o tsukitomeru tame ni, kono kami ni misute rareta chiiki o tabi shinakereba narimasendeshita." />
+
+	<string
+		id="r3_Oracle_FirstTime"
+		value="Shintaku ni tsuite no kaiwa ga atta toki, watashi wa yama no choojoo ni aru inja no koya o soozoo shimashitaga, watashi ga mita mono wa majutsu-shi ya kenja no monogatari to wa mattaku nite imasendeshita. Kiken'na enerugii de kagayaku fukusuu no too ga kuuchuu de tsunagatte ori, sono nakaniha akiraka ni kodai no senshi ni yotte oogon'noori ni tojikome rareta kaibutsu ga iru. Kore ga watashi to orakuru to no saisho no miitingu no yoosudesu." />
+
+	<string
+		id="r3_Oracle_HelpHim_1"
+		value="Orakuru wa joohoo to hikikae ni kare ni hooshi o yookyuu shita. Watashi wa dooi suru shika arimasendeshita." />
+
+	<string
+		id="r3_Oracle_DecodeDisc1"
+		value="Watashi wa shintaku no ninmu o suikoo shinagara kurushimanakereba narimasendeshita. Shintaku wa, chichi ga disuku ni kaita mono o yomu koto ga dekiru ga, sore wa watashi ga chichi no tame ni nanrakano gishiki o okonatta baai ni kagira reru to iimashita. Tokuni shima ni wa kyoomibukai basho ga takusan attanode, muryoo no tasuke o ate ni suru koto sae dekimasendeshita." />
+
+	<string
+		id="r3_Oracle_NeedDisc2"
+		value="Orakuru ga watashi kara disuku o ubatta toki, watashi wa nani ga akiraka ni naru no ka o kitai shite katamarimashita. '2-Mai-me no disuku o soonyuu shite kudasai' to iu mushinkeina koe ga kikoeta toki no watashi no shitsuboo o soozoo shite mite kudasai. 1Tsu shika mottenakatta! Kore ga watashi ga chiisana mado de, kantooshi ya hiwaina kotoba o hasaminagara itta kotodesu. Watashi no doryoku wa subete mudadeshita! Orakuru wa shizuka ni watashi ni, kono aitemu o doko kara teniireta no ka, soshite sono tasuke o karite nani o shirabeyou to shite ita no ka o tazunemashita. 2-Mai-me no disuku wa chichi no mochimono no naka ni ari, watashi ga kantan ni mitsuke rareru yoo ni kakusa rete iru hazudesu. Watashi wa sugu ni, watashi ga uketsuida furui kuruma no koto o omoidashimashita." />
+
+	<string
+		id="r3_Oracle_BringDisc2"
+		value="Disuku to amyuretto o kaeshitanode, watashi wa tsuini orakuru ni tootatsu shi, chichi no nikki o kaidoku suru koto ga dekimashita. Tsuini watashi wa kare no koe o kiki, kare ga nan'notameni iki, nani o motomete ita no ka o shirimashita. Soshite mottomo juuyoona koto wa, kare no michi ga juuyoona soochi o motomete sabaku o kayotte tsudzuite iru koto o hakken shita kotodesu. Chichi wa nikki o amarini mo kakushite itanode, sore wa totemo himitsudeshita. Soshite, chichi ga, moo hikikaesenai nodeareba, watashi ni korera subete no kotoba o kiite morai, chichi ga shitte iru koto o shitte moraita gatte ita koto ni mo kidzukimashita. Otoosan o mitsukenakereba narimasen!" />
+
+	<string
+		id="r3_v2_Uluk_FirstTime_1"
+		value="Janguru o tooru yuiitsu no michi wa sugu ni watashi o chiisana shuuraku ni michibikimashita. Karera wa torakku ni notta watashi o marude kazoku no yoo ni ukeire, koogeki-tekina doruido soo to notatakai ni kyooryoku shite kureru to mooshidete kuremashita." />
+
+	<string
+		id="r3_v2_LisaDisc1"
+		value="Orakuru wa Risa no disuku ni nani ga kaka rete iru ka o yomitoru koto ga dekimasendeshitaga, sabaku o oodan suru no ni yakudatsu soochi no e ga fukuma rete iru koto wa machigai arimasen." />
+
+	<string
+		id="r3_v2_BringDisc2"
+		value="2-Banme no disuku ga modotte kitanode, orakuru ni modotte Iwan no nikki o kaidoku suru koto ga dekimashita. Ato wa sunahama ni iku tame ni hitsuyoonamono o subete atsumeru dakedesu." />
+
+	<string
+		id="r4_AfterSomeTimeTravel"
+		value="Nagai tabi no hibi de, watashi wa doko ni demo aru suna to shakunetsu no shiroi taiyoo ni totemo unzari shite itanode, oajia no juumin no nendo no juukyo ga me no mae ni arawareta toki, sugu ni wa me o shinji raremasendeshita. |Shikashi, soko ni sumu hitobito wa kimyoodesu. : Karera wa tokiniha yuukoo-tekidesuga, tokiniha senaka ni naifu o tsukitsuketa garimasu. Soshite odorokubeki koto ni, daremoga nanika ni isogashi-soo ni shite iru no ni, nanika ni tsuite ikkanshite hanasu koto ga dekiru hito wa dare mo imasen. Zen'in no kioku ga ushinawa rete iru yoona ki ga suru." />
+
+	<string
+		id="r4_KnownAboutBuhara"
+		value="Watashi wa, doko ka ni kioku o mamoru hito no mura ga aru koto o hakken shimashita. Dooyara karera wa sore o roojin to yonde iru yoodesu. Watashi wa soko ni itte, sukunakutomo hitori no matomona hito o mitsukenakereba narimasen. Koko de jissai ni nani ga okotta nodeshou ka? Achikochi ni hakai no ato ga..." />
+
+	<string
+		id="r4_FindBuhara"
+		value="Kuroo shinagara mo gaadian no mura no basho o tsukitometa. Watashi wa kono basho o sugu ni wa mitsukeru koto ga dekizu, kyodaina-sen no honegumi ni kakoma reta sabaku de mayotta ga, sono shoyuu-sha no chuui ni keii o arawashita. Naze roojin ga kakureru hitsuyoo ga aru no ka ?? wa akirakade wa arimasen ka?" />
+
+	<string
+		id="r4_TalkWithBuhares"
+		value="Watashi no hoomon wa Buhara zentai ni fuan o ataeta. Shikashi, kioku no ban'nin-tachi wa watashi ga karera ni totte kyooide wanai koto ni kidzuki, kurai hanashi o shimashita: |Nan'nen mo zen, shuui no subete no mura no juumin wa ki ga kurutta yoodeshita. Karera wa koroshi aimashitaga, sonogo nani o shita ka oboete imasendeshita. Kimyoona koto ni, Buhara no roojin-tachi wa tsuneni koogeki no kyoofu ni obienagara kurashite ita nimokakawarazu, kono koogeki wa eikyoo o ataenakatta. Etainoshirenai akuyaku wa sonzai sezu, jibun-tachi ga tsukutta mono wa ningen jishin ga hakai suru to iu koto o shitta no wa shoogekideshita." />
+
+	<string
+		id="r4_AfterAtackToBuhars"
+		value="Dooyara, mura ga kore hodo umaku kakusa rete ita no wa toozen no kotodeshita. Watashi ni tsudzuite gun no soobi ga toochaku shi, taihoo de Buhara ni happoo shimashita. Watashi wa komatte iru roojin-tachi o hanatte oku koto wa dekimasendeshita. Roosha no hakai no kioku wa mada namanamashikatta nodesu. Watashi wa koogeki o gekitai shi, senjoo no juumin o hinan sa seru no ni kyooryoku shimashita. Sono orei ni, chichi ni nita otoko ga tashika ni mura o kayotta koto o shirimashita. Kare wa nanika o sagashite azuma e mukaimashita. Jaa, soko ni ikou ka na! " />
+
+	<string
+		id="r4_LisaBecameCrazy"
+		value="Risa wa zutto nanika ga machigatte imashita. Kanojo wa kinchoo shi, utagaibukaku nari, tsuini wa watashi ni happoo shimashita. Kore wa watashi no ningensei ni taisuru hontoo no shiren to narimashita. Shikashi, watashi wa kanojo ga uragirimonode wa naku, kono basho ga tan'ni kanojo no seishin ni ookina eikyoo o ataete iru koto ni kidzukimashita. |Watashitachi ga Buhara ni tsuita toki, shoojo wa kanzen ni ishiki o ushinaimashita. Sokode watashi wa kanojo o machi no ta no juumin to issho ni hondo ni okuri, ben ni kanojo no sewa o makasemashita. Soshite kare wa soosaku o tsudzuketa." />
+
+	<string
+		id="r4_FindFatherCar"
+		value="Sugu ni, juugeki-sen de sonshoo shita to omowa reru, suna ni oowa reta furui sookoosha o mitsukemashita. Nakaniha untenshu no ikotsu wa nakattaga, chichi no namae ga haitta jaketto ga mitsukatta. Ima, watashi wa kare ga koko ni ita koto o kakushin shimashita! Kare wa mokutekichi ni ikitakute arukimashita. |Mata, koko ni nokoshite o Kuni wa mottainai buhin o kuruma kara ikutsu ka torihazushimashita. Sore ni, sorera wa watashi ni chichi no koto o omoidasa semashita. Ima, watashi wa jibun ga tadashii michi o susunde iru koto o kakushin shite imasu." />
+
+	<string
+		id="r4_AfterMilitaryBase"
+		value="Kyoojin no guntai to taiji suru tame no junbi wa nani mo dekite imasendeshita. Yuuseina tekigun to no shoototsu de hinshi ni natta watashi wa, omoigakenai mikata ni yotte sukuwa reta. Suna ni umoreta kenkyuu kichi to sono kimyoona shoyuu-sha ga, watashi ni totte mezurashii inshoo o nokoshita." />
+
+	<string
+		id="r4_NearTarelka"
+		value="Tsugi no sakyuu o koeta toki, watashi wa osoroshii kookei o me ni shimashita. Akiraka ni jinkoo-teki ni tsukura reta marui oka no mawari ni, ooku no hito ga ugokazu ni tatte ita nodesu. Karera ga ikite iru ka doo ka wa wakarimasendeshita. Naze karera ga koko ni atsumatta no ka wakarimasendeshita. Shikashi, watashi wa Iwan Guo mo sono ichi-rida to kanjimashita. Watashi no sakebigoe ya sonohoka no shingoo ni dare mo han'noo shimasendeshita. Soshite sono-joo ni, toketa haiiro no kinzoku no kyodaina enban ga burasagatte imashita." />
+
+	<string
+		id="r4_AfterTarelka"
+		value="Kono en no chuushin kara hasse rareru chikara ga, watashi o tasuu-ha ni kuwawaru yoo temaneki shite iru no o kanjimashita. Watashi wa kanojo ni teikoo shite kichi ni modoru koto ga dekimashita. Kagaku-sha wa kodai sekai o hakai shita dai sanji no gen'in ni tsuite watashi ni katatta. Hitobito wa, imi ga rikaidekinai monogoto ni kainyuu subekide wa arimasen... Taiko no mukashi ni kagaku-sha no te ni yotte kaishi sa reta ishitsu no mekanizumu wa, ima mo kinoo shite ori, chikyuu no taiki o osen shite imasu. Kono kyooki o tomeru hoohoo ga aru hazuda. Iwan guo wa dooyara sudeni eirian no tekunorojii ni sooguu shite iru yooda. Kore ni tsuite wa ben dorosseru to hanashiau kachi ga arimasu." />
+
+	<string
+		id="r1_Before_Fight_Aliens"
+		value="Me ga aita. Jaakuna eirian no shinryaku-sha wa, sabaku ni setchi sa reta emittaa o shiyoo shite, hijindootekina niizu no tame ni chikyuu o kaete imasu. Shikashi, karera no honbu wa betsu no basho, seru-shi no chikaku ni arimasu. Kare no shigoto ni yotte hikiokosa reta kanshoo ni yori, orakuru wa kidoo heiki o seigyo suru koto ga dekimasen. Moshi watashi ga honbu no katsudoo o boogai suru koto ga dekireba, watashi no mikata no kikai butai ga shinryaku sentaa ni kaku koogeki o kaishi surudeshou." />
+
+	<string
+		id="r2_Before_Fight_Oracle"
+		value="Watashi wa eirian no hitori, karera ga mizukara o nieri to yobu karera ni kojin-teki ni aimashita. Kono saigai wa, renzoku shita hisan'na jiko ni yotte hikiokosa re, sono kekka, seibutsu no chikaku de doosa suru yoo ni sekkei sa rete inai mekanizumu ga sadoo shimashita. Nieri jishinde sura kare ni juubun chikadzuku koto wa dekinai. Shikashi, watashi wa ichido soko ni itte ikinokottanode, emittaa o tomeru koto ga dekiru koto o imi shimasu. Soshite, watashi wa sore o yarimasu!" />
+<!-- Потом добавим, когда будет переработано!!! -->
+	<string
+		id="r4_AfterTarelka2"
+		value="Kono en no chuushin kara hasse rareru chikara ga, watashi o tasuu-ha ni kuwawaru yoo temaneki shite iru no o kanjimashita. Watashi wa kanojo ni teikoo shite kichi ni modoru koto ga dekimashita. Kagaku-sha wa kodai sekai o hakai shita dai sanji no gen'in ni tsuite watashi ni katatta. Hitobito wa, imi ga rikaidekinai monogoto ni kainyuu subekide wa arimasen... Taiko no mukashi ni kagaku-sha no te ni yotte kaishi sa reta ishitsu no mekanizumu wa, ima mo kinoo shite ori, chikyuu no taiki o osen shite imasu. Watashi wa kono imawashii basho o, sono subete no kyoofu to tomoni hakai shinakereba narimasen. Orakuru wa osoraku, juubun ni kyooryokuna buki ga doko ni aru ka o shitte irudeshou." />
+
+	<string
+		id="r3_AfterKillMonster"
+		value="Watashi wa kono yoona kaibutsu ga sekai ni sonzai suru to wa yosoo shite imasendeshitaga, kyoo watashi wa sonoochi no 1-biki ni chokusetsu au kikai ga arimashita. Kekkyokunotokoro, orakuru shima e no michi wa keibi sa rete imashitaga, nando ka fumitsuke rareru node wanai ka to omoimashitaga, watashi wa nantoka anchisukiru o taosu koto ga dekimashita." />
+</resource>
