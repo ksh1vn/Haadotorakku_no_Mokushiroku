@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="windows-1251" standalone="yes" ?><!-- edited with XML Spy v4.2 U (http://www.xmlspy.com) by Morgoth (Targem) -->
+<resource><!-- controls captions -->
+	<string
+		id="btnSaveCfg"
+		value="Settei no hozon" />
+
+	<string
+		id="btnCancel"
+		value="Ideguchi" />
+
+	<string
+		id="checkFullScreen"
+		value="Furu sukuriin" />
+
+	<string
+		id="staticResolution"
+		value="Kaizoodo to iro shindo" />
+
+	<string
+		id="staticPlatform"
+		value="Bideo kaado" />
+
+	<string
+		id="staticScreenOptions"
+		value="Gamen settei" />
+
+	<string
+		id="checkWaterReflections"
+		value="Suimen no hansha" />
+
+	<string
+		id="checkStaticShadows"
+		value="Seitekina kage" />
+
+	<string
+		id="checkDynamicShadows"
+		value="Dainamikkuna kage" />
+
+	<string
+		id="staticShadowQuality"
+		value="Kage no shitsu" />
+
+	<string
+		id="staticShadowLow"
+		value="Hikui" />
+
+	<string
+		id="staticShadowHigh"
+		value="Takai" />
+
+	<string
+		id="staticFardistNear"
+		value="Tojiru" />
+
+	<string
+		id="staticFardistFar"
+		value="Haruka kanata" />
+
+	<string
+		id="staticFarDist"
+		value="Shinin hani" />
+
+	<string
+		id="staticShadowOptions"
+		value="Shadoo settingu" />
+
+	<string
+		id="staticMiscOptions"
+		value="Sonota no settei" />
+
+	<string
+		id="staticEffects"
+		value="Kooka" />
+
+	<string
+		id="checkSoundEnable"
+		value="Saundoon" />
+
+	<string
+		id="checkMusicEnable"
+		value="Ongaku wa on" />
+
+	<string
+		id="staticSoundOptions"
+		value="Saundo settei" />
+
+	<string
+		id="staticMusicOptions"
+		value="Ongaku settei" />
+
+	<string
+		id="staticSoundVolume"
+		value="Onryoo" />
+
+	<string
+		id="staticMusicVolume"
+		value="Ongaku no onryoo" />
+
+	<string
+		id="staticSoundLow"
+		value="Hikui" />
+
+	<string
+		id="staticSoundMedium"
+		value="Midiamu" />
+
+	<string
+		id="staticSoundHigh"
+		value="Takai" />
+
+	<string
+		id="staticMusicLow"
+		value="Hikui" />
+
+	<string
+		id="staticMusicMedium"
+		value="Midiamu" />
+
+	<string
+		id="staticMusicHigh"
+		value="Takai" />
+<!-- page names -->
+	<string
+		id="pageVideo"
+		value="Bideo" />
+
+	<string
+		id="pageInGame"
+		value="Kooka" />
+
+	<string
+		id="pageAudio"
+		value="Saundo" />
+<!-- application caption -->
+	<string
+		id="dlgMainCaption"
+		value="Settei" />
+<!-- warning dialogs -->
+	<string
+		id="dlgSaveCaption"
+		value="Kakunin" />
+
+	<string
+		id="dlgSaveText"
+		value="Settei o hozon shimasu ka?" />
+</resource>
