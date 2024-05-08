@@ -660,7 +660,7 @@
 	<string
 		id="quest_magic_thing1_diz"
 		locForm="0"
-		value="Kono fukakaina aatifakuto wa orakuru ni hijoo ni yoku au to omoimasu." />
+		value="Kono fukakaina aatifakuto wa Orakuru ni hijoo ni yoku au to omoimasu." />
 
 	<string
 		id="quest_magic_thing2_diz"
@@ -675,22 +675,22 @@
 	<string
 		id="quest_repair_robot1_diz"
 		locForm="0"
-		value="Kono soochi no doosa wa, orakuru ga kioku o torimodosu no ni yakudatsu hazudesu." />
+		value="Kono soochi no doosa wa, Orakuru ga kioku o torimodosu no ni yakudatsu hazudesu." />
 
 	<string
 		id="quest_repair_robot2_diz"
 		locForm="0"
-		value="Tsuika no mojuuru o setsuzoku suru to, orakuru no kinoo ga kakuchoo sa remasu. Korera no muzukashii kotoba ga nani o imi suru to shite mo." />
+		value="Tsuika no mojuuru o setsuzoku suru to, Orakuru no kinoo ga kakuchoo sa remasu. Korera no muzukashii kotoba ga nani o imi suru to shite mo." />
 
 	<string
 		id="quest_repair_robot3_diz"
 		locForm="0"
-		value="Bi choosei wa, memori o orakuru ni kaesu saishuu dankaidesu. Kono debaisu wa soosa o jikkoo suru hitsuyoo ga arimasu." />
+		value="Bi choosei wa, memori o Orakuru ni kaesu saishuu dankaidesu. Kono debaisu wa soosa o jikkoo suru hitsuyoo ga arimasu." />
 
 	<string
 		id="quest_start_father_letter_diz"
 		locForm="0"
-		value="&quot;Musuko yo, anata ga kono tegami o yonde iru to iu koto wa, watashi ga modotte kite anata o sodateru koto wa dekinakatta to iu kotodesu. Piitaa ga kono shigoto de subarashii shigoto o shita koto o watashi wa shitte imasu. Totemo wakakute chikaradzuyoi anata o miru to, watashi no kokoro wa namida o nagashimasu. Anata ga seichoo suru toki ni soko ni i rarenakatta koto de jibun o semete imasu. Soshite, kore wa watashi no osoroshii batsudesu. Shikashi,-soodenakereba watashiniha dekinakatta koto o shitte kudasai. Watashiniha shoogai ni wataru shigoto ga matte imasu. Jibun no keikaku o kanryoo suru koto ni yotte nomi, watashi wa ochitsuite ningen ni modotta yoo ni kanjiru koto ga dekimasu. Soodenakereba... watashiniha ikiru kachi ga nai. Kono tegami wa shazaidesu. Dekireba yurushitekudasai. Anata wa itsumo watashi no kokoronouchi ni imasu, musuko.&quot;" />
+		value="&quot;Musuko yo, anata ga kono tegami o yonde iru to iu koto wa, watashi ga modotte kite anata o sodateru koto wa dekinakatta to iu kotodesu. Piitaa ga kono shigoto de subarashii shigoto o shita koto o watashi wa shitte imasu. Totemo wakakute chikaradzuyoi anata o miru to, watashi no kokoro wa namida o nagashimasu. Anata ga seichoo suru toki ni soko ni i rarenakatta koto de jibun o semete imasu. Soshite, kore wa watashi no osoroshii batsudesu. Shikashi, soodenakereba watashiniha dekinakatta koto o shitte kudasai. Watashiniha shoogai ni wataru shigoto ga matte imasu. Jibun no keikaku o kanryoo suru koto ni yotte nomi, watashi wa ochitsuite ningen ni modotta yoo ni kanjiru koto ga dekimasu. Soodenakereba... watashiniha ikiru kachi ga nai. Kono tegami wa shazaidesu. Dekireba yurushitekudasai. Anata wa itsumo watashi no kokoronouchi ni imasu, musuko.&quot;" />
 
 	<string
 		id="quest_potato_diz"
