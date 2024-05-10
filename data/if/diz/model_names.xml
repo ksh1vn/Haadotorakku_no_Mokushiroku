@@ -98,452 +98,452 @@
 	<Item
 		id="cooling_system_guns_and_firing_rate_guns"
 		locForm="0"
-		value="Система &quot;Гномон&quot;" />
+		value="Shisutemu &quot;Gunomon&quot;" />
 
 	<Item
 		id="cooling_system_energy_and_firing_rate_energy"
 		locForm="0"
-		value="Комплекс &quot;Алгор&quot;" />
+		value="Fukuzatsuna &quot;Algor&quot;" />
 
 	<Item
 		id="cooling_system_explosion_and_firing_rate_explosion"
 		locForm="0"
-		value="Система &quot;Самум&quot;" />
+		value="Shisutemu &quot;Samum&quot;" />
 
 	<Item
 		id="firing_rate_guns_and_add_damage_guns"
 		locForm="0"
-		value="Электромеханический комплекс &quot;Сфено&quot;" />
+		value="Denki kikai fukugoo-tai &quot;Sfeno&quot;" />
 
 	<Item
 		id="firing_rate_energy_and_add_damage_energy"
 		locForm="0"
-		value="Магнитно-оптическая система &quot;Квазар&quot;" />
+		value="Jikikoogaku shisutemu &quot;Quasar&quot;" />
 
 	<Item
 		id="firing_rate_explosion_and_add_damage_explosion"
 		locForm="0"
-		value="Электромеханический комплекс &quot;Огненный шторм&quot;" />
+		value="Denki kikai fukugoo-tai &quot;Faiaasutoomu&quot;" />
 
 	<Item
 		id="add_damage_guns_and_grouping_angle_guns"
 		locForm="0"
-		value="Комплекс &quot;FireEye&quot;" />
+		value="Fukuzatsuna &quot;FireEye&quot;" />
 
 	<Item
 		id="add_damage_energy_and_firing_rate_energy"
 		locForm="0"
-		value="Система &quot;Doom-4&quot;" />
+		value="Shisutemu &quot;Doom-4&quot;" />
 
 	<Item
 		id="add_damage_explosion_firing_rate_explosion"
 		locForm="0"
-		value="Электромеханический комплекс &quot;Давид&quot;" />
+		value="Denki kikai fukugoo-tai &quot;Debiddo&quot;" />
 
 	<Item
 		id="additional_fuel_tank"
 		locForm="0"
-		value="Обычная канистра" />
+		value="Regyuraakyanisutaa" />
 
 	<Item
 		id="additional_torque"
 		locForm="0"
-		value="Дополнительная выхлопная труба" />
+		value="Tsuika no haiki-kan" />
 
 	<Item
 		id="additional_durability"
 		locForm="0"
-		value="Катанные броневые листы на корпус кабины" />
+		value="Kyabin hontai no rooru sookooban" />
 
 	<Item
 		id="additional_stability"
 		locForm="0"
-		value="Изоляция топливной системы" />
+		value="Nenryoo shisutemu no dan'netsu" />
 
 	<Item
 		id="additional_fuel_tank2"
 		locForm="0"
-		value="Большая канистра" />
+		value="Oogata kyanisutaa" />
 
 	<Item
 		id="additional_torque2"
 		locForm="0"
-		value="Турбонаддув" />
+		value="Taabochaajaa" />
 
 	<Item
 		id="additional_durability2"
 		locForm="0"
-		value="Катанные броневые листы с дополнительным цементированием" />
+		value="Tsuika no sementeeshon o hodokoshita rooru sookooban" />
 
 	<Item
 		id="add_speed_and_torque"
 		locForm="0"
-		value="Электронная инжекторная система" />
+		value="Denshi funsha shisutemu" />
 
 	<Item
 		id="add_stability_and_speed"
 		locForm="0"
-		value="Система &quot;Sagitta&quot;" />
+		value="Shisutemu &quot;Sagitta&quot;" />
 
 	<Item
 		id="add_torque_and_stability"
 		locForm="0"
-		value="Система &quot;Альбатрос&quot;" />
+		value="Shisutemu &quot;Arubatorosu&quot;" />
 
 	<Item
 		id="additional_fuel_tank2_add_damage_guns"
 		locForm="0"
-		value="Система &quot;Сато&quot;" />
+		value="Shisutemu &quot;Sato&quot;" />
 
 	<Item
 		id="potato"
 		locForm="0"
-		value="Картофель" />
+		value="Jagaimo" />
 
 	<Item
 		id="scrap_metal"
 		locForm="0"
-		value="Металлолом" />
+		value="Kinzoku-kuzu" />
 
 	<Item
 		id="firewood"
 		locForm="0"
-		value="Дрова" />
+		value="Maki" />
 
 	<Item
 		id="oil"
 		locForm="0"
-		value="Нефть" />
+		value="Abura" />
 
 	<Item
 		id="bottle"
 		locForm="0"
-		value="Бутылки" />
+		value="Botoru" />
 
 	<Item
 		id="fuel"
 		locForm="0"
-		value="Горючее" />
+		value="Nenryoo" />
 
 	<Item
 		id="machinery"
 		locForm="0"
-		value="Рабочее оборудование" />
+		value="Sagyoo setsubi" />
 
 	<Item
 		id="tobacco"
 		locForm="0"
-		value="Табак" />
+		value="Tabako" />
 
 	<Item
 		id="book"
 		locForm="0"
-		value="Книги" />
+		value="Hon" />
 
 	<Item
 		id="electronics"
 		locForm="0"
-		value="Электроника" />
+		value="Erekutoronikusu" />
 
 	<Item
 		id="quest_start_father_letter"
 		locForm="0"
-		value="Письмо" />
+		value="Tegami" />
 
 	<Item
 		id="quest_potato"
 		locForm="0"
-		value="Пакет" />
+		value="Biniiru-bukuro" />
 
 	<Item
 		id="quest_medicine_box"
 		locForm="0"
-		value="Медикаменты" />
+		value="Kusuri" />
 
 	<Item
 		id="quest_explosive"
 		locForm="0"
-		value="Взрывчатка" />
+		value="Bakuhatsu-mono" />
 
 	<Item
 		id="quest_wine_barrels"
 		locForm="0"
-		value="Бочки с вином" />
+		value="Waintaru" />
 
 	<Item
 		id="quest_komp_splav"
 		locForm="0"
-		value="Редкий сплав" />
+		value="Kishoo gookin" />
 
 	<Item
 		id="quest_shaman_head1"
 		locForm="0"
-		value="Голова сектанта" />
+		value="Kyooshinja no atama" />
 
 	<Item
 		id="quest_shaman_head2"
 		locForm="0"
-		value="Голова язычника" />
+		value="Ikyooto no atama" />
 
 	<Item
 		id="quest_old_digital"
 		locForm="0"
-		value="Старый двигатель" />
+		value="Furui enjin" />
 
 	<Item
 		id="quest_art_masterpice"
 		locForm="0"
-		value="Произведение искусства" />
+		value="Geijutsu sakuhin" />
 
 	<Item
 		id="quest_mafia_narcotik"
 		locForm="0"
-		value="Наркотики" />
+		value="Yakubutsu" />
 
 	<Item
 		id="quest_first_canistra"
 		locForm="0"
-		value="Канистра нефти" />
+		value="Oirukyanisutaa" />
 
 	<Item
 		id="quest_disk_1"
 		locForm="0"
-		value="Диск" />
+		value="Disuku" />
 
 	<Item
 		id="quest_disk_2"
 		locForm="0"
-		value="Второй диск" />
+		value="2-Mai-me no disuku" />
 
 	<Item
 		id="quest_key_for_submarine"
 		locForm="0"
-		value="Ключ от морских врат" />
+		value="Kaimon no kagi" />
 
 	<Item
 		id="quest_key_for_tunnel"
 		locForm="0"
-		value="Ключ к тоннелю" />
+		value="Ton'neru no kagi" />
 
 	<Item
 		id="quest_repair_robot3"
 		locForm="0"
-		value="Робот-настройщик" />
+		value="Robottokasutamaizaa" />
 
 	<Item
 		id="quest_repair_robot1"
 		locForm="0"
-		value="Робот-помощник" />
+		value="Robottoashisutanto" />
 
 	<Item
 		id="quest_repair_robot2"
 		locForm="0"
-		value="Робот-ремонтник" />
+		value="Robotto shuuri-shi" />
 
 	<Item
 		id="quest_explosion_stone"
 		locForm="0"
-		value="Камень с рунами" />
+		value="Ruun moji ga kizama reta ishi" />
 
 	<Item
 		id="quest_magic_thing2"
 		locForm="0"
-		value="Сломанный прибор" />
+		value="Kowareta debaisu" />
 
 	<Item
 		id="quest_magic_thing1"
 		locForm="0"
-		value="Старинный артефакт" />
+		value="Kodai no ibutsu" />
 
 	<Item
 		id="quest_monster_head"
 		locForm="0"
-		value="Голова монстра" />
+		value="Monsutaaheddo" />
 
 	<Item
 		id="someTurboAccelerationPusher"
 		locForm="0"
-		value="Турбо-ускорение" />
+		value="Taabobuusuto" />
 
 	<Item
 		id="engineOilPusher"
 		locForm="0"
-		value="Машинное масло" />
+		value="Mashin abura" />
 
 	<Item
 		id="nailsPusher"
 		locForm="0"
-		value="Шип" />
+		value="Toge" />
 
 	<Item
 		id="minePusher"
 		locForm="0"
-		value="Ёж-1" />
+		value="Harinezumi-1" />
 
 	<Item
 		id="cyclops01"
 		locForm="0"
-		value="ЦиBagu" />
+		value="Saikuropusu" />
 
 	<Item
 		id="big_swingfire01"
 		locForm="0"
-		value="Свингфайр" />
+		value="Suingufaia" />
 
 	<Item
 		id="rocketLauncher"
 		locForm="0"
-		value="Дракон" />
+		value="Doragon" />
 
 	<Item
 		id="storm01"
 		locForm="0"
-		value="Шторм" />
+		value="Arashi" />
 
 	<Item
 		id="molokovozCab01"
 		locForm="0"
-		value="Болт" />
+		value="Boruto" />
 
 	<Item
 		id="molokovozCab02"
 		locForm="0"
-		value="Вихрь" />
+		value="Borutekkusu" />
 
 	<Item
 		id="molokovozCab03"
 		locForm="0"
-		value="Шип" />
+		value="Toge" />
 
 	<Item
 		id="molokovozCargo01"
 		locForm="0"
-		value="Тент" />
+		value="Ooningu" />
 
 	<Item
 		id="molokovozCargo02"
 		locForm="0"
-		value="Генератор" />
+		value="Hassei-ki" />
 
 	<Item
 		id="molokovozCargo03"
 		locForm="0"
-		value="Бокс" />
+		value="Bokushingu" />
 
 	<Item
 		id="belazCab01"
 		locForm="0"
-		value="Зод" />
+		value="Zoddo" />
 
 	<Item
 		id="belazCab02"
 		locForm="0"
-		value="Боливар" />
+		value="Boribaru" />
 
 	<Item
 		id="belazCab03"
 		locForm="0"
-		value="Рок" />
+		value="Rokku" />
 
 	<Item
 		id="belazCab04"
 		locForm="0"
-		value="Терминатор" />
+		value="Taamineetaa" />
 
 	<Item
 		id="belazCab05"
 		locForm="0"
-		value="Щит" />
+		value="Shiirudo" />
 
 	<Item
 		id="belazCargo01"
 		locForm="0"
-		value="Хост" />
+		value="Hosuto" />
 
 	<Item
 		id="belazCargo02"
 		locForm="0"
-		value="Конструктор" />
+		value="Konsutorakuta" />
 
 	<Item
 		id="belazCargo03"
 		locForm="0"
-		value="Колосс" />
+		value="Korossasu" />
 
 	<Item
 		id="belazCargo04"
 		locForm="0"
-		value="Гром" />
+		value="Kaminari" />
 
 	<Item
 		id="belazCargo05"
 		locForm="0"
-		value="Цилиндр" />
+		value="Shirindaa" />
 
 	<Item
 		id="bugCab01"
 		locForm="0"
-		value="Жук" />
+		value="Bagu" />
 
 	<Item
 		id="bugCab02"
 		locForm="0"
-		value="Работяга" />
+		value="Hatarakimono" />
 
 	<Item
 		id="bugCab03"
 		locForm="0"
-		value="Скорпион" />
+		value="Sukoopion" />
 
 	<Item
 		id="bugCargo01"
 		locForm="0"
-		value="Газ" />
+		value="Gasu" />
 
 	<Item
 		id="bugCargo02"
 		locForm="0"
-		value="Каскад" />
+		value="Kasukeedo" />
 
 	<Item
 		id="bugCargo03"
 		locForm="0"
-		value="Борг" />
+		value="Boogu" />
 
 	<Item
 		id="uralCab01"
 		locForm="0"
-		value="Хром" />
+		value="Kuromu" />
 
 	<Item
 		id="uralCab02"
 		locForm="0"
-		value="Штандарт" />
+		value="Hyoojun" />
 
 	<Item
 		id="uralCab03"
 		locForm="0"
-		value="Лорд" />
+		value="Omo" />
 
 	<Item
 		id="uralCab04"
 		locForm="0"
-		value="Морион" />
+		value="Morion" />
 
 	<Item
 		id="uralCab05"
 		locForm="0"
-		value="Витязь" />
+		value="Kishi" />
 
 	<Item
 		id="uralCargo01"
 		locForm="0"
-		value="Холод" />
+		value="Samui" />
 
 	<Item
 		id="uralCargo02"
 		locForm="0"
-		value="Фрахт" />
+		value="Kamotsu" />
 
 	<Item
 		id="uralCargo03"
@@ -553,12 +553,12 @@
 	<Item
 		id="uralCargo04"
 		locForm="0"
-		value="Панцирь" />
+		value="Koora" />
 
 	<Item
 		id="uralCargo05"
 		locForm="0"
-		value="Тигр" />
+		value="Tora" />
 
 	<Item
 		id="BelazForSale"
@@ -583,57 +583,57 @@
 	<Item
 		id="MolokovozCargo04"
 		locForm="0"
-		value="Бокс с прицепом" />
+		value="Toreeraa-tsuki bokkusu" />
 
 	<Item
 		id="mirotvorecCab01"
 		locForm="0"
-		value="Гран" />
+		value="Gurando" />
 
 	<Item
 		id="mirotvorecCab02"
 		locForm="0"
-		value="Череп" />
+		value="Sukaru" />
 
 	<Item
 		id="mirotvorecCab03"
 		locForm="0"
-		value="Метеор" />
+		value="Ryuusei" />
 
 	<Item
 		id="mirotvorecCab04"
 		locForm="0"
-		value="Булат" />
+		value="Buratto" />
 
 	<Item
 		id="mirotvorecCab05"
 		locForm="0"
-		value="Фантом" />
+		value="Fantomu" />
 
 	<Item
 		id="mirotvorecCargo01"
 		locForm="0"
-		value="Клык" />
+		value="Kiba" />
 
 	<Item
 		id="mirotvorecCargo02"
 		locForm="0"
-		value="Центурион" />
+		value="Senchurion" />
 
 	<Item
 		id="mirotvorecCargo03"
 		locForm="0"
-		value="Майа" />
+		value="Maya" />
 
 	<Item
 		id="mirotvorecCargo04"
 		locForm="0"
-		value="Масамунэ" />
+		value="Masamune" />
 
 	<Item
 		id="mirotvorecCargo05"
 		locForm="0"
-		value="Экскалибур" />
+		value="Ekusukaribaa" />
 
 	<Item
 		id="MirotvorecForSale"
@@ -643,17 +643,17 @@
 	<Item
 		id="sml1Cab01"
 		locForm="1"
-		value="Кабина Baguа" />
+		value="Kyabin Bagu" />
 
 	<Item
 		id="sml2Cab01"
 		locForm="1"
-		value="Кабина Gokiburiа" />
+		value="Kyabin Gokiburiа" />
 
 	<Item
 		id="sml3Cab01"
 		locForm="1"
-		value="Кабина Муравья" />
+		value="Ari no koya" />
 
 	<Item
 		id="sml4Cab01"
@@ -688,107 +688,107 @@
 	<Item
 		id="hornet01"
 		locForm="0"
-		value="Шершень" />
+		value="Suzumebachi" />
 
 	<Item
 		id="specter01"
 		locForm="0"
-		value="Спектр" />
+		value="Han'i" />
 
 	<Item
 		id="pkt01"
 		locForm="0"
-		value="ПКТ" />
+		value="PCT" />
 
 	<Item
 		id="kord01"
 		locForm="0"
-		value="Корд" />
+		value="Koodo" />
 
 	<Item
 		id="vector01"
 		locForm="0"
-		value="Вектор" />
+		value="Bekutaa" />
 
 	<Item
 		id="vulcan01"
 		locForm="0"
-		value="Вулкан" />
+		value="Kazan" />
 
 	<Item
 		id="maxim01"
 		locForm="0"
-		value="Максим" />
+		value="Makushimu" />
 
 	<Item
 		id="rapier01"
 		locForm="1"
-		value="Рапира" />
+		value="Reipia" />
 
 	<Item
 		id="fagot01"
 		locForm="0"
-		value="Фагот" />
+		value="Fagotto" />
 
 	<Item
 		id="kpvt01"
 		locForm="0"
-		value="КПВТ" />
+		value="KPVT" />
 
 	<Item
 		id="rainmetal01"
 		locForm="0"
-		value="Рейнметалл" />
+		value="Rain metaru" />
 
 	<Item
 		id="octopus01"
 		locForm="0"
-		value="Спрут" />
+		value="Tako" />
 
 	<Item
 		id="elephant01"
 		locForm="0"
-		value="Слон" />
+		value="Zoo" />
 
 	<Item
 		id="flag01"
 		locForm="0"
-		value="Флаг" />
+		value="Furagu" />
 
 	<Item
 		id="hurricane01"
 		locForm="0"
-		value="Ураган" />
+		value="Harikeen" />
 
 	<Item
 		id="hailSideGun"
 		locForm="0"
-		value="Град" />
+		value="Hyoo" />
 
 	<Item
 		id="odin01"
 		locForm="0"
-		value="Один" />
+		value="Odin" />
 
 	<Item
 		id="hammer01"
 		locForm="0"
-		value="Молот Тора" />
+		value="Tooru no hanmaa" />
 
 	<Item
 		id="bumblebee01"
 		locForm="0"
-		value="Шмель" />
+		value="Banburubii" />
 
 	<Item
 		id="omega01"
 		locForm="1"
-		value="Омега" />
+		value="Omega" />
 
 	<Item
 		id="mrakSideGun"
 		locForm="0"
-		value="Мрак" />
+		value="Kurayami" />
 
 	<Item
 		id="hunterSideGun"
@@ -798,22 +798,22 @@
 	<Item
 		id="zeusSideGun"
 		locForm="0"
-		value="Зевс" />
+		value="Zeusu" />
 
 	<Item
 		id="marsSideGun"
 		locForm="0"
-		value="Марс" />
+		value="Kasei" />
 
 	<Item
 		id="minePusher_1"
 		locForm="0"
-		value="Ёж-2" />
+		value="Harinezumi-2" />
 
 	<Item
 		id="minePusher_2"
 		locForm="0"
-		value="Вихрь" />
+		value="Borutekkusu" />
 
 	<Item
 		id="r1m1_sml01"
@@ -1023,7 +1023,7 @@
 	<Item
 		id="LisaCar"
 		locForm="1"
-		value="Лиса" />
+		value="Risa" />
 
 	<Item
 		id="DemoFighter1"
@@ -1233,12 +1233,12 @@
 	<Item
 		id="Formula01"
 		locForm="0"
-		value="Турбо GT" />
+		value="Taabo GT" />
 
 	<Item
 		id="FormulaCab"
 		locForm="0"
-		value="Болид GT" />
+		value="GT kaa" />
 
 
 	<Item
@@ -1264,157 +1264,157 @@
 	<Item
 		id="staticAutoGun01"
 		locForm="0"
-		value="Дот" />
+		value="Dotto" />
 
 	<Item
 		id="staticAutoGun02"
 		locForm="0"
-		value="Дот" />
+		value="Dotto" />
 
 	<Item
 		id="staticAutoGun03"
 		locForm="0"
-		value="Дот" />
+		value="Dotto" />
 
 	<Item
 		id="staticAutoGun04"
 		locForm="0"
-		value="Дот" />
+		value="Dotto" />
 
 	<Item
 		id="staticAutoGun05"
 		locForm="0"
-		value="Дот" />
+		value="Dotto" />
 
 	<Item
 		id="staticAutoGun06"
 		locForm="0"
-		value="Дот" />
+		value="Dotto" />
 
 	<Item
 		id="staticAutoGun07"
 		locForm="0"
-		value="Баррикада" />
+		value="Barikeedo" />
 
 	<Item
 		id="staticAutoGun08"
 		locForm="0"
-		value="Засада" />
+		value="Machibuse" />
 
 	<Item
 		id="sack_dot2_kord"
 		locForm="0"
-		value="Дот" />
+		value="Dotto" />
 
 	<Item
 		id="brick_dot1_vulcan"
 		locForm="0"
-		value="Дот" />
+		value="Dotto" />
 
 	<Item
 		id="PublicDemoBug01"
 		locForm="0"
-		value="Машина Старика" />
+		value="Roojin no kuruma" />
 
 	<Item
 		id="PublicDemoSinks"
 		locForm="0"
-		value="Бродяга Синкс" />
+		value="Toranpushinku" />
 
 	<Item
 		id="PublicDemoBandit1"
 		locForm="0"
-		value="Убийца" />
+		value="Satsujin-sha" />
 
 	<Item
 		id="PublicDemoBandit2"
 		locForm="0"
-		value="Мародер" />
+		value="Maroodaa" />
 
 	<Item
 		id="PublicDemoFighter"
 		locForm="0"
-		value="Главарь банды" />
+		value="Gyangu no riidaa" />
 
 	<Item
 		id="PublicDemoIeriBand1"
 		locForm="0"
-		value="Защитник Иери" />
+		value="Ieri no difendaa" />
 
 	<Item
 		id="PublicDemoIeriBand2"
 		locForm="0"
-		value="Защитник Иери" />
+		value="Ieri no difendaa" />
 
 	<Item
 		id="PublicDemoIeriCar"
 		locForm="0"
-		value="Иери" />
+		value="Ieri" />
 
 	<Item
 		id="r1m2_CaravanBug01"
 		locForm="0"
-		value="Транспорт" />
+		value="Yusoo" />
 
 	<Item
 		id="r1m1_CaravanBug04"
 		locForm="0"
-		value="Транспорт" />
+		value="Yusoo" />
 
 	<Item
 		id="r1m2_CaravanBug02"
 		locForm="0"
-		value="Транспорт" />
+		value="Yusoo" />
 
 	<Item
 		id="r1m3_CaravanMolokovoz01"
 		locForm="0"
-		value="Транспорт" />
+		value="Yusoo" />
 
 	<Item
 		id="r1m3_CaravanMolokovoz02"
 		locForm="0"
-		value="Транспорт" />
+		value="Yusoo" />
 
 	<Item
 		id="r2m1_CaravanUral01"
 		locForm="0"
-		value="Транспорт" />
+		value="Yusoo" />
 
 	<Item
 		id="r1m3_CaravanGuardianSml401"
 		locForm="0"
-		value="Охранник" />
+		value="Anchisukiru" />
 
 	<Item
 		id="r2m1_CaravanGuardianSml401"
 		locForm="0"
-		value="Охранник" />
+		value="Anchisukiru" />
 
 	<Item
 		id="r2m1_CaravanGuardianScout201"
 		locForm="0"
-		value="Охранник" />
+		value="Anchisukiru" />
 
 	<Item
 		id="r2m2_CaravanGuardianScout301"
 		locForm="0"
-		value="Охранник" />
+		value="Anchisukiru" />
 
 	<Item
 		id="r1m1_CaravanGuardianSml201"
 		locForm="0"
-		value="Охранник" />
+		value="Anchisukiru" />
 
 	<Item
 		id="r1m1_CaravanGuardianSml101"
 		locForm="0"
-		value="Охранник" />
+		value="Anchisukiru" />
 
 	<Item
 		id="r1m2_CaravanGuardianSml301"
 		locForm="0"
-		value="Охранник" />
+		value="Anchisukiru" />
 
 	<Item
 		id="ScoutMenu"
@@ -1424,7 +1424,7 @@
 	<Item
 		id="FighterMenu"
 		locForm="0"
-		value="Файтер" />
+		value="Senshi" />
 
 	<Item
 		id="MolokovozMenu"
@@ -1444,52 +1444,52 @@
 	<Item
 		id="r2m2_CaravanUral01"
 		locForm="0"
-		value="Транспорт" />
+		value="Yusoo" />
 
 	<Item
 		id="r2m2_CaravanUral02"
 		locForm="0"
-		value="Транспорт" />
+		value="Yusoo" />
 
 	<Item
 		id="r2m1_CaravanUral02"
 		locForm="0"
-		value="Транспорт" />
+		value="Yusoo" />
 
 	<Item
 		id="r2m1_CaravanMolokovoz02"
 		locForm="0"
-		value="Транспорт" />
+		value="Yusoo" />
 
 	<Item
 		id="r2m1_CaravanMolokovoz01"
 		locForm="0"
-		value="Транспорт" />
+		value="Yusoo" />
 
 	<Item
 		id="r1m1_CaravanBug03"
 		locForm="0"
-		value="Транспорт" />
+		value="Yusoo" />
 
 	<Item
 		id="r1m1_CaravanBug02"
 		locForm="0"
-		value="Транспорт" />
+		value="Yusoo" />
 
 	<Item
 		id="r1m1_CaravanBug01"
 		locForm="0"
-		value="Транспорт" />
+		value="Yusoo" />
 
 	<Item
 		id="r2m2_ShamanHunter02"
 		locForm="0"
-		value="Сектант" />
+		value="Shuuha" />
 
 	<Item
 		id="r2m2_ShamanHunter01"
 		locForm="0"
-		value="Сектант" />
+		value="Shuuha" />
 
 	<Item
 		id="r2m2_Ural01"
@@ -1554,42 +1554,42 @@
 	<Item
 		id="boss01"
 		locForm="0"
-		value="Клешня" />
+		value="Tsume" />
 
 	<Item
 		id="boss02"
 		locForm="0"
-		value="Погрузчик" />
+		value="Rooda" />
 
 	<Item
 		id="boss03"
 		locForm="0"
-		value="Оракул" />
+		value="Orakuru" />
 
 	<Item
 		id="boss04"
 		locForm="0"
-		value="База Ньери" />
+		value="Nieri kichi" />
 
 	<Item
 		id="boss04drone"
 		locForm="0"
-		value="Дрон" />
+		value="Doroon" />
 
 	<Item
 		id="r2m1_HunterNarcBoss"
 		locForm="0"
-		value="Босс мафии" />
+		value="Mafia no bosu" />
 
 	<Item
 		id="r2m1_HunterNarcCaravan"
 		locForm="0"
-		value="Курьер" />
+		value="Takuhaibin" />
 
 	<Item
 		id="r2m1_FighterNarcCaravan"
 		locForm="0"
-		value="Курьер" />
+		value="Takuhaibin" />
 
 	<Item
 		id="r2m1_Hunter02"
@@ -1604,7 +1604,7 @@
 	<Item
 		id="r2m1_FighterGulik"
 		locForm="0"
-		value="Жулик" />
+		value="Roogu" />
 
 	<Item
 		id="r2m1_Fighter02"
@@ -1624,27 +1624,27 @@
 	<Item
 		id="r1m3_molokovozInOldCity"
 		locForm="0"
-		value="Беглец" />
+		value="Tooboo-sha" />
 
 	<Item
 		id="DemoShot1"
 		locForm="0"
-		value="Враг" />
+		value="Teki" />
 
 	<Item
 		id="AxelVehicle"
 		locForm="0"
-		value="Аксель" />
+		value="Akuseru" />
 
 	<Item
 		id="FelixVehicle2"
 		locForm="0"
-		value="Феликс" />
+		value="Ferikkusu" />
 
 	<Item
 		id="FelixVehicle"
 		locForm="0"
-		value="Феликс" />
+		value="Ferikkusu" />
 
 	<Item
 		id="CoolBelaz_2"
@@ -1679,97 +1679,97 @@
 	<Item
 		id="r1m3_MerScout"
 		locForm="0"
-		value="Мэр" />
+		value="Shichoo" />
 
 	<Item
 		id="RobotBobot01"
 		locForm="0"
-		value="Боевой робот" />
+		value="Sentoo robotto" />
 
 	<Item
 		id="RobotBobot02"
 		locForm="0"
-		value="Робот рабочий" />
+		value="Robotto sagyoo-in" />
 
 	<Item
 		id="RobotTron"
 		locForm="0"
-		value="Боевой робот" />
+		value="Sentoo robotto" />
 
 	<Item
 		id="RobotMetatron"
 		locForm="0"
-		value="Боевой робот" />
+		value="Sentoo robotto" />
 
 	<Item
 		id="hunterCab01"
 		locForm="1"
-		value="Кабина Ryooshiа" />
+		value="Kyabin Ryooshi" />
 
 	<Item
 		id="hunterCab02"
 		locForm="1"
-		value="Кабина Ryooshiа" />
+		value="Kyabin Ryooshi" />
 
 	<Item
 		id="fighterCab01"
 		locForm="1"
-		value="Кабина Бойца" />
+		value="Sentooki no kyabin" />
 
 	<Item
 		id="fighterCab02"
 		locForm="1"
-		value="Кабина Бойца" />
+		value="Sentooki no kyabin" />
 
 	<Item
 		id="arcadescoutCab"
 		locForm="1"
-		value="Кабина Вездеходного Sukautoа" />
+		value="Zen chikei-gata sukauto no kyabin" />
 
 	<Item
 		id="fakeCargo"
 		locForm="0"
-		value="Кузов" />
+		value="Karada" />
 
 	<Item
 		id="cruiserCab01"
 		locForm="1"
-		value="Кабина Kuruuzaaа" />
+		value="Kyabinkuruza" />
 
 	<Item
 		id="cruiserCab02"
 		locForm="1"
-		value="Кабина Kuruuzaaа" />
+		value="Kyabinkuruza" />
 
 	<Item
 		id="cruiserCargo01"
 		locForm="0"
-		value="Кузов Kuruuzaaа" />
+		value="Bodikuruzaa" />
 
 	<Item
 		id="cruiserCargo02"
 		locForm="0"
-		value="Кузов Kuruuzaaа" />
+		value="Bodikuruza~a" />
 	
 	<Item
 		id="Smoke"
 		locForm="0"
-		value="Дымовая завеса" />
+		value="Enmaku" />
 
 	<Item
 		id="anti_missile_system"
 		locForm="0"
-		value="Противоракетная защита" />
+		value="Misairu booei" />
 
 	<Item
 		id="Bug"
 		locForm="0"
-		value="Транспорт" />
+		value="Yusoo" />
 
 	<Item
 		id="Bug_02"
 		locForm="0"
-		value="Транспорт" />
+		value="Yusoo" />
 
 	<Item
 		id="Ural02"
@@ -1789,5 +1789,5 @@
 	<Item
 		id="Gladiator02"
 		locForm="0"
-		value="Гладиатор" />
+		value="Ken tooshi" />
 </ModelNames>
