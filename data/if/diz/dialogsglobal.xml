@@ -7919,7 +7919,7 @@
 
 	<Reply
 		name="Lisa_hellodlg0_P1_3"
-		text="Naze damedesu ka."
+		text="Naze damedesu ka?"
 		role="PLAYER"
 		scriptResult="GetCurNpc():SetSpokenCount( 1 );  TActivate('LISAACTIVE');  TakeQuest('d_Lisa_Quest'); AddHistory(  'r1_Yes_Lisa_History_01'  );  AddFadingMsgId( 'fm_history_got' );  EndConversation()" />
 
