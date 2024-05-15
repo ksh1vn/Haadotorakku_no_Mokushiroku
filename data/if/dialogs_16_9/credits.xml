@@ -1,0 +1,660 @@
+<?xml version="1.0" encoding="windows-1251" standalone="yes" ?>
+<!-- Seel's comments: -->
+<!-- Main menu credits slides of dev team -->
+<!-- Related to creditswnd.xml -->
+<Credits
+	breakTime="0.7"
+	breakSoundFile="data\sounds\Driving\shifter1.wav"
+	showSoundFile="data\sounds\Driving\shifter1.wav"
+	ambientSoundFile=""
+	musicFile="data\music\credits.ogg">
+	<Pages>
+		<Page
+			id="1"
+			text="Kaisha|«Targem Games»"
+			modelName=""
+			modelSkin="0"
+			modelCfg="0"
+			showTime="3"
+			fontSize="40" />
+
+		<Page
+			id="2"
+			text="Purodusa||Sutanisurafu «scorp» Sukorubu"
+			modelName="r2_man"
+			modelSkin="0"
+			modelCfg="294"
+			showTime="3"
+			fontSize="28" />
+
+		<Page
+			id="3"
+			text="Purojekuto no tekunikaru direkuta||Arekusei Sukuryabin"
+			modelName="r2_man"
+			modelSkin="0"
+			modelCfg="182"
+			showTime="3"
+			fontSize="28" />
+
+		<Page
+			id="4"
+			text="Purojekuto maneja||Yujin «Hrrr» Khurunofu"
+			modelName="r2_man"
+			modelSkin="2"
+			modelCfg="368"
+			showTime="3"
+			fontSize="28" />
+
+		<Page
+			id="5"
+			text="Shinario||Arekusei «Alex TG» Сhesutonifu"
+			modelName="r2_man"
+			modelSkin="0"
+			modelCfg="87"
+			showTime="3"
+			fontSize="28" />
+
+		<Page
+			id="6"
+			text="Purojekuto no rido purogurama||Anton «anger» Savin"
+			modelName="r2_man"
+			modelSkin="0"
+			modelCfg="20"
+			showTime="3"
+			fontSize="28" />
+
+		<Page
+			id="7"
+			text="Purojekuto no chifu dezaina||Arekusei «Alex TG» Сhesutonifu"
+			modelName="r2_man"
+			modelSkin="0"
+			modelCfg="87"
+			showTime="3"
+			fontSize="28" />
+
+		<Page
+			id="8"
+			text="Purojekuto no rido atisuto||Arekusandoru «Alex ML» Marugushin"
+			modelName="r2_man"
+			modelSkin="2"
+			modelCfg="8"
+			showTime="3"
+			fontSize="28" />
+
+		<Page
+			id="9"
+			text="Gemu dezain||Denisu «mif2000» Garanin|Serugei «JSinx» Uduruminsuki|Arekusei «Razaz» Anufuriefu|Sutanisurafu «scorp» Sukorubu|Borisu «borg» Sumirunofu"
+			modelName="r3_man"
+			modelSkin="2"
+			modelCfg="1917"
+			showTime="5"
+			fontSize="28" />
+
+		<Page
+			id="10"
+			text="Puroguramingu||Erena «SoftKitty» Efudokimowa|Iwan «Vano» Vurasofu|Iriya «phosgen» Ruzakofu|Makishimu «Shadow» Sarumanofu|Serugei «Ice Cat» Kuryuchikofusuki|Igori «Goryh» Degucharefu"
+			moDelName="r2_man"
+			modelSkin="1"
+			modelCfg="140"
+			showTime="5"
+			fontSize="25" />
+
+		<Page
+			id="11"
+			text="Gurafikkuaato|Arekusandoru «Alex ML» Marugushin|Iwan Sunigirefu|Yuujiin «Dzhin» Gorutsuofu|Urajimiiru «Price» Serezunefu|Sutanisurafu «Staz» Cheruba"
+			modelName="r3_man"
+			modelSkin="1"
+			modelCfg="1529"
+			showTime="6"
+			fontSize="28" />
+
+		<Page
+			id="12"
+			text="Gurafikkuaato||Rosutamu «Rychi» Tourai|Yuujiin Tokarefu|Serugei «Sega» Mitoryaefu|Bikutaa «isymbosi» Koryakin|Roman Ratinofu"
+			modelName="r3_man"
+			modelSkin="1"
+			modelCfg="1529"
+			showTime="6"
+			fontSize="28" />
+
+		<Page
+			id="13"
+			text="Misshon sekkei||Denisu «mif2000» Garanin|Serugei «JSinx» Udeyuruminsukii|Arutemu «solo» Sorovuiefu|Danieru «HiKiller» Kondorachefu|Sutanisurafu «Staz» Cheruba"
+			modelName="r3_man"
+			modelSkin="2"
+			modelCfg="1917"
+			showTime="4"
+			fontSize="28" />
+
+		<Page
+			id="14"
+			text="Intaafeesu kaihatsu||Maikeru «Rai» Matovuienko||Tokushu kooka||Arekusei «Hal» Robanofu"
+			modelName="r2_man"
+			modelSkin="2"
+			modelCfg="104"
+			showTime="3"
+			fontSize="28" />
+
+		<Page
+			id="15"
+			text="Ongaku/oto||Anton Popofu|Kyasarin Shuuemaa"
+			modelName="r2_man"
+			modelSkin="1"
+			modelCfg="330"
+			showTime="3"
+			fontSize="28" />
+
+		<Page
+			id="16"
+			text="Tesuto||Vuyachesurafu «ls» Avudeefu"
+			modelName="r2_man"
+			modelSkin="2"
+			modelCfg="84"
+			showTime="3"
+			fontSize="28" />
+
+		<Page
+			id="17"
+			text="PR maneejaa||Suvuetoraana|«Сrystal» Сhesutonifu"
+			modelName="r2_woman"
+			modelSkin="0"
+			modelCfg="20"
+			showTime="3"
+			fontSize="28" />
+
+		<Page
+			id="18"
+			text="Geemu ni wa ongaku kontesuto no yuushoo-sha ni yoru gakkyoku ga shiyoo sa remashita:||Arekusandaa Chekusutaa|Borisu Vuedensukii и Arekusandaa Toregaa|Maikeru Shidorofu|Arekusandaa Risenkofu|Paralaxeen|Igooru Beroosofu"
+			modelName="r2_man"
+			modelSkin="1"
+			modelCfg="132"
+			showTime="4"
+			fontSize="20" />
+
+		<Page
+			id="19"
+			text="Watashitachi wa samazamana suteeji ni mo sanka shimashita||Konsutanchin Soharefu - puroguramingu|Suvuyatosurafu Patashinikofu - kanri|Arekusei Andorushichenko - uebudezain"
+			modelName="r2_man"
+			modelSkin="2"
+			modelCfg="24"
+			showTime="3"
+			fontSize="22" />
+
+		<Page
+			id="20"
+			text="Bubuka Kabuka Erutatamento"
+			modelName="r2_man"
+			modelSkin="0"
+			modelCfg="0"
+			showTime="3"
+			fontSize="40" />
+
+		<Page
+			id="21"
+			text="Purodeyuusaa||Iwan Bunakofu"
+			modelName="r3_man"
+			modelSkin="1"
+			modelCfg="2812"
+			showTime="3"
+			fontSize="28" />
+
+		<Page
+			id="22"
+			text="Shinia purodeyuusaa||Iwan Morosu"
+			modelName="r2_man"
+			modelSkin="0"
+			modelCfg="198"
+			showTime="3"
+			fontSize="28" />
+
+		<Page
+			id="23"
+			text="Seihin puromooshon maneejaa||Yuuri Vuiritchi|Arekusei Pisukuryukofu"
+			modelName="r3_man"
+			modelSkin="2"
+			modelCfg="2298"
+			showTime="3"
+			fontSize="28" />
+
+		<Page
+			id="24"
+			text="Gijutsu senmonka||Kiriru Besutemyanofu"
+			modelName="r3_man"
+			modelSkin="0"
+			modelCfg="57"
+			showTime="3"
+			fontSize="28" />
+
+		<Page
+			id="25"
+			text="Saundoekisupaato||Rusuran Domitoriefu"
+			modelName="r3_man"
+			modelSkin="2"
+			modelCfg="1745"
+			showTime="3"
+			fontSize="28" />
+
+		<Page
+			id="26"
+			text="Insatsu dezainaa||Sanan Ushanofu|Daniera Kurimashefusukaya"
+			modelName="r2_woman"
+			modelSkin="2"
+			modelCfg="43"
+			showTime="3"
+			fontSize="28" />
+
+		<Page
+			id="27"
+			text="PR maneejaa||Arekusei Pasutoushenko"
+			modelName="r3_man"
+			modelSkin="2"
+			modelCfg="765"
+			showTime="3"
+			fontSize="28" />
+
+		<Page
+			id="28"
+			text="PR maneejaaashisutanto||Oregu Morozofu"
+			modelName="r3_man"
+			modelSkin="2"
+			modelCfg="456"
+			showTime="3"
+			fontSize="28" />
+
+		<Page
+			id="29"
+			text="Purodeyuusaaashisutanto||Arekusei Peshehonofu|Nikorai Safuronofu"
+			modelName="r3_man"
+			modelSkin="1"
+			modelCfg="761"
+			showTime="3"
+			fontSize="28" />
+
+		<Page
+			id="30"
+			text="Atarashii chiimumaneejaa||Nikorai Safuronofu"
+			modelName="r3_man"
+			modelSkin="2"
+			modelCfg="635"
+			showTime="3"
+			fontSize="28" />
+
+		<Page
+			id="31"
+			text="Seisaku purodeyuusaa||Arekusandaa Pakku"
+			modelName="r3_man"
+			modelSkin="0"
+			modelCfg="253"
+			showTime="3"
+			fontSize="28" />
+
+		<Page
+			id="32"
+			text="Jookyuu tesutaa||Efugenii Popofu|Iwan Riido"
+			modelName="r3_man"
+			modelSkin="1"
+			modelCfg="379"
+			showTime="3"
+			fontSize="28" />
+
+		<Page
+			id="33"
+			text="Shiken saabisu||Anton Epishin|Arekusei Petorofu|Arekusandaa Poroshin|Efugenii Popofu|Iwan Reinofu|Iwan Riido|Arekusei Chebotarefu"
+			modelName="r3_man"
+			modelSkin="1"
+			modelCfg="456"
+			showTime="5"
+			fontSize="25" />
+
+		<Page
+			id="34"
+			text="Gaibu tesuto||Petoru Beryaefu|Arekusei Bunaku|Igooru Domitoriefu|Maikeru Machushofu|Denisu Sokorofu"
+			modelName="r3_man"
+			modelSkin="1"
+			modelCfg="0"
+			showTime="3"
+			fontSize="28" />
+
+		<Page
+			id="34_1"
+			text="Gaibu tesuto||Igooru Peshehontsuefu|Domitorii Chichikofu|Arekusei Shehofutsuofu|Iriya Yushipofu|Timuuru Yushipofu"
+			modelName="r3_man"
+			modelSkin="1"
+			modelCfg="0"
+			showTime="3"
+			fontSize="28" />
+
+		<Page
+			id="35"
+			text="Hanbai saabisu||Makishimu O. Arekuseefu|Makishimu Y. Arekuseefu|Makishimu A. Arekuseefu|Nataria Ankundinowa|Erena Antonowa|Iriya Burofuchenko|Paberu Gurigoriefu|Bikutoria Kisereba|Arekusandaa Kochetokofu"
+			modelName="r3_man"
+			modelSkin="0"
+			modelCfg="123"
+			showTime="5"
+			fontSize="20" />
+
+		<Page
+			id="36"
+			text="Hanbai saabisu||Paberu Kurugurofu|Andorei Oshipofu|Arekusandaa Petorinsukii|Oruga Porukovunikowa|Rarisa Savueriewa|Yuujiin Samusonofu|Suvuetoraana Samusonoba|Vuarerii Chifubinsukii|Serugei Fedosofu"
+			modelName="r2_woman"
+			modelSkin="0"
+			modelCfg="4"
+			showTime="5"
+			fontSize="20" />
+
+		<Page
+			id="37"
+			text="Booeki maaketingu||Tachiana Vuasekina"
+			modelName="r2_woman"
+			modelSkin="2"
+			modelCfg="113"
+			showTime="3"
+			fontSize="28" />
+
+		<Page
+			id="38"
+			text="Komyuniti kanrisha||Arekusandaa Kobarefu"
+			modelName="r3_man"
+			modelSkin="2"
+			modelCfg="97"
+			showTime="3"
+			fontSize="28" />
+
+		<Page
+			id="39"
+			text="Senmonka no jogen||Urajimiiru Minyaefu|Makushimu N. Miharefu|Iwan Morosu|Serugei Rudenko|Vuitarii Haritonenko"
+			modelName="r3_man"
+			modelSkin="0"
+			modelCfg="225"
+			showTime="5"
+			fontSize="28" />
+
+		<Page
+			id="40"
+			text="Hooteki sapooto||Georugii Vuitariefu"
+			modelName="r3_man"
+			modelSkin="2"
+			modelCfg="369"
+			showTime="3"
+			fontSize="28" />
+
+		<Page
+			id="41"
+			text="Tekunikarusapooto||Yuujiin Domitoriefu"
+			modelName="r3_man"
+			modelSkin="1"
+			modelCfg="381"
+			showTime="3"
+			fontSize="28" />
+
+		<Page
+			id="42"
+			text="Saikoo keiei sekininsha||Arekusandaa Mihairofu"
+			modelName="r3_man"
+			modelSkin="1"
+			modelCfg="2300"
+			showTime="3"
+			fontSize="28" />
+
+		<Page
+			id="43"
+			text="Zaimu direkutaa||Mariina Ravun"
+			modelName="r2_woman"
+			modelSkin="2"
+			modelCfg="108"
+			showTime="3"
+			fontSize="28" />
+
+		<Page
+			id="44"
+			text="Maaketingu bumon no sekininsha||Makushimu N. Miharefu"
+			modelName="r3_man"
+			modelSkin="1"
+			modelCfg="635"
+			showTime="3"
+			fontSize="28" />
+
+		<Page
+			id="45"
+			text="Komaasharu bumon no sekininsha||Tachiana Usutinowa"
+			modelName="r2_woman"
+			modelSkin="0"
+			modelCfg="100"
+			showTime="3"
+			fontSize="28" />
+
+		<Page
+			id="46"
+			text="Kaihatsu buchoo||Iwan Bunakofu"
+			modelName="r3_man"
+			modelSkin="1"
+			modelCfg="2812"
+			showTime="3"
+			fontSize="28" />
+
+		<Page
+			id="47"
+			text="Tokubetsuna kansha:||Yuria Berowa|Serugei Bobukofu|Iriya Burofuchenko|Domitorii Zaharofu|Domitorii Kureshofu|Domitorii Reeshin|Urajimiiru minyaefu|Iwan Morosu"
+			modelName="r3_man"
+			modelSkin="2"
+			modelCfg="1745"
+			showTime="5"
+			fontSize="20" />
+
+		<Page
+			id="48"
+			text="Tokubetsuna kansha:||Mariina Ravun|Iwan Riido|In'na Sutsuepina|Igooru Usuchinofu|Iriina Tsuareba|Bikutoria Ensu"
+			modelName="r3_man"
+			modelSkin="1"
+			modelCfg="57"
+			showTime="5"
+			fontSize="20" />
+
+		<Page
+			id="49"
+			text="Komyunitipatchi / Rimasutaa"
+			modelName=""
+			modelSkin="0"
+			modelCfg="0"
+			showTime="3"
+			fontSize="38" />
+
+		<Page
+			id="50"
+			text="Kaihatsu chiimu"
+			modelName=""
+			modelSkin="0"
+			modelCfg="0"
+			showTime="3"
+			fontSize="34" />
+		
+			<Page
+			id="50_1"
+			text="Arekusandaa «Seel» Parufenenkofu|Arekusandaa «ThePlain» Fateefu|Arekusei «__nEmPoBu4__» Sumirunofu|An'na Juukowa|Anton Popofu|Urajisurafu «OverLine» Kurochikin|Domitorii «Gnome» Sashichenko|Iwan «ICAS-14» Cherepanofu|Shishizaryuuseigun «KoYoT» Kochetofu|Makushimu «Spok» Berudonikofu|Maaku «Apocalypse007» Marigin|Nikku «EL_BIBIKA» Kononenko|Pooru «pavlikrpg» Iwanofu|Serafimu «Varisane» Shagin"
+			modelName="r3_man"
+			modelSkin="2"
+			modelCfg="765"
+			showTime="3"
+			fontSize="19" />
+
+		<Page
+			id="51"
+			text="Arekusandaa «Seel» Parufenenkofu||purojekutomaneejaa, tsuuru, dezain"
+			modelName="r3_man"
+			modelSkin="1"
+			modelCfg="761"
+			showTime="3"
+			fontSize="28" />
+		
+		<Page
+			id="52"
+			text="Arekusandaa «ThePlain» Fateefu||tsuuru, gurafikkuaato,|3D moderingu"
+			modelName="mask_oracul"
+			modelSkin="0"
+			modelCfg="0"
+			showTime="3"
+			fontSize="28" />
+		
+		<Page
+			id="53"
+			text="Arekusei «__nEmPoBu4__» Sumirunofu||3D moderingu, sukuriputo, kuesuto"
+			modelName="r3_man"
+			modelSkin="1"
+			modelCfg="1531"
+			showTime="3"
+			fontSize="28" />
+		
+		<Page
+			id="54"
+			text="An'na Juukowa||gurafikku dezain"
+			modelName="r2_woman"
+			modelSkin="0"
+			modelCfg="104"
+			showTime="3"
+			fontSize="28" />
+		
+		<Page
+			id="55"
+			text="Anton Popofu||ongaku"
+			modelName="r3_man"
+			modelSkin="1"
+			modelCfg="381"
+			showTime="3"
+			fontSize="28" />
+		
+		<Page
+			id="56"
+			text="Urajisurafu «OverLine» Kurochikin||kontentsu dezain, mappingu"
+			modelName="r3_man"
+			modelSkin="2"
+			modelCfg="765"
+			showTime="3"
+			fontSize="28" />
+		
+		<Page
+			id="57"
+			text="Domitorii «Gnome» Sashichenko||sukuriputo, kuesuto,|3D moderingu"
+			modelName="r3_man"
+			modelSkin="2"
+			modelCfg="1917"
+			showTime="3"
+			fontSize="28" />
+		
+		<Page
+			id="58"
+			text="Iwan «ICAS-14» Cherepanofu||3D moderingu"
+			modelName="r2_man"
+			modelSkin="2"
+			modelCfg="168"
+			showTime="3"
+			fontSize="28" />
+		
+		<Page
+			id="59"
+			text="Shishizaryuuseigun «KoYoT» Kochetofu||ayamari teisei"
+			modelName="r2_woman"
+			modelSkin="0"
+			modelCfg="91"
+			showTime="3"
+			fontSize="28" />
+		
+		<Page
+			id="60"
+			text="Makushimu «Spok» Berudonikofu||3D moderingu"
+			modelName="r1_man"
+			modelSkin="0"
+			modelCfg="14"
+			showTime="3"
+			fontSize="28" />
+		
+		<Page
+			id="61"
+			text="Maaku «Apocalypse007» Marigin||tekisuto henshuu"
+			modelName="r3_man"
+			modelSkin="2"
+			modelCfg="2169"
+			showTime="3"
+			fontSize="28" />
+		
+		<Page
+			id="62"
+			text="Nikku «EL_BIBIKA» Kononenko||3D moderingu"
+			modelName="r1_man"
+			modelSkin="1"
+			modelCfg="4"
+			showTime="3"
+			fontSize="28" />
+		
+		<Page
+			id="63"
+			text="Pooru «pavlikrpg» Iwanofu||sukuriputo, kuesuto"
+			modelName="r2_woman"
+			modelSkin="1"
+			modelCfg="91"
+			showTime="3"
+			fontSize="28" />
+		
+		<Page
+			id="64"
+			text="Serafimu «Varisane» Shagin||kontentsu-dezain"
+			modelName="r4_man"
+			modelSkin="2"
+			modelCfg="85"
+			showTime="3"
+			fontSize="28" />
+		
+		<Page
+			id="65"
+			text="Senmonka no jogen"
+			modelName=""
+			modelSkin="0"
+			modelCfg="0"
+			showTime="3"
+			fontSize="34" />
+		
+		<Page
+			id="66"
+			text="Buba|Oracle|Rusya_27|Traygen|Shishizaryuuseigun «KoYoT» Kochetofu|Semimahofu"
+			modelName="r3_man"
+			modelSkin="1"
+			modelCfg="379"
+			showTime="5"
+			fontSize="28" />
+		
+		<Page
+			id="67"
+			text="Tesuto"
+			modelName=""
+			modelSkin="0"
+			modelCfg="0"
+			showTime="3"
+			fontSize="34" />
+		
+		<Page
+			id="68"
+			text="Suslo Red|Iwan «MrKarfen» Atamanofu|Semyon «Omezera» Ozeritsukii|Pushistik_7977|Anarxolis|ScorpyX|Arekusandaa192|Terorchat"
+			modelName="r3_man"
+			modelSkin="2"
+			modelCfg="635"
+			showTime="5"
+			fontSize="25" />
+		
+		<Page
+			id="69"
+			text="Tokubetsuna kansha:||Komyuniti e Deus Ex Machina|discord.gg/qKK2Efx||Komyuniti e EM2ch|vk.com/em2ch||Paburikku Ex Machina VKontakte|vk.com/exmachina2"
+			modelName="r1_man"
+			modelSkin="2"
+			modelCfg="92"
+			showTime="5"
+			fontSize="22" />
+
+		<Page
+			id="70"
+			text="Soshite:||Pavlik RPG chan'neru no shichoo-sha-muke||Kaihatsu-chuu ni gaman shite kureta tsuma, gaarufurendo, otto, shinseki, soshite neko-tachi e||Kono purojekuto o matte ooen shite kudasatta minasama e"
+			modelName="r1_man"
+			modelSkin="1"
+			modelCfg="102"
+			showTime="7"
+			fontSize="22" />
+	</Pages>
+</Credits>
