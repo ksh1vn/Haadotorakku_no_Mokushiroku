@@ -2060,13 +2060,13 @@
 
 	<QuestInfo
 		questName="r2m2_FightFelix"
-		briefDiz="Победить Феликса"
-		fullDiz="Феликс снова встал у меня на пути. На этот раз я не пощажу его!"
+		briefDiz="Ferikusu o taosu"
+		fullDiz="Ferikkusu ga mata jama o shite kita. Kondo wa kare o yoosha shimasen!"
 		isMainQuest="1" />
 
 	<QuestInfo
 		questName="r2m2_FightFelix_1"
-		briefDiz="Добраться до арены"
+		briefDiz="Ariina ni iku"
 		isMainQuest="1">
 		<Map
 			name="r2m2"
@@ -2075,7 +2075,7 @@
 
 	<QuestInfo
 		questName="r2m2_FightFelix_2"
-		briefDiz="Победить Феликса"
+		briefDiz="Ferikusu o taosu"
 		isMainQuest="1">
 		<Map
 			name="r2m2"
@@ -2084,7 +2084,7 @@
 
 	<QuestInfo
 		questName="r2m2_FightFelix_3"
-		briefDiz="Вернуться в монастырь"
+		briefDiz="Shuudooin ni modorimasu"
 		isMainQuest="1">
 		<Map
 			name="r2m2"
@@ -2093,7 +2093,7 @@
 
 	<QuestInfo
 		questName="r2m2_FightLisaToMonastir"
-		briefDiz="Остановить Лису"
+		briefDiz="Risa o tomero"
 		fullDiz="Любым способом надо остановить Лису. Я больше не позволю ей обманывать меня или кого бы то ни было ещё!"
 		isMainQuest="1">
 		<Map
@@ -2103,13 +2103,13 @@
 
 	<QuestInfo
 		questName="r2m2_FightWithAxelInArena_Quest"
-		briefDiz="Драться с Акселем"
-		fullDiz="Я сражусь с Акселем на арене и заставлю его рассказать мне всё."
+		briefDiz="Akuseru to notatakai"
+		fullDiz="Akuseru to toogi-ba de tatakatte, subete o katara sete yaru."
 		isMainQuest="1" />
 
 	<QuestInfo
 		questName="r2m2_FightWithAxelInArena_Quest_1"
-		briefDiz="Встретиться с Акселем на Арене"
+		briefDiz="Ariina de Akuseru ni aimashoo"
 		isMainQuest="1">
 		<Map
 			name="r2m2"
@@ -2118,7 +2118,7 @@
 
 	<QuestInfo
 		questName="r2m2_FightWithAxelInArena_Quest_2"
-		briefDiz="Победить Акселя"
+		briefDiz="Akuseru o taosu"
 		isMainQuest="1">
 		<Map
 			name="r2m2"
@@ -2127,8 +2127,8 @@
 
 	<QuestInfo
 		questName="r2m2_FindLisAfterAxelAndFatherDie_Quest"
-		briefDiz="Искать Лису в городе Сель"
-		fullDiz="Аксель поклялся, что не причастен к смерти отца. Я пожил немного среди этих людей и теперь склонен верить ему. Значит, нужно найти Лису и заставить ее рассказать мне правду."
+		briefDiz="Seru no machi de Risa o sagasu"
+		fullDiz="Akuseru wa chichioya no shi ni jibun wa kan'yo shite inai to chikatta. Watashi wa korera no hitobito no naka ni sukoshi sunde itanode, ima dewa kare no koto o shinjiru keikoo ni arimasu. Dakara, Risa o mitsukete shinjitsu o katara seru hitsuyoo ga aru."
 		isMainQuest="1">
 		<Map
 			name="r2m1"
@@ -2141,8 +2141,8 @@
 
 	<QuestInfo
 		questName="r2m2_FindROMinCastle"
-		briefDiz="Приехать в монастырь"
-		fullDiz="Что-то есть подозрительное в простом задании привезти вино из монастыря..."
+		briefDiz="Shuudooin ni kite kudasai"
+		fullDiz="Shuudooin kara wain o hakobu to iu tanjun'na shigoto ni, doko ka ayashii kehai ga…"
 		isMainQuest="1">
 		<Map
 			name="r2m2"
@@ -2151,7 +2151,7 @@
 
 	<QuestInfo
 		questName="r2m2_FindSNGKaravan"
-		briefDiz="Напасть на транспорт"
+		briefDiz="Koogeki yusoo"
 		isMainQuest="1">
 		<Map
 			name="r2m1"
@@ -2160,8 +2160,8 @@
 
 	<QuestInfo
 		questName="r2m2_GiveBardakToEnemy"
-		briefDiz="Внести сумятицу в ряды противника"
-		fullDiz="Пора начать психологическую атаку. Для начала я должен уничтожить несколько патрульных машин северян."
+		briefDiz="Teki no tairetsu ni konran o hikiokosu"
+		fullDiz="Shinri-teki koogeki o kaishi suru toki ga kimashita. Mazuwa kita no patokaa o nandai ka hakai shinakereba narimasen."
 		isMainQuest="1">
 		<Map
 			name="r2m2"
@@ -2171,12 +2171,12 @@
 	<QuestInfo
 		questName="r2m2_GiveBardakToSideVillage"
 		briefDiz="Напасть на деревню"
-		fullDiz="Жители этой деревни были замечены в связях с врагом. Я нападу на неё, чтобы оттянуть силы СНГ с основного направления атаки."
+		fullDiz="Kono mura no juumin wa teki to kankei ga aru to mi rarete ita. Watashi wa kanojo o koogeki shite, DTR butai o omona koogeki hookoo kara hikihanashimasu."
 		isMainQuest="1" />
 
 	<QuestInfo
 		questName="r2m2_GiveBardakToSideVillage_1"
-		briefDiz="Уничтожить охрану"
+		briefDiz="Eihei o hakai suru"
 		isMainQuest="1">
 		<Map
 			name="r2m2"
@@ -2185,7 +2185,7 @@
 
 	<QuestInfo
 		questName="r2m2_GiveBardakToSideVillage_2"
-		briefDiz="Уничтожить подкрепление"
+		briefDiz="Zooen o hakai suru"
 		isMainQuest="1">
 		<Map
 			name="r2m2"
@@ -2194,8 +2194,8 @@
 
 	<QuestInfo
 		questName="r2m2_GiveDisk2ToOrakul"
-		briefDiz="Отвезти второй диск к Оракулу"
-		fullDiz="Теперь, когда у меня есть второй диск, я смогу, наконец, расшифровать дневник Айвена Го. Конечно, для этого потребуется отправиться в Игнотт к Оракулу."
+		briefDiz="2-Banme no disuku o Orakuru ni mochikonde kudasai"
+		fullDiz="2-Mai-me no disuku o teniiretanode, yooyaku Iwan Guo no nikki o kaidoku dekiru yoo ni narimashita. Mochiron, kore ni wa Orakuru o miru tame ni Igunotto ni iku hitsuyoo ga arimasu."
 		isMainQuest="1">
 		<Map
 			name="r1m3" />
@@ -2221,7 +2221,7 @@
 
 	<QuestInfo
 		questName="r2m2_GoToLibrium"
-		briefDiz="Пробраться на территорию врага"
+		briefDiz="Tekichi ni norikomu"
 		isMainQuest="1">
 		<Map
 			name="r2m2"
@@ -2230,7 +2230,7 @@
 
 	<QuestInfo
 		questName="r2m2_Head1HunterQuest"
-		briefDiz="Убить язычника"
+		briefDiz="Ikyooto o korose"
 		isMainQuest="0">
 		<Map
 			name="r2m2"
@@ -2239,7 +2239,7 @@
 
 	<QuestInfo
 		questName="r2m2_Head2HunterQuest"
-		briefDiz="Убить еретика"
+		briefDiz="Itan-sha o korose"
 		isMainQuest="0">
 		<Map
 			name="r2m2"
@@ -2248,8 +2248,8 @@
 
 	<QuestInfo
 		questName="r2m2_HeadsHunterQuest"
-		briefDiz="Поручение Настоятельницы"
-		fullDiz="Настоятельница Монастыря предложила мне поохотиться на сектантов. Почему бы и нет."
+		briefDiz="Shuudooin-choo kunshoo"
+		fullDiz="Shuudooin no shuudooin-choo wa watashi o shuuha kari ni sasotte kuremashita. Naze damedesu ka."
 		isMainQuest="0">
 		<Map
 			name="r2m2" />
@@ -2257,8 +2257,8 @@
 
 	<QuestInfo
 		questName="r2m2_HelpAllSNGPeople"
-		briefDiz="Спасти лидера"
-		fullDiz="Лидер повстанцев должен остаться в живых. Он может сообщить важные сведения о планах врага."
+		briefDiz="Riidaa o sukue"
+		fullDiz="Hanran-gun no shidoo-sha wa ikinokoranakereba naranai. Kare wa teki no keikaku ni kansuru juuyoona joohoo o teikyoo suru koto ga dekimasu."
 		isMainQuest="1">
 		<Map
 			name="r2m1"
@@ -2271,8 +2271,8 @@
 
 	<QuestInfo
 		questName="r2m2_KillMrPresidentAndOther"
-		briefDiz="Убить лидеров СНГ во время переговоров"
-		fullDiz="Если я прекращу эту войну, то наверняка получу награду из рук Акселя."
+		briefDiz="Kooshoo-chuu ni DTR shidoo-sha o satsugai suru"
+		fullDiz="Kono sensoo o yamereba, akuseru no te kara kanarazu mukuwa rerudarou."
 		isMainQuest="1">
 		<Map
 			name="r2m2"
@@ -2281,8 +2281,8 @@
 
 	<QuestInfo
 		questName="r2m2_MoveToZeonToAlex"
-		briefDiz="Встретиться с Акселем"
-		fullDiz="Настало время получить награду из рук Акселя. Это мой единственный шанс приблизиться к нему на расстояние выстрела."
+		briefDiz="Akuseru no shookai"
+		fullDiz="Akuseru no te kara hooshuu o uketoru toki ga kita. Kore ga kare kara shageki kyori ni chikadzuku yuiitsu no chansuda."
 		isMainQuest="1">
 		<Map
 			name="r2m2"
@@ -2291,8 +2291,8 @@
 
 	<QuestInfo
 		questName="r2m2_OldDvigatel1_Quest"
-		briefDiz="Отвезти хлам в деревню неподалеку"
-		fullDiz="Непыльная работенка - перевезти груз из одного места в другое. Это не очень увлекательно, но за это мне платят неплохие деньги."
+		briefDiz="Gomi o chikaku no mura ni motte iku"
+		fullDiz="Funjin no nai shigoto - aru basho kara betsu no basho e nimotsu o hakobu. Amari omoshiroi shigotode wa arimasenga, sorenari no okane o moratte imasu."
 		isMainQuest="0">
 		<Map
 			name="r2m2"
@@ -2301,8 +2301,8 @@
 
 	<QuestInfo
 		questName="r2m2_OldDvigatel2_Quest"
-		briefDiz="Отвезти хлам обратно в Мареццию"
-		fullDiz="История с перевозкой старого двигателя становится интересной. Не успел я отдать его в деревне, как мне вернули его обратно с просьбой вернуть обратно в Мареццию."
+		briefDiz="Janku o Marettsuia ni mochikaeru"
+		fullDiz="Furui enjin o yusoo suru hanashi ga omoshiroku narimasu. Mura de sore o kaesu mae ni, karera wa sore o Marettsuia ni kaesu yoo motomete watashi ni kaeshite kimashita."
 		isMainQuest="0">
 		<Map
 			name="r2m2"
@@ -2311,7 +2311,7 @@
 
 	<QuestInfo
 		questName="r2m2_ReturnHeadsQuest"
-		briefDiz="Вернуться в Монастырь"
+		briefDiz="Shuudooin ni modoru"
 		isMainQuest="0">
 		<Map
 			name="r2m2"
@@ -2320,8 +2320,8 @@
 
 	<QuestInfo
 		questName="r2m2_ReturnToMarecciaFromCastle"
-		briefDiz="Вернуться в Мареццию"
-		fullDiz="Пора возвращаться в Мареццию за наградой и новым заданием."
+		briefDiz="Marettsu~ia ni modoru"
+		fullDiz="Hooshuu to atarashii ninmu o eru tame ni marezutia ni modoru toki ga kimashita."
 		isMainQuest="1">
 		<Map
 			name="r2m2"
@@ -2330,7 +2330,7 @@
 
 	<QuestInfo
 		questName="r2m2_ReturnToMarecciaFromKaravanSNG"
-		briefDiz="Вернуться в Мареццию"
+		briefDiz="Marettsu~ia ni modoru"
 		isMainQuest="1">
 		<Map
 			name="r2m1"
@@ -2343,8 +2343,8 @@
 
 	<QuestInfo
 		questName="r2m2_ReturnToMarecciaFromVillage"
-		briefDiz="Вернуться в Мареццию"
-		fullDiz="Пора возвращаться в Мареццию за наградой и за новым заданием."
+		briefDiz="Marettsu~ia ni modoru"
+		fullDiz="Hooshuu to atarashii ninmu o eru tame ni marezutia ni modoru toki ga kimashita."
 		isMainQuest="1">
 		<Map
 			name="r2m2"
@@ -2353,13 +2353,13 @@
 
 	<QuestInfo
 		questName="r2m2_ToKillAllSNGPeople"
-		briefDiz="Уничтожить лагерь повстанцев"
-		fullDiz="Мне дали приказ убить беззащитных повстанцев. Меня терзают сомнения, ведь это настоящее злодеяние."
+		briefDiz="Hanran-gun no kyanpu o hakai suru"
+		fullDiz="Watashi wa muboobina hanran-gun o satsugai suru yoo meirei o ukemashita. Kore wa honmono no hanzainanode, ginen ni sainama rete imasu."
 		isMainQuest="1" />
 
 	<QuestInfo
 		questName="r2m2_ToKillAllSNGPeople_1"
-		briefDiz="Найти повстанцев"
+		briefDiz="Hanran-gun o sagase"
 		isMainQuest="1">
 		<Map
 			name="r2m2"
@@ -2368,7 +2368,7 @@
 
 	<QuestInfo
 		questName="r2m2_ToKillAllSNGPeople_2"
-		briefDiz="Уничтожить повстанцев"
+		briefDiz="Hanran-gun o senmetsu suru"
 		isMainQuest="1">
 		<Map
 			name="r2m2"
@@ -2377,8 +2377,8 @@
 
 	<QuestInfo
 		questName="r2m2_ToLisaToMonastir"
-		briefDiz="Узнать о Лисе в Монастыре"
-		fullDiz="По последним сведениям, Лиса прячется в Монастыре. Там я ее и настигну!"
+		briefDiz="Shuudooin de Risa ni tsuite manabu"
+		fullDiz="Saishin no joohoo ni yoru to, Risa wa shuudooin ni kakurete iru soodesu. Sokode kanojo o oikoshite yaru!"
 		isMainQuest="1">
 		<Map
 			name="r2m2"
@@ -2387,8 +2387,8 @@
 
 	<QuestInfo
 		questName="r2m2_Znaki2Midgard_Quest"
-		briefDiz="Рассказать про знаки учёным в Мидгарде"
-		fullDiz="Учёных в Мидгарде заинтересует такая информация. Возможно, мне даже удастся на этом подзаработать деньжат."
+		briefDiz="Middogarudo no kagaku-sha ni chookoo ni tsuite tsutaeru"
+		fullDiz="Middogarudo no kagaku-sha wa sono yoona joohoo ni kyoomiwomotsudeshou. Kore de ikuraka okane o kasegu koto mo dekiru kamo shiremasen."
 		isMainQuest="0">
 		<Map
 			name="r1m1"
@@ -2424,8 +2424,8 @@
 
 	<QuestInfo
 		questName="r2m2_Znaki2_Quest"
-		briefDiz="Взглянуть на поле"
-		fullDiz="Стоит посмотреть, что же так пугает крестьян на полях."
+		briefDiz="Fiirudo o mite mimashou"
+		fullDiz="Hata no noomin ni totte nani ga sorehodo osoroshii no ka o mite miru kachi ga arimasu."
 		isMainQuest="0">
 		<Map
 			name="r2m2"
@@ -2434,8 +2434,8 @@
 
 	<QuestInfo
 		questName="r3m1_ClearSanctuary"
-		briefDiz="Очистить святилище"
-		fullDiz="Чтобы завоевать доверие друидов, я должен очистить их святилище от стальных чудовищ"
+		briefDiz="Seiiki o jooka suru"
+		fullDiz="Doruido soo no shinrai o eru ni wa, karera no seiiki kara kootetsu no kaibutsu o issoo suru hitsuyoo ga arimasu"
 		isMainQuest="1">
 		<Map
 			name="r1m4"
@@ -2451,7 +2451,7 @@
 
 	<QuestInfo
 		questName="r3m1_ClearSanctuary_DestroyOut"
-		briefDiz="Завалить выход из логова монстров"
+		briefDiz="Monsutaa no kakurega kara no deguchi o fusaide kudasai"
 		isMainQuest="1">
 		<Map
 			name="r3m1"
@@ -2460,7 +2460,7 @@
 
 	<QuestInfo
 		questName="r3m1_ClearSanctuary_GotoSanctuary"
-		briefDiz="Добраться до святилища"
+		briefDiz="Seiiki ni tsuku"
 		isMainQuest="1">
 		<Map
 			name="r3m1"
@@ -2469,7 +2469,7 @@
 
 	<QuestInfo
 		questName="r3m1_ClearSanctuary_KillMonster"
-		briefDiz="Уничтожить монстров"
+		briefDiz="Monsutaa o hakai suru"
 		isMainQuest="1">
 		<Map
 			name="r3m1"
@@ -2478,7 +2478,7 @@
 
 	<QuestInfo
 		questName="r3m1_ClearSanctuary_ReturnDruid"
-		briefDiz="Вернуться в Сет"
+		briefDiz="Sete ni modoru"
 		isMainQuest="1">
 		<Map
 			name="r3m1"
@@ -2487,7 +2487,7 @@
 
 	<QuestInfo
 		questName="r3m1_ClearSanctuary_ReturnDruid2"
-		briefDiz="Вернуться в Сет"
+		briefDiz="Sete ni modoru"
 		isMainQuest="1">
 		<Map
 			name="r3m1"
@@ -2496,8 +2496,8 @@
 
 	<QuestInfo
 		questName="r3m1_FindMoreNative"
-		briefDiz="Найти мирных аборигенов"
-		fullDiz="Встреченные жители оказались весьма негостеприимны. Нужно поискать другие селения, где меня лучше встретят."
+		briefDiz="Heiwana genjuumin o mitsukeru"
+		fullDiz="Watashitachi ga deatta juumin wa hijoo ni fushinsetsuna hito-tachideshita. Motto ukeirete moraeru ta no mura o sagasu hitsuyoo ga aru."
 		isMainQuest="1">
 		<Map
 			name="r3m1" />
@@ -2505,8 +2505,8 @@
 
 	<QuestInfo
 		questName="r3m1_FindNative"
-		briefDiz="Отыскать местных жителей"
-		fullDiz="Я в первый раз в этих землях. Нужно найти местных жителей и узнать у них, где искать Оракула."
+		briefDiz="Jimoto no hito o sagasu"
+		fullDiz="Korera no tochi ni kuru no wa hajimetedesu. Jimoto no juumin o mitsukete, Orakuru o sagasu basho o oshietemorau hitsuyoo ga arimasu."
 		isMainQuest="1">
 		<Map
 			name="r1m4"
@@ -2518,8 +2518,8 @@
 
 	<QuestInfo
 		questName="r3m1_FindNative_2"
-		briefDiz="Найти местных жителей"
-		fullDiz="Я в первый раз в этих землях. Нужно найти местных жителей и узнать у них, где искать Оракула."
+		briefDiz="Jimoto no hito o sagasu"
+		fullDiz="Korera no tochi ni kuru no wa hajimetedesu. Jimoto no juumin o mitsukete, orakuru o sagasu basho o oshietemorau hitsuyoo ga arimasu."
 		isMainQuest="1">
 		<Map
 			name="r2m1"
@@ -2531,8 +2531,8 @@
 
 	<QuestInfo
 		questName="r3m1_GoToOracle"
-		briefDiz="Последовать к Оракулу"
-		fullDiz="Наконец-то мне удалось найти путь к Оракулу."
+		briefDiz="Orakuru ni shitagatte kudasai"
+		fullDiz="Tsuini Orakuru e no michi o mitsukeru koto ga dekimashita."
 		isMainQuest="1">
 		<Map
 			name="r1m4"
@@ -2553,8 +2553,8 @@
 
 	<QuestInfo
 		questName="r3m1_KnowAboutUluk"
-		briefDiz="Узнать, что случилось с Улуком"
-		fullDiz="Из Улука давно не поступало новостей. Друиды просят меня узнать, что случилось с его жителями."
+		briefDiz="Uruku ni nani ga okotta no ka shirabete kudasai"
+		fullDiz="Uruku kara wa nagaiai otosata ga nakatta. Doruido soo wa watashi ni, sono juumin ni nani ga okotta no ka shirabete hoshii to tanonde kimashita."
 		isMainQuest="0">
 		<Map
 			name="r3m1" />
@@ -2562,7 +2562,7 @@
 
 	<QuestInfo
 		questName="r3m1_KnowAboutUluk_GotoSet"
-		briefDiz="Сообщить Фионию"
+		briefDiz="Fionia ni hookoku suru"
 		isMainQuest="0">
 		<Map
 			name="r3m1" />
@@ -2570,7 +2570,7 @@
 
 	<QuestInfo
 		questName="r3m1_KnowAboutUluk_GotoUluk"
-		briefDiz="Приехать в Улук"
+		briefDiz="Uruku ni kite kudasai"
 		isMainQuest="0">
 		<Map
 			name="r3m1"
@@ -2579,8 +2579,8 @@
 
 	<QuestInfo
 		questName="r3m1_LureMainDriud"
-		briefDiz="Выманить Верховного Друида"
-		fullDiz="Машинопоклонники хотят свергнуть друидов и захватить власть. Поэтому они хотят убить Верховного друида. Если я помогу им, то узнаю, как проехать к Оракулу."
+		briefDiz="Aakudoruido o sasoidasu"
+		fullDiz="Kikai suuhai-sha-tachi wa doruido soo o uchitaoshi, kenryoku o shooaku shitai to kangaete imasu. Dakarakoso karera wa aakudoruido o korosou to shite iru nodesu. Karera o sukereba, orakuru ni iku hoohoo ga wakarudeshou."
 		isMainQuest="1">
 		<Map
 			name="r1m4"
@@ -2596,7 +2596,7 @@
 
 	<QuestInfo
 		questName="r3m1_LureMainDriud_Ambush"
-		briefDiz="Привезти друида в место засады"
+		briefDiz="Doruido soo o machibuse basho ni tsureteiku"
 		isMainQuest="1">
 		<Map
 			name="r3m1"
@@ -2605,7 +2605,7 @@
 
 	<QuestInfo
 		questName="r3m1_LureMainDriud_Talk"
-		briefDiz="Поговорить с друидом"
+		briefDiz="Doruido soo to hanasu"
 		isMainQuest="1">
 		<Map
 			name="r3m1"
@@ -2614,7 +2614,7 @@
 
 	<QuestInfo
 		questName="r3m1_LureMainDriud_Uluk"
-		briefDiz="Приехать в Улук"
+		briefDiz="Uruku ni kite kudasai"
 		isMainQuest="1">
 		<Map
 			name="r3m1"
@@ -2623,8 +2623,8 @@
 
 	<QuestInfo
 		questName="r3m1_RescueUlukCivil"
-		briefDiz="Спасти жителей Улука"
-		fullDiz="Не все жители Улука подались в религию машин. Те, кто остался верен вере Друидов, подвергаются гонениям. Я просто не могу оставить их на верную смерть."
+		briefDiz="Uruku no juumin o sukue"
+		fullDiz="Uruku no juumin zen'in ga kikai shuukyoo ni kuwawatta wakede wa arimasen. Doruido shinkoo ni chuujitsudeari tsudzuketa hitobito wa hakugai sa remasu. Karera o hoochi shite shina seru wake ni wa ikanai."
 		isMainQuest="0">
 		<Map
 			name="r3m1" />
@@ -2632,7 +2632,7 @@
 
 	<QuestInfo
 		questName="r3m1_RescueUlukCivil_GotoVillage"
-		briefDiz="Доехать до временного убежища"
+		briefDiz="Ichiji hinansho ni iku"
 		isMainQuest="0">
 		<Map
 			name="r3m1"
@@ -2641,7 +2641,7 @@
 
 	<QuestInfo
 		questName="r3m1_RescueUlukCivil_RepelAttack"
-		briefDiz="Отразить нападение машин"
+		briefDiz="Mashin no koogeki o gekitai suru"
 		isMainQuest="0">
 		<Map
 			name="r3m1"
@@ -2650,7 +2650,7 @@
 
 	<QuestInfo
 		questName="r3m1_RescueUlukCivil_TakeToSet"
-		briefDiz="Сопроводить их до Сета"
+		briefDiz="Karera o Sesu no tokoro made goei suru"
 		isMainQuest="0">
 		<Map
 			name="r3m1"
@@ -2659,8 +2659,8 @@
 
 	<QuestInfo
 		questName="r3m1_TalkWithMainDruid"
-		briefDiz="Связаться с Верховным друидом"
-		fullDiz="Верховный Друид живет в Сете. Скорее всего, он знает, где искать Оракула."
+		briefDiz="Aakudoruido ni renraku suru"
+		fullDiz="Aachi doruido wa setto ni sunde imasu. Osoraku kare wa, orakuru o doko de sagaseba yoi no ka shitte irudeshou."
 		isMainQuest="1">
 		<Map
 			name="r1m4"
@@ -2677,8 +2677,8 @@
 
 	<QuestInfo
 		questName="r3m2_DestroyOracleGuard"
-		briefDiz="Уничтожить защитников Оракула"
-		fullDiz="Если фанатики не понимают по-хорошему, значит придётся разговаривать с ними на их же языке."
+		briefDiz="Orakuru no boogyo-sha o hakai suru"
+		fullDiz="Nekkyoo-sha ga yoku rikai shite inai baai wa, karera no gengo de hanasu hitsuyoo ga arimasu."
 		isMainQuest="1">
 		<Map
 			name="r3m2"
@@ -2687,8 +2687,8 @@
 
 	<QuestInfo
 		questName="r3m2_FindInfoAboutFather"
-		briefDiz="Найти информацию об отце"
-		fullDiz="Дневник пролил свет на судьбу отца. Теперь я точно знаю, что искать его следует по ту сторону Пустыни Смерти."
+		briefDiz="Chichioya ni kansuru joohoo o shiraberu"
+		fullDiz="Sono nikki wa kare no chichioya no unmei o akiraka ni shimashita. Ima dewa shi no sabaku no mukoo-gawa de kare o sagasubekida to kakushin shimashita."
 		isMainQuest="1">
 		<Map
 			name="r1m1"
@@ -2725,13 +2725,13 @@
 
 	<QuestInfo
 		questName="r3m2_MonterHead"
-		briefDiz="Принести голову чудища"
-		fullDiz="Защитники оракула пропустят меня, если чудище будет убито. В качестве доказательства нужно принести его голову."
+		briefDiz="Kaibutsu no atama o motte kuru"
+		fullDiz="Orakuru no yoogo-sha wa, monsutaa ga korosa rereba watashi o tsuuka sa semasu. Kare no kubi wa shooko to shite teishutsu sa renakereba narimasen."
 		isMainQuest="1" />
 
 	<QuestInfo
 		questName="r3m2_MonterHead_1"
-		briefDiz="Добраться до города мертвых"
+		briefDiz="Shisha no machi e iku"
 		isMainQuest="1">
 		<Map
 			name="r3m1"
@@ -2744,7 +2744,7 @@
 
 	<QuestInfo
 		questName="r3m2_MonterHead_2"
-		briefDiz="Победить монстра"
+		briefDiz="Monsutaa o taosu"
 		isMainQuest="1">
 		<Map
 			name="r3m1"
@@ -2757,7 +2757,7 @@
 
 	<QuestInfo
 		questName="r3m2_MonterHead_3"
-		briefDiz="Отдать голову защитникам"
+		briefDiz="Difendaa ni atama o azukeru"
 		isMainQuest="1">
 		<Map
 			name="r3m1"
@@ -2770,8 +2770,8 @@
 
 	<QuestInfo
 		questName="r3m2_OracleMemory"
-		briefDiz="Вернуть Оракулу память"
-		fullDiz="Похоже, что оракул вовсе не такой всезнающий, каким был прежде. Чтобы вернуть ему память, нужно отвезти ремонтников в указанные места."
+		briefDiz="Orakuru no memori o fukugen suru"
+		fullDiz="Orakuru wa katsute hodo zenchide wa nai yoodesu. Kare no kioku o torimodosu ni wa, shuurikoo o shiji sa reta basho ni tsureteiku hitsuyoo ga arimasu."
 		isMainQuest="1">
 		<Map
 			name="r3m1"
@@ -2783,7 +2783,7 @@
 
 	<QuestInfo
 		questName="r3m2_OracleMemory_1"
-		briefDiz="Доставить робота-настройщика"
+		briefDiz="Kasutamaizu robotto o noonyuu"
 		isMainQuest="1">
 		<Map
 			name="r3m1"
@@ -2796,7 +2796,7 @@
 
 	<QuestInfo
 		questName="r3m2_OracleMemory_2"
-		briefDiz="Доставить робота-помощника"
+		briefDiz="Robottoashisutanto o doonyuu suru"
 		isMainQuest="1">
 		<Map
 			name="r3m1"
@@ -2809,7 +2809,7 @@
 
 	<QuestInfo
 		questName="r3m2_OracleMemory_3"
-		briefDiz="Доставить робота-ремонтника"
+		briefDiz="Shuuri robotto o noohin suru"
 		isMainQuest="1">
 		<Map
 			name="r3m1"
@@ -2822,7 +2822,7 @@
 
 	<QuestInfo
 		questName="r3m2_OracleMemory_Return"
-		briefDiz="Вернуться к Оракулу"
+		briefDiz="Orakuru ni modoru"
 		isMainQuest="1">
 		<Map
 			name="r3m1"
@@ -2835,8 +2835,8 @@
 
 	<QuestInfo
 		questName="r3m2_OvercomeOracleGuard"
-		briefDiz="Преодолеть защитников Оракула"
-		fullDiz="На пути к Оракулу стоят его стражи, нужно договориться с ними или избавиться от них."
+		briefDiz="Orakuru no yoogo-sha o taosu"
+		fullDiz="Orakuru ni mukau tochuu ni wa anchisukiru ga imasu. Karera to kooshoo suru ka, oiharau hitsuyoo ga arimasu."
 		isMainQuest="1">
 		<Map
 			name="r3m1"
@@ -2849,14 +2849,14 @@
 
 	<QuestInfo
 		questName="r3m2_ReadyToTravel"
-		briefDiz="Подготовиться к путешествию в пустыню"
-		fullDiz="Машину надо модернизировать, чтобы я смог на ней пересечь пустыню. У меня есть чертеж, так что нужно найти мастера, который выполнит работу."
+		briefDiz="Sabaku e no ryokoo no junbi o suru"
+		fullDiz="Sabaku o koe rareru yoo ni kuruma o appugureedo suruhitsuyoogaaru. Zumen ga aru node, sono shigoto o shite kureru shokunin o sagasu hitsuyoo ga arimasu."
 		isMainQuest="1" />
 
 	<QuestInfo
 		questName="r3m2_RevengeDestroyVillage"
-		briefDiz="Отомстить за уничтожение деревни"
-		fullDiz="Дневник Айвена Го действительно содержал планы устройства, с помощью которого можно пересечь Пустыню Смерти. Теперь я выслежу и накажу тех, кто разрушил мою деревню!"
+		briefDiz="Mura no hakai ni fukushuu suru"
+		fullDiz="Tashika ni, Iwan Guo no nikki ni wa, shi no sabaku o oodan suru tame ni shiyoo dekiru soochi no keikaku ga fukuma rete imashita. Ima koso mura o horoboshita-sha-tachi o oitsumete korashimete yaru!"
 		isMainQuest="1">
 		<Map
 			name="r1m1"
@@ -2889,8 +2889,8 @@
 
 	<QuestInfo
 		questName="r3m2_RideToFatherRoomAfterOracul"
-		briefDiz="Вернуться в дом отца"
-		fullDiz="Возможно, второй диск находится в доме отца. Я мог пропустить что-то, когда был там в первый раз. Но теперь я точно знаю, что искать."
+		briefDiz="Chichi no ie ni modoru"
+		fullDiz="Osoraku 2-mai-me no disuku wa chichioya no ie ni arudeshou. Hajimete itta toki wa nanika o minogashite ita kamo shiremasen. Shikashi ima dewa, nani o sagaseba yoi no ka seikaku ni wakarimashita."
 		isMainQuest="1">
 		<Map
 			name="r1m3"
@@ -2919,8 +2919,8 @@
 
 	<QuestInfo
 		questName="r3m2_TalkWithBenAboutCarAfterOracul"
-		briefDiz="Поговорить с Беном о втором диске"
-		fullDiz="Некий Бен Дроссель, старый исследователь и друг Айвена Го, может знать что-нибудь о местонахождении второго диска."
+		briefDiz="2-Mai-me no disuku ni tsuite Ben to hanasu"
+		fullDiz="Iwan Guo no yuujin de furui kenkyuushadearu Ben Dorosseru, 2-banme no enban no shozai ni tsuite nanika o shitte iru kamo shiremasen."
 		isMainQuest="1">
 		<Map
 			name="r1m2"
@@ -2953,8 +2953,8 @@
 
 	<QuestInfo
 		questName="r3m2_TalkWithLisa"
-		briefDiz="Поговорить с Лисой"
-		fullDiz="Оракул утверждает, что Лиса знает больше, чем говорит. В любом случае нужно встретиться с ней."
+		briefDiz="Risa to hanasu"
+		fullDiz="Orakuru wa, Risa wa jibun ga iu yori mo ooku no koto o shitte iru to shuchoo shite imasu. Izure ni shite mo, kanojo ni awanakereba narimasen."
 		isMainQuest="1">
 		<Map
 			name="r2m1"
@@ -2971,8 +2971,8 @@
 
 	<QuestInfo
 		questName="r3m2_TwoMagicThing"
-		briefDiz="Принести Оракулу два артефакта"
-		fullDiz="Оракул согласится мне помочь, только если ему принести два артефакта с заброшенного завода."
+		briefDiz="2Tsu no aatifakuto o Orakuru ni mochikomu"
+		fullDiz="Orakuru wa, watashi ga hai koojoo kara 2-tsu no aatifakuto o motte kuru baai ni nomi, watashi o tasukeru koto ni dooi shimasu."
 		isMainQuest="1">
 		<Map
 			name="r3m2" />
@@ -2980,7 +2980,7 @@
 
 	<QuestInfo
 		questName="r3m2_TwoMagicThing_Factory"
-		briefDiz="Приехать к Заводу"
+		briefDiz="Koojoo ni kite kudasai"
 		isMainQuest="1">
 		<Map
 			name="r3m1"
@@ -2993,7 +2993,7 @@
 
 	<QuestInfo
 		questName="r3m2_TwoMagicThing_FindThing"
-		briefDiz="Найти первый артефакт"
+		briefDiz="Saisho no aatifakuto o mitsukeru"
 		isMainQuest="1">
 		<Map
 			name="r3m1"
@@ -3005,7 +3005,7 @@
 
 	<QuestInfo
 		questName="r3m2_TwoMagicThing_FindThing_2"
-		briefDiz="Найти второй артефакт"
+		briefDiz="2-Banme no aatifakuto o mitsukeru"
 		isMainQuest="1">
 		<Map
 			name="r3m1"
@@ -3017,7 +3017,7 @@
 
 	<QuestInfo
 		questName="r3m2_TwoMagicThing_Return"
-		briefDiz="Вернуться к Оракулу"
+		briefDiz="Orakuru ni modoru"
 		isMainQuest="1">
 		<Map
 			name="r3m1"
@@ -3030,7 +3030,7 @@
 
 	<QuestInfo
 		questName="r4m1_FPR_MeetWithOldMan"
-		briefDiz="Встретиться с жителями Бухары"
+		briefDiz="Buhara no juumin to au"
 		isMainQuest="1">
 		<Map
 			name="r4m1"
@@ -3039,7 +3039,7 @@
 
 	<QuestInfo
 		questName="r4m1_FRP_GotoKef"
-		briefDiz="Съездить в Кеф"
+		briefDiz="Kefu ni iku"
 		isMainQuest="1">
 		<Map
 			name="r4m1"
@@ -3048,7 +3048,7 @@
 
 	<QuestInfo
 		questName="r4m1_FRP_HelpKef"
-		briefDiz="Обеспечить Кеф нефтью"
+		briefDiz="Kefu ni abura o kyookyuu suru"
 		isMainQuest="0">
 		<Map
 			name="r4m1" />
@@ -3056,8 +3056,8 @@
 
 	<QuestInfo
 		questName="r4m1_FindMilitaryBase"
-		briefDiz="Найти базу бандитов"
-		fullDiz="Мне известно только примерное направление на эту базу. Но я уверен, что смогу легко найти это место и наказать убийц моего отца!"
+		briefDiz="Sanzoku no kyoten o mitsukeru"
+		fullDiz="Watashi wa kono kichi e no ooyoso no hookoo shika shirimasen. Demo, kono basho o kantan ni mitsukete, chichi o koroshita han'nin o baddekiru to kakushin shite imasu!"
 		isMainQuest="1">
 		<Map
 			name="r1m1"
@@ -3081,8 +3081,8 @@
 
 	<QuestInfo
 		questName="r4m1_FindNative"
-		briefDiz="Найти мастерскую"
-		fullDiz="Мне удалось пересечь Пустыню Смерти! Теперь было бы неплохо найти мастерскую. Остается лишь надеяться, что не все местные жители агрессивны."
+		briefDiz="Waakushoppu o sagasu"
+		fullDiz="Shi no sabaku o koeru koto ga dekimashita! Kondo wa kooboo ga mitsukaruto yoidesu ne. Jimoto juumin zen'in ga koogeki-tekidenai koto o inoru bakaridesu."
 		isMainQuest="1">
 		<Map
 			name="r1m1"
@@ -3094,8 +3094,8 @@
 
 	<QuestInfo
 		questName="r4m1_FindResponsiblePeople"
-		briefDiz="Отыскать вменяемых людей"
-		fullDiz="В этой пустыне живут странные люди. Я ничего не могу от них добиться. Нужно найти хоть кого-то, кто сможет ответить на мои вопросы."
+		briefDiz="Shooki no hito o mitsukeru"
+		fullDiz="Kono sabaku ni wa kimyoona hitobito ga sunde imasu. Karera kara wa nani mo eru koto ga dekimasen. Sukunakutomo watashi no shitsumon ni kotae rareru hito o mitsukeru hitsuyoo ga arimasu."
 		isMainQuest="1">
 		<Map
 			name="r1m1"
@@ -3107,8 +3107,8 @@
 
 	<QuestInfo
 		questName="r4m1_GotoAivenGo"
-		briefDiz="Последовать за Айвеном Го"
-		fullDiz="Айвен поехал в этом направлении, больше ничего не известно. Я последую за ним и выясню, что с ним произошло."
+		briefDiz="Iwan Guo o foroo suru"
+		fullDiz="Iwan wa kono hookoo ni susumimashitaga, soreijoo wa nani mo shira rete imasen. Watashi wa kare o oikakete, kare ni nani ga okotta no ka o shirabemasu."
 		isMainQuest="1">
 		<Map
 			name="r1m1"
@@ -3132,7 +3132,7 @@
 
 	<QuestInfo
 		questName="r4m1_KNO_BringOil"
-		briefDiz="Привезти нефть в Кеф"
+		briefDiz="Sekiyu o Kefu ni motte iku"
 		isMainQuest="1">
 		<Map
 			name="r4m1"
@@ -3141,7 +3141,7 @@
 
 	<QuestInfo
 		questName="r4m1_KNO_FindSpecialist"
-		briefDiz="Искать нефтегонщика в Алихаме"
+		briefDiz="Arihama de oiruponpu-sha o sagasu"
 		isMainQuest="1">
 		<Map
 			name="r4m1"
@@ -3150,7 +3150,7 @@
 
 	<QuestInfo
 		questName="r4m1_KNO_FindSpecialist_1"
-		briefDiz="Догнать специалиста по перегонке"
+		briefDiz="Joryuu no supesharisuto ni aeru"
 		isMainQuest="1">
 		<Map
 			name="r4m1"
@@ -3159,7 +3159,7 @@
 
 	<QuestInfo
 		questName="r4m1_KNO_GotoOiler"
-		briefDiz="Съездить за нефтью на скважину"
+		briefDiz="Abura o tori ni ido ni iku"
 		isMainQuest="1">
 		<Map
 			name="r4m1"
@@ -3168,7 +3168,7 @@
 
 	<QuestInfo
 		questName="r4m1_KNO_ReportToKef"
-		briefDiz="Сообщить о неудаче в Кеф"
+		briefDiz="Shippai o Kefu ni hookoku suru"
 		isMainQuest="1">
 		<Map
 			name="r4m1"
@@ -3177,8 +3177,8 @@
 
 	<QuestInfo
 		questName="r4m1_Kef_NeedOil"
-		briefDiz="Кеф нуждается в нефти"
-		fullDiz="Без нефти жители Кефа как без рук. Я помогу им привезти её, воспользовавшись грузовиком-цистерной. Всё равно ждать, пока не вернулась экспедиция."
+		briefDiz="Kefu ni wa abura ga hitsuyoodesu"
+		fullDiz="Sekiyu ga nakereba, Kefu no juumin wa te o ushinaimasu. Tankuroorii o tsukatte hakobikomu no o tetsudaimasu. Ensei-tai ga modotte kuru made machimasu."
 		isMainQuest="1">
 		<Map
 			name="r1m1"
@@ -3190,7 +3190,7 @@
 
 	<QuestInfo
 		questName="r4m1_RBC_DefendCountry"
-		briefDiz="Защитить деревню от нападения"
+		briefDiz="Mura o koogeki kara mamoru"
 		isMainQuest="1">
 		<Map
 			name="r4m1"
@@ -3199,7 +3199,7 @@
 
 	<QuestInfo
 		questName="r4m1_RBC_Evacuate"
-		briefDiz="Эвакуировать людей Бухары в порт"
+		briefDiz="Buhara no hitobito o minato ni hinan sa sete kudasai"
 		isMainQuest="1">
 		<Map
 			name="r4m1"
@@ -3208,7 +3208,7 @@
 
 	<QuestInfo
 		questName="r4m1_RBC_GotoPort"
-		briefDiz="Найти порт, откуда я смогу отправить корабль с беженцами в безопасное место"
+		briefDiz="Nanmin o noseta fune o anzen'na basho ni okuru koto ga dekiru minato o sagasu"
 		isMainQuest="1">
 		<Map
 			name="r4m1"
@@ -3217,8 +3217,8 @@
 
 	<QuestInfo
 		questName="r4m1_RescueBuharsCivilian"
-		briefDiz="Спасти жителей Бухары"
-		fullDiz="Если я помогу этим людям спастись от преследования, тогда можно будет рассчитывать на их содействие."
+		briefDiz="Buhara no juumin o sukue"
+		fullDiz="Moshi watashi ga korera no hitobito ga hakugai kara nogare rareru yoo ni tedasuke sureba, karera no kyooryoku o kitai suru koto ga dekimasu."
 		isMainQuest="1">
 		<Map
 			name="r1m1"
@@ -3230,8 +3230,8 @@
 
 	<QuestInfo
 		questName="r4m2_DestroyPlate"
-		briefDiz="Уничтожить тарелку"
-		fullDiz="Тарелка является источником излучения, которое разрушило наш мир. Она должна быть уничтожена!"
+		briefDiz="Pureeto o hakai suru"
+		fullDiz="Pureeto wa watashitachi no sekai o hakai shita hooshasen no hassei-gendesu. Kanojo wa hakai sa renakereba narimasen!"
 		isMainQuest="1">
 		<Map
 			name="r1m1" />
@@ -3266,8 +3266,8 @@
 
 	<QuestInfo
 		questName="r4m2_FightWithCrazy"
-		briefDiz="Очистить местность от безумцев"
-		fullDiz="Все следы указывают на военную базу. Мне нужно хорошенько здесь всё осмотреть. Но я не думаю, что эти ребята настроены дружелюбно. Даже если это и ложный путь, я хотя бы очищу это место от безумцев, терроризирующих округу."
+		briefDiz="Kyoojin no eria o issoo suru"
+		fullDiz="Subete no konseki wa gunji kichi o shimeshite imasu. Kokora hen o yoku mite miru hitsuyoo ga aru. Demo, kono hito-tachi wa yuukoo-tekide wa nai to omoimasu. Tatoe sore ga machigatta michidatta to shite mo, sukunakutomo kono chiiki o kyoofu ni otoshiirete iru kyoojin-tachi o issoo shite yaru."
 		isMainQuest="1">
 		<Map
 			name="r4m1"
@@ -3280,8 +3280,8 @@
 
 	<QuestInfo
 		questName="r4m2_InvestigationPlate"
-		briefDiz="Исследовать Источник"
-		fullDiz="Ученый сказал что-то о корабле пришельцев. Нужно посмотреть на этот Источник поближе."
+		briefDiz="Soosu o tansaku suru"
+		fullDiz="Kagaku-sha wa uchuusen ni tsuite nani ka iimashita. Kono soosu o kuwashiku shiraberu hitsuyoo ga arimasu."
 		isMainQuest="1">
 		<Map
 			name="r4m1"
@@ -3294,8 +3294,8 @@
 
 	<QuestInfo
 		questName="r4m2_NeutralizePlate"
-		briefDiz="Обезвредить тарелку"
-		fullDiz="Корабль пришельцев является источником излучения, которое разрушило наш мир. Её необходимо обезвредить."
+		briefDiz="Pureeto o kaijo suru"
+		fullDiz="Isei-sen wa watashitachi no sekai o hakai shita hooshasen-gendesu. Kanojo wa muryoku-ka sa reru hitsuyoo ga aru."
 		isMainQuest="1">
 		<Map
 			name="r1m1" />
@@ -3330,8 +3330,8 @@
 
 	<QuestInfo
 		questName="r4m2_TalkWithScientific"
-		briefDiz="Поговорить с ученым об Источнике"
-		fullDiz="Я увидел это ужасное место и еле унес ноги. Страшная сила влекла меня прямо к сердцу излучения. Туда, где уже стояли парализованные люди. Что-то нужно предпринять! Возможно, ученый знает, как остановить это безумие."
+		briefDiz="Kagaku-sha ni soosu ni tsuite hanasu"
+		fullDiz="Watashi wa kono osoroshii basho o mite, inochikaragara nigedashimashita. Osoroshii chikara ga watashi o hooshasen no chuushin ni massugu hikiyosemashita. Sudeni mahi shita hitobito ga tatte iru basho e. Nanika o shinakereba narimasen! Osoraku kagaku-sha wa kono kyooki o tomeru hoohoo o shitte irudeshou."
 		isMainQuest="1">
 		<Map
 			name="r4m1"
