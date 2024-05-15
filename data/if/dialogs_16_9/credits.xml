@@ -38,7 +38,7 @@
 
 		<Page
 			id="4"
-			text="Purojekuto maneja||Yujin «Hrrr» Khurunofu"
+			text="Purojekuto maneja||Yuujiin «Hrrr» Khurunofu"
 			modelName="r2_man"
 			modelSkin="2"
 			modelCfg="368"
@@ -290,7 +290,7 @@
 
 		<Page
 			id="32"
-			text="Jookyuu tesutaa||Efugenii Popofu|Iwan Riido"
+			text="Jookyuu tesutaa||Yuujiin Popofu|Iwan Riido"
 			modelName="r3_man"
 			modelSkin="1"
 			modelCfg="379"
@@ -299,7 +299,7 @@
 
 		<Page
 			id="33"
-			text="Shiken saabisu||Anton Epishin|Arekusei Petorofu|Arekusandaa Poroshin|Efugenii Popofu|Iwan Reinofu|Iwan Riido|Arekusei Chebotarefu"
+			text="Shiken saabisu||Anton Epishin|Arekusei Petorofu|Arekusandaa Poroshin|Yuujiin Popofu|Iwan Reinofu|Iwan Riido|Arekusei Chebotarefu"
 			modelName="r3_man"
 			modelSkin="1"
 			modelCfg="456"
