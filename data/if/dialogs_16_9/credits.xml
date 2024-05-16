@@ -74,7 +74,7 @@
 
 		<Page
 			id="8"
-			text="Purojekuto no rido atisuto||Arekusandoru «Alex ML» Marugushin"
+			text="Purojekuto no rido atisuto||Arekusandaa «Alex ML» Marugushin"
 			modelName="r2_man"
 			modelSkin="2"
 			modelCfg="8"
@@ -101,7 +101,7 @@
 
 		<Page
 			id="11"
-			text="Gurafikkuaato|Arekusandoru «Alex ML» Marugushin|Iwan Sunigirefu|Yuujiin «Dzhin» Gorutsuofu|Urajimiiru «Price» Serezunefu|Sutanisurafu «Staz» Cheruba"
+			text="Gurafikkuaato|Arekusandaa «Alex ML» Marugushin|Iwan Sunigirefu|Yuujiin «Dzhin» Gorutsuofu|Urajimiiru «Price» Serezunefu|Sutanisurafu «Staz» Cheruba"
 			modelName="r3_man"
 			modelSkin="1"
 			modelCfg="1529"
@@ -434,7 +434,7 @@
 
 		<Page
 			id="47"
-			text="Tokubetsuna kansha:||Yuria Berowa|Serugei Bobukofu|Iriya Burofuchenko|Domitorii Zaharofu|Domitorii Kureshofu|Domitorii Reeshin|Urajimiiru minyaefu|Iwan Morosu"
+			text="Tokubetsuna kansha:||Yuria Berowa|Serugei Bobukofu|Iriya Burofuchenko|Domitorii Zaharofu|Domitorii Kureshofu|Domitorii Reeshin|Urajimiiru Minyaefu|Iwan Morosu"
 			modelName="r3_man"
 			modelSkin="2"
 			modelCfg="1745"
@@ -470,7 +470,7 @@
 		
 			<Page
 			id="50_1"
-			text="Arekusandaa «Seel» Parufenenkofu|Arekusandaa «ThePlain» Fateefu|Arekusei «__nEmPoBu4__» Sumirunofu|An'na Juukowa|Anton Popofu|Urajisurafu «OverLine» Kurochikin|Domitorii «Gnome» Sashichenko|Iwan «ICAS-14» Cherepanofu|Shishizaryuuseigun «KoYoT» Kochetofu|Makushimu «Spok» Berudonikofu|Maaku «Apocalypse007» Marigin|Nikku «EL_BIBIKA» Kononenko|Pooru «pavlikrpg» Iwanofu|Serafimu «Varisane» Shagin"
+			text="Arekusandaa «Seel» Parufenenkofu|Arekusandaa «ThePlain» Fateefu|Arekusei «__nEmPoBu4__» Sumirunofu|An'na Juukowa|Anton Popofu|Urajisurafu «OverLine» Kurochikin|Domitorii «Gnome» Sashichenko|Iwan «ICAS-14» Cherepanofu|Reoniido «KoYoT» Kochetofu|Makushimu «Spok» Berudonikofu|Maaku «Apocalypse007» Marigin|Nikku «EL_BIBIKA» Kononenko|Pooru «pavlikrpg» Iwanofu|Serafimu «Varisane» Shagin"
 			modelName="r3_man"
 			modelSkin="2"
 			modelCfg="765"
@@ -551,7 +551,7 @@
 		
 		<Page
 			id="59"
-			text="Shishizaryuuseigun «KoYoT» Kochetofu||ayamari teisei"
+			text="Reoniido «KoYoT» Kochetofu||ayamari teisei"
 			modelName="r2_woman"
 			modelSkin="0"
 			modelCfg="91"
@@ -614,7 +614,7 @@
 		
 		<Page
 			id="66"
-			text="Buba|Oracle|Rusya_27|Traygen|Shishizaryuuseigun «KoYoT» Kochetofu|Semimahofu"
+			text="Buba|Oracle|Rusya_27|Traygen|Reoniido «KoYoT» Kochetofu|Semimahofu"
 			modelName="r3_man"
 			modelSkin="1"
 			modelCfg="379"
