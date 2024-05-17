@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="windows-1251" standalone="yes" ?>
+<ObjectNames>
+	<Object
+		Name="TheTown"
+		FullName="YUZHNY" />
+
+	<Object
+		Name="TheTown_Workshop"
+		FullName="Gareji" />
+
+	<Object
+		Name="TheTown_Shop"
+		FullName="Mise" />
+
+	<Object
+		Name="TheTown_Bar"
+		FullName="Baa ''Nagatabi''" />
+
+	<Object
+		Name="TheTown_Bar_Barman"
+		FullName="Baa men no tsuma" />
+
+	<Object
+		Name="HurdTrucker"
+		FullName="Baatenda Bronn" />
+
+	<Object
+		Name="Buyer"
+		FullName="Machanto Sergo" />
+
+	<Object
+		Name="WorkGiver"
+		FullName="Noka Dikku" />
+
+	<Object
+		Name="WorkGiver1"
+		FullName="Noka Dikku" />
+
+	<Object
+		Name="Lisa"
+		FullName="Risa" />
+
+	<Object
+		Name="TheGloohoe"
+		FullName="GURUHOI" />
+
+	<Object
+		Name="TheGloohoe_Workshop"
+		FullName="Waakushoppu" />
+
+	<Object
+		Name="TheGloohoe_Shop"
+		FullName="Supamaketto" />
+
+	<Object
+		Name="TheGloohoe_House"
+		FullName="Hausu" />
+
+	<Object
+		Name="Father"
+		FullName="Chichioya" />
+
+	<Object
+		Name="TheOilVillage"
+		FullName="ZAIMKA" />
+
+	<Object
+		Name="TheOilVillage_Workshop"
+		FullName="Waakushoppu" />
+
+	<Object
+		Name="TheOilVillage_Shop"
+		FullName="Baza" />
+
+	<Object
+		Name="TheOilVillage_Bar"
+		FullName="Shokudo ''Yat''" />
+
+	<Object
+		Name="TheOilVillage_Bar_Barman"
+		FullName="Serusu uman Dara" />
+
+	<Object
+		Name="HaveBigBoom"
+		FullName="Raita Kuentin" />
+
+	<Object
+		Name="TheContraVillage"
+		FullName="GUGULINO" />
+
+	<Object
+		Name="TheContraVillage_Workshop"
+		FullName="Waakushoppu" />
+
+	<Object
+		Name="TheContraVillage_Shop"
+		FullName="Shijo" />
+
+	<Object
+		Name="TheContraVillage_Bar"
+		FullName="Baa ''Megu Rasu''" />
+
+	<Object
+		Name="TheContraVillage_Bar_Barman"
+		FullName="Baatenda Wi" />
+
+	<Object
+		Name="TheFreedom"
+		FullName="TROITCKOE" />
+
+	<Object
+		Name="TheFreedom_Workshop"
+		FullName="Waakushoppu" />
+
+	<Object
+		Name="TheFreedom_Shop"
+		FullName="Shoppu" />
+
+	<Object
+		Name="TheFreedom_Bar"
+		FullName="Shokudo ''Kani''" />
+
+	<Object
+		Name="TheFreedom_Bar_Barman"
+		FullName="Baatenda Ruha" />
+
+	<Object
+		Name="CS"
+		FullName="Kakumei teki Ed" />
+
+	<Object
+		Name="Botanik"
+		FullName="Shokubutsu gakusha Ryukke" />
+
+	<Object
+		Name="Medik"
+		FullName="Kajuaru Vova" />
+
+	<Object
+		Name="Oldsolder"
+		FullName="Rohei" />
+
+	<Object
+		Name="PetrolStationTown1"
+		FullName="Nenryo hokyu" />
+
+	<Object
+		Name="PetrolStationTown1_Workshop"
+		FullName="Waakushoppu" />
+
+	<Object
+		Name="PetrolStationTown2"
+		FullName="Nenryo hokyu" />
+
+	<Object
+		Name="PetrolStationTown2_Workshop"
+		FullName="Waakushoppu" />
+
+	<Object
+		Name="PetrolStationTown3"
+		FullName="Nenryo hokyu" />
+
+	<Object
+		Name="PetrolStationTown3_Workshop"
+		FullName="Waakushoppu" />
+<!-- локации -->
+	<Object
+		Name="ToR1M2"
+		FullName="E no michi Ridzin" />
+
+	<Object
+		Name="ToR1M3"
+		FullName="E no michi Vaterland" />
+
+	<Object
+		Name="ToR4M1"
+		FullName="E no michi Vahat" />
+
+	<Object
+		Name="TheContraVillage_defend"
+		FullName="GUGULINO" />
+
+	<Object
+		Name="TheTown_enter"
+		FullName="YUZHNY" />
+
+	<Object
+		Name="TheFreedom_enter"
+		FullName="TROITCKOE" />
+
+	<Object
+		Name="TheOilVillage_enter"
+		FullName="ZAIMKA" />
+
+	<Object
+		Name="u1"
+		FullName="Chukucha Jo" />
+
+	<Object
+		Name="u2"
+		FullName="Amu resu Makkusu" />
+
+	<Object
+		Name="u3"
+		FullName="Tamineta" />
+
+	<Object
+		Name="u4"
+		FullName="Ashi nashi Bo" />
+
+	<Object
+		Name="u5"
+		FullName="Hamusuta Bi" />
+
+	<Object
+		Name="u6"
+		FullName="Bureki" />
+
+	<Object
+		Name="u7"
+		FullName="Biggu Ben" />
+
+	<Object
+		Name="u8"
+		FullName="Mo" />
+
+	<Object
+		Name="u9"
+		FullName="Kori" />
+</ObjectNames>

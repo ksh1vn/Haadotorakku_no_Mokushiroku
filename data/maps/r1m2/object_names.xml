@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="windows-1251" standalone="yes" ?>
+<ObjectNames>
+	<Object
+		Name="Esting"
+		FullName="ORIENTARU" />
+
+	<Object
+		Name="Esting_Workshop"
+		FullName="Waakushoppu" />
+
+	<Object
+		Name="Esting_Shop"
+		FullName="Mise" />
+
+	<Object
+		Name="Esting_Bar"
+		FullName="Pabu ''Happii''" />
+
+	<Object
+		Name="Esting_Bar_Barman"
+		FullName="Baatendaa Supaiku" />
+
+	<Object
+		Name="Fermer"
+		FullName="Noofu Hose" />
+
+	<Object
+		Name="MainSigner"
+		FullName="Mekanikku Chakkii" />
+
+	<Object
+		Name="Kollizey1"
+		FullName="Shusai-sha" />
+
+	<Object
+		Name="Midragd"
+		FullName="MIDDOGARUDO" />
+
+	<Object
+		Name="Midragd_Workshop"
+		FullName="Waakushoppu" />
+
+	<Object
+		Name="Midragd_Shop"
+		FullName="Mise" />
+
+	<Object
+		Name="Midragd_Bar"
+		FullName="Baa" />
+
+	<Object
+		Name="Midragd_Museum"
+		FullName="Hakubutsukan" />
+
+	<Object
+		Name="Midragd_Bar_Barman"
+		FullName="Baatendaa Ashurii" />
+
+	<Object
+		Name="Professor"
+		FullName="Maru Kyooju" />
+
+	<Object
+		Name="Kollizey2"
+		FullName="Shusai-sha" />
+
+	<Object
+		Name="Citizen"
+		FullName="Shimin" />
+
+	<Object
+		Name="Zavhoz"
+		FullName="Kanrinin Midasu" />
+
+	<Object
+		Name="Umelec"
+		FullName="Masutaa Dokutaa" />
+
+	<Object
+		Name="Porto"
+		FullName="PORUTO" />
+
+	<Object
+		Name="Porto_Workshop"
+		FullName="Waakushoppu" />
+
+	<Object
+		Name="Porto_Shop"
+		FullName="Mise" />
+
+	<Object
+		Name="Porto_Bar"
+		FullName="Baa ''Deddoankaa''" />
+
+	<Object
+		Name="Porto_Bar_Barman"
+		FullName="Bijinesuman Makkusu" />
+
+	<Object
+		Name="Karavanshik"
+		FullName="Kyarabanaa Shoon" />
+
+	<Object
+		Name="Anticwar"
+		FullName="Kookogaku-sha Joonzu" />
+
+	<Object
+		Name="Kollizey3"
+		FullName="Shusai-sha" />
+
+	<Object
+		Name="PortoCitizen"
+		FullName="Shimin Keen" />
+
+	<Object
+		Name="TheArtefact"
+		FullName="KISEKI" />
+
+	<Object
+		Name="TheArtefact_Workshop"
+		FullName="Waakushoppu" />
+
+	<Object
+		Name="TheArtefact_Shop"
+		FullName="Mise" />
+
+	<Object
+		Name="TheArtefact_Bar"
+		FullName="Saruun" />
+
+	<Object
+		Name="TheArtefact_Bar_Barman"
+		FullName="Saron'oonaa" />
+
+	<Object
+		Name="Staruha"
+		FullName="Roo fujin" />
+
+	<Object
+		Name="Ben"
+		FullName="Oorudo Ben" />
+
+	<Object
+		Name="TheSign"
+		FullName="YAA" />
+
+	<Object
+		Name="TheSign_Workshop"
+		FullName="Waakushoppu" />
+
+	<Object
+		Name="TheSign_Shop"
+		FullName="Mise" />
+
+	<Object
+		Name="TheSign_Bar"
+		FullName="Baa ''Koosaten''" />
+
+	<Object
+		Name="TheSign_Bar_Barman"
+		FullName="Heddobooi Bobu" />
+
+	<Object
+		Name="Signer"
+		FullName="Hyakushoo Shi" />
+
+	<Object
+		Name="TheRace"
+		FullName="CHIISANA CHIKYUU" />
+
+	<Object
+		Name="TheRace_Workshop"
+		FullName="Waakushoppu" />
+
+	<Object
+		Name="TheRace_Shop"
+		FullName="GAMU" />
+
+	<Object
+		Name="TheRace_Bar"
+		FullName="Baa ''Nosutarujii''" />
+
+	<Object
+		Name="TheRace_Bar_Barman"
+		FullName="Baatendaa Reoni" />
+
+	<Object
+		Name="TheOlimp"
+		FullName="ROOMA HITO" />
+
+	<Object
+		Name="TheOlimp_Workshop"
+		FullName="Waakushoppu" />
+
+	<Object
+		Name="TheOlimp_Shop"
+		FullName="Mise" />
+
+	<Object
+		Name="TheOlimp_Bar"
+		FullName="Baa ''Chanpion''" />
+
+	<Object
+		Name="TheOlimp_Bar_Barman"
+		FullName="Shuchoo Zeusu" />
+
+	<Object
+		Name="TheTickets"
+		FullName="ORINPIKKU" />
+
+	<Object
+		Name="TheTickets_Workshop"
+		FullName="Waakushoppu" />
+
+	<Object
+		Name="TheTickets_Shop"
+		FullName="Mise" />
+
+	<Object
+		Name="TheTickets_Bar"
+		FullName="Baa ''Koofun''" />
+
+	<Object
+		Name="TheTickets_ZAO"
+		FullName="HSK &quot;Koroshiamu&quot;" />
+
+	<Object
+		Name="TheTickets_Bar_Barman"
+		FullName="Bukkumeekaa Ria" />
+
+	<Object
+		Name="Director"
+		FullName="Kantoku Iru" />
+
+	<Object
+		Name="Antisincer"
+		FullName="Surakkaa Den" />
+
+	<Object
+		Name="Fighter1"
+		FullName="Ken tooshi Sara" />
+
+	<Object
+		Name="Fighter2"
+		FullName="Ken tooshi Roogan" />
+
+	<Object
+		Name="PetrolStationTown1"
+		FullName="Nenryoo hokyuu" />
+
+	<Object
+		Name="PetrolStationTown1_Workshop"
+		FullName="Waakushoppu" />
+
+	<Object
+		Name="PetrolStationTown2"
+		FullName="Nenryoo hokyuu" />
+
+	<Object
+		Name="PetrolStationTown2_Workshop"
+		FullName="Waakushoppu" />
+
+	<Object
+		Name="PetrolStationTown3"
+		FullName="Nenryoo hokyuu" />
+
+	<Object
+		Name="PetrolStationTown3_Workshop"
+		FullName="Waakushoppu" />
+
+	<Object
+		Name="PetrolStationTown4"
+		FullName="Nenryoo hokyuu" />
+
+	<Object
+		Name="PetrolStationTown4_Workshop"
+		FullName="Waakushoppu" />
+
+	<Object
+		Name="PetrolStationTown5"
+		FullName="Nenryoo hokyuu" />
+
+	<Object
+		Name="PetrolStationTown5_Workshop"
+		FullName="Waakushoppu" />
+
+	<Object
+		Name="Esting_enter"
+		FullName="ORIENTARU" />
+
+	<Object
+		Name="Midragd_enter"
+		FullName="MIDDOGARUDO" />
+
+	<Object
+		Name="Porto_enter"
+		FullName="PORUTO" />
+
+	<Object
+		Name="TheArtefact_enter"
+		FullName="KISEKI" />
+
+	<Object
+		Name="TheSign_enter"
+		FullName="YAA" />
+
+	<Object
+		Name="TheRace_enter"
+		FullName="CHIISANA CHIKYUU" />
+
+	<Object
+		Name="TheOlimp_enter"
+		FullName="ROOMA HITO" />
+
+	<Object
+		Name="TheTickets_enter"
+		FullName="ORINPIKKU" />
+
+	<Object
+		Name="ToR1M1"
+		FullName="Tsuno e no michi" />
+
+	<Object
+		Name="ToR1M3"
+		FullName="Battaarando e no michi" />
+
+	<Object
+		Name="u1"
+		FullName="Benjamin" />
+
+	<Object
+		Name="u2"
+		FullName="Musuku" />
+
+	<Object
+		Name="u3"
+		FullName="Shuwarutsu" />
+
+	<Object
+		Name="u4"
+		FullName="Shinwa" />
+
+	<Object
+		Name="u5"
+		FullName="Semushi" />
+
+	<Object
+		Name="u6"
+		FullName="Kawa" />
+
+	<Object
+		Name="u7"
+		FullName="Sefaa OT" />
+
+	<Object
+		Name="u8"
+		FullName="Shiizaa" />
+
+	<Object
+		Name="u9"
+		FullName="Zeru" />
+</ObjectNames>
