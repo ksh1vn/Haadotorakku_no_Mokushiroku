@@ -142,7 +142,7 @@
 
 	<Object
 		Name="PetrolStationTown1"
-		FullName="Nenryo hokyu" />
+		FullName="Nenryoo hokyuu" />
 
 	<Object
 		Name="PetrolStationTown1_Workshop"
@@ -150,7 +150,7 @@
 
 	<Object
 		Name="PetrolStationTown2"
-		FullName="Nenryo hokyu" />
+		FullName="Nenryoo hokyuu" />
 
 	<Object
 		Name="PetrolStationTown2_Workshop"
@@ -158,7 +158,7 @@
 
 	<Object
 		Name="PetrolStationTown3"
-		FullName="Nenryo hokyu" />
+		FullName="Nenryoo hokyuu" />
 
 	<Object
 		Name="PetrolStationTown3_Workshop"
@@ -166,15 +166,15 @@
 <!-- локации -->
 	<Object
 		Name="ToR1M2"
-		FullName="E no michi Ridzin" />
+		FullName="E no michi Regin" />
 
 	<Object
 		Name="ToR1M3"
-		FullName="E no michi Vaterland" />
+		FullName="E no michi Battaarando" />
 
 	<Object
 		Name="ToR4M1"
-		FullName="E no michi Vahat" />
+		FullName="E no michi Bahato" />
 
 	<Object
 		Name="TheContraVillage_defend"
