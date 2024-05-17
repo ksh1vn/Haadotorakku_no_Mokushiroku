@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="windows-1251" standalone="yes" ?>
+<ObjectNames>
+	<Object
+		Name="Asgard"
+		FullName="ASUGARUDO" />
+
+	<Object
+		Name="Asgard_Workshop"
+		FullName="Waakushoppu" />
+
+	<Object
+		Name="Asgard_Shop"
+		FullName="Mise" />
+
+	<Object
+		Name="Asgard_Bar"
+		FullName="Baa ''Asugarudo''" />
+
+	<Object
+		Name="Asgard_Bar_Barman"
+		FullName="Waakaa Si" />
+
+	<Object
+		Name="NonBomber"
+		FullName="Hanbai-sha Toomasu" />
+
+	<Object
+		Name="Bonny"
+		FullName="Toranpu Konii" />
+
+	<Object
+		Name="Bonny1"
+		FullName="Toranpu Konii" />
+
+	<Object
+		Name="AsgardBarman"
+		FullName="Baatendaa Paburo" />
+
+	<Object
+		Name="UnknownFromTunel"
+		FullName="Mishiranu hito" />
+
+	<Object
+		Name="Pesht"
+		FullName="PESUTO" />
+
+	<Object
+		Name="Pesht_Workshop"
+		FullName="Waakushoppu" />
+
+	<Object
+		Name="Pesht_Shop"
+		FullName="Mise" />
+
+	<Object
+		Name="Pesht_Bar"
+		FullName="Baa ''Pesuto''" />
+
+	<Object
+		Name="Pesht_Bar_Barman"
+		FullName="Roodoo-sha Buruusu" />
+
+	<Object
+		Name="CrazyRoadRiders"
+		FullName="Tsumaranai Makushimu" />
+
+	<Object
+		Name="TheForgotten"
+		FullName="WASURE RARETA" />
+
+	<Object
+		Name="TheForgotten_Workshop"
+		FullName="Waakushoppu" />
+
+	<Object
+		Name="TheForgotten_Shop"
+		FullName="Mise" />
+
+	<Object
+		Name="TheForgotten_Bar"
+		FullName="Baa ''Kako ni''" />
+
+	<Object
+		Name="TheForgotten_Bar_Barman"
+		FullName="Junshoo Miisu" />
+
+	<Object
+		Name="LabirintMan"
+		FullName="Konbainaa Mihairu" />
+
+	<Object
+		Name="Minin"
+		FullName="MIININ" />
+
+	<Object
+		Name="Minin_Workshop"
+		FullName="Waakushoppu" />
+
+	<Object
+		Name="Minin_Shop"
+		FullName="Mise" />
+
+	<Object
+		Name="Minin_Bar"
+		FullName="Бар ''Раб''" />
+
+	<Object
+		Name="Mer_House"
+		FullName="Shiyakusho" />
+
+	<Object
+		Name="Minin_Bar_Barman"
+		FullName="Heddogaaru Bekkii" />
+
+	<Object
+		Name="MininWorker"
+		FullName="Waakaa Shaakii" />
+
+	<Object
+		Name="MininMer"
+		FullName="Miinin shichoo" />
+
+	<Object
+		Name="MininWorker2"
+		FullName="Roodoo-sha Riido" />
+
+	<Object
+		Name="Librarian"
+		FullName="Oorudoman Doddo" />
+
+	<Object
+		Name="Librarian1"
+		FullName="Oorudoman Doddo" />
+
+	<Object
+		Name="AboutThief"
+		FullName="Mekanikku Buutsu" />
+
+	<Object
+		Name="TheShahts"
+		FullName="KOOZAN'NOSAIKUTSU" />
+
+	<Object
+		Name="TheShahts_Workshop"
+		FullName="Waakushoppu" />
+
+	<Object
+		Name="TheShahts_Shop"
+		FullName="Mise" />
+
+	<Object
+		Name="TheShahts_Bar"
+		FullName="Daininguruumu ''Zarya''" />
+
+	<Object
+		Name="TheShahts_Bar_Barman"
+		FullName="Koyoo-sha" />
+
+	<Object
+		Name="Bomber"
+		FullName="Shokuchoo Edi" />
+
+	<Object
+		Name="TheVozleMinin"
+		FullName="TENTAI" />
+
+	<Object
+		Name="TheVozleMinin_Workshop"
+		FullName="Waakushoppu" />
+
+	<Object
+		Name="TheVozleMinin_Shop"
+		FullName="Mise" />
+
+	<Object
+		Name="TheVozleMinin_Bar"
+		FullName="Baa" />
+
+	<Object
+		Name="TheVozleMinin_Bar_Barman"
+		FullName="Baatendaa Dirii" />
+
+	<Object
+		Name="WorkerForMoney"
+		FullName="Yoohei" />
+
+	<Object
+		Name="TheBanditOilMine"
+		FullName="Sekiyu derikku" />
+
+	<Object
+		Name="TheBanditOilMine_Workshop"
+		FullName="Waakushoppu" />
+
+	<Object
+		Name="TheBanditOilMine_Shop"
+		FullName="Mise" />
+
+	<Object
+		Name="TheBanditOilMine_Bar"
+		FullName="Tawaa" />
+
+	<Object
+		Name="OilMineWorker"
+		FullName="Sekiyu gyoosha Kurisu" />
+
+	<Object
+		Name="TheBase"
+		FullName="BEESU 51" />
+
+	<Object
+		Name="TheBase_Workshop"
+		FullName="Waakushoppu" />
+
+	<Object
+		Name="TheBase_Shop"
+		FullName="Mise" />
+
+	<Object
+		Name="TheBase_Bar"
+		FullName="Saruun ''Hiretsuna''" />
+
+	<Object
+		Name="BaseBandit"
+		FullName="Namerakana Bobu" />
+
+	<Object
+		Name="Thief"
+		FullName="Toozoku Richaado" />
+
+	<Object
+		Name="PeshtGuardian"
+		FullName="Juunin Aanorudo" />
+
+	<Object
+		Name="PeshtGuardian1"
+		FullName="Juunin Aanorudo" />
+
+	<Object
+		Name="BaseGuardian"
+		FullName="Anchisukiru Ahiru" />
+
+	<Object
+        Name = "BanditPeshtGuardian"
+		FullName = "Toozoku Neisan" />
+
+	<Object
+		Name="CircusMan"
+		FullName="Pogoreretsu" />
+<!-- локации -->
+	<Object
+		Name="PetrolStationTown1"
+		FullName="Nenryoo hokyuu" />
+
+	<Object
+		Name="PetrolStationTown1_Workshop"
+		FullName="Waakushoppu" />
+
+	<Object
+		Name="PetrolStationTown2"
+		FullName="Nenryoo hokyuu" />
+
+	<Object
+		Name="PetrolStationTown2_Workshop"
+		FullName="Waakushoppu" />
+
+	<Object
+		Name="PetrolStationTown3"
+		FullName="Nenryoo hokyuu" />
+
+	<Object
+		Name="PetrolStationTown3_Workshop"
+		FullName="Waakushoppu" />
+
+	<Object
+		Name="PetrolStationTown4"
+		FullName="Nenryoo hokyuu" />
+
+	<Object
+		Name="PetrolStationTown4_Workshop"
+		FullName="Waakushoppu" />
+
+	<Object
+		Name="PetrolStationTown5"
+		FullName="Nenryoo hokyuu" />
+
+	<Object
+		Name="PetrolStationTown5_Workshop"
+		FullName="Waakushoppu" />
+
+	<Object
+		Name="Asgard_enter"
+		FullName="ASUGARUDO" />
+
+	<Object
+		Name="TheForgotten_enter"
+		FullName="WASURE RARETA" />
+
+	<Object
+		Name="TheShahts_enter"
+		FullName="KOOZAN'NOSAIKUTSU" />
+
+	<Object
+		Name="ToR1M1"
+		FullName="Tsuno e no michi" />
+
+	<Object
+		Name="ToR1M2"
+		FullName="Regin e no michi" />
+
+	<Object
+		Name="ToR1M4"
+		FullName="Heru e no michi" />
+
+	<Object
+		Name="ToR2M1"
+		FullName="Ton'neru" />
+
+	<Object
+		Name="u1"
+		FullName="Ruupu" />
+
+	<Object
+		Name="u2"
+		FullName="Dona" />
+
+	<Object
+		Name="u3"
+		FullName="Tsumibito" />
+
+	<Object
+		Name="u4"
+		FullName="Shinwa" />
+
+	<Object
+		Name="u5"
+		FullName="Jei" />
+
+	<Object
+		Name="u6"
+		FullName="Sairento Bobu" />
+
+	<Object
+		Name="u7"
+		FullName="Nezumi" />
+
+	<Object
+		Name="u8"
+		FullName="Chupa" />
+
+	<Object
+		Name="u9"
+		FullName="Ijii" />
+</ObjectNames>
