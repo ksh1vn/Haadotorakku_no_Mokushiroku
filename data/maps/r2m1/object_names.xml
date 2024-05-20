@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="windows-1251" standalone="yes" ?>
+<ObjectNames>
+	<Object
+		Name="TheGelvetcia"
+		FullName="HERUBETIA" />
+
+	<Object
+		Name="TheGelvetcia_Workshop"
+		FullName="Waakushoppu" />
+
+	<Object
+		Name="TheGelvetcia_Shop"
+		FullName="Mise" />
+
+	<Object
+		Name="TheGelvetcia_House"
+		FullName="JOOIN" />
+
+	<Object
+		Name="TheGelvetcia_Bar"
+		FullName="Uokka" />
+
+	<Object
+		Name="TheGelvetcia_Bar_Barman"
+		FullName="Hisho Burea" />
+
+	<Object
+		Name="Senat"
+		FullName="Jooin giin Shuwarutsu" />
+
+	<Object
+		Name="Gulik"
+		FullName="Roogu Inkusu" />
+
+	<Object
+		Name="TheSel"
+		FullName="SERU" />
+
+	<Object
+		Name="TheSel_Workshop"
+		FullName="Waakushoppu" />
+
+	<Object
+		Name="TheSel_Shop"
+		FullName="Mise" />
+
+	<Object
+		Name="TheSel_House"
+		FullName="Eki" />
+
+	<Object
+		Name="TheSel_Bar"
+		FullName="Baa ''Ravuiin''" />
+
+	<Object
+		Name="TheSel_Bar_Barman"
+		FullName="Koyooshu Bi" />
+
+	<Object
+		Name="SelCitizen"
+		FullName="Erekutorikku Iru" />
+
+	<Object
+		Name="SelBarmen"
+		FullName="Baatendaa Vuoruya" />
+
+	<Object
+		Name="Estet"
+		FullName="Esuteeto Kaufuman" />
+
+	<Object
+		Name="TheTuzz"
+		FullName="Eesu" />
+
+	<Object
+		Name="TheTuzz_Workshop"
+		FullName="Waakushoppu" />
+
+	<Object
+		Name="TheTuzz_Shop"
+		FullName="Mise" />
+
+	<Object
+		Name="TheTuzz_House"
+		FullName="Saiyoo honbu" />
+
+	<Object
+		Name="TheTuzz_Bar"
+		FullName="Daininguruumu" />
+
+	<Object
+		Name="TheTuzz_Bar_Barman"
+		FullName="Ajiteetaa Boo" />
+
+	<Object
+		Name="TuzVerb"
+		FullName="Saiyoo tantoosha Hanku" />
+
+	<Object
+		Name="TheDoubtful"
+		FullName="UTAGAWASHII" />
+
+	<Object
+		Name="TheDoubtful_Workshop"
+		FullName="Waakushoppu" />
+
+	<Object
+		Name="TheDoubtful_Shop"
+		FullName="Mise" />
+
+	<Object
+		Name="TheDoubtful_Bar"
+		FullName="Baa" />
+
+	<Object
+		Name="TheDoubtful_Bar_Barman"
+		FullName="Baatendaa" />
+
+	<Object
+		Name="AntipodEstet"
+		FullName="Kotsutoohin no kantei-ka" />
+
+	<Object
+		Name="TheUnderAttaks"
+		FullName="PETOROPABUROFUSUKU" />
+
+	<Object
+		Name="TheUnderAttaks_Workshop"
+		FullName="Waakushoppu" />
+
+	<Object
+		Name="TheUnderAttaks_Shop"
+		FullName="Mise" />
+
+	<Object
+		Name="TheUnderAttaks_Bar"
+		FullName="Baa" />
+
+	<Object
+		Name="TheUnderAttaks_Bar_Barman"
+		FullName="Baatendaa" />
+
+	<Object
+		Name="TheVill2"
+		FullName="ROTORUSUKU" />
+
+	<Object
+		Name="TheVill2_Workshop"
+		FullName="Waakushoppu" />
+
+	<Object
+		Name="TheVill2_Shop"
+		FullName="Mise" />
+
+	<Object
+		Name="TheVill2_Bar"
+		FullName="Baa" />
+
+	<Object
+		Name="TheVill2_Bar_Barman"
+		FullName="Baatendaa" />
+
+	<Object
+		Name="TheVill1"
+		FullName="GENDENBURUKU" />
+
+	<Object
+		Name="TheVill1_Workshop"
+		FullName="Waakushoppu" />
+
+	<Object
+		Name="TheVill1_Shop"
+		FullName="Mise" />
+
+	<Object
+		Name="TheVill1_Bar"
+		FullName="Baa" />
+
+	<Object
+		Name="TheVill1_Bar_Barman"
+		FullName="Baatendaa" />
+
+	<Object
+		Name="PetrolStationTown1"
+		FullName="Nenryoo hokyuu" />
+
+	<Object
+		Name="PetrolStationTown1_Workshop"
+		FullName="Waakushoppu" />
+
+	<Object
+		Name="PetrolStationTown2"
+		FullName="Nenryoo hokyuu" />
+
+	<Object
+		Name="PetrolStationTown2_Workshop"
+		FullName="Waakushoppu" />
+
+	<Object
+		Name="PetrolStationTown3"
+		FullName="Nenryoo hokyuu" />
+
+	<Object
+		Name="PetrolStationTown3_Workshop"
+		FullName="Waakushoppu" />
+
+	<Object
+		Name="PetrolStationTown4"
+		FullName="Nenryoo hokyuu" />
+
+	<Object
+		Name="PetrolStationTown4_Workshop"
+		FullName="Waakushoppu" />
+
+	<Object
+		Name="PetrolStationTown5"
+		FullName="Nenryoo hokyuu" />
+
+	<Object
+		Name="PetrolStationTown5_Workshop"
+		FullName="Waakushoppu" />
+
+	<Object
+		Name="TheGelvetcia_enter"
+		FullName="HERUBETIA" />
+
+	<Object
+		Name="TheSel_enter"
+		FullName="SERU" />
+
+	<Object
+		Name="TheTuzz_enter"
+		FullName="Eesu" />
+
+	<Object
+		Name="TheDoubtful_enter"
+		FullName="UTAGAWASHII" />
+
+	<Object
+		Name="TheUnderAttaks_enter"
+		FullName="PETOROPABUROFUSUKU" />
+
+	<Object
+		Name="TheVill1_enter"
+		FullName="GENDENBURUKU" />
+
+	<Object
+		Name="TheVill2_enter"
+		FullName="ROTORUSUKU" />
+
+	<Object
+		Name="ToR1M3"
+		FullName="Ton'neru" />
+
+	<Object
+		Name="ToR3M1"
+		FullName="Suichuu ton'neru" />
+
+	<Object
+		Name="ToR2M2"
+		FullName="Aruzan e no michi" />
+
+	<Object
+		Name="ToR2M2small"
+		FullName="Aruzan e no michi" />
+
+	<Object
+		Name="u1"
+		FullName="Mozu" />
+
+	<Object
+		Name="u2"
+		FullName="Piito" />
+
+	<Object
+		Name="u3"
+		FullName="Ritchii" />
+
+	<Object
+		Name="u4"
+		FullName="Jin" />
+
+	<Object
+		Name="u5"
+		FullName="Mira" />
+
+	<Object
+		Name="u6"
+		FullName="Rei" />
+
+	<Object
+		Name="u7"
+		FullName="Kage" />
+
+	<Object
+		Name="u8"
+		FullName="Hosugen" />
+
+	<Object
+		Name="u9"
+		FullName="Jan" />
+</ObjectNames>

@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="windows-1251" standalone="yes" ?>
+<ObjectNames>
+	<Object
+		Name="LagerGuardian"
+		FullName="Hangyaku-sha" />
+
+	<Object
+		Name="Monastery"
+		FullName="SHUUDOOIN" />
+
+	<Object
+		Name="Monastery_Bar"
+		FullName="Shokudoo" />
+
+	<Object
+		Name="Monastery_Bar_Barman"
+		FullName="Tsumibito Daria" />
+
+	<Object
+		Name="Monastery_Cell"
+		FullName="Saiboo" />
+
+	<Object
+		Name="Monastery_Shop"
+		FullName="Poochi" />
+
+	<Object
+		Name="Monah"
+		FullName="Shuudoo on'na Joan'na" />
+
+	<Object
+		Name="SektantMain"
+		FullName="Mazaa suuperia" />
+
+	<Object
+		Name="Marezzia"
+		FullName="MARETTSUIA" />
+
+	<Object
+		Name="Marezzia_Shtab"
+		FullName="HY honsha" />
+
+	<Object
+		Name="Marezzia_Workshop"
+		FullName="Waakushoppu" />
+
+	<Object
+		Name="Marezzia_Shop"
+		FullName="Mise" />
+
+	<Object
+		Name="Marezzia_Bar"
+		FullName="Baa ''Yagurumagiku''" />
+
+	<Object
+		Name="Marezzia_Bar_Barman"
+		FullName="Ueitaa Antonio" />
+
+	<Object
+		Name="RecruiterInAR"
+		FullName="Hantai-ha Fukku" />
+
+	<Object
+		Name="TrashFarmer"
+		FullName="Sukabenjaa Sax" />
+
+	<Object
+		Name="Zeon"
+		FullName="ZEON" />
+
+	<Object
+		Name="Zeon_CentralHouse"
+		FullName="Jinchi goo" />
+
+	<Object
+		Name="Axel"
+		FullName="Akuseru" />
+
+	<Object
+		Name="Zeon_Workshop"
+		FullName="Waakushoppu" />
+
+	<Object
+		Name="Zeon_Shop"
+		FullName="Mise" />
+
+	<Object
+		Name="Toskana"
+		FullName="TOSUKAANA" />
+
+	<Object
+		Name="Toskana_Workshop"
+		FullName="Waakushoppu" />
+
+	<Object
+		Name="Toskana_Shop"
+		FullName="Mise" />
+
+	<Object
+		Name="Toskana_Bar"
+		FullName="Kafe ''Nosutarujii''" />
+
+	<Object
+		Name="Toskana_Bar_Barman"
+		FullName="Baatendaa Uirii" />
+
+	<Object
+		Name="Agent"
+		FullName="Eejento Kurunobitchi" />
+
+	<Object
+		Name="GranicaVillage"
+		FullName="BOODAARANDO" />
+
+	<Object
+		Name="GranicaVillage_Bar"
+		FullName="Daininguruumu" />
+
+	<Object
+		Name="GranicaVillage_Bar_Barman"
+		FullName="Baatendaa" />
+
+	<Object
+		Name="GranicaVillage_Workshop"
+		FullName="Waakushoppu" />
+
+	<Object
+		Name="GranicaVillage_Shop"
+		FullName="Mise" />
+
+	<Object
+		Name="ZnakiVillage"
+		FullName="SARAEBO" />
+
+	<Object
+		Name="ZnakiVillage_Bar"
+		FullName="Mura no ie" />
+
+	<Object
+		Name="ZnakiVillage_Bar_Barman"
+		FullName="Sonchoo" />
+
+	<Object
+		Name="ZnakiVillage_Workshop"
+		FullName="Waakushoppu" />
+
+	<Object
+		Name="ZnakiVillage_Shop"
+		FullName="Mise" />
+
+	<Object
+		Name="Aborigen"
+		FullName="Hirubirii Saaju" />
+
+	<Object
+		Name="NewVillage"
+		FullName="ASUTORIA" />
+
+	<Object
+		Name="NewVillage_Bar"
+		FullName="Baa ''Ushinatta''" />
+
+	<Object
+		Name="NewVillage_Bar_Barman"
+		FullName="Sonchoo" />
+
+	<Object
+		Name="NewVillage_Workshop"
+		FullName="Waakushoppu" />
+
+	<Object
+		Name="NewVillage_Shop"
+		FullName="Mise" />
+
+	<Object
+		Name="NewMechanik"
+		FullName="Mekanikku Geru" />
+
+	<Object
+		Name="PetrolStationTown1"
+		FullName="Nenryoo hokyuu" />
+
+	<Object
+		Name="PetrolStationTown1_Workshop"
+		FullName="Waakushoppu" />
+
+	<Object
+		Name="PetrolStationTown2"
+		FullName="Nenryoo hokyuu" />
+
+	<Object
+		Name="PetrolStationTown2_Workshop"
+		FullName="Waakushoppu" />
+
+	<Object
+		Name="PetrolStationTown3"
+		FullName="Nenryoo hokyuu" />
+
+	<Object
+		Name="PetrolStationTown3_Workshop"
+		FullName="Waakushoppu" />
+
+	<Object
+		Name="Toskana_enter"
+		FullName="TOSUKAANA" />
+
+	<Object
+		Name="ZnakiVillage_enter"
+		FullName="SARAEBO" />
+
+	<Object
+		Name="NewVillage_enter"
+		FullName="ASUTORIA" />
+
+	<Object
+		Name="EnterToSubmarine_loc"
+		FullName="Umi no mon" />
+
+	<Object
+		Name="ToR2M1"
+		FullName="Riburiumu e no michi" />
+
+	<Object
+		Name="ToR2M1small"
+		FullName="Riburiumu e no michi" />
+
+	<Object
+		Name="u1"
+		FullName="Samu" />
+
+	<Object
+		Name="u2"
+		FullName="Puraisu" />
+
+	<Object
+		Name="u3"
+		FullName="Kuriinaa" />
+
+	<Object
+		Name="u4"
+		FullName="Fedotto" />
+
+	<Object
+		Name="u5"
+		FullName="Puntousu" />
+
+	<Object
+		Name="u6"
+		FullName="Piko" />
+
+	<Object
+		Name="u7"
+		FullName="Chuu" />
+
+	<Object
+		Name="u8"
+		FullName="Hosugen" />
+
+	<Object
+		Name="u9"
+		FullName="Jan" />
+</ObjectNames>
