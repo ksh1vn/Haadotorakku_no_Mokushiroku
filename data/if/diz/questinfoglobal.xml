@@ -2094,7 +2094,7 @@
 	<QuestInfo
 		questName="r2m2_FightLisaToMonastir"
 		briefDiz="Risa o tomero"
-		fullDiz="Любым способом надо остановить Лису. Я больше не позволю ей обманывать меня или кого бы то ни было ещё!"
+		fullDiz="Risa wa don'na shudan o tsukatte demo tomenakereba narimasen. Moo kanojo ni watashi ya hokanohito o damasa semasen!"
 		isMainQuest="1">
 		<Map
 			name="r2m2"
@@ -2170,7 +2170,7 @@
 
 	<QuestInfo
 		questName="r2m2_GiveBardakToSideVillage"
-		briefDiz="Напасть на деревню"
+		briefDiz="Mura o koogeki suru"
 		fullDiz="Kono mura no juumin wa teki to kankei ga aru to mi rarete ita. Watashi wa kanojo o koogeki shite, DTR butai o omona koogeki hookoo kara hikihanashimasu."
 		isMainQuest="1" />
 
@@ -2320,8 +2320,8 @@
 
 	<QuestInfo
 		questName="r2m2_ReturnToMarecciaFromCastle"
-		briefDiz="Marettsu~ia ni modoru"
-		fullDiz="Hooshuu to atarashii ninmu o eru tame ni marezutia ni modoru toki ga kimashita."
+		briefDiz="Marettsuia ni modoru"
+		fullDiz="Hooshuu to atarashii ninmu o eru tame ni Marettsuia ni modoru toki ga kimashita."
 		isMainQuest="1">
 		<Map
 			name="r2m2"
@@ -2330,7 +2330,7 @@
 
 	<QuestInfo
 		questName="r2m2_ReturnToMarecciaFromKaravanSNG"
-		briefDiz="Marettsu~ia ni modoru"
+		briefDiz="Marettsuia ni modoru"
 		isMainQuest="1">
 		<Map
 			name="r2m1"
@@ -2343,8 +2343,8 @@
 
 	<QuestInfo
 		questName="r2m2_ReturnToMarecciaFromVillage"
-		briefDiz="Marettsu~ia ni modoru"
-		fullDiz="Hooshuu to atarashii ninmu o eru tame ni marezutia ni modoru toki ga kimashita."
+		briefDiz="Marettsuia ni modoru"
+		fullDiz="Hooshuu to atarashii ninmu o eru tame ni Marettsuia ni modoru toki ga kimashita."
 		isMainQuest="1">
 		<Map
 			name="r2m2"
