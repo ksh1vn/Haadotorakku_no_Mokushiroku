@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="windows-1251" standalone="yes" ?>
+<ObjectNames>
+	<Object
+		Name="OracleDefendersVil"
+		FullName="APURUKO" />
+
+	<Object
+		Name="OracleDefendersVil_Shop"
+		FullName="Doroboo no mise" />
+
+	<Object
+		Name="OracleDefendersVil_WorkShop"
+		FullName="Shoogai no aru shuurikoo" />
+
+	<Object
+		Name="AloneDruid"
+		FullName="Kodokuna doruido soo" />
+
+	<Object
+		Name="AloneDruidBuilding"
+		FullName="Doruido no koya" />
+
+	<Object
+		Name="OracleDefenders_loc"
+		FullName="Orakuru gaadian posuto" />
+
+	<Object
+		Name="ToR3M1"
+		FullName="Doruido guroobu e shuppatsu" />
+
+	<Object
+		Name="Monster_loc"
+		FullName="Kowai monsutaa" />
+
+	<Object
+		Name="VK1_loc"
+		FullName="Konpyuutingukonpurekkusu 1" />
+
+	<Object
+		Name="VK2_loc"
+		FullName="Konpyuutingukonpurekkusu 2" />
+
+	<Object
+		Name="VK3_loc"
+		FullName="Konpyuutingukonpurekkusu 3" />
+
+	<Object
+		Name="Factory_loc"
+		FullName="Hai koojoo" />
+
+	<Object
+		Name="Oracle_loc"
+		FullName="ORAKURU" />
+
+	<Object
+		Name="OracleNPC"
+		FullName="Orakuru" />
+
+	<Object
+		Name="OracleGuardian_1"
+		FullName="Orakurudifendaa" />
+
+	<Object
+		Name="AloneDruid_Workshop"
+		FullName="Doruido no kooboo" />
+
+	<Object
+		Name="heavy_dot3_vulcan1"
+		FullName="Dotto" />
+
+	<Object
+		Name="sack_dot2_kord2"
+		FullName="Dotto" />
+
+	<Object
+		Name="urod1"
+		FullName="Tiida" />
+
+	<Object
+		Name="urod2"
+		FullName="Mikko" />
+
+	<Object
+		Name="urod3"
+		FullName="Boogu" />
+
+	<Object
+		Name="urod4"
+		FullName="Arekkusu" />
+
+	<Object
+		Name="urod5"
+		FullName="Sukoopu" />
+
+	<Object
+		Name="urod6"
+		FullName="Gaia" />
+
+	<Object
+		Name="urod7"
+		FullName="Shaaman" />
+
+	<Object
+		Name="urod8"
+		FullName="Hrrr" />
+
+	<Object
+		Name="urod9"
+		FullName="Fuu ojisan" />
+</ObjectNames>

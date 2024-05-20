@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="windows-1251" standalone="yes" ?>
+<ObjectNames>
+	<Object
+		Name="TheSet"
+		FullName="SETTO" />
+
+	<Object
+		Name="Set_Bar"
+		FullName="Kafeteria ''Ooku no soba de''" />
+
+	<Object
+		Name="Set_Bar_Barman"
+		FullName="Feren" />
+
+	<Object
+		Name="Set_Bar_MainDruid"
+		FullName="Aakudoruido" />
+
+	<Object
+		Name="Set_Bar_Customer1"
+		FullName="Fionii" />
+
+	<Object
+		Name="Set_Shop"
+		FullName="Mise" />
+
+	<Object
+		Name="Set_Workshop"
+		FullName="Waakushoppu" />
+
+	<Object
+		Name="TheFist"
+		FullName="FISUTO" />
+
+	<Object
+		Name="Fist_Bar"
+		FullName="Baa ''Rokku''" />
+
+	<Object
+		Name="Fist_Bar_Barman"
+		FullName="Sutarioone" />
+
+	<Object
+		Name="Fist_Workshop"
+		FullName="Waakushoppu" />
+
+	<Object
+		Name="Fist_Shop"
+		FullName="Mise" />
+
+	<Object
+		Name="TheUluk"
+		FullName="URUKU" />
+
+	<Object
+		Name="Uluk_Bar"
+		FullName="Baa ''Kurankushafuto''" />
+
+	<Object
+		Name="Uluk_Bar_Barman"
+		FullName="Kaataa" />
+
+	<Object
+		Name="Uluk_Bar_Leader"
+		FullName="Hikkoshi gyoosha" />
+
+	<Object
+		Name="Uluk_Bar_Customer1"
+		FullName="Tansuikabutsu" />
+
+	<Object
+		Name="Uluk_Workshop"
+		FullName="Waakushoppu ''Jibun de yare''" />
+
+	<Object
+		Name="Uluk_Shop"
+		FullName="Mise ''Bobu no''" />
+
+	<Object
+		Name="r3m1_NearFist_Guard1"
+		FullName="Anchisukiru Fisuto" />
+
+	<Object
+		Name="r3m1_NearFist_Guard2"
+		FullName="Anchisukiru Fisuto" />
+
+	<Object
+		Name="r3m1_NearUluk_RescueMan1"
+		FullName="Denishio" />
+
+	<Object
+		Name="TheRazboynik"
+		FullName="KAKUREGA" />
+
+	<Object
+		Name="TheRazboynik_Bar"
+		FullName="Aoi hana" />
+
+	<Object
+		Name="TheRazboynik_Workshop"
+		FullName="Ootodokutaa" />
+
+	<Object
+		Name="Razboynik_Bar_Barman"
+		FullName="Sosogu" />
+
+	<Object
+		Name="TheRazboynik_Shop"
+		FullName="Deshiberu de" />
+
+	<Object
+		Name="Raz_Bar_Lisa"
+		FullName="Risa" />
+
+	<Object
+		Name="ToR2M1"
+		FullName="Riburiumu e no michi" />
+
+	<Object
+		Name="ToR3M2"
+		FullName="Igunotto e no michi" />
+
+	<Object
+		Name="UlukAmush_loc"
+		FullName="Machibuse saito" />
+
+	<Object
+		Name="ToR1M4"
+		FullName="Heru minato" />
+
+	<Object
+		Name="r3_FarVillage"
+		FullName="Eruminsuto" />
+
+	<Object
+		Name="Razboynic_Bar_Customer1"
+		FullName="Jeruvuanto" />
+
+	<Object
+		Name="Uluk_Hram"
+		FullName="Reihai no shinden" />
+
+	<Object
+		Name="Uluk_Hram_Zrec1"
+		FullName="Saishi" />
+
+	<Object
+		Name="Set_HouseMainDruid"
+		FullName="Kodoku no ie" />
+
+	<Object
+		Name="r3_FarVillage_Workshop"
+		FullName="Waakushoppu" />
+
+	<Object
+		Name="r3_FarVillage_Shop"
+		FullName="Mise" />
+
+	<Object
+		Name="heavy_dot2_vector1"
+		FullName="Dotto" />
+
+	<Object
+		Name="heavy_dot2_vulcan2"
+		FullName="Dotto" />
+
+	<Object
+		Name="heavy_dot2_vulcan3"
+		FullName="Dotto" />
+
+	<Object
+		Name="heavy_dot2_vulcan4"
+		FullName="Dotto" />
+
+	<Object
+		Name="sack_dot2_vulcan5"
+		FullName="Dotto" />
+
+	<Object
+		Name="sack_dot2_vulcan6"
+		FullName="Dotto" />
+
+	<Object
+		Name="heavy_dot4_octopus7"
+		FullName="Dotto" />
+
+	<Object
+		Name="heavy_dot4_octopus8"
+		FullName="Dotto" />
+
+	<Object
+		Name="heavy_dot3_vulcan9"
+		FullName="Dotto" />
+
+	<Object
+		Name="heavy_dot2_vector10"
+		FullName="Dotto" />
+
+	<Object
+		Name="sack_dot1_vulcan11"
+		FullName="Dotto" />
+
+	<Object
+		Name="sack_dot2_vulcan12"
+		FullName="Dotto" />
+
+	<Object
+		Name="sack_dot2_kord13"
+		FullName="Dotto" />
+
+	<Object
+		Name="sack_dot2_kord14"
+		FullName="Dotto" />
+
+	<Object
+		Name="sack_dot2_flag15"
+		FullName="Dotto" />
+
+	<Object
+		Name="heavy_dot4_big_kpvt16"
+		FullName="Dotto" />
+
+	<Object
+		Name="heavy_dot4_big_kpvt17"
+		FullName="Dotto" />
+
+	<Object
+		Name="heavy_dot4_vulcan18"
+		FullName="Dotto" />
+
+	<Object
+		Name="sack_dot2_omega19"
+		FullName="Dotto" />
+
+	<Object
+		Name="heavy_dot4_big_kpvt20"
+		FullName="Dotto" />
+
+	<Object
+		Name="sack_dot2_vulcan21"
+		FullName="Dotto" />
+
+	<Object
+		Name="sack_dot2_kord22"
+		FullName="Dotto" />
+
+	<Object
+		Name="urod1"
+		FullName="Gunshuu" />
+
+	<Object
+		Name="urod2"
+		FullName="Sukooru" />
+
+	<Object
+		Name="urod3"
+		FullName="Boogu" />
+
+	<Object
+		Name="urod4"
+		FullName="Mukuriku" />
+
+	<Object
+		Name="urod5"
+		FullName="Dan" />
+
+	<Object
+		Name="urod6"
+		FullName="Gaia" />
+
+	<Object
+		Name="urod7"
+		FullName="Shaaman" />
+
+	<Object
+		Name="urod8"
+		FullName="Hrrr" />
+
+	<Object
+		Name="urod9"
+		FullName="Fuu ojisan" />
+</ObjectNames>
