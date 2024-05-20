@@ -1,0 +1,298 @@
+<?xml version="1.0" encoding="windows-1251" standalone="yes" ?>
+<ObjectNames>
+	<Object
+		Name="TheOlme"
+		FullName="ORUMA" />
+
+	<Object
+		Name="Olme_Bar"
+		FullName="Hazure ni" />
+
+	<Object
+		Name="Olme_Shop"
+		FullName="Mise" />
+
+	<Object
+		Name="Olme_Workshop"
+		FullName="Waakushoppu" />
+
+	<Object
+		Name="Olme_Bar_Customer1"
+		FullName="Perushitto" />
+
+	<Object
+		Name="Olme_Bar_Customer2"
+		FullName="Garuden" />
+	
+	<Object
+		Name="Olme_Bar_Barman"
+		FullName="Baatendaa" />
+
+	<Object
+		Name="FVOnOcean"
+		FullName="SARIOUMU" />
+
+	<Object
+		Name="FVOnOcean_Bar"
+		FullName="Fune de" />
+
+	<Object
+		Name="FVOnOcean_Shop"
+		FullName="Mise" />
+
+	<Object
+		Name="FVOnOcean_Workshop"
+		FullName="Waakushoppu" />
+
+	<Object
+		Name="FVOnOcean_Bar_Customer1"
+		FullName="Tarion" />
+
+	<Object
+		Name="FVOnOcean_Bar_Customer3"
+		FullName="Cherumu" />
+
+	<Object
+		Name="FVOnOcean_Bar_Gomer"
+		FullName="Hoomaa" />
+
+	<Object
+		Name="FVOnOcean_Bar_Barman"
+		FullName="Baatendaa" />
+
+	<Object
+		Name="FVNearOlme"
+		FullName="RAUKA" />
+
+	<Object
+		Name="FVNearOlme_Bar"
+		FullName="Serindo" />
+
+	<Object
+		Name="FVNearOlme_Shop"
+		FullName="Mise" />
+
+	<Object
+		Name="FVNearOlme_Workshop"
+		FullName="Waakushoppu" />
+
+	<Object
+		Name="FVNearOlme_Bar_Customer2"
+		FullName="Parisunesu" />
+
+	<Object
+		Name="FVNearOlme_Bar_Customer3"
+		FullName="Kesshoo" />
+
+	<Object
+		Name="FVNearOlme_Bar_Barman"
+		FullName="Baatendaa" />
+
+	<Object
+		Name="FVCalis"
+		FullName="Karisu" />
+
+	<Object
+		Name="FVCalis_Bar"
+		FullName="Ken tooshi" />
+
+	<Object
+		Name="FVCalis_Shop"
+		FullName="Mise" />
+
+	<Object
+		Name="FVCalis_Workshop"
+		FullName="Waakushoppu" />
+
+	<Object
+		Name="FVCalis_Bar_Customer3"
+		FullName="Erikku" />
+
+	<Object
+		Name="FVCalis_Bar_Customer2"
+		FullName="Kirisutokyooto" />
+
+	<Object
+		Name="FVCalis_Bar_Customer1"
+		FullName="Jeemusu" />
+
+	<Object
+		Name="FVCalis_Bar_Barman"
+		FullName="Baatendaa" />
+
+	<Object
+		Name="FVCalis_Bar_Fioniy"
+		FullName="Filemon" />
+
+	<Object
+		Name="FVCordan"
+		FullName="KORUDAN" />
+
+	<Object
+		Name="FVCordan_Bar"
+		FullName="Same no kuchi" />
+
+	<Object
+		Name="FVCordan_Shop"
+		FullName="Mise" />
+
+	<Object
+		Name="FVCordan_Workshop"
+		FullName="Waakushoppu" />
+
+	<Object
+		Name="FVCordan_Bar_Customer2"
+		FullName="Matobei" />
+
+	<Object
+		Name="FVCordan_Bar_Barman"
+		FullName="Kukku Nyuura" />
+
+	<Object
+		Name="FVPerch"
+		FullName="KOSHOO" />
+
+	<Object
+		Name="FVPerch_Bar"
+		FullName="Kinkoo" />
+
+	<Object
+		Name="FVPerch_Shop"
+		FullName="Mise" />
+
+	<Object
+		Name="FVPerch_Workshop"
+		FullName="Waakushoppu" />
+
+	<Object
+		Name="FVPerch_Bar_Customer2"
+		FullName="Daren" />
+
+	<Object
+		Name="FVPerch_Bar_Barman"
+		FullName="Baatendaa" />
+
+	<Object
+		Name="FVBerko"
+		FullName="Baako" />
+
+	<Object
+		Name="FVBerko_Bar"
+		FullName="Uradoori" />
+
+	<Object
+		Name="FVBerko_Shop"
+		FullName="Mise" />
+
+	<Object
+		Name="FVBerko_Workshop"
+		FullName="Waakushoppu" />
+
+	<Object
+		Name="FVBerko_Bar_Customer2"
+		FullName="Niiru" />
+
+	<Object
+		Name="FVBerko_Bar_Barman"
+		FullName="Baatendaa" />
+
+	<Object
+		Name="StorageVil"
+		FullName="SUTOKKU" />
+
+	<Object
+		Name="StorageVilBar"
+		FullName="Sooko" />
+
+	<Object
+		Name="StorageVil_Shop"
+		FullName="Bendaabuusu" />
+
+	<Object
+		Name="r1m4_Storage_Guard1"
+		FullName="Anchisukiru" />
+
+	<Object
+		Name="StorageVil_enter"
+		FullName="SUTOKKU" />
+
+	<Object
+		Name="TheOlme_enter"
+		FullName="ORUMA" />
+
+	<Object
+		Name="FVPerch_enter"
+		FullName="KOSHOO" />
+
+	<Object
+		Name="FVCalis_Bar_Husbent1"
+		FullName="Filemon" />
+
+	<Object
+		Name="LookingWife"
+		FullName="Tsuma Arushuka" />
+
+	<Object
+		Name="LookingWife1"
+		FullName="Tsuma Arushuka" />
+
+	<Object
+		Name="Port_loc"
+		FullName="Umi no mon" />
+
+	<Object
+		Name="FVPerch_Houses"
+		FullName="Machiaishitsu" />
+
+	<Object
+		Name="ToR1M3"
+		FullName="Battaarando e shuppatsu" />
+
+	<Object
+		Name="ToR3M1"
+		FullName="Doruido guroobu no minato" />
+
+	<Object
+		Name="Olme_Bar_Traider"
+		FullName="Diiraa" />
+
+	<Object
+		Name="bigboss1"
+		FullName="Bosu" />
+
+	<Object
+		Name="urod1"
+		FullName="Vuinii" />
+
+	<Object
+		Name="urod2"
+		FullName="Don" />
+
+	<Object
+		Name="urod3"
+		FullName="Yukka" />
+
+	<Object
+		Name="urod4"
+		FullName="Deijii" />
+
+	<Object
+		Name="urod5"
+		FullName="Geitsu" />
+
+	<Object
+		Name="urod6"
+		FullName="Foruko" />
+
+	<Object
+		Name="urod7"
+		FullName="Borutan" />
+
+	<Object
+		Name="urod8"
+		FullName="Daiku" />
+
+	<Object
+		Name="urod9"
+		FullName="Aka 13" />
+</ObjectNames>
