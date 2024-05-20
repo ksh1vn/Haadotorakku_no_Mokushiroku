@@ -47,7 +47,7 @@
 
 		<Page
 			id="5"
-			text="Shinario||Arekusei «Alex TG» Ñhesutonifu"
+			text="Shinario||Arekusei «Alex TG» Chesutonifu"
 			modelName="r2_man"
 			modelSkin="0"
 			modelCfg="87"
@@ -65,7 +65,7 @@
 
 		<Page
 			id="7"
-			text="Purojekuto no chifu dezaina||Arekusei «Alex TG» Ñhesutonifu"
+			text="Purojekuto no chifu dezaina||Arekusei «Alex TG» Chesutonifu"
 			modelName="r2_man"
 			modelSkin="0"
 			modelCfg="87"
@@ -155,7 +155,7 @@
 
 		<Page
 			id="17"
-			text="PR maneejaa||Suvuetoraana|«Ñrystal» Ñhesutonifu"
+			text="PR maneejaa||Suvuetoraana|«Crystal» Chesutonifu"
 			modelName="r2_woman"
 			modelSkin="0"
 			modelCfg="20"
@@ -164,7 +164,7 @@
 
 		<Page
 			id="18"
-			text="Geemu ni wa ongaku kontesuto no yuushoo-sha ni yoru gakkyoku ga shiyoo sa remashita:||Arekusandaa Chekusutaa|Borisu Vuedensukii è Arekusandaa Toregaa|Maikeru Shidorofu|Arekusandaa Risenkofu|Paralaxeen|Igooru Beroosofu"
+			text="Geemu ni wa ongaku kontesuto no yuushoo-sha ni yoru gakkyoku ga shiyoo sa remashita:||Arekusandaa Chekusutaa|Borisu Vuedensukii soshite Arekusandaa Toregaa|Maikeru Shidorofu|Arekusandaa Risenkofu|Paralaxeen|Igooru Beroosofu"
 			modelName="r2_man"
 			modelSkin="1"
 			modelCfg="132"

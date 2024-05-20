@@ -427,63 +427,6 @@
 		text="Subete kuriadesu. IKU!"
 		role="PLAYER"
 		scriptResult="TActivate('trA') SetVar('Gonka',1) EndConversation()" />
-<!--Root/r4m1/Сюжетные/Танкисты-->
-	<Reply
-		name="r4_Dlg_npc_000000"
-		text="Смотри! Это они!"
-		role="NPC"
-		nextReplies="r4_Dlg_pl_000001" />
-
-	<Reply
-		name="r4_Dlg_pl_000001"
-		text="Кто?"
-		role="PLAYER"
-		nextReplies="r4_Dlg_npc_000002" />
-
-	<Reply
-		name="r4_Dlg_npc_000002"
-		text="Те, кто напал на твою деревню!"
-		role="NPC"
-		nextReplies="r4_Dlg_pl_000003" />
-
-	<Reply
-		name="r4_Dlg_pl_000003"
-		text="Ты уверена? Неужели моя месть свершится прямо сейчас?"
-		role="PLAYER"
-		nextReplies="r4_Dlg_npc_000004" />
-
-	<Reply
-		name="r4_Dlg_npc_000004"
-		text="Абсолютно. Я видела именно эту машину на месте преступления!"
-		role="NPC"
-		nextReplies="r4_Dlg_pl_000005 r4_Dlg_pl_000006" />
-
-	<Reply
-		name="r4_Dlg_pl_000006"
-		text="Значит, им не жить! Кровь за кровь!"
-		role="PLAYER" />
-
-	<Reply
-		name="r4_Dlg_pl_000005"
-		text="Я думаю, что это были лишь исполнители чьей-то злой воли. Давай лучше проследим за ними и узнаем настоящих преступников."
-		role="PLAYER" />
-
-	<Reply
-		name="r4_Dlg_npc_000007"
-		text="Что мы сделали тебе, чужеземец? Почему ты хочешь нашей смерти?"
-		role="NPC"
-		nextReplies="r4_Dlg_pl_000008" />
-
-	<Reply
-		name="r4_Dlg_pl_000008"
-		text="Несколько месяцев назад вы напали на беззащитную деревню и убили всех её жителей."
-		role="PLAYER"
-		nextReplies="r4_Dlg_npc_000009" />
-
-	<Reply
-		name="r4_Dlg_npc_000009"
-		text="Ты что, брат? Мы никого не трогаем, сражаемся с безумцами, которые разрушают наши города. Нам нет дела до далеких соседей!"
-		role="NPC" />
 <!--Root/r4m1/Сюжетные/Поиски людей-->
 	<Reply
 		name="Gadad_Bar_Customer1_01_N01"

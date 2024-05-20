@@ -648,7 +648,7 @@
 	<Item
 		id="sml2Cab01"
 		locForm="1"
-		value="Kyabin Gokiburià" />
+		value="Kyabin Gokiburi" />
 
 	<Item
 		id="sml3Cab01"
@@ -658,7 +658,7 @@
 	<Item
 		id="sml4Cab01"
 		locForm="1"
-		value="Êàáèíà Battaà" />
+		value="Kyabin Batta" />
 
 	<Item
 		id="denscoutCab"
@@ -1118,12 +1118,12 @@
 	<Item
 		id="Revolutioner1"
 		locForm="0"
-		value="Ðåâîëþöèîíåð" />
+		value="Kakumei-teki" />
 
 	<Item
 		id="Revolutioner2"
 		locForm="0"
-		value="Ðåâîëþöèîíåð" />
+		value="Kakumei-teki" />
 
 	<Item
 		id="BelazTest"
