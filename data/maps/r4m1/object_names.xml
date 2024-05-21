@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="windows-1251" standalone="yes" ?>
+<ObjectNames>
+	<Object
+		Name="TheGadad"
+		FullName="GADADO" />
+
+	<Object
+		Name="Gadad_Bar"
+		FullName="Kafe ''Kawaki''" />
+
+	<Object
+		Name="Gadad_Bar_Barman"
+		FullName="Baatendaa" />
+
+	<Object
+		Name="Gadad_Shop"
+		FullName="Mise" />
+
+	<Object
+		Name="Gadad_Workshop"
+		FullName="Waakushoppu" />
+
+	<Object
+		Name="Gadad_Bar_Customer1"
+		FullName="Oji" />
+
+	<Object
+		Name="TheKef"
+		FullName="KEFU" />
+
+	<Object
+		Name="Kef_Bar"
+		FullName="Oashisu" />
+
+	<Object
+		Name="Kef_Bar_Barman"
+		FullName="Baatendaa" />
+
+	<Object
+		Name="Kef_Workshop"
+		FullName="Waakushoppu" />
+
+	<Object
+		Name="Kef_Shop"
+		FullName="Mise" />
+
+	<Object
+		Name="Kef_Bar_Customer1"
+		FullName="Mario" />
+
+	<Object
+		Name="TheKazif"
+		FullName="KAJIFU" />
+
+	<Object
+		Name="Kazif_Bar"
+		FullName="Baa ''Kuroi hedoro''" />
+
+	<Object
+		Name="Kazif_Bar_Barman"
+		FullName="Baatendaa" />
+
+	<Object
+		Name="Kazif_Workshop"
+		FullName="Sagyoo-yoo miton" />
+
+	<Object
+		Name="Kazif_Shop"
+		FullName="Mise" />
+
+	<Object
+		Name="Kazif_Bar_Customer1"
+		FullName="Furosuto shinpu" />
+
+	<Object
+		Name="r4_AlihamVil"
+		FullName="ARIAHAMU" />
+
+	<Object
+		Name="r4_Aliham_Shop"
+		FullName="Ookina o shiri" />
+
+	<Object
+		Name="r4_Aliham_Bar"
+		FullName="Inshoku-ten" />
+
+	<Object
+		Name="r4_Aliham_Bar_Barman"
+		FullName="Garanisu" />
+
+	<Object
+		Name="r4_Aliham_Bar_Visitor"
+		FullName="Ruiiji" />
+
+	<Object
+		Name="r4_Aliham_Workshop"
+		FullName="Shuuri gyoosha" />
+
+	<Object
+		Name="Oil_loc"
+		FullName="Yusei" />
+
+	<Object
+		Name="Port_loc"
+		FullName="Umi no minato" />
+
+	<Object
+		Name="LostEngineer_loc"
+		FullName="Boosoo enjinia" />
+
+	<Object
+		Name="Buhara_loc"
+		FullName="BUHARA" />
+
+	<Object
+		Name="ToR1M1"
+		FullName="Tsuno e shuppatsu" />
+
+	<Object
+		Name="ToR4M2"
+		FullName="Zarumeku e shuppatsu" />
+
+	<Object
+		Name="ToR2M2"
+		FullName="Aruzan minato" />
+
+	<Object
+		Name="TheOilCity"
+		FullName="NEFUTEGURAADO" />
+
+	<Object
+		Name="TheZuhel"
+		FullName="ZUKKERU" />
+
+	<Object
+		Name="r4m1_BuharsLeader"
+		FullName="Buharutsuefu shuchoo" />
+
+	<Object
+		Name="Kazif_Bar_Customer2"
+		FullName="Shuumahha" />
+
+	<Object
+		Name="Gadad_Bar_CrazyBook1"
+		FullName="Metorichero" />
+
+	<Object
+		Name="PetrolStationTown1"
+		FullName="Nenryoo hokyuu" />
+
+	<Object
+		Name="PetrolStationTown2"
+		FullName="Nenryoo hokyuu" />
+
+	<Object
+		Name="PetrolStationTown3"
+		FullName="Nenryoo hokyuu" />
+
+	<Object
+		Name="PetrolStationTown4"
+		FullName="Nenryoo hokyuu" />
+
+	<Object
+		Name="PetrolStationTown5"
+		FullName="Nenryoo hokyuu" />
+
+	<Object
+		Name="PetrolStationTown6"
+		FullName="Nenryoo hokyuu" />
+
+	<Object
+		Name="PetrolStationTown7"
+		FullName="Nenryoo hokyuu" />
+
+	<Object
+		Name="r4m1_Engineer"
+		FullName="Yuden enjinia" />
+
+	<Object
+		Name="heavy_dot1_vulcan1"
+		FullName="Dotto" />
+
+	<Object
+		Name="heavy_dot1_vulcan2"
+		FullName="Dotto" />
+
+	<Object
+		Name="heavy_dot2_vulcan3"
+		FullName="Dotto" />
+
+	<Object
+		Name="heavy_dot1_vulcan4"
+		FullName="Dotto" />
+
+	<Object
+		Name="heavy_dot1_vulcan5"
+		FullName="Dotto" />
+
+	<Object
+		Name="heavy_dot1_vulcan6"
+		FullName="Dotto" />
+
+	<Object
+		Name="sack_dot2_kord1"
+		FullName="Dotto" />
+
+	<Object
+		Name="heavy_dot1_vulcan7"
+		FullName="Dotto" />
+
+	<Object
+		Name="heavy_dot2_vector1"
+		FullName="Dotto" />
+
+	<Object
+		Name="heavy_dot3_rainmetal1"
+		FullName="Dotto" />
+
+	<Object
+		Name="sack_dot2_flag1"
+		FullName="Dotto" />
+
+	<Object
+		Name="sack_dot2_kord1"
+		FullName="Dotto" />
+
+	<Object
+		Name="sack_dot2_vulcan8"
+		FullName="Dotto" />
+
+	<Object
+		Name="sack_dot2_kord2"
+		FullName="Dotto" />
+
+	<Object
+		Name="TheOilCity_Workshop"
+		FullName="Waakushoppu" />
+
+	<Object
+		Name="TheOilCity_Shop"
+		FullName="Mise" />
+
+	<Object
+		Name="PetrolStationTown1_Workshop"
+		FullName="Nenryoo hokyuu" />
+
+	<Object
+		Name="PetrolStationTown2_Workshop"
+		FullName="Nenryoo hokyuu" />
+
+	<Object
+		Name="PetrolStationTown3_Workshop"
+		FullName="Nenryoo hokyuu" />
+
+	<Object
+		Name="PetrolStationTown4_Workshop"
+		FullName="Nenryoo hokyuu" />
+
+	<Object
+		Name="PetrolStationTown5_Workshop"
+		FullName="Nenryoo hokyuu" />
+
+	<Object
+		Name="PetrolStationTown6_Workshop"
+		FullName="Nenryoo hokyuu" />
+
+	<Object
+		Name="PetrolStationTown7_Workshop"
+		FullName="Nenryoo hokyuu" />
+
+	<Object
+		Name="r4_Zuhel_Workshop"
+		FullName="Waakushoppu" />
+
+	<Object
+		Name="r4_Zuhel_Shop"
+		FullName="Miseчик" />
+
+	<Object
+		Name="urod1"
+		FullName="Shaaman" />
+
+	<Object
+		Name="urod2"
+		FullName="Mikko" />
+
+	<Object
+		Name="urod3"
+		FullName="Boogu" />
+
+	<Object
+		Name="urod4"
+		FullName="Arekkusu" />
+
+	<Object
+		Name="urod5"
+		FullName="Sukoopu" />
+
+	<Object
+		Name="urod6"
+		FullName="Gaia" />
+
+	<Object
+		Name="urod7"
+		FullName="Sheruman" />
+
+	<Object
+		Name="urod8"
+		FullName="Hrrr" />
+
+	<Object
+		Name="urod9"
+		FullName="Fuu ojisan" />
+</ObjectNames>

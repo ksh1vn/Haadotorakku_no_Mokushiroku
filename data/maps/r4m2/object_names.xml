@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="windows-1251" standalone="yes" ?>
+<ObjectNames>
+	<Object
+		Name="ScientiferVillage"
+		FullName="Kagaku-sha no mura" />
+
+	<Object
+		Name="ScientiferVillage_Bar"
+		FullName="Kenkyuushitsu" />
+
+	<Object
+		Name="ScientiferVillage_Shop"
+		FullName="Sangyoo zaiko" />
+
+	<Object
+		Name="ScientiferVillage_WorkShop"
+		FullName="Jukuren shita te" />
+
+	<Object
+		Name="ScientiferVillage_Bar_Scientif"
+		FullName="Kagaku-sha Vuashirii" />
+
+	<Object
+		Name="ToR4M1"
+		FullName="Bahato e shuppatsu" />
+
+	<Object
+		Name="MilitaryBase_loc"
+		FullName="Gunji kichi" />
+
+	<Object
+		Name="PlateRadiation_loc"
+		FullName="Gaikoku-sen" />
+
+	<Object
+		Name="PetrolStationTown61"
+		FullName="Furui nenryoo hokyuujo" />
+
+	<Object
+		Name="CrazyBase"
+		FullName="Kurutta hitobito ga iru gunji kichi" />
+
+	<Object
+		Name="PetrolStationTown61_workshop"
+		FullName="Nenryoo hokyuu" />
+
+	<Object
+		Name="urod1"
+		FullName="Tiida" />
+
+	<Object
+		Name="urod2"
+		FullName="Shaaman" />
+
+	<Object
+		Name="urod3"
+		FullName="Boogu" />
+
+	<Object
+		Name="urod4"
+		FullName="Arekkusu" />
+
+	<Object
+		Name="urod5"
+		FullName="Sukoopu" />
+
+	<Object
+		Name="urod6"
+		FullName="Gaia" />
+
+	<Object
+		Name="urod7"
+		FullName="Sheruman" />
+
+	<Object
+		Name="urod8"
+		FullName="Hrrr" />
+
+	<Object
+		Name="urod9"
+		FullName="Fuu ojisan" />
+</ObjectNames>
