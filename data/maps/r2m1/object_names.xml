@@ -50,7 +50,7 @@
 
 	<Object
 		Name="TheSel_Bar"
-		FullName="Baa ''Ravuiin''" />
+		FullName="Baa &quot;Ravuiin&quot;" />
 
 	<Object
 		Name="TheSel_Bar_Barman"

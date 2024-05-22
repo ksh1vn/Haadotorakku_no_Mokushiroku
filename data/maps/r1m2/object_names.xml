@@ -14,7 +14,7 @@
 
 	<Object
 		Name="Esting_Bar"
-		FullName="Pabu ''Happii''" />
+		FullName="Pabu &quot;Happii&quot;" />
 
 	<Object
 		Name="Esting_Bar_Barman"
@@ -90,7 +90,7 @@
 
 	<Object
 		Name="Porto_Bar"
-		FullName="Baa ''Deddoankaa''" />
+		FullName="Baa &quot;Deddoankaa&quot;" />
 
 	<Object
 		Name="Porto_Bar_Barman"
@@ -154,7 +154,7 @@
 
 	<Object
 		Name="TheSign_Bar"
-		FullName="Baa ''Koosaten''" />
+		FullName="Baa &quot;Koosaten&quot;" />
 
 	<Object
 		Name="TheSign_Bar_Barman"
@@ -178,7 +178,7 @@
 
 	<Object
 		Name="TheRace_Bar"
-		FullName="Baa ''Nosutarujii''" />
+		FullName="Baa &quot;Nosutarujii&quot;" />
 
 	<Object
 		Name="TheRace_Bar_Barman"
@@ -198,7 +198,7 @@
 
 	<Object
 		Name="TheOlimp_Bar"
-		FullName="Baa ''Chanpion''" />
+		FullName="Baa &quot;Chanpion&quot;" />
 
 	<Object
 		Name="TheOlimp_Bar_Barman"
@@ -218,7 +218,7 @@
 
 	<Object
 		Name="TheTickets_Bar"
-		FullName="Baa ''Koofun''" />
+		FullName="Baa &quot;Koofun&quot;" />
 
 	<Object
 		Name="TheTickets_ZAO"

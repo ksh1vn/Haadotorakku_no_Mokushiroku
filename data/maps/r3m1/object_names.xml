@@ -6,7 +6,7 @@
 
 	<Object
 		Name="Set_Bar"
-		FullName="Kafeteria ''Ooku no soba de''" />
+		FullName="Kafeteria &quot;Ooku no soba de&quot;" />
 
 	<Object
 		Name="Set_Bar_Barman"
@@ -34,7 +34,7 @@
 
 	<Object
 		Name="Fist_Bar"
-		FullName="Baa ''Rokku''" />
+		FullName="Baa &quot;Rokku&quot;" />
 
 	<Object
 		Name="Fist_Bar_Barman"
@@ -54,7 +54,7 @@
 
 	<Object
 		Name="Uluk_Bar"
-		FullName="Baa ''Kurankushafuto''" />
+		FullName="Baa &quot;Kurankushafuto&quot;" />
 
 	<Object
 		Name="Uluk_Bar_Barman"
@@ -70,11 +70,11 @@
 
 	<Object
 		Name="Uluk_Workshop"
-		FullName="Waakushoppu ''Jibun de yare''" />
+		FullName="Waakushoppu &quot;Jibun de yare&quot;" />
 
 	<Object
 		Name="Uluk_Shop"
-		FullName="Mise ''Bobu no''" />
+		FullName="Mise &quot;Bobu no&quot;" />
 
 	<Object
 		Name="r3m1_NearFist_Guard1"

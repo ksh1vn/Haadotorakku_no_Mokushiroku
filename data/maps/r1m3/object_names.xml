@@ -14,7 +14,7 @@
 
 	<Object
 		Name="Asgard_Bar"
-		FullName="Baa ''Asugarudo''" />
+		FullName="Baa &quot;Asugarudo&quot;" />
 
 	<Object
 		Name="Asgard_Bar_Barman"
@@ -54,7 +54,7 @@
 
 	<Object
 		Name="Pesht_Bar"
-		FullName="Baa ''Pesuto''" />
+		FullName="Baa &quot;Pesuto&quot;" />
 
 	<Object
 		Name="Pesht_Bar_Barman"
@@ -78,7 +78,7 @@
 
 	<Object
 		Name="TheForgotten_Bar"
-		FullName="Baa ''Kako ni''" />
+		FullName="Baa &quot;Kako ni&quot;" />
 
 	<Object
 		Name="TheForgotten_Bar_Barman"
@@ -102,7 +102,7 @@
 
 	<Object
 		Name="Minin_Bar"
-		FullName="Baa ''Sureebu''" />
+		FullName="Baa &quot;Sureebu&quot;" />
 
 	<Object
 		Name="Mer_House"
@@ -150,7 +150,7 @@
 
 	<Object
 		Name="TheShahts_Bar"
-		FullName="Daininguruumu ''Zarya''" />
+		FullName="Daininguruumu &quot;Zarya&quot;" />
 
 	<Object
 		Name="TheShahts_Bar_Barman"
@@ -218,7 +218,7 @@
 
 	<Object
 		Name="TheBase_Bar"
-		FullName="Saruun ''Hiretsuna''" />
+		FullName="Saruun &quot;Hiretsuna&quot;" />
 
 	<Object
 		Name="BaseBandit"

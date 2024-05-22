@@ -14,7 +14,7 @@
 
 	<Object
 		Name="TheTown_Bar"
-		FullName="Baa ''Nagatabi''" />
+		FullName="Baa &quot;Nagatabi&quot;" />
 
 	<Object
 		Name="TheTown_Bar_Barman"
@@ -74,7 +74,7 @@
 
 	<Object
 		Name="TheOilVillage_Bar"
-		FullName="Shokudo ''Yat''" />
+		FullName="Shokudo &quot;Yat&quot;" />
 
 	<Object
 		Name="TheOilVillage_Bar_Barman"
@@ -98,7 +98,7 @@
 
 	<Object
 		Name="TheContraVillage_Bar"
-		FullName="Baa ''Megu Rasu''" />
+		FullName="Baa &quot;Megu Rasu&quot;" />
 
 	<Object
 		Name="TheContraVillage_Bar_Barman"
@@ -118,7 +118,7 @@
 
 	<Object
 		Name="TheFreedom_Bar"
-		FullName="Shokudo ''Kani''" />
+		FullName="Shokudo &quot;Kani&quot;" />
 
 	<Object
 		Name="TheFreedom_Bar_Barman"

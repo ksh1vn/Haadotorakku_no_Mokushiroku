@@ -6,7 +6,7 @@
 
 	<Object
 		Name="Gadad_Bar"
-		FullName="Kafe ''Kawaki''" />
+		FullName="Kafe &quot;Kawaki&quot;" />
 
 	<Object
 		Name="Gadad_Bar_Barman"
@@ -54,7 +54,7 @@
 
 	<Object
 		Name="Kazif_Bar"
-		FullName="Baa ''Kuroi hedoro''" />
+		FullName="Baa &quot;Kuroi hedoro&quot;" />
 
 	<Object
 		Name="Kazif_Bar_Barman"
