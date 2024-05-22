@@ -328,177 +328,177 @@
 	<Sample
 		id="66"
 		sound="data\sounds\radio\r_scholar_dead_2.ogg"
-		text="Не может быть!" />
+		text="Son'na hazu wanai!" />
 
 	<Sample
 		id="67"
 		sound="data\sounds\radio\r_scholar_dead_3.ogg"
-		text="Всё было напрасно..." />
+		text="Sore wa subete mudadeshita..." />
 
 	<Sample
 		id="68"
 		sound="data\sounds\radio\r_scholar_allydead_1.ogg"
-		text="Мы отомстим!" />
+		text="Fukushuu shite yaru!" />
 <!-- CIT-->
 	<Sample
 		id="69"
 		sound="data\sounds\radio\r_cit_greet_1.ogg"
-		text="Отличный денёк!" />
+		text="Subarashii hi!" />
 
 	<Sample
 		id="70"
 		sound="data\sounds\radio\r_cit_greet_2.ogg"
-		text="Доброго здравия!" />
+		text="Kenkoo ni!" />
 
 	<Sample
 		id="71"
 		sound="data\sounds\radio\r_cit_ffire_1.ogg"
-		text="Береги патроны" />
+		text="Dan'yaku ni wa kiwotsuketekudasai!" />
 
 	<Sample
 		id="72"
 		sound="data\sounds\radio\r_cit_ffire_2.ogg"
-		text="Протри глаза" />
+		text="Me o fuite kudasai!" />
 
 	<Sample
 		id="73"
 		sound="data\sounds\radio\r_cit_attack_1.ogg"
-		text="За свободу!" />
+		text="Jiyuu no tame ni!" />
 
 	<Sample
 		id="74"
 		sound="data\sounds\radio\r_cit_attack_2.ogg"
-		text="Смерть врагам!" />
+		text="Teki ni wa shi o!" />
 
 	<Sample
 		id="75"
 		sound="data\sounds\radio\r_cit_ishit_1.ogg"
-		text="Сопротивление бесполезно!" />
+		text="Teikoo shite mo mudada!" />
 
 	<Sample
 		id="76"
 		sound="data\sounds\radio\r_cit_ishit_2.ogg"
-		text="Как тебе это нравится?!" />
+		text="Ikagadesu ka?!" />
 
 	<Sample
 		id="77"
 		sound="data\sounds\radio\r_cit_shot_1.ogg"
-		text="Переживу!" />
+		text="Watashi wa ikinokorudarou!" />
 
 	<Sample
 		id="78"
 		sound="data\sounds\radio\r_cit_shot_2.ogg"
-		text="Ерунда!" />
+		text="Nansensu!" />
 
 	<Sample
 		id="79"
 		sound="data\sounds\radio\r_cit_kill_1.ogg"
-		text="No pasaran!" />
+		text="Tooranai!" />
 
 	<Sample
 		id="80"
 		sound="data\sounds\radio\r_cit_kill_2.ogg"
-		text="Враг не пройдёт!" />
+		text="Seisan shinaide kudasai!" />
 
 	<Sample
 		id="81"
 		sound="data\sounds\radio\r_cit_dead_1.ogg"
-		text="Я не боюсь!" />
+		text="Watashi wa osorete imasen!" />
 
 	<Sample
 		id="82"
 		sound="data\sounds\radio\r_cit_dead_2.ogg"
-		text="Наше дело правое!" />
+		text="Watashitachi no taigi wa tadashii nodesu!" />
 
 	<Sample
 		id="83"
 		sound="data\sounds\radio\r_cit_dead_3.ogg"
-		text="Свобода... победит..." />
+		text="Jiyuu... kachimasu..." />
 
 	<Sample
 		id="84"
 		sound="data\sounds\radio\r_cit_allydead_1.ogg"
-		text="Мы будем помнить тебя!" />
+		text="Watashitachi wa anata no koto o oboete imasu!" />
 <!-- CD-->
 	<Sample
 		id="85"
 		sound="data\sounds\radio\r_ar_greet_1.ogg"
-		text="Поезжай мимо." />
+		text="Kuruma de toorisugite kudasai." />
 
 	<Sample
 		id="86"
 		sound="data\sounds\radio\r_ar_greet_2.ogg"
-		text="Понаехали тут!" />
+		text="Koko ni taisei de koyou!" />
 
 	<Sample
 		id="87"
 		sound="data\sounds\radio\r_ar_ffire_1.ogg"
-		text="Что за шутки?!" />
+		text="Nani no joodandesu ka?" />
 
 	<Sample
 		id="88"
 		sound="data\sounds\radio\r_ar_ffire_2.ogg"
-		text="Чего тебе неймётся?" />
+		text="Nani ni uzuuzushiteru no?" />
 
 	<Sample
 		id="89"
 		sound="data\sounds\radio\r_ar_attack_1.ogg"
-		text="Ты меня достал!" />
+		text="Moo akita!" />
 
 	<Sample
 		id="90"
 		sound="data\sounds\radio\r_ar_attack_2.ogg"
-		text="Сейчас я с тобой разберусь!" />
+		text="Saa, watashi ga taioo shimasu!" />
 
 	<Sample
 		id="91"
 		sound="data\sounds\radio\r_ar_ishit_1.ogg"
-		text="Я же предупреждал!" />
+		text="Keikoku shita yo!" />
 
 	<Sample
 		id="92"
 		sound="data\sounds\radio\r_ar_ishit_2.ogg"
-		text="Учись, студент." />
+		text="Gakusei o benkyoo shite kudasai." />
 
 	<Sample
 		id="93"
 		sound="data\sounds\radio\r_ar_shot_1.ogg"
-		text="Это ещё что?" />
+		text="Kore wa hoka ni nandesuka?" />
 
 	<Sample
 		id="94"
 		sound="data\sounds\radio\r_ar_shot_2.ogg"
-		text="Меня так просто не убить!" />
+		text="Soo kantan ni wa korosenai yo!" />
 
 	<Sample
 		id="95"
 		sound="data\sounds\radio\r_ar_kill_1.ogg"
-		text="Ещё одним меньше!" />
+		text="Sukunai mo!" />
 
 	<Sample
 		id="96"
 		sound="data\sounds\radio\r_ar_kill_2.ogg"
-		text="Отпрыгался, урод?!" />
+		text="Tobiorita, baka?" />
 
 	<Sample
 		id="97"
 		sound="data\sounds\radio\r_ar_dead_1.ogg"
-		text="Чтоб ты сам сдох, гад!" />
+		text="Shindemoii yo, kono yaroo!" />
 
 	<Sample
 		id="98"
 		sound="data\sounds\radio\r_ar_dead_2.ogg"
-		text="Моя нога! Моя..." />
+		text="Watashi no ashi! Watashi no..." />
 
 	<Sample
 		id="99"
 		sound="data\sounds\radio\r_ar_dead_3.ogg"
-		text="Я умер в бою..." />
+		text="Tatakai de shinde shimatta…" />
 
 	<Sample
 		id="100"
 		sound="data\sounds\radio\r_ar_allydead_1.ogg"
-		text="Ого! Становится горячо!" />
+		text="Oo! Atsuku natte kimashita ne!" />
 <!-- Druids-->
 	<Sample
 		id="101"
