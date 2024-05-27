@@ -126,7 +126,7 @@
 
 	<Object
 		Name="CS"
-		FullName="Kakumei teki Ed" />
+		FullName="Kakumei teki Edo" />
 
 	<Object
 		Name="Botanik"
@@ -163,7 +163,7 @@
 	<Object
 		Name="PetrolStationTown3_Workshop"
 		FullName="Waakushoppu" />
-<!-- локации -->
+<!-- пїЅпїЅпїЅпїЅпїЅпїЅпїЅ -->
 	<Object
 		Name="ToR1M2"
 		FullName="E no michi Regin" />
