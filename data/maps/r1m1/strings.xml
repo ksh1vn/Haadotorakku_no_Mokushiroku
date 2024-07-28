@@ -27,21 +27,21 @@
 		id="31"
 		modelName="mask_father"
 		modelSlot="1"
-		value="CHICHIOYA|Kore de anata wa honmono no otoko ni nari, yaritai koto wa nani demo dekimasu. Kazoku o tsukuru koto mo dekimasu... Sekidesuga, mochiron, saisho ni kyoka o motomeru kata ga yoidesu."
+		value="CHICHIOYA|Kore de anata wa honmono no otoko ni nari, yaritai koto wa nani demo dekimasu. Kazoku o tsukuru koto mo dekimasu... Shikashi, mochiron, saisho ni kyoka o motomeru kata ga yoidesu."
 		sound="data\sounds\Speech\r1m1\r1m1_31_father.ogg"
 		time="12" />
 
 	<string
 		id="4"
 		modelName="mask_hero"
-		value="|Hontooni kono nitsu ga kita no ka!? Roogo made kono noojoo de marine sa reru no ka to omotteta!"
+		value="|Kore wa hontooni okotta no ka? ! Roogo made kono noojoo de marine sa reru no ka to omotteta!"
 		sound="data\sounds\Speech\r1m1\r1m1_4_hero.ogg"
 		time="6" />
 
 	<string
 		id="41"
 		modelName="mask_hero"
-		value="|Tsumari, watashi ga iitakatta no wa,`arigatoogozaimasu, watashi ni yose rareta shinrai o seitoo-ka suru yoo tsutomemasu, sensei!"
+		value="|Tsumari, watashi wa tada, arigatoogozaimashita, anata no shinrai ni kotaerareru yoo doryoku shimasu, to iitakatta nodesu!"
 		sound="data\sounds\Speech\r1m1\r1m1_41_hero.ogg"
 		time="6" />
 
@@ -56,7 +56,7 @@
 	<string
 		id="6"
 		modelName="mask_hero"
-		value="|Etsu, ima sugu suwatte sukina tokoro ni itte ii no?"
+		value="|Ima sugu suwatte sukina tokoro e itte iitte iu no?"
 		sound="data\sounds\Speech\r1m1\r1m1_6_hero.ogg"
 		time="4" />
 
@@ -64,14 +64,14 @@
 		id="7"
 		modelName="mask_father"
 		modelSlot="1"
-		value="CHICHIOYA|Sooda, son'nani isoide handoru o nigitte iru nonara, Yujinii ni itte Sergo ni kono nimotsu o watashite kudasai. Anata ga toochaku suru made kaiwa o enki shimasu."
+		value="CHICHIOYA|Sate, son'nani isoide handoru o nigitte iru nonara, Yuzhny ni itte Sergo ni kono pakkeeji o watashite kudasai. Anata ga toochaku suru made kaiwa o enki shimasu."
 		sound="data\sounds\Speech\r1m1\r1m1_7_father.ogg"
 		time="12" />
 
 	<string
 		id="8"
 		modelName="mask_hero"
-		value="|Banzai! Sugu ni toochaku shimasu! Soko ni ite kudasai, roojin."
+		value="|Sugu ni toochaku shimasu! Soko ni ite kudasai, roojin."
 		sound="data\sounds\Speech\r1m1\r1m1_8_hero.ogg"
 		time="4" />
 
@@ -117,7 +117,7 @@
 	<string
 		id="1124"
 		modelName="mask_hero"
-		value="|Jitsuwa koko kara kita ni yamakage ga ari, sugu chikakuna nodesuga, chokutsuu suru michi ga arimasen. Yuujinii o tooranakereba narimasen..."
+		value="|Jitsuwa koko kara kita ni yamakage ga ari, sugu chikakuna nodesuga, chokutsuu suru michi ga arimasen. Watashitachiha Yuzhny o tsuuka suru hitsuyoo ga arimasu..."
 		sound="data\sounds\Speech\r1m1\r1m1_1124_hero.ogg"
 		time="7" />
 
@@ -125,7 +125,7 @@
 		id="1125"
 		modelName="mask_lisa"
 		modelSlot="1"
-		value="RISA|Koko de watashitachi no michi ga wakaremasu. Anata no sanjoo o ou no wa unzaridesu. Sore ni, anata no iku michi ga nai tokorode wa, watashi no kuruma wa rakuraku to toorisugite ikimasu. Anata wa keiyaku no jibun no bubun o mamorimashita. Okane wa hokan shite oite kudasai."
+		value="RISA|Koko de watashitachi no michi wa wakaremasu. Watashi wa anata no nanbasen no atowoounoni unzari shite imasu. Sore ni, anata no iku michi ga nai tokorode wa, watashi no kuruma wa rakuraku to toorisugite ikimasu. Anata wa keiyaku no jibun no bubun o mamorimashita. Okane wa hokan shite oite kudasai."
 		sound="data\sounds\Speech\r1m1\r1m1_1125_lisa.ogg"
 		time="11" />
 
@@ -169,14 +169,14 @@
 		modelSkin="0"
 		modelCfg="172"
 		modelSlot="1"
-		value="BANDITTO FERIKKUSU|Mata aimashoo, kono yaroo! Watashi no kotoba o mamotte kudasai, anata wa Ferikkusu ni te o dashita koto o kookai surudeshou! Ikimashou!"
+		value="BANDITTO FERIKKUSU|Mata aimashoo, koinu! Watashi no kotoba o mamotte kudasai, anata wa ferikkusu ni te o dashita koto o kookai surudeshou! Ikimashou!"
 		sound="data\sounds\Speech\r1m1\r1m1_1134_felix.ogg"
 		time="8" />
 
 	<string
 		id="1141"
 		modelName="mask_hero"
-		value="|Nantekotta! Chichioya! Ittai don'na kaibutsu ga son'na koto o suru nodarou... Watashi ga aishi, shitteita hitohamina shinde shimatta..."
+		value="|Nantekotta! Chichioya! Ittai don'na kaibutsu ga son'na koto o suru nodarou… watashi ga aishi, shitteita hitohamina shinde shimatta…"
 		sound="data\sounds\Speech\r1m1\r1m1_1141_hero.ogg"
 		time="11" />
 
@@ -190,14 +190,14 @@
 	<string
 		id="1143"
 		modelName="mask_hero"
-		value="|Karera no tame ni watashi ga dekiru koto wa tada hitotsu, fukushuudesu! Han'nin ga daredearou to tooku ni kakurete ite mo, chinohate demo watashi ga mitsukete yaru! Soshite, watashi wa sore o hakai shimasu! Kikoemasu ka? Watashi wa anata o mitsukerudeshou!"
+		value="|Karera no tame ni watashi ga dekiru koto wa tada hitotsu, fukushuudesu! Satsujin-sha ga don'nani tooku ni kakurete ite mo, chinohate demo watashi wa yatsu o mitsukete yaru! Soshite, watashi wa sore o hakai shimasu! Kikoemasu ka, kanarazu mitsukemasu!"
 		sound="data\sounds\Speech\r1m1\r1m1_1143_hero.ogg"
 		time="13" />
 
 	<string
 		id="1144"
 		modelName="mask_hero"
-		value="|Ferikusu ga nakama o atsumete muboobina mura o koogeki shitara doo narudeshou ka? Moshi soonara, kare wa ikite wa ikemasen! Kare wa Yujinii baa ni tamuro shite imasu. Soko kara kensaku o hajimemasu."
+		value="|Ferikusu ga nakama o atsumete muboobina mura o koogeki shitara doo narudeshou ka? Moshi soonara, kare wa ikite wa ikemasen! Kare wa Yuzhny baa o otozuremasu. Soko kara kensaku o hajimemasu."
 		sound="data\sounds\Speech\r1m1\r1m1_1144_hero.ogg"
 		time="11" />
 
@@ -214,7 +214,7 @@
 		modelSkin="0"
 		modelCfg="172"
 		modelSlot="1"
-		value="BANDITTO FERIKKUSU|Aa, min'na mioboe no aru kaoda. Kono namaikina otoko ni misetekudasai!"
+		value="BANDITTO FERIKKUSU|Min'na onajimi no kao. Kono namaikina otoko ni misetekudasai!"
 		sound="data\sounds\Speech\r1m1\r1m1_1152_felix.ogg"
 		time="6" />
 
@@ -282,7 +282,7 @@
 		modelSkin="0"
 		modelCfg="172"
 		modelSlot="1"
-		value="BANDITTO FERIKKUSU|Chichi no haka ni chikatte! Tomodachi no Risa ni kiite mite kudasai. Kanojo wa subete o mite ita."
+		value="BANDITTO FERIKKUSU|Chichi no haka ni chikatte! Tomodachi no Risa ni kiite mite kudasai. Kanojo wa subete o mite imashita."
 		sound="data\sounds\Speech\r1m1\r1m1_11510_felix.ogg"
 		time="7" />
 
@@ -306,7 +306,7 @@
 	<string
 		id="11513"
 		modelName="mask_hero"
-		value="|Risa...Kanojo ga ko no subete ni nanrakano katachi de kankei shite iru yoona ki ga suru...watashi wa kanojo o mitsukete, jissai ni nani ga okotta no ka shirabete miru. Wakatta, Ferikkusu, inochi wa tasukete ageru. Shi hookoo subete ni susumimasu. Nidoto korera no bubun de kao o miseru no wa yamete kudasai."
+		value="|Risa… kanojo ga ko no subete ni nanrakano katachi de kankei shite iru yoona ki ga suru… watashi wa kanojo o mitsukete, jissai ni nani ga okotta no ka shirabete miru. Wakatta, Ferikkusu, inochi wa tasukete ageru. Shi hookoo subete ni susumimasu. Nidoto korera no bubun de kao o miseru no wa yamete kudasai."
 		sound="data\sounds\Speech\r1m1\r1m1_11513_hero.ogg"
 		time="17" />
 
@@ -316,7 +316,7 @@
 		modelSkin="0"
 		modelCfg="172"
 		modelSlot="1"
-		value="BANDITTO FERIKKUSU|Anata wa kachimashita. Demo, mata aimashoo, sonotoki wa motto junbi o totonoete okimasu."
+		value="BANDITTO FERIKKUSU|Anata wa kachimashita. Demo, mata o ai shimashou, sonotoki wa motto junbi o totonoete okimasu."
 		sound="data\sounds\Speech\r1m1\r1m1_11514_felix.ogg"
 		time="5" />
 
@@ -333,7 +333,7 @@
 		modelSkin="0"
 		modelCfg="70"
 		modelSlot="1"
-		value="KAKUMEI TEKI EDO|Sugoi, henjin-tachi ni miseta, dare ga bosuda!"
+		value="KAKUMEI TEKI EDO|Yokatta, kono akutoo-tachi ni dare ga bosuna no ka o shimeshimashita!"
 		sound="data\sounds\Speech\r1m1\r1m1_2222_ed.ogg"
 		time="4" />
 
@@ -348,7 +348,7 @@
 	<string
 		id="33331"
 		modelName="mask_hero"
-		value="|Nanto, otoosan! Koko de nani ga okotta nodeshou ka? Kore o sakusei shita no wa daredesu ka?"
+		value="|Aa kamisama, otoosan! Koko de nani ga okotta nodeshou ka? Kore o sakusei shita no wa daredesu ka?"
 		sound="data\sounds\Speech\r1m1\r1m1_33331_hero.ogg"
 		time="6" />
 
@@ -356,14 +356,14 @@
 		id="33332"
 		modelName="mask_father"
 		modelSlot="1"
-		value="CHICHIOYA|Chuuibukaku mimiwokatamukeru. Anata wa watashi no yooshidesu. Kore o uketotte kudasai, kore wa anata no hontoo no chichioya no monodesu. Ben Dorosseru o sagase. Kare wa kenkyuushadesu. Kare wa tasukete kurerudarou...musuko yo...nikushimi ni...anata no...tamashii o doku sasenai de..."
+		value="CHICHIOYA|Chuuibukaku mimiwokatamukeru. Anata wa watashi no yooshidesu. Kore o uketotte kudasai, kore wa anata no hontoo no chichioya no monodesu. Ben dorosseru o sagase. Kare wa kenkyuushadesu. Kare wa tasukete kurerudeshou... Musuko yo... Nikushimi ni... Anata no... Tamashii o doku sa senaide..."
 		sound="data\sounds\Speech\r1m1\r1m1_33332_father.ogg"
 		time="30" />
 
 	<string
 		id="33333"
 		modelName="mask_hero"
-		value="|Watashinojinsei...Ji wa nani o sureba iideshou ka? Watashiniha dare mo nokotte inai... Nanimonai... Kono tegami dake..."
+		value="|Watashinojinsei…-ji wa nani o sureba iideshou ka? Watashiniha dare mo nokotte inai... Nanimonai... Kono tegami dake..."
 		sound="data\sounds\Speech\r1m1\r1m1_33333_hero.ogg"
 		time="10" />
 
@@ -381,7 +381,7 @@
 		modelAutosized="true"
 		modelName="quest_letter"
 		modelSlot="1"
-		value="TEGAMI|&quot;... Anata ga seichoo suru toki ni soko ni i rarenakatta jibun o semete imasu. Soshite, kore wa watashi no osoroshii batsudesu. Shikashi, soodenakereba watashiniha dekinakatta koto o shitte kudasai. Watashiniha shoogai ni wataru choosen ga matteimasu...&quot;"
+		value="TEGAMI|&quot;...Anata ga seichoo suru toki ni soko ni i rarenakatta jibun o semete imasu. Soshite, kore wa watashi no osoroshii batsudesu. Shikashi, soodenakereba watashiniha dekinakatta koto o shitte kudasai. Watashiniha shoogai ni wataru choosen ga matteimasu...&quot;"
 		sound="data\sounds\Speech\r1m1\r1m1_33335_letter.ogg"
 		time="12" />
 
@@ -390,14 +390,14 @@
 		modelAutosized="true"
 		modelName="quest_letter"
 		modelSlot="1"
-		value="TEGAMI|&quot;... Jibun no keikaku o tassei suru koto ni yotte nomi, watashi wa ochitsuki, futatabi ningen no yoo ni kanjiru koto ga dekimasu. Soodenakereba......watashiniha ikiru kachi ga nai. Kono tegami wa shazaidesu. Dekireba yurushitekudasai. Anata wa itsumo watashi no kokoronouchi ni imasu, musuko.&quot;"
+		value="TEGAMI|&quot;...Jibun no keikaku o tassei suru koto ni yotte nomi, watashi wa ochitsuki, futatabi ningen no yoo ni kanjiru koto ga dekimasu. Soodenakereba... Watashiniha ikiru kachi ga nai. Kono tegami wa shazaidesu. Dekireba yurushitekudasai. Anata wa itsumo watashi no kokoronouchi ni imasu, musuko.&quot;"
 		sound="data\sounds\Speech\r1m1\r1m1_33336_letter.ogg"
 		time="16" />
 
 	<string
 		id="33337"
 		modelName="mask_hero"
-		value="|Kore de zenbudesu ka? Setsumei ga arimasen... Mattaku shiranaihito o doo yatte yurusu koto ga dekimasu ka? Koko de watashi ga dekiru koto wa nani mo nokotte inai. Ben o sagashi ni ikimasu. Sore ga daredeare, watashi ga jibun jishin o mitsukeru no o tetsudatte kureru koto o negatte imasu. Tabun, Yuujinii wa kare no koto o kiita koto ga arudeshou ka?"
+		value="|Kore de zenbudesu ka? Setsumei ga arimasen... Mattaku shiranaihito o doo yatte yurusu koto ga dekimasu ka? Koko de watashi ga dekiru koto wa nani mo nokotte inai. Ben o sagashi ni ikimasu. Sore ga daredeare, watashi ga jibun jishin o mitsukeru no o tetsudatte kureru koto o negatte imasu. Osoraku Yujini no hito-tachi wa kare no koto o kiita koto ga arudeshou ka?"
 		sound="data\sounds\Speech\r1m1\r1m1_33337_hero.ogg"
 		time="16" />
 
@@ -432,7 +432,7 @@
 		image="data\if\ico\CinemaPanel\foreground_movie_shade_midle.dds"
 		upOverlay="data\if\ico\CinemaPanel\foreground_movie_shade_up.dds"
 		downOverlay="data\if\ico\CinemaPanel\foreground_movie_shade.dds"
-		value="@ffffffff|    Rekishi wa, saigai chokugo ni otozureta ankoku jidai ni tsuite no seikakuna joohoo o hozon shite imasen. Tashika ni shira rete iru no wa, hitobito wa boogo masuku no okage de osen sa reta kuuki no naka de ikinobita to iu kotodesu. Michi no hatsumei-sha no kono sakuhin wa, subete no hito o byoodoo ni shimashita. Sakerarenai shi ni tachihadakatta usui shooheki wa, aratana jinrui no shoochoo to natta. Masuku wa hitobito o danketsu sa se, taiyoo no shita de jibun no ibasho o motomete tatakau chikara o ataemashita.|| Atarashii nyuushoku-chi wa, shuudan bochi to natta izen no toshi kara tooku hanareta tokoro ni shoojita. Jojoni, kotonaru seizon-sha no guruupu-kan ni tsunagari ga kakuritsu sa remashita. Noomin, koozanroodoo-sha, shoonin - tanjun'na shokugyoo e no kaiki wa, konran shita hitobito ni rieki o motarasu dakedeshita.|| Shikashi, hito wa itsu demo hitodesu. Nanseiki ni mo watatte chie o hozon shite kita hitobito wa, sore o sekai to kyooyuu suru tame ni nokorimashita. Soozoo yori hakai o konomu mono mo ita."
+		value="@ffffffff|    Rekishi wa, saigai chokugo ni otozureta ankoku jidai ni tsuite no seikakuna joohoo o hozon shite imasen. Tashika ni shira rete iru no wa, hitobito wa boogo masuku no okage de osen sa reta kuuki no naka de ikinobita to iu kotodesu. Michi no hatsumei-sha no kono sakuhin wa, subete no hito o byoodoo ni shimashita. Sakerarenai shi ni tachihadakatta usui shooheki wa, aratana jinrui no shoochoo to natta. Masuku wa hitobito o danketsu sa se, taiyoo no shita de jibun no ibasho o motomete tatakau chikara o ataemashita.||    Atarashii nyuushoku-chi wa, shuudan bochi to natta izen no toshi kara tooku hanareta tokoro ni shoojita. Jojoni, kotonaru seizon-sha no guruupu-kan ni tsunagari ga kakuritsu sa remashita. Noomin, koozanroodoo-sha, shoonin - tanjun'na shokugyoo e no kaiki wa, konran shita hitobito ni rieki o motarasu dakedeshita.||    Shikashi, hito wa itsu demo hitodesu. Nanseiki ni mo watatte chie o hozon shite kita hitobito wa, sore o sekai to kyooyuu suru tame ni nokorimashita. Soozoo yori hakai o konomu mono mo ita."
 		sound="data\sounds\Speech\rolik\r1m1_969_narrator.ogg"
 		fontSize="18"
 		scrollSpeed="0.5"
@@ -445,7 +445,7 @@
 		image="data\if\ico\CinemaPanel\foreground_movie_shade_midle.dds"
 		upOverlay="data\if\ico\CinemaPanel\foreground_movie_shade_up.dds"
 		downOverlay="data\if\ico\CinemaPanel\foreground_movie_shade.dds"
-		value="@ffffffff|    Rekishi wa, saigai chokugo ni otozureta ankoku jidai ni tsuite no seikakuna joohoo o hozon shite imasen. Tashika ni shira rete iru no wa, hitobito wa boogo masuku no okage de osen sa reta kuuki no naka de ikinobita to iu kotodesu. Michi no hatsumei-sha no kono sakuhin wa, subete no hito o byoodoo ni shimashita. Sakerarenai shi ni tachihadakatta usui shooheki wa, aratana jinrui no shoochoo to natta. Masuku wa hitobito o danketsu sa se, taiyoo no shita de jibun no ibasho o motomete tatakau chikara o ataemashita.|| Atarashii nyuushoku-chi wa, shuudan bochi to natta izen no toshi kara tooku hanareta tokoro ni shoojita. Jojoni, kotonaru seizon-sha no guruupu-kan ni tsunagari ga kakuritsu sa remashita. Noomin, koozanroodoo-sha, shoonin - tanjun'na shokugyoo e no kaiki wa, konran shita hitobito ni rieki o motarasu dakedeshita.|| Shikashi, hito wa itsu demo hitodesu. Nanseiki ni mo watatte chie o hozon shite kita hitobito wa, sore o sekai to kyooyuu suru tame ni nokorimashita. Soozoo yori hakai o konomu mono mo ita."
+		value="@ffffffff|    Rekishi wa, saigai chokugo ni otozureta ankoku jidai ni tsuite no seikakuna joohoo o hozon shite imasen. Tashika ni shira rete iru no wa, hitobito wa boogo masuku no okage de osen sa reta kuuki no naka de ikinobita to iu kotodesu. Michi no hatsumei-sha no kono sakuhin wa, subete no hito o byoodoo ni shimashita. Sakerarenai shi ni tachihadakatta usui shooheki wa, aratana jinrui no shoochoo to natta. Masuku wa hitobito o danketsu sa se, taiyoo no shita de jibun no ibasho o motomete tatakau chikara o ataemashita.||    Atarashii nyuushoku-chi wa, shuudan bochi to natta izen no toshi kara tooku hanareta tokoro ni shoojita. Jojoni, kotonaru seizon-sha no guruupu-kan ni tsunagari ga kakuritsu sa remashita. Noomin, koozanroodoo-sha, shoonin - tanjun'na shokugyoo e no kaiki wa, konran shita hitobito ni rieki o motarasu dakedeshita.||    Shikashi, hito wa itsu demo hitodesu. Nanseiki ni mo watatte chie o hozon shite kita hitobito wa, sore o sekai to kyooyuu suru tame ni nokorimashita. Soozoo yori hakai o konomu mono mo ita."
 		sound="data\sounds\Speech\rolik\r1m1_969_narrator.ogg"
 		fontSize="18"
 		scrollSpeed="0.55"
@@ -453,6 +453,6 @@
 
 	<string
 		id="90000"
-		value="Haadotoraku no Mokushiroku||Geemu no taiwakata herupu shisutemu o shiyoo shimasu ka?"
+		value="Haadotorakku no Mokushiroku||Geemu no taiwakata herupu|shisutemu o shiyoo shimasu ka?"
 		numButtons="2" />
 </resource>
