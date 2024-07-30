@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="windows-1251" standalone="yes" ?><!-- edited with XMLSPY v2004 rel. 4 U (http://www.xmlspy.com) by JSinx (Targem) -->
+<resource>
+	<string
+		id="1001"
+		modelName="mask_hero"
+		value="|Kantan'na tatakaide wa nakatta. Soshite karera ni kono kubi ga atae raremashita. Karera wa kanojo o doo suru tsumoridesu ka?"
+		sound="data\sounds\Speech\r3m2\r3m2_1001_hero.ogg"
+		time="4" />
+
+	<string
+		id="1002"
+		modelName="mask_hero"
+		value="|Mazuwa hontai kara kirihanasu hitsuyoo ga arimasu. Kiyoo-sa o shimesanakereba narimasen."
+		sound="data\sounds\Speech\r3m2\r3m2_1002_hero.ogg"
+		time="3" />
+
+	<string
+		id="1003"
+		modelName="mask_hero"
+		value="|Junbi ga dekite. Modotte mo ii yo, atama ga itai nda."
+		sound="data\sounds\Speech\r3m2\r3m2_1003_hero.ogg"
+		time="3" />
+
+	<string
+		id="1004"
+		modelName="mask_hero"
+		value="|Ano kirakira wa nanidesu ka? Kore wa Orakuru ga hanashita koto to nite iru yoodesu."
+		sound="data\sounds\Speech\r3m2\r3m2_1004_hero.ogg"
+		time="1" />
+
+	<string
+		id="1005"
+		modelName="mask_hero"
+		value="|Renraku arimasu yo! Moohitotsu mitsukeru hitsuyoo ga arimasu."
+		sound="data\sounds\Speech\r3m2\r3m2_1005_hero.ogg"
+		time="1" />
+
+	<string
+		id="1006"
+		modelName="mask_hero"
+		value="|Ima, hitsuyoonamono wa subete sorotte imasu. Orakuru ni modoru toki ga kimashita."
+		sound="data\sounds\Speech\r3m2\r3m2_1006_hero.ogg"
+		time="1" />
+
+	<string
+		id="1"
+		modelName="mask_hero"
+		value="|Saisho no shuurikoo ga genba ni imasu. Kare wa nante hayaku shigoto ni torikakatta nodeshou!"
+		sound="data\sounds\Speech\r3m2\r3m2_1_hero.ogg"
+		time="1" />
+
+	<string
+		id="2"
+		modelName="mask_hero"
+		value="|Betsu no shuurikoo ga shigoto ni torikakatta. Saigo ni nokotta no wa."
+		sound="data\sounds\Speech\r3m2\r3m2_2_hero.ogg"
+		time="1" />
+
+	<string
+		id="3"
+		modelName="mask_hero"
+		value="|Saigo no shuurikoo no junbi ga totonoimashita! Kore ga Orakuru no kioku o torimodosu no ni yakudatsu koto o negatte imasu."
+		sound="data\sounds\Speech\r3m2\r3m2_3_hero.ogg"
+		time="1" />
+
+	<string
+		id="4"
+		modelName="mask_hero"
+		value="|Ryokoo-chuu ni takusan mite kimashita. Hata ni mo kon'na konseki ga nokotte imasu. Dare ga karera o okizari ni suru nodeshou ka?"
+		sound="data\sounds\Speech\r3m2\r3m2_4_hero.ogg"
+		time="1" />
+
+	<string
+		id="5"
+		modelName="mask_hero"
+		value="|Middogarudo no kagaku-sha ga kono nazo o hodoku no o tetsudatte kurerudeshou."
+		sound="data\sounds\Speech\r3m2\r3m2_5_hero.ogg"
+		time="1" />
+
+	<string
+		id="6"
+		modelName="mask_hero"
+		value="|Tsuuro ga sema sugimasu. Watashi no torakku wa koko o toorenaishi, aruku ni wa kiken sugiru."
+		sound="data\sounds\Speech\r3m2\r3m2_6_hero.ogg"
+		time="1" />
+
+	<string
+		id="7"
+		modelName="mask_hero"
+		value="|Motto chiisai kuruma o sagasu hitsuyoo ga arimasu. Koko no chikaku ni hitsuyoonamono ga atta to omoimasu."
+		sound="data\sounds\Speech\r3m2\r3m2_7_hero.ogg"
+		time="1" />
+
+	<string
+		id="8"
+		modelName="mask_hero"
+		value="|Kono kuruma o koko ni oite kita hito ni kansha shimasu. Kore de koojoo-nai ni hairu koto ga dekimasu."
+		sound="data\sounds\Speech\r3m2\r3m2_8_hero.ogg"
+		time="1" />
+
+	<string
+		id="9"
+		modelName="mask_hero"
+		value="|Chotto karite mo dare mo okoranai to omoimasu. Saa, kyuuyu, tenka, enjin o kakemasu!"
+		sound="data\sounds\Speech\r3m2\r3m2_9_hero.ogg"
+		time="1" />
+
+	<string
+		id="10"
+		modelName="mask_hero"
+		value="|Kuso, soshite sono kuruma wa yookida!"
+		sound="data\sounds\Speech\r3m2\r3m2_10_hero.ogg"
+		time="1" />
+
+	<string
+		id="11"
+		modelName="mask_hero"
+		value="|Sokode wa hoka ni nani mo suru koto ga arimasen."
+		sound="data\sounds\Speech\r3m2\r3m2_11_hero.ogg"
+		time="1" />
+<!-- Когда взяли квест принести голову монстра и подъехали к этому самому мостру -->
+	<string
+		id="12"
+		modelName="mask_hero"
+		value="|Kaibutsu ga yattekimasu. Kare ga jihatsu-teki ni atama o hooki suru kanoosei wa hikui tame, kare wa tatakawanakereba narimasen."
+		sound="data\sounds\Speech\r3m2\r3m2_12_hero.ogg"
+		time="1" />
+
+	<string
+		id="13"
+		modelName="mask_hero"
+		value="|Kiken'na aitedakedo, watashinara daijoobu!"
+		sound="data\sounds\Speech\r3m2\r3m2_13_hero.ogg"
+		time="1" />
+<!-- Подъехали к заводу, показывает общий план, потом машинка едет к проезду. -->
+	<string
+		id="14"
+		modelName="mask_hero"
+		value="|Kon'na kyodaina iseki wa mita koto ga nai… shinsaizen wa koko ni nani ga atta ndarou?"
+		sound="data\sounds\Speech\r3m2\r3m2_14_hero.ogg"
+		time="1" />
+
+	<string
+		id="15"
+		modelName="mask_hero"
+		value="|Shoomen genkan wa fuusa sa rete irunode, senro-zoi o kuruma de hashitte mimasu."
+		sound="data\sounds\Speech\r3m2\r3m2_15_hero.ogg"
+		time="1" />
+<!--  -->
+	<string
+		id="17"
+		value="Toonan-sha o motta mama koojoo no shikichi kara deru koto wa dekimasen."
+		numButtons="1" />
+
+	<string
+		id="8801"
+		value="Kono eria o hanaretaidesu ka?"
+		numButtons="2" />
+</resource>
