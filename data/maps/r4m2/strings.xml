@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="windows-1251" standalone="yes" ?><!-- edited with VSCode by biggest idiot in HTA community. And no. My nickname is not Carsen. -->
+<resource>
+	<string
+		id="101"
+		modelName="mask_hero"
+		value="Mokutekichi ni iku ni wa kono kichi o toorinukenakereba narimasen. Kyoohaku-teki ni miemasu."
+		sound="data\sounds\Speech\r4m2\r4m2_101_hero.ogg"
+		time="1" />
+
+	<string
+		id="102"
+		modelName="mask_hero"
+		value="Watashi wa mokuhyoo o tassei dekimasendeshita... Demo shiawase wa totemo kanoode, totemo chikadzuite imashita..."
+		sound="data\sounds\Speech\r4m2\r4m2_102_hero.ogg"
+		time="1" />
+
+	<string
+		id="201"
+		modelName="mask_hero"
+		value="Kono torakku o shitte iru yoona ki ga shimasu. Kono kigoo, doko ka de mita koto ga aru…."
+		sound="data\sounds\Speech\r4m2\r4m2_201_hero.ogg"
+		time="1" />
+
+	<string
+		id="202"
+		modelName="mask_hero"
+		value="Soo, Iwan Guo no kurumadesu! Motto kuwashiku mite miru hitsuyoo ga arimasu."
+		sound="data\sounds\Speech\r4m2\r4m2_202_hero.ogg"
+		time="1" />
+
+	<string
+		id="203"
+		modelName="mask_hero"
+		value="Kare no karada wa nakaniha naku, tsumari kare wa toho o tsudzuketa to iu kotoda."
+		sound="data\sounds\Speech\r4m2\r4m2_203_hero.ogg"
+		time="1" />
+
+	<string
+		id="204"
+		modelName="mask_hero"
+		value="Kare wa sudeni hijoo ni chikadzuite imasu. Naze watashi wa kono sakini nani ga matte iru no ka o osorete iru nodesu ka?"
+		sound="data\sounds\Speech\r4m2\r4m2_204_hero.ogg"
+		time="1" />
+
+	<string
+		id="301"
+		modelName="mask_hero"
+		value="Kuso! Koko wa ittai nanina nda?"
+		sound="data\sounds\Speech\r4m2\r4m2_301_hero.ogg"
+		time="1" />
+
+	<string
+		id="302"
+		modelName="mask_hero"
+		value="Kono hito-tachi zen'in wa daredesu ka?"
+		sound="data\sounds\Speech\r4m2\r4m2_302_hero.ogg"
+		time="1" />
+
+	<string
+		id="303"
+		modelName="mask_hero"
+		value="Ima dewa kagaku-sha ga nani o hanashite ita no ka rikai dekimashita."
+		sound="data\sounds\Speech\r4m2\r4m2_303_hero.ogg"
+		time="1" />
+
+	<string
+		id="304"
+		modelName="mask_hero"
+		value="Koko no hitobito o hiki tsukeru mono wa nanideshou ka? Mada hozon dekiru baai wa doosureba yoidesu ka?"
+		sound="data\sounds\Speech\r4m2\r4m2_304_hero.ogg"
+		time="1" />
+
+	<string
+		id="401"
+		modelName="mask_hero"
+		value="Kuso, kono sanzoku wa nan-ri iru nda! Soshite motto motto!"
+		sound="data\sounds\Speech\r4m2\r4m2_401_hero.ogg"
+		time="1" />
+
+	<string
+		id="402"
+		modelName="r4_man"
+		modelSkin="1"
+		modelCfg="128"
+		modelSlot="1"
+		value="KENSA GISHI|Koko wa totemo kikendesu. Saa, koko kara tsuredashimasu."
+		sound="data\sounds\Speech\r4m2\r4m2_402_assistant.ogg"
+		time="1" />
+
+	<string
+		id="403"
+		modelName="mask_hero"
+		value="Anatahadaredesu ka? Mada ichi-ride wa kakae kirenai… issho ni iru yo!"
+		sound="data\sounds\Speech\r4m2\r4m2_403_hero.ogg"
+		time="1" />
+
+	<string
+		id="404"
+		modelName="mask_hero"
+		value="Ore wa dokoni mo ikanee. Karera wa satsujin-shada! Watashitachi wa karera to chikara o awasete tatakawanakereba narimasen."
+		sound="data\sounds\Speech\r4m2\r4m2_404_hero.ogg"
+		time="1" />
+
+	<string
+		id="405"
+		modelName="r4_man"
+		modelSkin="1"
+		modelCfg="128"
+		modelSlot="1"
+		value="KENSA GISHI|Watashitachi no tasuke ga nakereba, hitori de karera o taosu koto wa dekimasen. Ikitainara foroo shite kudasai."
+		sound="data\sounds\Speech\r4m2\r4m2_405_assistant.ogg"
+		time="1" />
+
+	<string
+		id="406"
+		modelName="mask_hero"
+		value="Modotte kite, kono satsujin-sha-tachi ni shikaeshi shite yaru!"
+		sound="data\sounds\Speech\r4m2\r4m2_406_hero.ogg"
+		time="1" />
+<!-- Подъехали близко к падшей тарелке -->
+	<string
+		id="501"
+		modelName="mask_hero"
+		value="Pureeto ni temaneki suru chikara o kanjimasu."
+		sound="data\sounds\Speech\r4m2\r4m2_501_hero.ogg"
+		time="1" />
+
+	<string
+		id="502"
+		modelName="mask_hero"
+		value="Motto hayaku! Kono kuruma wa nanto yukkuri to kaiten suru nodeshou ka. Maa, soreha jigokudesu!"
+		sound="data\sounds\Speech\r4m2\r4m2_502_hero.ogg"
+		time="1" />
+
+	<string
+		id="503"
+		modelName="mask_hero"
+		value="Tomaranaikedo aruku no mo tsuraku natte kita…"
+		sound="data\sounds\Speech\r4m2\r4m2_503_hero.ogg"
+		time="1" />
+
+	<string
+		id="504"
+		modelName="mask_hero"
+		value="Kuso... Watashi... Dame... Moo... Ugokanai..."
+		sound="data\sounds\Speech\r4m2\r4m2_504_hero.ogg"
+		time="1" />
+<!-- когда поговорили с ученым и выбрали одну из сюжетных линий, игрока перебрасывают почти к выходу с карты -->
+	<string
+		id="510"
+		modelName="r4_man"
+		modelSkin="1"
+		modelCfg="128"
+		modelSlot="1"
+		value="KENSA GISHI|Gunji kichi no mawari o an'nai shimashou."
+		sound="data\sounds\Speech\r4m2\r4m2_510_assistant.ogg"
+		time="1" />
+
+	<string
+		id="511"
+		modelName="mask_hero"
+		value="Naze mawarimichi o suru nodeshou ka? Kore de karera to tatakau junbi ga dekimashita! Issho ni karera o taoshimashou!"
+		sound="data\sounds\Speech\r4m2\r4m2_511_hero.ogg"
+		time="1" />
+
+	<string
+		id="512"
+		modelName="r4_man"
+		modelSkin="1"
+		modelCfg="128"
+		modelSlot="1"
+		value="KENSA GISHI|Koofun shinaide kudasai. Anata ni wa shimei, juuyoona shimei ga ari, soreni zenryoku o shuuchuu shinakereba narimasen."
+		sound="data\sounds\Speech\r4m2\r4m2_512_assistant.ogg"
+		time="1" />
+
+	<string
+		id="513"
+		modelName="mask_hero"
+		value="Wakarimashita. Michi o shimeshite kudasai."
+		sound="data\sounds\Speech\r4m2\r4m2_513_hero.ogg"
+		time="1" />
+
+	<string
+		id="8801"
+		value="Kono eria o hanaretaidesu ka?"
+		numButtons="2" />
+
+	<string
+		id="8901"
+		value="Izen no ooku no hito-tachi to onajiyooni, anata mo soosu ni chikadzuki sugite, sono chikara ni nomikoma rete shimaimashita. Soshite, hitobito ga atarashii hiiroo o dorekurai matanakereba naranai ka wa darenimo wakarimasen..." />
+</resource>
