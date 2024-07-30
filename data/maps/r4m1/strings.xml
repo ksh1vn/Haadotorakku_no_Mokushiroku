@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="windows-1251" standalone="yes" ?>
+<resource>
+	<string
+		id="1"
+		modelName="mask_hero"
+		value="|Shi no sabaku o koete kimashita! Soshite koko ni mo ningen no konseki ga nokotte imasu. Hito ga teijuu suru bashonara doko demo!"
+		sound="data\sounds\Speech\r4m1\r4m1_1_hero.ogg"
+		time="1" />
+
+	<string
+		id="2"
+		modelName="mask_hero"
+		value="|Mazu, nenryoo o hokyuu shite shuuri shite moraeru shuuri koojoo o mitsukete kara, do usu ru ka kangaemasu."
+		sound="data\sounds\Speech\r4m1\r4m1_2_hero.ogg"
+		time="1" />
+
+	<string
+		id="3"
+		modelName="mask_hero"
+		value="|Kochira ga sekiyu chozoo shisetsu, buji toochaku shimashita. Sate, zenshin to toreeraa o tsumikonde modorimasu."
+		sound="data\sounds\Speech\r4m1\r4m1_3_hero.ogg"
+		time="1" />
+
+	<string
+		id="4"
+		image=""
+		value="Omedetoo! Anata wa reesu ni kachimashita!"
+		time="5" />
+
+	<string
+		id="5"
+		image=""
+		value="Anata wa jun yuushoo o te ni shita."
+		time="5" />
+
+	<string
+		id="6"
+		image=""
+		value="Anata wa 3 idatta."
+		time="5" />
+
+	<string
+		id="7"
+		image=""
+		value="Anata wa reesu ni makemashita."
+		time="5" />
+
+	<string
+		id="8"
+		image=""
+		value="Kuruma o kurasshu sa sete shimai, reesu o zokkoo dekinaku narimashita."
+		time="5" />
+
+	<string
+		id="9"
+		image=""
+		value="Machigatta sutaato! Anata wa makemasu."
+		time="5" />
+
+	<string
+		id="10"
+		modelName="mask_hero"
+		value="|Watashi wa toreeraa-tsuki no kuruma o unten suru koto o nagaiai yumemite kimashita. Yumegakanau..."
+		sound="data\sounds\Speech\r4m1\r4m1_10_hero.ogg"
+		time="5" />
+
+	<string
+		id="11"
+		modelName="mask_hero"
+		value="|Watashi no orijinaru torakku. Hontooni kare ga inakute sabishiidesu! Kono yokokuhen ni kanshite wa, mattaku motte, konomama de subete ni manzoku shite imasu."
+		sound="data\sounds\Speech\r4m1\r4m1_11_hero.ogg"
+		time="5" />
+<!-- Привезли бухарцев в порт -->
+	<string
+		id="12"
+		modelName="r4_man"
+		modelSkin="0"
+		modelCfg="135"
+		modelSlot="1"
+		value="ROOJIN|To iu koto de minato ni toochaku shimashita. Watashi o teki kara mamotte kurete arigatoo."
+		sound="data\sounds\Speech\r4m1\r4m1_12_oldman.ogg"
+		time="5" />
+
+	<string
+		id="13"
+		modelName="mask_hero"
+		value="|Dooitashimashite. Hoka no tochi e no tabi mo ganbatte kudasai."
+		sound="data\sounds\Speech\r4m1\r4m1_13_hero.ogg"
+		time="5" />
+<!-- Эта строка если с Лисой ехали -->
+	<string
+		id="14"
+		modelName="mask_hero"
+		value="|Soshite Risa mo tsurete ikimashou. Soodenaito kanojo wa daijoobude wa arimasen."
+		sound="data\sounds\Speech\r4m1\r4m1_14_hero.ogg"
+		time="5" />
+
+	<string
+		id="15"
+		modelName="r4_man"
+		modelSkin="0"
+		modelCfg="135"
+		modelSlot="1"
+		value="ROOJIN|Saisho wa kono koto o iitakunakatta nodesuga, anata ga tazuneta hito wa jitsuwa watashitachi no mura ni ita nodesu. Kare wa sarani azuma e mukaimashita. Onegaidesu, kare ni wa shitagawanaide kudasai! Soko de matte iru no wa shi dakeda. Aruiwa shi yori mo osoroshii nani ka."
+		sound="data\sounds\Speech\r4m1\r4m1_15_oldman.ogg"
+		time="5" />
+<!-- Инженер сдох -->
+	<string
+		id="16"
+		modelName="mask_hero"
+		value="|Kuso! Nani ga kare o son'nani kowagara seta nodeshou ka? Kanzen ni shooki o ushinatte shimatta, kawaisoonahito… ima,-gai de nanto iou ka?"
+		sound="data\sounds\Speech\r4m1\r4m1_16_hero.ogg"
+		time="5" />
+
+	<string
+		id="17"
+		modelName="mask_hero"
+		value="|Soshite, nantoka shite Kefu kara nukedasanakereba narimasen."
+		sound="data\sounds\Speech\r4m1\r4m1_17_hero.ogg"
+		time="5" />
+<!-- RISA бесится -->
+	<string
+		id="18"
+		modelName="mask_lisa"
+		modelSlot="1"
+		value="RISA|Nanika kibun ga yoku arimasen. Kono sabaku ni toochaku shita shunkan, watashi wa nandaka kimyoona kankaku o oboemashita."
+		sound="data\sounds\Speech\r4m1\r4m1_18_alice.ogg"
+		time="5" />
+
+	<string
+		id="19"
+		modelName="mask_hero"
+		value="|Tsuyoku natte kudasai! Sudeni mokuhyoo ni chikadzuite iru yoona ki ga shimasu!"
+		sound="data\sounds\Speech\r4m1\r4m1_19_hero.ogg"
+		time="5" />
+
+	<string
+		id="20"
+		modelName="mask_lisa"
+		modelSlot="1"
+		value="RISA|Sore wa subete anata no seidesu! Anata wa watashi o koko ni hikizurikomimashita, soshite ima, anata wa watashi o kono imaimashii sakyuu no naka de shina seru tsumoridesu!"
+		sound="data\sounds\Speech\r4m1\r4m1_20_alice.ogg"
+		time="5" />
+
+	<string
+		id="21"
+		modelName="mask_hero"
+		value="|[Kanojo wa ki ga kawatta yooda. Hitsuyoona no wa sore dakeda.] Kiite, Risa, daijoobu, ashi wa attakai yo. 10 Made kazoete ochitsuite kudasai."
+		sound="data\sounds\Speech\r4m1\r4m1_21_hero.ogg"
+		time="1" />
+
+	<string
+		id="22"
+		modelName="mask_lisa"
+		modelSlot="1"
+		value="RISA|Gomen'nasai... Nanika ga watashi ni okotte imasu... Jibun o seigyo shiyou to shimasu... Kono sabaku... Watashi ni sematte imasu..."
+		sound="data\sounds\Speech\r4m1\r4m1_22_alice.ogg"
+		time="5" />
+
+	<string
+		id="8801"
+		value="Kono eria o hanaretaidesu ka?"
+		numButtons="2" />
+
+	<string
+		id="8802"
+		modelName="mask_hero"
+		sound="data\sounds\Speech\r3m1\r3m1_8802_hero.ogg"
+		value="Kono michi ga doko ni tsudzuite iru no ka wakaranainode, koko ni tomarimasu."
+		time="5" />
+
+	<string
+		id="8803"
+		modelName="mask_hero"
+		sound="data\sounds\Speech\r3m1\r3m1_8803_hero.ogg"
+		value="Soko ni wa rikaidekinai nanika ga aru. Soko ni wa ikimasen." />
+
+	<string
+		id="8804"
+		modelName="mask_hero"
+		value="Dooyara fune o yobu soochi ga koshoo shita yooda. Aruiwa, sanzoku ga minato ni aru subete no setsubi o nusunda no kamo shiremasen. Izure ni seyo, anata wa 4-ri de ikanakereba narimasen."
+		numButtons="1"/>
+
+	<string
+		id="8901"
+		value="Buharuto-ka o sukuu koto wa dekinakatta. Korede wa kesshite mokuhyoo o tassei suru koto wa dekimasen." />
+
+	<string
+		id="8902"
+		value="Toreeraa wa hakai sa re, sekiyu no yusoo wa chuushi sa reru." />
+</resource>
