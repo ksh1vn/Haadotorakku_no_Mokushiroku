@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="windows-1251" standalone="yes" ?>
+<resource><!--
+***************************************************************************
+	Предали друида, диалог с механопоклонниками и друидом
+***************************************************************************
+-->
+	<string
+		id="1001"
+		modelName="r3_man"
+		modelSkin="0"
+		modelCfg="1496"
+		modelSlot="1"
+		value="URAGIRIMONO|Wakatta yo, doruido! Koko de, dare ga kono chikyuu-joo de hooritsu o seitei suru kengen o motte iru ka ga wakarimasu. Watashitachi no kyoodai-tachi o hakugai shita daishoo o haratte kurerudeshou."
+		sound="data\sounds\Speech\r3m1\r3m1_1001_traitor.ogg"
+		time="4" />
+
+	<string
+		id="1002"
+		modelName="r3_man"
+		modelSkin="2"
+		modelCfg="1915"
+		modelSlot="1"
+		value="DORUIDO|Sore de, anata wa watashi o damashita nodesu ne... Watashi wa anata o sememasen, nazenara anata wa jibun ga nani o shite iru no ka wakatte inaikaradesu. Shikashi, bassa renai aku wa arimasen. Kore ga jinsei no hoosokudesu."
+		sound="data\sounds\Speech\r3m1\r3m1_1002_druid.ogg"
+		time="5" />
+
+	<string
+		id="1003"
+		modelName="r3_man"
+		modelSkin="0"
+		modelCfg="1496"
+		modelSlot="1"
+		value="URAGIRIMONO|Kono kimuzukashii roojin no iu koto o kiku na! Uruku ni iki, sokode hooshuu o uketorimasu."
+		sound="data\sounds\Speech\r3m1\r3m1_1003_traitor.ogg"
+		time="4" />
+
+	<string
+		id="1004"
+		modelName="mask_hero"
+		value="|Soredewa mata."
+		sound="data\sounds\Speech\r3m1\r3m1_1004_hero.ogg"
+		time="3" />
+<!--
+***************************************************************************
+	Приехали на карту с лисой через туннель
+***************************************************************************
+-->
+	<string
+		id="1020"
+		modelName="mask_hero"
+		value="|Tsuini shima ni toochaku shimashita. Koko ni hito ga doko ni sunde iru no ka shirimasen ka?"
+		sound="data\sounds\Speech\r3m1\r3m1_1020_hero.ogg"
+		time="4" />
+
+	<string
+		id="1021"
+		modelName="mask_lisa"
+		modelSlot="1"
+		value="RISA|Koko ni nan'ninka no shiriai ga imasuga, karera wa anata o tasukete kure-soo ni arimasen."
+		sound="data\sounds\Speech\r3m1\r3m1_1021_alice.ogg"
+		time="4" />
+
+	<string
+		id="1022"
+		modelName="mask_hero"
+		value="|Karera wa darena no?"
+		sound="data\sounds\Speech\r3m1\r3m1_1022_hero.ogg"
+		time="4" />
+
+	<string
+		id="1023"
+		modelName="mask_lisa"
+		modelSlot="1"
+		value="RISA|Haranbanjoona kako o motsu kyuuyuu-tachi. Watashi wa tada karera no tokoro ni iku dakedesu."
+		sound="data\sounds\Speech\r3m1\r3m1_1023_alice.ogg"
+		time="4" />
+
+	<string
+		id="1024"
+		modelName="mask_lisa"
+		modelSlot="1"
+		value="RISA|Ima wa watashi nashide itte kudasai. Watashi ga hitsuyoona toki wa, karera no naka kara watashi o sagashite kudasai."
+		sound="data\sounds\Speech\r3m1\r3m1_1024_alice.ogg"
+		time="4" />
+<!--
+***************************************************************************
+
+***************************************************************************
+-->
+	<string
+		id="21"
+		modelName="r3_man"
+		modelSkin="0"
+		modelCfg="2173"
+		modelSlot="1"
+		value="HANGYAKU-SHA|Hashirou, motto hayaku! Watashitachi wa mada jibun jishin o sukuu koto ga dekimasu!"
+		sound="data\sounds\Speech\r3m1\r3m1_21_rebel.ogg" 
+		time="4"/>
+
+	<string
+		id="22"
+		modelName="r3_man"
+		modelSkin="0"
+		modelCfg="637"
+		modelSlot="1"
+		value="NANMIN|Watashitachi o sukutte kudasai, zenryoona hito! Watashitachiha kikai suuhai-sha no fukeina shinkoo o ukeireru koto o kyohi shimashita. Ima, watashitachiha okoreru itan-sha-tachi ni yotte doko demo owa rete imasu!"
+		sound="data\sounds\Speech\r3m1\r3m1_22_refugee.ogg" />
+
+	<string
+		id="23"
+		modelName="mask_hero"
+		value="|Osoreru koto wa arimasen, kyoodai-tachi! Chikara o awasete koogeki o gekitai shimashou! Buki o te ni dekiru mono wa tatakawa sete kudasai!"
+		sound="data\sounds\Speech\r3m1\r3m1_23_hero.ogg" />
+
+	<string
+		id="24"
+		modelName="r3_man"
+		modelSkin="0"
+		modelCfg="637"
+		modelSlot="1"
+		value="NANMIN|Kootai wa yamete kudasai! Tatakai o idomu toki ga kita!"
+		sound="data\sounds\Speech\r3m1\r3m1_24_refugee.ogg" 
+		time="6"/>
+
+	<string
+		id="25"
+		modelName="mask_hero"
+		value="|Watashitachiha koogeki o gekitai shimashitaga, itan-sha ga modotte kuru kamo shiremasen. Sassoku Setto e ikimashou! Sono kabe no ushirode wa dare mo watashitachi ni furemasen!"
+		sound="data\sounds\Speech\r3m1\r3m1_25_hero.ogg"
+		time="4" />
+
+	<string
+		id="26"
+		modelName="r3_man"
+		modelSkin="0"
+		modelCfg="637"
+		modelSlot="1"
+		value="NANMIN|Tasuketekurete arigatoo, ii hitoda yo! Anata wa watashitachi ni ashita e no kiboo o ataete kuremashita."
+		sound="data\sounds\Speech\r3m1\r3m1_26_refugee.ogg"
+		time="4" />
+
+	<string
+		id="32"
+		modelName="mask_hero"
+		value="|Karera o mamorenakatta nda! Hazukashiidesu ne..."
+		sound="data\sounds\Speech\r3m1\r3m1_32_hero.ogg"
+		time="4" />
+
+	<string
+		id="27"
+		modelName="mask_hero"
+		value="|Zendaimimon no kuruma to wa? Doruido soo-tachi ga naze osorete ita no ka ga wakarimashita. Sono imawashii kooi ni torihadagatatsu."
+		sound="data\sounds\Speech\r3m1\r3m1_27_hero.ogg"
+		time="4" />
+
+	<string
+		id="28"
+		modelName="mask_hero"
+		value="|Monsutaa to tatakau no wa kore ga hajimetede wanai. Watashitachi no taigi wa tada, watashitachi ga katsu to iu kotodesu!"
+		sound="data\sounds\Speech\r3m1\r3m1_28_hero.ogg"
+		time="4" />
+
+	<string
+		id="31"
+		modelName="mask_hero"
+		value="|Seiiki o bootoku suru mono-tachi wa korosa reru. Doruido soo ni modoru koto ga dekimasu."
+		sound="data\sounds\Speech\r3m1\r3m1_31_hero.ogg"
+		time="4" />
+
+	<string
+		id="29"
+		modelName="mask_hero"
+		value="|Inori no ishi wa oka reta, hahanarudaichi no ikari ga monsutaa no sookutsu to tomoni watashi ni furikakaru mae ni, koko kara nigenakereba naranai."
+		sound="data\sounds\Speech\r3m1\r3m1_29_hero.ogg"
+		time="4" />
+
+	<string
+		id="1010"
+		modelName="mask_hero"
+		value="|Karoojite ikinokotta. Kore ga shizen no chikaradesu."
+		sound="data\sounds\Speech\r3m1\r3m1_1010_hero.ogg"
+		time="4" />
+
+	<string
+		id="30"
+		modelName="mask_hero"
+		value="|Watashitachiha Setto ni modori, shikoo no doruido no me ni jibun jishin o seitoo-ka suru hitsuyoo ga arimasu."
+		sound="data\sounds\Speech\r3m1\r3m1_30_hero.ogg"
+		time="4" />
+
+	<string
+		id="8801"
+		value="Вы желаете покинуть эту область?"
+		numButtons="2" />
+
+	<string
+		id="8802"
+		modelName="mask_hero"
+		sound="data\sounds\Speech\r3m1\r3m1_8802_hero.ogg"
+		value="Kono michi ga doko ni tsudzuite iru no ka wakaranainode, koko ni tomarimasu." 
+		time="5"/>
+
+	<string
+		id="8803"
+		modelName="mask_hero"
+		sound="data\sounds\Speech\r3m1\r3m1_8803_hero.ogg"
+		value="|Nani ka kimyoona basho. Koko kara hanareta hoo ga ii yo." 
+		time="5"/>
+</resource>
