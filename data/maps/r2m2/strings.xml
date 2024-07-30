@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="windows-1251" standalone="yes" ?>
+<resource>
+	<string
+		id="1"
+		modelAutosized="true"
+		modelName="gadget_12"
+		modelSlot="1"
+		sound="data\sounds\Speech\r2m2\r2m2_1_cd_officer_radio.ogg"
+		value="MUSEN|Anata kara tookunai tokoro ni, hotondo muboobina mura ga arimasu. Ima koogeki suru to, teki wa yori juuyoona obujekuto kara chikara o hikihanasanakereba narimasen."
+		time="8" />
+
+	<string
+		id="2"
+		modelAutosized="true"
+		modelName="gadget_12"
+		modelSlot="1"
+		sound="data\sounds\Speech\r2m2\r2m2_2_cd_officer_radio.ogg"
+		value="MUSEN|Sonogo, hoka no basho de koogeki shimasu. Oboete oite kudasai, anata no ninmu wa dekirudake nagaku mochikotaeru kotodeari, mura o yakiharawanai kotodesu. Koodoo o okoshite kudasai."
+		time="8" />
+
+	<string
+		id="3"
+		modelAutosized="true"
+		modelName="gadget_12"
+		modelSlot="1"
+		sound="data\sounds\Speech\r2m2\r2m2_3_cd_officer_radio.ogg"
+		value="MUSEN|Taikyaku. Anata wa shigoto o oemashita."
+		time="4" />
+
+	<string
+		id="4"
+		modelName="r1_man"
+		modelSkin="0"
+		modelCfg="172"
+		modelSlot="1"
+		sound="data\sounds\Speech\r2m2\r2m2_4_felix.ogg"
+		value="TOOZOKU FERIKKUSU|Koko ga watashitachi no michi ga koosa shita bashodesu. Mata aimashou to iimashita. Saa, watashi wa tatakai no junbi ga dekite imasu, soshite anata wa ikite koko o hanareru koto wa dekimasen!"
+		time="8" />
+
+	<string
+		id="5"
+		modelName="mask_hero"
+		sound="data\sounds\Speech\r2m2\r2m2_5_hero.ogg"
+		value="|Anata wa watashi to watashi no mokuhyoo no ma ni tatte imasu. Chuucho naku fumi tsubushite yaru yo."
+		time="4" />
+
+	<string
+		id="6"
+		modelName="r1_man"
+		modelSkin="0"
+		modelCfg="172"
+		modelSlot="1"
+		sound="data\sounds\Speech\r2m2\r2m2_6_felix.ogg"
+		value="TOOZOKU FERIKKUSU|Anata wa... Hontooni tsuyoidesu..."
+		time="4" />
+
+	<string
+		id="7"
+		modelAutosized="true"
+		modelName="gadget_12"
+		modelSlot="1"
+		sound="data\sounds\Speech\r2m2\r2m2_7_cd_officer_radio.ogg"
+		value="MUSEN|Anata wa kyootsuu no taigi ni taisuru kenshin-tekina shisei o shoomei shimashita. Hitori no uragirimono no shitai kara, DTR eejento to no sashisematta kaigoo ni tsuite kaka reta memo ga mitsukarimashita."
+		time="8" />
+
+	<string
+		id="8"
+		modelAutosized="true"
+		modelName="gadget_12"
+		modelSlot="1"
+		sound="data\sounds\Speech\r2m2\r2m2_8_cd_officer_radio.ogg"
+		value="MUSEN|Anata wa hangyaku-sha no kawarini kare ni atte, dekiru kagiri no koto o shirabemasu. Jookyoo ni oojite koodoo suru. Tosukaana no baa de no deai. Pasuwaado: `Yoru wa nagai', rebyuu: `Demo yoake wa chikai'."
+		time="8" />
+
+	<string
+		id="9"
+		modelName="mask_hero"
+		sound="data\sounds\Speech\r2m2\r2m2_9_hero.ogg"
+		value="|Wakatta. Watashitachi no shoori wa chikadzuite imasu."
+		time="4" />
+
+	<string
+		id="10"
+		modelAutosized="true"
+		modelName="gadget_12"
+		modelSlot="1"
+		sound="data\sounds\Speech\r2m2\r2m2_10_cd_officer_radio.ogg"
+		value="MUSEN|Teki wa taosa remashita! Karera no toochi-sha nashide wa, karera wa watashitachi ni teikoo suru koto wa dekimasen. Anata wa kagayakashii shoori no toki o chikadzuke, oshiminaku mukuwa rerudeshou. Akuseru no himitsu toshi Jion ga anata o matteimasu."
+		time="8" />
+
+	<string
+		id="34"
+		modelName="mask_hero"
+		sound="data\sounds\Speech\r2m2\r2m2_24_hero.ogg"
+		value="|Kore ga shinjitsu no shunkandesu!"
+		time="4" />
+
+	<string
+		id="11"
+		modelName="mask_axel"
+		modelSlot="1"
+		sound="data\sounds\Speech\r2m2\r2m2_11_axel.ogg"
+		value="AKUSERU|Kono ikari wa doko kara kuru nodeshou ka? Watashi wa anata ni nani o shimashita? Anata wa jimoto no hito demo arimasen."
+		time="6" />
+
+	<string
+		id="12"
+		modelName="mask_hero"
+		sound="data\sounds\Speech\r2m2\r2m2_12_hero.ogg"
+		value="|Kinrin chiiki o shuugeki suru tame ni hitobito o haken shita hoohoo o oboete imasu ka? Sorekara anata wa watashi no furusato no mura o yakiharai, watashinochichi o koroshimashita!"
+		time="12" />
+
+	<string
+		id="13"
+		modelName="mask_axel"
+		modelSlot="1"
+		sound="data\sounds\Speech\r2m2\r2m2_13_axel.ogg"
+		value="AKUSERU|Soshite, anata wa muda-banashi o shinjimashita ka? Dare ga kon'na nansensuna koto o itta nodesu ka?"
+		time="5" />
+
+	<string
+		id="14"
+		modelName="mask_hero"
+		sound="data\sounds\Speech\r2m2\r2m2_14_hero.ogg"
+		value="|Subete o jibun no me de mita hito."
+		time="4" />
+
+	<string
+		id="15"
+		modelName="mask_axel"
+		modelSlot="1"
+		sound="data\sounds\Speech\r2m2\r2m2_15_axel.ogg"
+		value="AKUSERU|On'nadattatte itteru no? Hayai kuruma ni notte kiken'nakankei ni aru bijin?"
+		time="6" />
+
+	<string
+		id="16"
+		modelName="mask_hero"
+		sound="data\sounds\Speech\r2m2\r2m2_16_hero.ogg"
+		value="|Hai. Totemo seikaku ni setsumei shite itadakimashita."
+		time="4" />
+
+	<string
+		id="17"
+		modelName="mask_axel"
+		modelSlot="1"
+		sound="data\sounds\Speech\r2m2\r2m2_17_axel.ogg"
+		value="AKUSERU|Sore wa Risadeshita, watashi wa shitte imasu. Kanojo ni wa shita no kawarini hebi no hari ga arimasu. Kanojo no uso ni yotte, kanojo wa sudeni watashi to hoka no ooku no hito no jinsei o doku shite kimashita. Soshite ima, anata wa esa ni hamatte shimaimashita."
+		time="13" />
+
+	<string
+		id="18"
+		modelName="mask_hero"
+		sound="data\sounds\Speech\r2m2\r2m2_18_hero.ogg"
+		value="|Kore de, hada o mamoru tamenara nani demo iu junbi ga dekimashita."
+		time="6" />
+
+	<string
+		id="19"
+		modelName="mask_axel"
+		modelSlot="1"
+		sound="data\sounds\Speech\r2m2\r2m2_19_axel.ogg"
+		value="AKUSERU|Kanojo wa teki kara mamotte morau tame ni watashi no tokoro ni kita, soo iimashita. Watashi wa kanojo o ie ni mukaemashitaga, kanojo wa watashi o gootoo shite nigemashita. Watashi wa kanojo o shinrai shite imashita... Watashi wa..."
+		time="11" />
+
+	<string
+		id="20"
+		modelName="mask_hero"
+		sound="data\sounds\Speech\r2m2\r2m2_20_hero.ogg"
+		value="|Mujitsuda to iitai nodesu ka?"
+		time="4" />
+
+	<string
+		id="21"
+		modelName="mask_axel"
+		modelSlot="1"
+		sound="data\sounds\Speech\r2m2\r2m2_21_axel.ogg"
+		value="AKUSERU|Shinjite kudasai, watakushijishin no kuni ni mo azuma no ringoku to tairitsu suru hodo no mondai o kakaete imasu. Moo nan-kagetsu mo no ma, watashi no min wa jibun no jinchi o hanarezu, anata no mura o koogeki shita koto mo arimasen."
+		time="12" />
+
+	<string
+		id="22"
+		modelName="mask_hero"
+		sound="data\sounds\Speech\r2m2\r2m2_22_hero.ogg"
+		value="|Kanojo ni koi o shita nante shinjirarenai! Shikashi, soreha iiwake ni wa narimasen. Aru hanzai ni tsuite wa muzai kamo shirenaiga, hoka ni mo ooku no tsumi o okashite iru..."
+		time="13" />
+
+	<string
+		id="23"
+		modelName="mask_hero"
+		sound="data\sounds\Speech\r2m2\r2m2_22_2_hero.ogg"
+		value="|Anata wa jibun ga goomon shita hitobito ni nan to iudeshou ka, karera no aisuruhito-tachi o karera no moto ni modosu koto ga dekirudeshou ka? Anata no jinsei wa anata no kotoba ni kakatte imasu."
+		time="11" />
+
+	<string
+		id="24"
+		modelName="mask_axel"
+		modelSlot="1"
+		sound="data\sounds\Speech\r2m2\r2m2_23_axel.ogg"
+		value="AKUSERU|Watashi wa kokumin o ue kara sukutta to ierudeshou! Tsuyoi chikara koso ga sekai o kanzen'na rekka kara sukuu to watashi wa iimasu. Watashi wa kuni zentai no tsumi o hikiuke, sono tsumi ni kotaeru yooi ga arimasu..."
+		time="14" />
+
+	<string
+		id="241"
+		modelName="mask_axel"
+		modelSlot="1"
+		sound="data\sounds\Speech\r2m2\r2m2_23_2_axel.ogg"
+		value="AKUSERU|Watashi wa senshi shita heishi zen'in no namae o oboete ori, karera no koto o itande imasu. Tada hitotsudake zan'nen'na koto wa, karera no shi ga muimi ni natte shimau to iu kotodesu."
+		time="10" />
+
+	<string
+		id="25"
+		modelName="mask_axel"
+		modelSlot="1"
+		sound="data\sounds\Speech\r2m2\r2m2_25_axel.ogg"
+		value="AKUSERU|Yamete, utanaide! Anata wa watashi ni nani o motomete imasu ka? Anata wa heikin-tekina DTR heishi no yoo ni wa miemasen."
+		time="7" />
+
+	<string
+		id="26"
+		modelName="mask_hero"
+		sound="data\sounds\Speech\r2m2\r2m2_26_hero.ogg"
+		value="|Nanto iu doosatsuryoku. Sotchoku ni itte, watashi wa anata no jimoto de no arasoi ni tsuite wa amari ki ni shimasen. Yatto Risa no tokoro ni ikitaidesu!"
+		time="12" />
+
+	<string
+		id="27"
+		modelName="mask_axel"
+		modelSlot="1"
+		sound="data\sounds\Speech\r2m2\r2m2_27_axel.ogg"
+		value="AKUSERU|Wa wa wa! Gyooretsu ni narabu koto ga dekimasu! Sorede kanojo mo anata o komara seru koto ga dekimashita. Nante kotoda!"
+		time="9" />
+
+	<string
+		id="28"
+		modelName="mask_hero"
+		sound="data\sounds\Speech\r2m2\r2m2_28_hero.ogg"
+		value="|Anata wa nani ni tsuite hanashite iru nodesu ka?"
+		time="2" />
+
+	<string
+		id="29"
+		modelName="mask_axel"
+		modelSlot="1"
+		sound="data\sounds\Speech\r2m2\r2m2_29_axel.ogg"
+		value="AKUSERU|Kanojo wa teki kara mamotte morau tame ni watashi no tokoro ni kita, soo iimashita. Watashi wa kanojo o ie ni mukaemashitaga, kanojo wa watashi o gootoo shite nigemashita. Kanojo wa watashi no risoosu to juugyooin o jibun no mokuteki no tame ni riyoo shimashita. Shikashi, watashi wa kanojo ni koi o shi-soo ni natta..."
+		time="17" />
+
+	<string
+		id="30"
+		modelName="mask_hero"
+		sound="data\sounds\Speech\r2m2\r2m2_30_hero.ogg"
+		value="|Kuso! To iu koto wa, muda ni kono michi o aruite kita no ka! Mattekudasai, Risa ga chikaku no doko ka ni iru no wa tashikadesu! Watashi wa kanojo o otte kono chiiki no kokkyoo made ikimashita."
+		time="15" />
+
+	<string
+		id="31"
+		modelName="mask_axel"
+		modelSlot="1"
+		sound="data\sounds\Speech\r2m2\r2m2_31_axel.ogg"
+		value="AKUSERU|Kanojo ga watashitachi no ryoodo ni modotte kita koto mo watashi ni shirasa remashita... Kanojo ga saigo ni mokugeki sa reta no wa shuudooin no eriadeshita. Choodo kanojo o hoomon shiyou to shite ita tokoro, anata ga amarini mo burei ni watashi no jama o shimashita."
+		time="13" />
+
+	<string
+		id="32"
+		modelName="mask_hero"
+		sound="data\sounds\Speech\r2m2\r2m2_32_hero.ogg"
+		value="|Sate, akuyaku wa watashi kara kakuremasen! Shuudooin e! Soshite dare mo watashi no jama o shinaide kudasai!"
+		time="11" />
+
+	<string
+		id="33"
+		modelName="mask_hero"
+		sound="data\sounds\Speech\r2m2\r2m2_33_axel.ogg"
+		value="|Kanben shite yaru yo. Shikashi, anata no toochi wa owarimashita. Tsugini doo ikiru ka o hitobito ga jibun de kime rareru yoo ni shimashou."
+		time="8" />
+
+	<string
+		id="35"
+		modelName="mask_lisa"
+		modelSlot="1"
+		sound="data\sounds\Speech\r2m2\r2m2_35_alice.ogg"
+		value="RISA|Anata wa kachimashita! Watashi wa akiramemasu..."
+		time="4" />
+
+	<string
+		id="36"
+		modelName="mask_hero"
+		sound="data\sounds\Speech\r2m2\r2m2_36_hero.ogg"
+		value="|Nusunda mono o kaese!"
+		time="4" />
+
+	<string
+		id="37"
+		modelName="mask_lisa"
+		modelSlot="1"
+		sound="data\sounds\Speech\r2m2\r2m2_37_alice.ogg"
+		value="RISA|Rikai shite inai! Tadashiku tsukaenaku narimasu…."
+		time="4" />
+
+	<string
+		id="38"
+		modelName="mask_hero"
+		sound="data\sounds\Speech\r2m2\r2m2_38_hero.ogg"
+		value="|Watashi no nintai-ryoku o tamesanaide kudasai! Disuku to amyuretto o kaeshite kudasai. Sugu ni!"
+		time="4" />
+
+	<string
+		id="39"
+		modelName="mask_lisa"
+		modelSlot="1"
+		sound="data\sounds\Speech\r2m2\r2m2_39_alice.ogg"
+		value="RISA|Wakarimashita, uketotte kudasai. Ima wa anata ga sekininshadesu... Demo kiitekudasai! Watashi wa anata ga omotte iru yoona akuyakude wa arimasen! Tonikaku Iwan o mitsukenakereba narimasen!"
+		time="8" />
+
+	<string
+		id="40"
+		modelName="mask_hero"
+		sound="data\sounds\Speech\r2m2\r2m2_40_hero.ogg"
+		value="|Watashinochichi? Naze anata wa sore ga hitsuyoona nodesu ka?"
+		time="4" />
+
+	<string
+		id="41"
+		modelName="mask_lisa"
+		modelSlot="1"
+		sound="data\sounds\Speech\r2m2\r2m2_41_alice.ogg"
+		value="RISA|Watashi wa hontooni nanika imi no aru koto, jibun ni tottemo mawarinohito ni tottemo hontooni juuyoona koto o shitai to omotte imasu. Soshite anata no otoosan wa sono shoochoodesu! Kare o mitsuketa mono wa, sono karada sae mo eiyuu to nari, konran ni michita sekai o tooitsu dekirudeshou."
+		time="12" />
+
+	<string
+		id="42"
+		modelName="mask_hero"
+		sound="data\sounds\Speech\r2m2\r2m2_42_hero.ogg"
+		value="|Anata no mokuhyoo o tassei suru tame no hoohoo wa kimyoodesu... Soshite, mokuhyoo mo, mitomezaru o emasenga kimyoodesu..."
+		time="4" />
+
+	<string
+		id="43"
+		modelName="mask_lisa"
+		modelSlot="1"
+		sound="data\sounds\Speech\r2m2\r2m2_43_alice.ogg"
+		value="RISA|Kibishii jidai ni wa kibishii taisaku ga hitsuyoodesu. Watashi wa kono nazo o hodoku koto ni jinsei o sasagete kimashita. Watashi wa uso o tsuki, sonotame ni hito o korosanakereba naranakatta. Nan'nen mo sagashi tsudzuketa kekka, tsuini Iwan no nikki o mitsukeru koto ga dekimashita. Soshite anata ga arawarete subete o dainashi ni shimasu!"
+		time="12" />
+
+	<string
+		id="44"
+		modelName="mask_hero"
+		sound="data\sounds\Speech\r2m2\r2m2_44_hero.ogg"
+		value="|Watashiniha anata no koto o rikai suru no ga muzukashiidesu. Soshite, anata ga watashi ni hikiokoshita subete no toraburu o yurusu no wa sarani muzukashiidesu. Chichi no nikki wa watashi dake no monodesu!"
+		time="8" />
+
+	<string
+		id="45"
+		modelName="mask_lisa"
+		modelSlot="1"
+		sound="data\sounds\Speech\r2m2\r2m2_45_alice.ogg"
+		value="RISA|Anata wa hoka no dare yori mo gooru ni chikadzuite iru koto ga wakarimasu. Watashi no shigoto ga kanryoo suru made, issho ni ika sete kudasai."
+		time="8" />
+
+	<string
+		id="46"
+		modelName="mask_hero"
+		sound="data\sounds\Speech\r2m2\r2m2_46_hero.ogg"
+		value="|Orakuru ni ikimasu. Anata nashi de. Osoraku mata aerudeshou, sonotoki wa watashi no monogatari ga dono yoo ni owaru ka o ohanashi shimasu."
+		time="8" />
+
+	<string
+		id="47"
+		modelName="mask_lisa"
+		modelSlot="1"
+		sound="data\sounds\Speech\r2m2\r2m2_47_alice.ogg"
+		value="RISA|Soodesune, arigatoogozaimasu... Sayoonara."
+		time="4" />
+
+	<string
+		id="50"
+		modelName="mask_hero"
+		sound="data\sounds\Speech\r2m2\r2m2_50_hero.ogg"
+		value="|Oo! Omoshiroi shizen genshoo. Middogarudo no kagaku-sha-tachi wa kono genshoo ni kyoomiwomotsu to omoimasu!"
+		time="4" />
+
+	<string
+		id="51"
+		modelName="mask_hero"
+		sound="data\sounds\Speech\r2m2\r2m2_51_hero.ogg"
+		value="|Ima, anata wa shinudeshou!"
+		time="4" />
+
+	<string
+		id="8800"
+		value="Aruzan o dete Bahato e kookai shitaidesu ka?"
+		numButtons="2" />
+
+	<string
+		id="8801"
+		value="Kono eria o hanaretaidesu ka?"
+		numButtons="2" />
+
+	<string
+		id="8802"
+		modelName="mask_hero"
+		sound="data\sounds\Speech\r3m1\r3m1_8802_hero.ogg"
+		value="Kono michi ga doko ni tsudzuite iru no ka wakaranainode, koko ni tomarimasu."
+		time="5" />
+
+	<string
+		id="8803"
+		modelName="mask_hero"
+		sound="data\sounds\Speech\r3m1\r3m1_8803_hero.ogg"
+		value="Nani ka kimyoona basho. Koko kara hanareta hoo ga ii yo."
+		time="3" />
+</resource>

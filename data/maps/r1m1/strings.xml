@@ -142,7 +142,7 @@
 		modelSkin="0"
 		modelCfg="172"
 		modelSlot="1"
-		value="BANDITTO FERIKKUSU|Soshite koko ni watashitachi no toraburumeekaa ga yattekimasu. Watashi no joohoo-kin ni yoru to, anata wa Risa o ashisutanto to shite sagashita to no kotodesuga, kanojo wa kandaina on'nanokodesu... 1000 Koin no sasayakana kifu de, anata wa kegareta kooi o tsudzukeru koto ga deki, sarani watashitachi no sapooto o tayori ni suru koto mo dekimasu."
+		value="TOOZOKU FERIKKUSU|Soshite koko ni watashitachi no toraburumeekaa ga yattekimasu. Watashi no joohoo-kin ni yoru to, anata wa Risa o ashisutanto to shite sagashita to no kotodesuga, kanojo wa kandaina on'nanokodesu... 1000 Koin no sasayakana kifu de, anata wa kegareta kooi o tsudzukeru koto ga deki, sarani watashitachi no sapooto o tayori ni suru koto mo dekimasu."
 		sound="data\sounds\Speech\r1m1\r1m1_1131_felix.ogg"
 		time="19" />
 
@@ -159,7 +159,7 @@
 		modelSkin="0"
 		modelCfg="172"
 		modelSlot="1"
-		value="BANDITTO FERIKKUSU|Seishin-teki songai o hoshoo suru tame ni, anata no kuruma o utte buhin o nyuushu suru hitsuyoo ga arimasu. Kare o taoshimasu!"
+		value="TOOZOKU FERIKKUSU|Seishin-teki songai o hoshoo suru tame ni, anata no kuruma o utte buhin o nyuushu suru hitsuyoo ga arimasu. Kare o taoshimasu!"
 		sound="data\sounds\Speech\r1m1\r1m1_1133_felix.ogg"
 		time="7" />
 
@@ -169,7 +169,7 @@
 		modelSkin="0"
 		modelCfg="172"
 		modelSlot="1"
-		value="BANDITTO FERIKKUSU|Mata aimashoo, koinu! Watashi no kotoba o mamotte kudasai, anata wa ferikkusu ni te o dashita koto o kookai surudeshou! Ikimashou!"
+		value="TOOZOKU FERIKKUSU|Mata aimashoo, koinu! Watashi no kotoba o mamotte kudasai, anata wa ferikkusu ni te o dashita koto o kookai surudeshou! Ikimashou!"
 		sound="data\sounds\Speech\r1m1\r1m1_1134_felix.ogg"
 		time="8" />
 
@@ -214,7 +214,7 @@
 		modelSkin="0"
 		modelCfg="172"
 		modelSlot="1"
-		value="BANDITTO FERIKKUSU|Min'na onajimi no kao. Kono namaikina otoko ni misetekudasai!"
+		value="TOOZOKU FERIKKUSU|Min'na onajimi no kao. Kono namaikina otoko ni misetekudasai!"
 		sound="data\sounds\Speech\r1m1\r1m1_1152_felix.ogg"
 		time="6" />
 
@@ -231,7 +231,7 @@
 		modelSkin="0"
 		modelCfg="172"
 		modelSlot="1"
-		value="BANDITTO FERIKKUSU|Soshite otoko wa maekagamide wa arimasen... Kare wa doko de sono yoona buki o teniireta nodesu ka? Soodesune, nanika o umaku yaritainara, jibun de yareba ii nodesu. Waki e shirizoite kudasai."
+		value="TOOZOKU FERIKKUSU|Soshite otoko wa maekagamide wa arimasen... Kare wa doko de sono yoona buki o teniireta nodesu ka? Soodesune, nanika o umaku yaritainara, jibun de yareba ii nodesu. Waki e shirizoite kudasai."
 		sound="data\sounds\Speech\r1m1\r1m1_1154_felix.ogg"
 		time="10" />
 
@@ -248,7 +248,7 @@
 		modelSkin="0"
 		modelCfg="172"
 		modelSlot="1"
-		value="BANDITTO FERIKKUSU|Mattekudasai, watashi wa koko nan-nen mo dare mo koroshite imasen. Jimoto juumin to kyootei o musunde imasu! Watashinoie ni shin'nyuu shite hitobito o kizutsuke hajimeta no wa anatadesu!"
+		value="TOOZOKU FERIKKUSU|Mattekudasai, watashi wa koko nan-nen mo dare mo koroshite imasen. Jimoto juumin to kyootei o musunde imasu! Watashinoie ni shin'nyuu shite hitobito o kizutsuke hajimeta no wa anatadesu!"
 		sound="data\sounds\Speech\r1m1\r1m1_1156_felix.ogg"
 		time="10" />
 
@@ -265,7 +265,7 @@
 		modelSkin="0"
 		modelCfg="172"
 		modelSlot="1"
-		value="BANDITTO FERIKKUSU|Guruhoi shusshin'na ndesu ne! Shinjite kudasai, soreha watashitachide wa naku, kinrin no chiiki kara no tsuaaaatisutodeshita!"
+		value="TOOZOKU FERIKKUSU|Guruhoi shusshin'na ndesu ne! Shinjite kudasai, soreha watashitachide wa naku, kinrin no chiiki kara no tsuaaaatisutodeshita!"
 		sound="data\sounds\Speech\r1m1\r1m1_1158_felix.ogg"
 		time="8" />
 
@@ -282,7 +282,7 @@
 		modelSkin="0"
 		modelCfg="172"
 		modelSlot="1"
-		value="BANDITTO FERIKKUSU|Chichi no haka ni chikatte! Tomodachi no Risa ni kiite mite kudasai. Kanojo wa subete o mite imashita."
+		value="TOOZOKU FERIKKUSU|Chichi no haka ni chikatte! Tomodachi no Risa ni kiite mite kudasai. Kanojo wa subete o mite imashita."
 		sound="data\sounds\Speech\r1m1\r1m1_11510_felix.ogg"
 		time="7" />
 
@@ -299,7 +299,7 @@
 		modelSkin="0"
 		modelCfg="172"
 		modelSlot="1"
-		value="BANDITTO FERIKKUSU|Sorede kanojo wa watashitachi ni sore ni tsuite hanashimashita. Soshite kanojo wa kita e isoida. Pesuto e."
+		value="TOOZOKU FERIKKUSU|Sorede kanojo wa watashitachi ni sore ni tsuite hanashimashita. Soshite kanojo wa kita e isoida. Pesuto e."
 		sound="data\sounds\Speech\r1m1\r1m1_11512_felix.ogg"
 		time="6" />
 
@@ -316,7 +316,7 @@
 		modelSkin="0"
 		modelCfg="172"
 		modelSlot="1"
-		value="BANDITTO FERIKKUSU|Anata wa kachimashita. Demo, mata o ai shimashou, sonotoki wa motto junbi o totonoete okimasu."
+		value="TOOZOKU FERIKKUSU|Anata wa kachimashita. Demo, mata o ai shimashou, sonotoki wa motto junbi o totonoete okimasu."
 		sound="data\sounds\Speech\r1m1\r1m1_11514_felix.ogg"
 		time="5" />
 
