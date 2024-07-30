@@ -386,11 +386,11 @@
 
 	<string
 		id="Construction"
-		value="Dezain" />
+		value="Kenkoo" />
 
 	<string
 		id="MaxConstruction"
-		value="Saidai sekkei" />
+		value="Saidaigen no kenkoo" />
 
 	<string
 		id="PiercingResistance"
