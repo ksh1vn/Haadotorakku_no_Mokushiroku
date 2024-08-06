@@ -142,9 +142,19 @@
 		modelSkin="0"
 		modelCfg="172"
 		modelSlot="1"
-		value="TOOZOKU FERIKKUSU|Soshite koko ni watashitachi no toraburumeekaa ga yattekimasu. Watashi no joohoo-kin ni yoru to, anata wa Risa o ashisutanto to shite sagashita to no kotodesuga, kanojo wa kandaina on'nanokodesu... 1000 Koin no sasayakana kifu de, anata wa kegareta kooi o tsudzukeru koto ga deki, sarani watashitachi no sapooto o tayori ni suru koto mo dekimasu."
+		value="TOOZOKU FERIKKUSU|Soshite koko ni watashitachi no toraburumeekaa ga yattekimasu. Watashi no joohoo-kin ni yoru to, anata wa Risa o ashisutanto to shite sagashita to no kotodesuga, kanojo wa kandaina on'nanokodesu..."
 		sound="data\sounds\Speech\r1m1\r1m1_1131_felix.ogg"
-		time="19" />
+		time="1" />
+
+	<string
+		id="11311"
+		modelName="r1_man"
+		modelSkin="0"
+		modelCfg="172"
+		modelSlot="1"
+		value="TOOZOKU FERIKKUSU|1000 Koin no sasayakana kifu de, anata wa kegareta kooi o tsudzukeru koto ga deki, sarani watashitachi no sapooto o tayori ni suru koto mo dekimasu."
+		sound="data\sounds\Speech\r1m1\r1m1_11311_felix.ogg"
+		time="1" />
 
 	<string
 		id="1132"
@@ -169,7 +179,7 @@
 		modelSkin="0"
 		modelCfg="172"
 		modelSlot="1"
-		value="TOOZOKU FERIKKUSU|Mata aimashoo, koinu! Watashi no kotoba o mamotte kudasai, anata wa ferikkusu ni te o dashita koto o kookai surudeshou! Ikimashou!"
+		value="TOOZOKU FERIKKUSU|Mata aimashoo, koinu! Watashi no kotoba o mamotte kudasai, anata wa Ferikkusu ni te o dashita koto o kookai surudeshou! Ikimashou!"
 		sound="data\sounds\Speech\r1m1\r1m1_1134_felix.ogg"
 		time="8" />
 
