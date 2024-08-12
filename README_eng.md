@@ -28,7 +28,7 @@ The text in the game is written in Romaji style.
 - **[RomajiDesu](https://www.romajidesu.com/translator)** - translating hieroglyphics from DeepL to Romaji
 - **[Suno](https://suno.com/)** - music in the main menu and in the "Developers" tab
 - **[Fotor](https://www.fotor.com/)** - banner background
-- **[Narakeet](https://www.narakeet.com/languages/japanese-text-to-speech/)** - characters voiceover
+- **[ElevenLabs](https://elevenlabs.io/app/speech-synthesis)** - characters voiceover
 
 -----------------
 
