@@ -9,7 +9,8 @@ The text in the game is written in Romaji style.
 ### Changelog:
 
 - The text and voiceover are translated into Japanese.
-- The music of the main menu and in the "Developers" tab has been replaced.
+- Replaced music in the main menu and in the “Developers” tab
+- Titles have been added at the end of the game
 
 -----------------
 
@@ -32,6 +33,6 @@ The text in the game is written in Romaji style.
 
 -----------------
 
-**Bugreports are accepted on my [Discord server](https://discord.com/invite/Cd5GanuYud) in the "bugreports-bugreports" channel or in the "Haadotorakku no Mokushiroku" channel on the [Deus Ex Machina server](https://discord.gg/PVW57kr). The channel can be found in the "витрина-модов" section.**
+**Bugreports are accepted on my [Discord server](https://discord.com/invite/Cd5GanuYud) in the "багрепы-bugreports" channel or in the "Haadotorakku no Mokushiroku" channel on the [Deus Ex Machina server](https://discord.gg/PVW57kr). The channel can be found in the "витрина-модов" section.**
 
 **Feedback and suggestions you can also leave on my Discord-server, but in any other channel available to you.**
