@@ -9,7 +9,8 @@ The text in the game is written in Romaji style.
 ### Changelog:
 
 - The text and voiceover are translated into Japanese.
-- The music of the main menu and in the "Developers" tab has been replaced.
+- Replaced music in the main menu and in the “Developers” tab
+- Titles have been added at the end of the game
 
 -----------------
 
