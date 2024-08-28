@@ -189,6 +189,9 @@
 		id="Battle03"
 		file="data\music\cinematics\Battle03.ogg" />
 	<model
+		id="HnM_Ending"
+		file="data\music\cinematics\hnmending.ogg" />
+	<model
 		id="Bio01"
 		file="data\music\cinematics\Bio01.ogg" />
 	<model
