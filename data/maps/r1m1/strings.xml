@@ -125,9 +125,17 @@
 		id="1125"
 		modelName="mask_lisa"
 		modelSlot="1"
-		value="RISA|Koko de watashitachi no michi wa wakaremasu. Watashi wa anata no nanbasen no atowoounoni unzari shite imasu. Sore ni, anata no iku michi ga nai tokorode wa, watashi no kuruma wa rakuraku to toorisugite ikimasu. Anata wa keiyaku no jibun no bubun o mamorimashita. Okane wa hokan shite oite kudasai."
+		value="RISA|Koko de watashitachi no michi wa wakaremasu. Watashi wa anata no nanbasen no atowoounoni unzari shite imasu. Sore ni, anata no iku michi ga nai tokorode wa, watashi no kuruma wa rakuraku to toorisugite ikimasu."
 		sound="data\sounds\Speech\r1m1\r1m1_1125_lisa.ogg"
-		time="11" />
+		time="1" />
+
+	<string
+		id="11252"
+		modelName="mask_lisa"
+		modelSlot="1"
+		value="RISA|Anata wa keiyaku no jibun no bubun o mamorimashita. Okane wa hokan shite oite kudasai."
+		sound="data\sounds\Speech\r1m1\r1m1_11252_lisa.ogg"
+		time="1" />
 
 	<string
 		id="1126"
