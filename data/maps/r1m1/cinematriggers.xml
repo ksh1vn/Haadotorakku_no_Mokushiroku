@@ -1129,9 +1129,9 @@
 			Fly("Father_cam01", CINEMATIC_NO_AIM, 0, 10, 0, 0 )
 			Fly("Father_cam02", CINEMATIC_NO_AIM, 0, 32, 0, 0 )
 			Fly("Father_cam03", CINEMATIC_NO_AIM, 0, 12, 1, 0 )
-			Fly("Father_cam04", CINEMATIC_NO_AIM, 0, 18, 0, 0 )
-			Fly("Father_cam05", CINEMATIC_NO_AIM, 0, 12.5, 0, 0 )
-			Fly("Father_cam06", CINEMATIC_NO_AIM, 0, 17, 0, 0 )
+			Fly("Father_cam04", CINEMATIC_NO_AIM, 0, 25, 0, 0 )
+			Fly("Father_cam05", CINEMATIC_NO_AIM, 0, 24, 0, 0 )
+			Fly("Father_cam06", CINEMATIC_NO_AIM, 0, 27, 0, 0 )
 			Fly("Father_cam07", CINEMATIC_NO_AIM, 0, 17, 0, 1 )
 			StartCinematic()
 
