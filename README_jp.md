@@ -4,8 +4,10 @@
 
 ゲーム内のテキストはローマ字で書かれています。
 
-*** [ロシア語のReadme (Russian)](https://github.com/ksh1vn/Haadotorakku_no_Mokushiroku/blob/main/README.md)
-*** [英語版Readme (English)](https://github.com/ksh1vn/Haadotorakku_no_Mokushiroku/blob/main/README_eng.md)
+-----------------
+
+### [ロシア語のReadme (Russian)](https://github.com/ksh1vn/Haadotorakku_no_Mokushiroku/blob/main/README.md)
+### [英語版Readme (English)](https://github.com/ksh1vn/Haadotorakku_no_Mokushiroku/blob/main/README_eng.md)
 
 -----------------
 
