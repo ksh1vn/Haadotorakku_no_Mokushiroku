@@ -4,12 +4,15 @@
 
 The text in the game is written in Romaji style.
 
+*** [Russian README](https://github.com/ksh1vn/Haadotorakku_no_Mokushiroku/blob/main/README.md)
+*** [Japanese README](https://github.com/ksh1vn/Haadotorakku_no_Mokushiroku/blob/main/README_jp.md)
+
 -----------------
 
 ### Changelog:
 
-- The text and voiceover are translated into Japanese.
-- Replaced music in the main menu and in the “Developers” tab
+- The text and voiceover are translated into Japanese
+- Replaced music in the main menu and in the "Developers" tab
 - Titles have been added at the end of the game
 
 -----------------

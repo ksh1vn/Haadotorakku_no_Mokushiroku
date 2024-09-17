@@ -5,6 +5,7 @@
 Текст в игре написан в стиле Ромадзи.
 
 ### [README on English](https://github.com/ksh1vn/Haadotorakku_no_Mokushiroku/blob/main/README_eng.md)
+### [日本語README](https://github.com/ksh1vn/Haadotorakku_no_Mokushiroku/blob/main/README_jp.md)
 
 -----------------
 
