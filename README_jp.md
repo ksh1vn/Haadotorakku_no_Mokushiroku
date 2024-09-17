@@ -6,8 +6,9 @@
 
 -----------------
 
-### [ロシア語のReadme (Russian)](https://github.com/ksh1vn/Haadotorakku_no_Mokushiroku/blob/main/README.md)
-### [英語版Readme (English)](https://github.com/ksh1vn/Haadotorakku_no_Mokushiroku/blob/main/README_eng.md)
+[![ru_bt](git_assets/ru_bu.png)](https://github.com/ksh1vn/Haadotorakku_no_Mokushiroku/blob/main/README.md)
+[![eng_bt](git_assets/en_bu.png)](https://github.com/ksh1vn/Haadotorakku_no_Mokushiroku/blob/main/README_eng.md)
+![jp_bt_sel](git_assets/jp_bu_sel.png)
 
 -----------------
 

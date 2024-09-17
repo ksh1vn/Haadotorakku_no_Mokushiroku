@@ -6,8 +6,9 @@ The text in the game is written in Romaji style.
 
 -----------------
 
-### [Russian README](https://github.com/ksh1vn/Haadotorakku_no_Mokushiroku/blob/main/README.md)
-### [Japanese README](https://github.com/ksh1vn/Haadotorakku_no_Mokushiroku/blob/main/README_jp.md)
+[![ru_bt](git_assets/ru_bu.png)](https://github.com/ksh1vn/Haadotorakku_no_Mokushiroku/blob/main/README.md)
+![eng_bt_sel](git_assets/en_bu_sel.png)
+[![jp_bt](git_assets/jp_bu.png)](https://github.com/ksh1vn/Haadotorakku_no_Mokushiroku/blob/main/README_jp.md)
 
 -----------------
 
