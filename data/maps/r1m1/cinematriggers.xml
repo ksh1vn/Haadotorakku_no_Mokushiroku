@@ -587,10 +587,10 @@
 			SaveAllToleranceStatus(RS_NEUTRAL)
 
 			Fly("lisa3_cam01", CINEMATIC_NO_AIM, 0, 7, 1, 0 )
-			Fly("lisa3_cam02", CINEMATIC_NO_AIM, 0, 40, 0, 0 )
-			Fly("lisa3_cam021", CINEMATIC_NO_AIM, 0, 19, 0, 0 )	
+			Fly("lisa3_cam02", CINEMATIC_NO_AIM, 0, 42, 0, 0 )
+			Fly("lisa3_cam021", CINEMATIC_NO_AIM, 0, 19.5, 0, 0 )	
 			Fly("lisa3_cam03", CINEMATIC_NO_AIM, 0, 8, 0, 0 )
-			Fly("lisa3_cam04", CINEMATIC_NO_AIM, 0, 9, 0, 1 )
+			Fly("lisa3_cam04", CINEMATIC_NO_AIM, 0, 10, 0, 1 )
 			StartCinematic()
 
 			TActivate( "trLisa3" )
