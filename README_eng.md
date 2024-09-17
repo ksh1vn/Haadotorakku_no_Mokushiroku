@@ -4,6 +4,8 @@
 
 The text in the game is written in Romaji style.
 
+You can watch **Haadotorakku no Mokushiroku** trailer [here](https://www.youtube.com/watch?v=50SPVP-QQac).
+
 -----------------
 
 [![ru_bt](git_assets/ru_bu.png)](https://github.com/ksh1vn/Haadotorakku_no_Mokushiroku/blob/main/README.md)

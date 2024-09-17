@@ -4,6 +4,8 @@
 
 Текст в игре написан в стиле Ромадзи.
 
+**Трейлер **Haadotorakku no Mokushiroku** можно посмотреть [здесь](https://www.youtube.com/watch?v=50SPVP-QQac).**
+
 -----------------
 
 ![ru_bt_sel](git_assets/ru_bu_sel.png)

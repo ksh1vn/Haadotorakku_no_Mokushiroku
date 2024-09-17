@@ -4,6 +4,8 @@
 
 ゲーム内のテキストはローマ字で書かれています。
 
+**[「ハードトラックの黙示録」予告編を見る（YouTube)](https://www.youtube.com/watch?v=50SPVP-QQac)**
+
 -----------------
 
 [![ru_bt](git_assets/ru_bu.png)](https://github.com/ksh1vn/Haadotorakku_no_Mokushiroku/blob/main/README.md)
