@@ -572,6 +572,8 @@
 	
 			AddQuestItem("quest_medicine_box")
 
+			CreateEffectInsertedInRemove("ET_PS_MAZUKU", GetPlayerVehicle():GetPosition(), Quaternion(0,0,0,1), true )
+
 			trigger:Deactivate() 
 		</script>
 	</trigger>
