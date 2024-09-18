@@ -327,7 +327,7 @@
 			local Plf = GetPlayerVehicle()
 			local PlfID = GetPlayerVehicleId()
 
-			FlyLinked( "TAKEBOSSARLOC_cam01", vehSNGID, 5, 1, 0, PlfID, nil, nil, nil, nil )
+			FlyLinked( "TAKEBOSSARLOC_cam01", vehSNGID, 9, 1, 0, PlfID, nil, nil, nil, nil )
 			FlyAround( 1, 0, 10, 4, vehARCoor, vehARID, 0, 1 )
 			StartCinematic()
 
@@ -519,14 +519,14 @@
 			SaveAllToleranceStatus(RS_NEUTRAL)
 
 			Fly("LISADIED_cam01", CINEMATIC_NO_AIM, 0, 6, 1, 0 )
-			Fly("LISADIED_cam02", CINEMATIC_NO_AIM, 0, 6, 0, 0 )
-			Fly("LISADIED_cam03", CINEMATIC_NO_AIM, 0, 6, 0, 0 )
-			Fly("LISADIED_cam04", CINEMATIC_NO_AIM, 0, 10, 0, 0 )
-			Fly("LISADIED_cam05", CINEMATIC_NO_AIM, 0, 42, 0, 0 )
-			Fly("LISADIED_cam06", CINEMATIC_NO_AIM, 0, 9, 0, 0 )
-			Fly("LISADIED_cam07", CINEMATIC_NO_AIM, 0, 6, 0, 0 )
+			Fly("LISADIED_cam02", CINEMATIC_NO_AIM, 0, 7, 0, 0 )
+			Fly("LISADIED_cam03", CINEMATIC_NO_AIM, 0, 8, 0, 0 )
+			Fly("LISADIED_cam04", CINEMATIC_NO_AIM, 0, 14, 0, 0 )
+			Fly("LISADIED_cam05", CINEMATIC_NO_AIM, 0, 55, 0, 0 )
+			Fly("LISADIED_cam06", CINEMATIC_NO_AIM, 0, 13, 0, 0 )
+			Fly("LISADIED_cam07", CINEMATIC_NO_AIM, 0, 7, 0, 0 )
 			Fly("LISADIED_cam08", CINEMATIC_NO_AIM, 0, 19, 0, 0 )
-			Fly("LISADIED_cam09", CINEMATIC_NO_AIM, 0, 9, 0, 0 )
+			Fly("LISADIED_cam09", CINEMATIC_NO_AIM, 0, 11, 0, 0 )
 			Fly("LISADIED_cam10", CINEMATIC_NO_AIM, 0, 36, 0, 1 )
 			StartCinematic()
 
@@ -890,8 +890,8 @@
 			local Cont = GetEntityByName("boss02cont")
 			local ContID = Cont:GetId()
 
-			Fly("OPARIS_cam01", CINEMATIC_NO_AIM, 0, 6, 1, 0 )
-			Fly("OPARIS_cam02", CINEMATIC_NO_AIM, 0, 20, 0, 0 )
+			Fly("OPARIS_cam01", CINEMATIC_NO_AIM, 0, 7, 1, 0 )
+			Fly("OPARIS_cam02", CINEMATIC_NO_AIM, 0, 21, 0, 0 )
 			FlyLinked("BOSSDIE_cam02", CTochID, 10, 0, 0, ContID, nil, nil, nil, nil )
 			Fly("OPARIS_cam04", CINEMATIC_NO_AIM, 0, 4, 0, 1 )
 			StartCinematic()
@@ -1483,10 +1483,6 @@
 			trigger:Deactivate()
 		</script>
 	</trigger>
-
-
-
-
 
 <!-- Диолог игрока с пришельцами -->
 	<trigger Name="trUFODIOLOG_cam01" active="0">
