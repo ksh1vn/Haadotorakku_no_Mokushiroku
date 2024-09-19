@@ -86,7 +86,7 @@
 		id="408"
 		modelName="mask_hero"
 		sound="data\sounds\Speech\r1m3\r1m3_408_hero.ogg"
-		value="|Setsuzoku ga ushinawa rete shimaimashita... Shikashi, ben no itte iru koto wa rikai dekimashita. Shoosai wa Miinin de shirabete mimasu."
+		value="|Setsuzoku ga ushinawa rete shimaimashita... Shikashi, Ben no itte iru koto wa rikai dekimashita. Shoosai wa Miinin de shirabete mimasu."
 		time="4" />
 
 	<string
@@ -467,7 +467,7 @@
 		value="@ffffffffOrakuru mobairu mojuuru wa hakai sa remashitaga, konpyuuta jitai wa mukizudeshita. Kare no kinzoku no shiyoonin wa janguru ni modori, tokiniha Nieri no ensei-tai ni yoki senu shuugeki o kuwaemasu. Burokkaa no setchi ga seikoo shita koto de, hitobito no seikatsu ni kenchona henka ga shoojimashita. Eirian no kichi wa Zarumeku ni utsuri, sokode yooyaku hooshasen to sore ga hitobito ni oyobosu eikyoo o reisei ni kenkyuu suru koto ga dekita. Saisho no jikken wa hijoo ni seikoo shita koto ga hanmei shi, masuku o hazushite ikinokotta hito mo imashita. Tashika ni, Nieri kenkyuujo no kabe no naka dakedesu. Nan'nen mo no ma hajimete, hitobito wa furui sekai no kaifuku ni kiboo o dakimashita. Shikashi, mottomo doosatsuryoku no aru hitobito wa, pureeto no rakka wa guuzende wa naku, atarashii doomeikuni no keikaku wa hitobito no ganboo to wa ookiku kotonaru kanoosei ga aru koto o rikai shi hajimemashita."
 		sound="data\sounds\Speech\rolik\ending1.ogg"
 		fontSize="18"
-		scrollSpeed="0.45"
+		scrollSpeed="0.49"
 		time="90" />
 
 	<string
@@ -480,7 +480,7 @@
 		sound=""
 		fontSize="18"
 		scrollSpeed="2.48"
-		time="65" />
+		time="67" />
 
 	<string
 		id="5995"
@@ -492,7 +492,7 @@
 		sound=""
 		fontSize="18"
 		scrollSpeed="2.31"
-		time="95" />
+		time="97" />
 
 	<string
 		id="5996"
@@ -500,11 +500,11 @@
 		image="data\if\ico\CinemaPanel\foreground_movie_shade_midle.dds"
 		upOverlay="data\if\ico\CinemaPanel\scene_scroll_top.dds"
 		downOverlay="data\if\ico\CinemaPanel\scene_scroll_btm.dds"
-		value="@ffffa600«Haadotorakku no Mokushiroku»| | | |@ffffa600Nikiita «stakan» Kashirebu||@ffffffffkikai hon'yaku, sukuriputo no soosa| | |@ffffa600Georugii «EmerEh» Juukofu||@ffffffffnareetaa no nareeshon| | |@ffffa600«Deus Ex Machina» komyuniti||@ffffffffkaihatsu o tetsudatte kurete arigatoo| | |@ffffa600«Young Arty»||@ffffffffaidea o teishutsu shite kurete arigatoo| | |@ffffffffMeinmenyuu, kurejitto,«kaihatsu-sha» tabu no ongaku|@ffffffffwa Suno saabisu o tsuujite sakusei sa remashita| | |@ffffffffAsonde kurete arigatoo!"
+		value="@ffffa600«Haadotorakku no Mokushiroku»| | | |@ffffa600Nikiita «stakan» Kashirebu||@ffffffffkikai hon'yaku, sukuriputo no soosa| | |@ffffa600Georugii «EmerEh» Juukofu||@ffffffffnareetaa no nareeshon| | |@ffffa600«Deus Ex Machina» komyuniti||@ffffffffkaihatsu o tetsudatte kurete arigatoo| | |@ffffa600«Young Arty»||@ffffffffaidea o teishutsu shite kurete arigatoo| | |@ffffa600Yuujiin «E Jet» Koruchin||@ffffffffherupu to aidea no sakusei-sha| | |@ffffffffMeinmenyuu, kurejitto,«kaihatsu-sha» tabu no ongaku|@ffffffffwa Suno saabisu o tsuujite sakusei sa remashita| | |@ffffffffAsonde kurete arigatoo!"
 		sound=""
 		fontSize="18"
-		scrollSpeed="2.8"
-		time="22" />
+		scrollSpeed="2.5"
+		time="28" />
 	
 	<string
 		id="5997"
@@ -515,6 +515,6 @@
 		value="@ffffa600Komyunitipatchi/Rimasutaa| | | |@ffffa600Arekusandaa «Seel» Parufenenkofu||@ffffffffpurojekutomaneejaa, tsuuru, dezain| | |@ffffa600Arekusandaa «ThePlain» Fateefu||@fffffffftsuuru, gurafikkuaato, 3D moderingu| | |@ffffa600Arekusei «__nEmPoBu4__» Sumirunofu||@ffffffff3D moderingu, sukuriputo, kuesuto| | |@ffffa600An'na Juukowa||@ffffffffgurafikku dezain| | |@ffffa600Anton Popofu||@ffffffffongaku| | |@ffffa600Urajisurafu «OverLine» Kurochikin||@ffffffffkontentsu dezain, mappingu| | |@ffffa600Domitorii «Gnome» Sashichenko||@ffffffffsukuriputo, kuesuto, 3D moderingu| | |@ffffa600Iwan «ICAS-14» Cherepanofu||@ffffffff3D moderingu| | |@ffffa600Reoniido «KoYoT» Kochetofu||@ffffffffayamari teisei| | |@ffffa600Makushimu «Spok» Berudonikofu||@ffffffff3D moderingu| | |@ffffa600Maaku «Apocalypse007» Marigin||@fffffffftekisuto henshuu| | |@ffffa600Nikku «BIBIKUZ» Kononenko||@ffffffff3D moderingu| | |@ffffa600Paaveru «pavlikrpg» Iwanofu||@ffffffffsukuriputo, kuesuto| | |@ffffa600Serafimu «Varisane» Shagin||@ffffffffkontentsu-dezain| | |@ffffa600Senmonka no jogen||@ffffffffBuba|@ffffffffOracle|@ffffffffRusya_27|@ffffffffTraygen|@ffffffffReoniido «KoYoT» Kochetofu|@ffffffffSemimahofu| | |@ffffa600Tesuto||@ffffffffSuslo Red|@ffffffffIwan «MrKarfen» Atamanofu|@ffffffffSemyon «Omezera» Ozeritsukii|@ffffffffPushistik_7977|@ffffffffAnarxolis|@ffffffffScorpyX|@ffffffffArekusandaa192|@ffffffffTerorchat| | |@ffffa600Tokubetsuna kansha||@ffffffffKomyuniti e Deus Ex Machina|@ffffffffdiscord.gg/qKK2Efx||@ffffffffKomyuniti e EM2ch|@ffffffffvk.com/em2ch||@ffffffffPaburikku Ex Machina VKontakte|@ffffffffvk.com/exmachina2||@ffffffff«Pavlik RPG» chan'neru no shichoo-sha-muke||@ffffffffKaihatsu-chuu ni gaman shite kureta tsuma, gaarufurendo, otto, shinseki|@ffffffffsoshite neko-tachi e||@ffffffffKono purojekuto o matte ooen shite kudasatta minasama e"
 		sound=""
 		fontSize="18"
-		scrollSpeed="2.8"
-		time="52" />
+		scrollSpeed="2.5"
+		time="62" />
 </resource>

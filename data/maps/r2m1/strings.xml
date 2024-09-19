@@ -626,7 +626,7 @@
 		value="@ffffffffNieri zenshoo kichi no hakai ni yori, i sekai kara kita eirian ga Orakuru no te kara kaihoo sa remashita. Kare ga saisho ni shita koto wa, kidoo heiki o seigyo shi, Zarumeku e no kaku koogeki o kaishi suru kotodeatta. Kansen-gen ga hakai sa reta toki, ooku no hito ga shokku o uke, daremoga kaifuku dekiru wakede wa arimasendeshita. Nazo no hooshasen wa ningen no honshitsu ni amarini mo fukaku nezashite iru. Hikiokosa reta aku o tadasou to suru tame ni, suupaakonpyuutaa wa jojoni ningen no seikatsu no arayuru ryooiki ni shintoo shi hajimemashita. Kare no zumen o shiyoo shite, kazuooku no yuuyoona soochi ga fukugen sa remashita. Arayuru shurui no robottoashisutanto ga kaku seizon-sha ni wariate rare, arayuru koto o tetsudatte kuremashita. Shikashi, hitobito wa sono henka o ukeiremasendeshita. Ooku no hito ga shintaku no tamamono o hooki shi, tanjun'na shokugyoo ni modorimashita. Soshite, asenshon ni tsuite taezu sasayaite ita koe ga kiete shimatta koto o darekaga zan'nen garu koto ga masumasu ooku narimashita."
 		sound="data\sounds\Speech\rolik\ending2.ogg"
 		fontSize="18"
-		scrollSpeed="0.39"
+		scrollSpeed="0.43"
 		time="65" />
 
 	<string
@@ -651,7 +651,7 @@
 		sound=""
 		fontSize="18"
 		scrollSpeed="2.31"
-		time="95" />
+		time="97" />
 
 	<string
 		id="5996"
@@ -659,11 +659,11 @@
 		image="data\if\ico\CinemaPanel\foreground_movie_shade_midle.dds"
 		upOverlay="data\if\ico\CinemaPanel\scene_scroll_top.dds"
 		downOverlay="data\if\ico\CinemaPanel\scene_scroll_btm.dds"
-		value="@ffffa600«Haadotorakku no Mokushiroku»| | | |@ffffa600Nikiita «stakan» Kashirebu||@ffffffffkikai hon'yaku, sukuriputo no soosa| | |@ffffa600Georugii «EmerEh» Juukofu||@ffffffffnareetaa no nareeshon| | |@ffffa600«Deus Ex Machina» komyuniti||@ffffffffkaihatsu o tetsudatte kurete arigatoo| | |@ffffa600«Young Arty»||@ffffffffaidea o teishutsu shite kurete arigatoo| | |@ffffffffMeinmenyuu, kurejitto,«kaihatsu-sha» tabu no ongaku|@ffffffffwa Suno saabisu o tsuujite sakusei sa remashita| | |@ffffffffAsonde kurete arigatoo!"
+		value="@ffffa600«Haadotorakku no Mokushiroku»| | | |@ffffa600Nikiita «stakan» Kashirebu||@ffffffffkikai hon'yaku, sukuriputo no soosa| | |@ffffa600Georugii «EmerEh» Juukofu||@ffffffffnareetaa no nareeshon| | |@ffffa600«Deus Ex Machina» komyuniti||@ffffffffkaihatsu o tetsudatte kurete arigatoo| | |@ffffa600«Young Arty»||@ffffffffaidea o teishutsu shite kurete arigatoo| | |@ffffa600Yuujiin «E Jet» Koruchin||@ffffffffherupu to aidea no sakusei-sha| | |@ffffffffMeinmenyuu, kurejitto,«kaihatsu-sha» tabu no ongaku|@ffffffffwa Suno saabisu o tsuujite sakusei sa remashita| | |@ffffffffAsonde kurete arigatoo!"
 		sound=""
 		fontSize="18"
-		scrollSpeed="2.8"
-		time="22" />
+		scrollSpeed="2.5"
+		time="28" />
 	
 	<string
 		id="5997"
@@ -674,6 +674,6 @@
 		value="@ffffa600Komyunitipatchi/Rimasutaa| | | |@ffffa600Arekusandaa «Seel» Parufenenkofu||@ffffffffpurojekutomaneejaa, tsuuru, dezain| | |@ffffa600Arekusandaa «ThePlain» Fateefu||@fffffffftsuuru, gurafikkuaato, 3D moderingu| | |@ffffa600Arekusei «__nEmPoBu4__» Sumirunofu||@ffffffff3D moderingu, sukuriputo, kuesuto| | |@ffffa600An'na Juukowa||@ffffffffgurafikku dezain| | |@ffffa600Anton Popofu||@ffffffffongaku| | |@ffffa600Urajisurafu «OverLine» Kurochikin||@ffffffffkontentsu dezain, mappingu| | |@ffffa600Domitorii «Gnome» Sashichenko||@ffffffffsukuriputo, kuesuto, 3D moderingu| | |@ffffa600Iwan «ICAS-14» Cherepanofu||@ffffffff3D moderingu| | |@ffffa600Reoniido «KoYoT» Kochetofu||@ffffffffayamari teisei| | |@ffffa600Makushimu «Spok» Berudonikofu||@ffffffff3D moderingu| | |@ffffa600Maaku «Apocalypse007» Marigin||@fffffffftekisuto henshuu| | |@ffffa600Nikku «BIBIKUZ» Kononenko||@ffffffff3D moderingu| | |@ffffa600Paaveru «pavlikrpg» Iwanofu||@ffffffffsukuriputo, kuesuto| | |@ffffa600Serafimu «Varisane» Shagin||@ffffffffkontentsu-dezain| | |@ffffa600Senmonka no jogen||@ffffffffBuba|@ffffffffOracle|@ffffffffRusya_27|@ffffffffTraygen|@ffffffffReoniido «KoYoT» Kochetofu|@ffffffffSemimahofu| | |@ffffa600Tesuto||@ffffffffSuslo Red|@ffffffffIwan «MrKarfen» Atamanofu|@ffffffffSemyon «Omezera» Ozeritsukii|@ffffffffPushistik_7977|@ffffffffAnarxolis|@ffffffffScorpyX|@ffffffffArekusandaa192|@ffffffffTerorchat| | |@ffffa600Tokubetsuna kansha||@ffffffffKomyuniti e Deus Ex Machina|@ffffffffdiscord.gg/qKK2Efx||@ffffffffKomyuniti e EM2ch|@ffffffffvk.com/em2ch||@ffffffffPaburikku Ex Machina VKontakte|@ffffffffvk.com/exmachina2||@ffffffff«Pavlik RPG» chan'neru no shichoo-sha-muke||@ffffffffKaihatsu-chuu ni gaman shite kureta tsuma, gaarufurendo, otto, shinseki|@ffffffffsoshite neko-tachi e||@ffffffffKono purojekuto o matte ooen shite kudasatta minasama e"
 		sound=""
 		fontSize="18"
-		scrollSpeed="2.8"
-		time="52" />
+		scrollSpeed="2.5"
+		time="62" />
 </resource>
