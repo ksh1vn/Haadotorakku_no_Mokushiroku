@@ -224,7 +224,7 @@
 		modelName="mask_hero"
 		value="|Chichi no adawoutsu zo!"
 		sound="data\sounds\Speech\r1m1\r1m1_1151_hero.ogg"
-		time="3" />
+		time="1" />
 
 	<string
 		id="1152"
@@ -234,7 +234,7 @@
 		modelSlot="1"
 		value="TOOZOKU FERIKKUSU|Min'na onajimi no kao. Kono namaikina otoko ni misetekudasai!"
 		sound="data\sounds\Speech\r1m1\r1m1_1152_felix.ogg"
-		time="6" />
+		time="1" />
 
 	<string
 		id="1153"
@@ -466,7 +466,7 @@
 		value="@ffffffff|    Rekishi wa, saigai chokugo ni otozureta ankoku jidai ni tsuite no seikakuna joohoo o hozon shite imasen. Tashika ni shira rete iru no wa, hitobito wa boogo masuku no okage de osen sa reta kuuki no naka de ikinobita to iu kotodesu. Michi no hatsumei-sha no kono sakuhin wa, subete no hito o byoodoo ni shimashita. Sakerarenai shi ni tachihadakatta usui shooheki wa, aratana jinrui no shoochoo to natta. Masuku wa hitobito o danketsu sa se, taiyoo no shita de jibun no ibasho o motomete tatakau chikara o ataemashita.||    Atarashii nyuushoku-chi wa, shuudan bochi to natta izen no toshi kara tooku hanareta tokoro ni shoojita. Jojoni, kotonaru seizon-sha no guruupu-kan ni tsunagari ga kakuritsu sa remashita. Noomin, koozanroodoo-sha, shoonin - tanjun'na shokugyoo e no kaiki wa, konran shita hitobito ni rieki o motarasu dakedeshita.||    Shikashi, hito wa itsu demo hitodesu. Nanseiki ni mo watatte chie o hozon shite kita hitobito wa, sore o sekai to kyooyuu suru tame ni nokorimashita. Soozoo yori hakai o konomu mono mo ita."
 		sound="data\sounds\Speech\rolik\r1m1_969_narrator.ogg"
 		fontSize="18"
-		scrollSpeed="0.44"
+		scrollSpeed="0.49"
 		time="101" />
 
 	<string
