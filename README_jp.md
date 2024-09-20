@@ -27,6 +27,7 @@
 - **[Deus Ex Machina](https://discord.gg/PVW57kr) コミュニティ - 開発における助言と援助のために**
 - **[EmerEh](https://t.me/emerehhhhh) - ナレーターのナレーション用**
 - **[Young Arty](https://www.youtube.com/@YoungArty) - アイデア提供**
+- **[E Jet](https://www.youtube.com/@ejet) - ヘルプとアイデア**
 
 -----------------
 

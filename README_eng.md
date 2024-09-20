@@ -27,6 +27,7 @@ You can watch **Haadotorakku no Mokushiroku** trailer [here](https://www.youtube
 - **[Deus Ex Machina](https://discord.gg/PVW57kr) community - for advice and assistance in the development**
 - **[Emer EH](https://t.me/emerehhhhh) - for narrator voiceover**
 - **[Young Arty](https://www.youtube.com/@YoungArty) - for submitting the idea**
+- **[E Jet](https://www.youtube.com/@ejet) - help and ideas**
 
 -----------------
 

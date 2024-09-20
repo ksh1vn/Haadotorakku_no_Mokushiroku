@@ -27,6 +27,7 @@
 - **Сообществу [Deus Ex Machina](https://discord.gg/PVW57kr) - за консультации и помощь в разработке**
 - **[ЭХъ](https://t.me/emerehhhhh) - за озвучку рассказчика**
 - **[Young Arty](https://www.youtube.com/@YoungArty) - за подачу идеи**
+- **[E Jet](https://www.youtube.com/@ejet) - помощь и идеи**
 
 -----------------
 
