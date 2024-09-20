@@ -470,7 +470,7 @@
 		
 			<Page
 			id="50_1"
-			text="Arekusandaa «Seel» Parufenenkofu|Arekusandaa «ThePlain» Fateefu|Arekusei «__nEmPoBu4__» Sumirunofu|An'na Juukowa|Anton Popofu|Urajisurafu «OverLine» Kurochikin|Domitorii «Gnome» Sashichenko|Iwan «ICAS-14» Cherepanofu|Reoniido «KoYoT» Kochetofu|Makushimu «Spok» Berudonikofu|Maaku «Apocalypse007» Marigin|Nikku «EL_BIBIKA» Kononenko|Pooru «pavlikrpg» Iwanofu|Serafimu «Varisane» Shagin"
+			text="Arekusandaa «Seel» Parufenenkofu|Arekusandaa «ThePlain» Fateefu|Arekusei «__nEmPoBu4__» Sumirunofu|An'na Juukowa|Anton Popofu|Urajisurafu «OverLine» Kurochikin|Domitorii «Gnome» Sashichenko|Iwan «ICAS-14» Cherepanofu|Reoniido «KoYoT» Kochetofu|Makushimu «Spok» Berudonikofu|Maaku «Apocalypse007» Marigin|Nikku «EL_BIBIKA» Kononenko|Paaveru «pavlikrpg» Iwanofu|Serafimu «Varisane» Shagin"
 			modelName="r3_man"
 			modelSkin="2"
 			modelCfg="765"
@@ -587,7 +587,7 @@
 		
 		<Page
 			id="63"
-			text="Pooru «pavlikrpg» Iwanofu||sukuriputo, kuesuto"
+			text="Paaveru «pavlikrpg» Iwanofu||sukuriputo, kuesuto"
 			modelName="r2_woman"
 			modelSkin="1"
 			modelCfg="91"
