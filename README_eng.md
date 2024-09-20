@@ -19,6 +19,7 @@ You can watch **Haadotorakku no Mokushiroku** trailer [here](https://www.youtube
 - The text and voiceover are translated into Japanese
 - Replaced music in the main menu and in the "Developers" tab
 - Titles have been added at the end of the game
+- When the end credits start, the volume of all sounds except music is reduced to zero
 
 -----------------
 
