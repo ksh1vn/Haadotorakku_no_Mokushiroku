@@ -104,7 +104,7 @@
 		<event eventid="GE_END_CINEMATIC" ObjName="Player1" />
 		<event eventid="GE_SKIP_CINEMATIC" ObjName="Player1" />
 		<script>
-			StopPlayingCustomMusic()
+			PlayCustomMusic("Battle01")
 			RestoreAllToleranceStatus()
 			trigger:Deactivate()
 		</script>
