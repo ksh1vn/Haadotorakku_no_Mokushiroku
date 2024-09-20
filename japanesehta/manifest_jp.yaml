@@ -1,0 +1,45 @@
+# unique service name
+name: japanesehta
+language: jp
+installment: exmachina
+# required human readable info
+display_name: ハードトラックの黙示録
+version: "1.0"
+build: "240920b"
+description: 'Hard Truck Apocalypse を日本語に自動翻訳します。ゲーム内のテキストは「ローマ字」形式で書かれています。
+
+
+ナレーターのナレーションを担当してくれたEmerEhに感謝します。'
+  
+authors: stakan
+
+# optional human readable info
+release_date: "20.09.2024"
+language: jp
+link: https://github.com/ksh1vn/Haadotorakku_no_Mokushiroku
+trailer_url: https://www.youtube.com/watch?v=50SPVP-QQac
+change_log: assets/changelog_jp.md
+logo: assets/HnM_logo.png
+install_banner: assets/HnM_banner.png
+tags: [audio, visual, humor]
+
+options_base_dir: options
+
+# installator compatibility
+patcher_version_requirement: "2.2.1"
+compatible_minor_versions: true
+
+# community patch requirements
+prerequisites:
+  - name: community_remaster
+    versions:
+      - ">=1.14.1"
+
+optional_content:
+  - name: hd_music
+    display_name: "リマスターされたドライビングテーマ"
+    description: "デフォルトでは変更で無効になっている運転テーマのリマスターを有効にします。 
+    
+    
+    警告! リマスターされたサウンドトラックがインストールされている場合にのみインストールしてください。そうでない場合、運転テーマはゲームで機能しません。"
+    default_option: skip

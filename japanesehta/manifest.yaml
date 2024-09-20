@@ -1,0 +1,47 @@
+# unique service name
+name: japanesehta
+language: ru
+installment: exmachina
+# required human readable info
+display_name: Haadotorakku no Mokushiroku
+version: "1.0"
+build: "240920b"
+description: 'Машинный перевод Ex Machina на Японский язык. Текст в игре написан используя стиль «Ромадзи».
+
+
+Спасибо ЭХъ за озвучку рассказчика.'
+  
+authors: стакан
+
+# optional human readable info
+release_date: "20.09.2024"
+language: ru
+link: https://github.com/ksh1vn/Haadotorakku_no_Mokushiroku
+trailer_url: https://www.youtube.com/watch?v=50SPVP-QQac
+change_log: assets/changelog_ru.md
+logo: assets/HnM_logo.png
+install_banner: assets/HnM_banner.png
+tags: [audio, visual, humor]
+
+translations: [eng, jp]
+
+options_base_dir: options
+
+# installator compatibility
+patcher_version_requirement: "2.2.1"
+compatible_minor_versions: true
+
+# community patch requirements
+prerequisites:
+  - name: community_remaster
+    versions:
+      - ">=1.14.1"
+
+optional_content:
+  - name: hd_music
+    display_name: "Ремастер driving-тем"
+    description: "Включает по умолчанию отключённые в моде ремастеры driving-тем. 
+    
+    
+    ВНИМАНИЕ! Устанавливать только в случае, если у вас установлен ремастер OST, в противном случае driving-темы в игре работать не будут!"
+    default_option: skip
