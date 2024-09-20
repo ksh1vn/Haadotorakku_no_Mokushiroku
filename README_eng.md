@@ -1,4 +1,4 @@
-![HnM_banner](https://github.com/ksh1vn/HTA_Japanese_autotranslation/assets/60093741/c764d532-634b-43d0-9a2a-f1762ecb3864)
+![hnm_banner](https://github.com/user-attachments/assets/c90b72e3-70ce-4148-ba63-760f3537866f)
 
 **Haadotorakku no Mokushiroku** - modification for the game Hard Truck Apocalypse, which translates all text and voice acting into Japanese by machine translation.
 
