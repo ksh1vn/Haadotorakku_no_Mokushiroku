@@ -38,7 +38,7 @@
 
 		<Page
 			id="4"
-			text="Purojekuto maneja||Yuujiin «Hrrr» Khurunofu"
+			text="Purojekuto maneja||Efugeenii «Hrrr» Khurunofu"
 			modelName="r2_man"
 			modelSkin="2"
 			modelCfg="368"
@@ -101,7 +101,7 @@
 
 		<Page
 			id="11"
-			text="Gurafikkuaato|Arekusandaa «Alex ML» Marugushin|Iwan Sunigirefu|Yuujiin «Dzhin» Gorutsuofu|Urajimiiru «Price» Serezunefu|Sutanisurafu «Staz» Cheruba"
+			text="Gurafikkuaato|Arekusandaa «Alex ML» Marugushin|Iwan Sunigirefu|Efugeenii «Dzhin» Gorutsuofu|Urajimiiru «Price» Serezunefu|Sutanisurafu «Staz» Cheruba"
 			modelName="r3_man"
 			modelSkin="1"
 			modelCfg="1529"
@@ -110,7 +110,7 @@
 
 		<Page
 			id="12"
-			text="Gurafikkuaato||Rosutamu «Rychi» Tourai|Yuujiin Tokarefu|Serugei «Sega» Mitoryaefu|Bikutaa «isymbosi» Koryakin|Roman Ratinofu"
+			text="Gurafikkuaato||Rosutamu «Rychi» Tourai|Efugeenii Tokarefu|Serugei «Sega» Mitoryaefu|Bikutaa «isymbosi» Koryakin|Roman Ratinofu"
 			modelName="r3_man"
 			modelSkin="1"
 			modelCfg="1529"
@@ -290,7 +290,7 @@
 
 		<Page
 			id="32"
-			text="Jookyuu tesutaa||Yuujiin Popofu|Iwan Riido"
+			text="Jookyuu tesutaa||Efugeenii Popofu|Iwan Riido"
 			modelName="r3_man"
 			modelSkin="1"
 			modelCfg="379"
@@ -299,7 +299,7 @@
 
 		<Page
 			id="33"
-			text="Shiken saabisu||Anton Epishin|Arekusei Petorofu|Arekusandaa Poroshin|Yuujiin Popofu|Iwan Reinofu|Iwan Riido|Arekusei Chebotarefu"
+			text="Shiken saabisu||Anton Epishin|Arekusei Petorofu|Arekusandaa Poroshin|Efugeenii Popofu|Iwan Reinofu|Iwan Riido|Arekusei Chebotarefu"
 			modelName="r3_man"
 			modelSkin="1"
 			modelCfg="456"
@@ -335,7 +335,7 @@
 
 		<Page
 			id="36"
-			text="Hanbai saabisu||Paberu Kurugurofu|Andorei Oshipofu|Arekusandaa Petorinsukii|Oruga Porukovunikowa|Rarisa Savueriewa|Yuujiin Samusonofu|Suvuetoraana Samusonoba|Vuarerii Chifubinsukii|Serugei Fedosofu"
+			text="Hanbai saabisu||Paberu Kurugurofu|Andorei Oshipofu|Arekusandaa Petorinsukii|Oruga Porukovunikowa|Rarisa Savueriewa|Efugeenii Samusonofu|Suvuetoraana Samusonoba|Vuarerii Chifubinsukii|Serugei Fedosofu"
 			modelName="r2_woman"
 			modelSkin="0"
 			modelCfg="4"
@@ -380,7 +380,7 @@
 
 		<Page
 			id="41"
-			text="Tekunikarusapooto||Yuujiin Domitoriefu"
+			text="Tekunikarusapooto||Efugeenii Domitoriefu"
 			modelName="r3_man"
 			modelSkin="1"
 			modelCfg="381"
