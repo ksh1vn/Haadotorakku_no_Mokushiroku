@@ -4998,7 +4998,7 @@
 
 	<Reply
 		name="PeshtGuardian_hellodlg0_2"
-		text="Soko ni aru michi wa 2tsu dakedesu. Watashitachi no machi o tooru ka, toozoku no sookutsu o tooru kadesu."
+		text="Soko ni aru michi wa nitsu dakedesu. Watashitachi no machi o tooru ka, toozoku no sookutsu o tooru kadesu."
 		role="NPC"
 		nextReplies="PeshtGuardian_hellodlg0_P1_2" />
 
