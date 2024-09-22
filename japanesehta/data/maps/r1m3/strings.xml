@@ -10,7 +10,7 @@
 	<string
 		id="4"
 		modelName="mask_hero"
-		value="|Koko ni wa kimyoona mono ga takusan ari, itaru tokoro ni poguromu no chookoo ga arimasu. Kono ita ni wa watashi no namae ga kizama rete imasu… koko wa kakurega de, nakaniha omamori no yoona mono ga haitte imasu. Kyoomibukai kotodesu - watashi wa sore o jibun no mono ni shimasu."
+		value="|Koko ni wa... Kimyoona mono ga takusan ari, doko demo kanzen'na konran ga arimasu. Kono ita ni wa watashi no namae ga koku ma rete imasu… Koko wa kakurega de,-chuu ni wa omamori no yoona mono ga haitte imasu. Kyoomibukai koto ni, watashi wa sore o jibun no mono ni shimasu."
 		sound="data\sounds\Speech\r1m3\r1m3_4_hero.ogg"
 		time="8" />
 

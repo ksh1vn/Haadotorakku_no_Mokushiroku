@@ -415,7 +415,7 @@
 	<string
 		id="33337"
 		modelName="mask_hero"
-		value="|Kore de zenbudesu ka? Setsumei ga arimasen... Mattaku shiranaihito o doo yatte yurusu koto ga dekimasu ka? Koko de watashi ga dekiru koto wa nani mo nokotte inai. Ben o sagashi ni ikimasu. Sore ga daredeare, watashi ga jibun jishin o mitsukeru no o tetsudatte kureru koto o negatte imasu. Osoraku Yujini no hito-tachi wa kare no koto o kiita koto ga arudeshou ka?"
+		value="Kore de zenbudesu ka? Setsumei ga arimasen... Mattaku shiranaihito o doo yatte yurusu koto ga dekimasu ka? Koko de watashi ga dekiru koto wa nani mo nokotte inai. Ben o sagashi ni ikimasu. Sore ga daredeare, watashi ga jibun jishin o mitsukeru no o tetsudatte kureru koto o negatte imasu. Osoraku Yujini no hito-tachi wa kare no koto o kiita koto ga arudeshou ka?"
 		sound="data\sounds\Speech\r1m1\r1m1_33337_hero.ogg"
 		time="16" />
 

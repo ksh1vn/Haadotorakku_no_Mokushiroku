@@ -151,7 +151,7 @@
 	<QuestInfo
 		questName="FindBen2_Quest"
 		briefDiz="Ben o sagasu"
-		fullDiz="Kooun'na koto ni, Ben Dorosseru ga chikaku ni sunde imasu. Kare ni atte, kare ga watashi ya saikin no dekigoto todo no yoona kankei ga aru no ka ?? o shirabenakereba narimasen."
+		fullDiz="Kooun'na koto ni, Ben Dorosseru ga chikaku ni sunde imasu. Kare ni atte, kare ga watashi ya saikin no dekigoto todo no yoona kankei ga aru no ka o shirabenakereba narimasen."
 		isMainQuest="1">
 		<Map
 			name="r1m2" />
@@ -258,7 +258,7 @@
 	<QuestInfo
 		questName="Kollizey_Quest"
 		briefDiz="Korosseo no katsudoo o soshiki suru no o tetsudattekudasai"
-		fullDiz="Kigyooka-tachi wa korosseo no saikai ?? o nozonde iru. Zan'nen'nakotoni, karera no kookoku yosan wa mattaku hoogai ni sukunaidesu. Soshite neko wa juubun'na keiken o tsunde imasu. Shikashi, watashi wa sore demo kono kon'nan'na mondai ni kanshite karera o tasukeru koto ni dooi shimashita."
+		fullDiz="Kigyooka-tachi wa korosseo no saikai o nozonde iru. Zan'nen'nakotoni, karera no kookoku yosan wa mattaku hoogai ni sukunaidesu. Soshite neko wa juubun'na keiken o tsunde imasu. Shikashi, watashi wa sore demo kono kon'nan'na mondai ni kanshite karera o tasukeru koto ni dooi shimashita."
 		isMainQuest="0">
 		<Map
 			name="r1m2" />
@@ -1185,7 +1185,7 @@
 	<QuestInfo
 		questName="d_PatrulSideSNG_Quest"
 		briefDiz="Kokkyoo o patorooru suru"
-		fullDiz="Watashi no saisho no ninmu wa, kokkyoo de ?? teki sharyoo o soosaku suru kotodesu."
+		fullDiz="Watashi no saisho no ninmu wa, kokkyoo de teki sharyoo o soosaku suru kotodesu."
 		isMainQuest="1">
 		<Map
 			name="r2m1"

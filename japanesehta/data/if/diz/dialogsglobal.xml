@@ -1262,7 +1262,7 @@
 
 	<Reply
 		name="r3m2_Oracle_Oracle_2_P042"
-		text="Watashinochichi wa korosa remashita. Watashi wa kare o koroshita han'nin o mitsukete basshitai nodesu!"
+		text="Watashi no chichi wa korosa remashita. Watashi wa kare o koroshita han'nin o mitsukete basshitai nodesu!"
 		role="PLAYER"
 		scriptCondition="QuestStatus('r3m1_FindNative')==Q_COMPLETED"
 		nextReplies="r3m2_Oracle_Oracle_2_N052" />
@@ -1287,13 +1287,13 @@
 
 	<Reply
 		name="r3m2_Oracle_Oracle_2_P082"
-		text="Kono disuku wa watashinochichi no monodeshita. Karera wa sore o yomu koto ga dekiru to iimasu. Osoraku soko ni kaka rete iru koto wa, han'nin o mitsukete dooki o rikai suru no ni yakudatsudeshou."
+		text="Kono disuku wa watashi no chichi no monodeshita. Karera wa sore o yomu koto ga dekiru to iimasu. Osoraku soko ni kaka rete iru koto wa, han'nin o mitsukete dooki o rikai suru no ni yakudatsudeshou."
 		role="PLAYER"
 		nextReplies="r3m2_Oracle_Oracle_3_N01" />
 
 	<Reply
 		name="r3m2_Oracle_Oracle_2_P041"
-		text="Watashinochichi no namae wa Iwan Guo de, tanken-kadeshita. Nan'nen mo mae ni kare wa yukue fumei ni nari, watashi o nokoshite kare no yuujin ni sodatete moraimashita. Saikin, nikuya ga watashitachi no mura o shuugeki shi, zen'in o koroshimashita…"
+		text="Watashi no chichi no namae wa Iwan Guo de, tanken-kadeshita. Nan'nen mo mae ni kare wa yukue fumei ni nari, watashi o nokoshite kare no yuujin ni sodatete moraimashita. Saikin, nikuya ga watashitachi no mura o shuugeki shi, zen'in o koroshimashita…"
 		role="PLAYER"
 		scriptCondition="QuestStatus('r3m1_FindNative_2')==Q_COMPLETED"
 		nextReplies="r3m2_Oracle_Oracle_2_N051" />
@@ -1318,7 +1318,7 @@
 
 	<Reply
 		name="r3m2_Oracle_Oracle_2_P081"
-		text="Mattekudasai, watashi wa tebura de kita wakede wa arimasen. Kono disuku wa watashinochichi no monodeshita. Karera wa sore o yomu koto ga dekiru to iimasu. Osoraku soko ni kaka rete iru koto ga michi o shimeshite kurerudeshou ka?"
+		text="Mattekudasai, watashi wa tebura de kita wakede wa arimasen. Kono disuku wa watashi no chichi no monodeshita. Karera wa sore o yomu koto ga dekiru to iimasu. Osoraku soko ni kaka rete iru koto ga michi o shimeshite kurerudeshou ka?"
 		role="PLAYER"
 		nextReplies="r3m2_Oracle_Oracle_3_N01" />
 
@@ -4998,7 +4998,7 @@
 
 	<Reply
 		name="PeshtGuardian_hellodlg0_2"
-		text="Soko ni aru michi wa 2tsu dakedesu. Watashitachi no machi o tooru ka, toozoku no sookutsu o tooru kadesu."
+		text="Soko ni aru michi wa nitsu dakedesu. Watashitachi no machi o tooru ka, toozoku no sookutsu o tooru kadesu."
 		role="NPC"
 		nextReplies="PeshtGuardian_hellodlg0_P1_2" />
 
@@ -6653,7 +6653,7 @@
 
 	<Reply
 		name="Dlg_npc_001287"
-		text="Risa wa saikin koko ni kite imashitaga, sonogo poruto ni mukete shuppatsu shimashita."
+		text="Risa wa saikin koko ni kite imashitaga, sonogo Poruto ni mukete shuppatsu shimashita."
 		role="NPC"
 		nextReplies="Dlg_pl_001288" />
 
@@ -6683,7 +6683,7 @@
 
 	<Reply
 		name="Dlg_npc_xyz299"
-		text="Jitsuwa soona ndesu… chooshininotteta ndeshou ne. Kiitekudasai, kootsuukikan o mamoru ni wa anata no yoona yaban hito ga hitsuyoona nodesu. Moshi anata ga sore o buji ni poruto ni mochikonde kuretara, watashi wa anata no shutsuji ni wa mewotsuburu bakari ka, shichoo mizukara ga akushu surudeshou."
+		text="Jitsuwa soona ndesu… chooshininotteta ndeshou ne. Kiitekudasai, kootsuukikan o mamoru ni wa anata no yoona yaban hito ga hitsuyoona nodesu. Moshi anata ga sore o buji ni Poruto ni mochikonde kuretara, watashi wa anata no shutsuji ni wa mewotsuburu bakari ka, shichoo mizukara ga akushu surudeshou."
 		role="NPC"
 		nextReplies="Dlg_pl_xyz300" />
 
@@ -7003,7 +7003,7 @@
 
 	<Reply
 		name="Dlg_npc_xyz295"
-		text="Ima dewa o baachan ni mo narimashita! Naze watashi wa anata to hanashite iru nodesu ka? Kare wa Ben o sagashiteimasu. Akutoo no koto wa shirimasenshi, shiritaku mo arimasen! Maa, demo.-Kyoo no shita ni dore dake no mizu ga nagarekonda koto ka… saigo ni kare ni atta no wa middogarudodatta. Atchi mite. Hakubutsukan de."
+		text="Ima dewa o baachan ni mo narimashita! Naze watashi wa anata to hanashite iru nodesu ka? Kare wa Ben o sagashiteimasu. Akutoo no koto wa shirimasenshi, shiritaku mo arimasen! Maa, demo.-Kyoo no shita ni dore dake no mizu ga nagarekonda koto ka… saigo ni kare ni atta no wa Middogarudodatta. Atchi mite. Hakubutsukan de."
 		role="NPC"
 		nextReplies="Dlg_pl_xyz296" />
 
@@ -7685,7 +7685,7 @@
 
 	<Reply
 		name="HurdTrucker_hellodlg0_P1"
-		text="Guruhoi ga osowa reta. Zen'in ga shiboo shita. Watashinochichi…"
+		text="Guruhoi ga osowa reta. Zen'in ga shiboo shita. watashi no chichi…"
 		role="PLAYER"
 		nextReplies="HurdTrucker_hellodlg0_1" />
 
@@ -7758,7 +7758,7 @@
 
 	<Reply
 		name="HurdTrucker_hellodlg1_P1_2"
-		text="Nani o iu ka kangaete kudasai! Kore wa watashinochichidesu! Soshite nan juu-ri mo no tsumi no nai hitobito! Satsujin-sha wa don'na gisei o haratte demo batsu o ukemasu!"
+		text="Nani o iu ka kangaete kudasai! Kore wa watashi no chichidesu! Soshite nan juu-ri mo no tsumi no nai hitobito! Satsujin-sha wa don'na gisei o haratte demo batsu o ukemasu!"
 		role="PLAYER"
 		nextReplies="HurdTrucker_hellodlg1_3" />
 
