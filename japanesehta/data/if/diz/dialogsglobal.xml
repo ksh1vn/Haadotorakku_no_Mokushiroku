@@ -7003,7 +7003,7 @@
 
 	<Reply
 		name="Dlg_npc_xyz295"
-		text="Ima dewa o baachan ni mo narimashita! Naze watashi wa anata to hanashite iru nodesu ka? Kare wa Ben o sagashiteimasu. Akutoo no koto wa shirimasenshi, shiritaku mo arimasen! Maa, demo.-Kyoo no shita ni dore dake no mizu ga nagarekonda koto ka… saigo ni kare ni atta no wa middogarudodatta. Atchi mite. Hakubutsukan de."
+		text="Ima dewa o baachan ni mo narimashita! Naze watashi wa anata to hanashite iru nodesu ka? Kare wa Ben o sagashiteimasu. Akutoo no koto wa shirimasenshi, shiritaku mo arimasen! Maa, demo.-Kyoo no shita ni dore dake no mizu ga nagarekonda koto ka… saigo ni kare ni atta no wa Middogarudodatta. Atchi mite. Hakubutsukan de."
 		role="NPC"
 		nextReplies="Dlg_pl_xyz296" />
 
