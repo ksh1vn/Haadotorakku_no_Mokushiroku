@@ -6653,7 +6653,7 @@
 
 	<Reply
 		name="Dlg_npc_001287"
-		text="Risa wa saikin koko ni kite imashitaga, sonogo poruto ni mukete shuppatsu shimashita."
+		text="Risa wa saikin koko ni kite imashitaga, sonogo Poruto ni mukete shuppatsu shimashita."
 		role="NPC"
 		nextReplies="Dlg_pl_001288" />
 
@@ -6683,7 +6683,7 @@
 
 	<Reply
 		name="Dlg_npc_xyz299"
-		text="Jitsuwa soona ndesu… chooshininotteta ndeshou ne. Kiitekudasai, kootsuukikan o mamoru ni wa anata no yoona yaban hito ga hitsuyoona nodesu. Moshi anata ga sore o buji ni poruto ni mochikonde kuretara, watashi wa anata no shutsuji ni wa mewotsuburu bakari ka, shichoo mizukara ga akushu surudeshou."
+		text="Jitsuwa soona ndesu… chooshininotteta ndeshou ne. Kiitekudasai, kootsuukikan o mamoru ni wa anata no yoona yaban hito ga hitsuyoona nodesu. Moshi anata ga sore o buji ni Poruto ni mochikonde kuretara, watashi wa anata no shutsuji ni wa mewotsuburu bakari ka, shichoo mizukara ga akushu surudeshou."
 		role="NPC"
 		nextReplies="Dlg_pl_xyz300" />
 
