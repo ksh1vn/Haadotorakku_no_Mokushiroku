@@ -13,7 +13,7 @@
 	<QuestInfo
 		questName="Buyer_Quest1"
 		briefDiz="Shinai made nimotsu o todokeru"
-		fullDiz="Nimotsu o Yujinii ni motte iku hitsuyoo ga arimasu. Shoonin no Serugo wa watashinochichi to yooji ga arimasu."
+		fullDiz="Nimotsu o Yujinii ni motte iku hitsuyoo ga arimasu. Shoonin no Serugo wa watashi no chichi to yooji ga arimasu."
 		isMainQuest="1">
 		<Map
 			name="r1m1"
@@ -806,7 +806,7 @@
 	<QuestInfo
 		questName="d_FindRealFatherRoom_Quest"
 		briefDiz="Chichi no ie o sagasu"
-		fullDiz="Watashinochichi wa mada ikite iru kamo shiremasen! Watashi wa shoogai o kakete kare no soosaku ni torikumimasu.|Miinin no kare no ie ni wa ikutsu ka no tegakari ga nokotte iru kamo shiremasen."
+		fullDiz="Watashi no chichi wa mada ikite iru kamo shiremasen! Watashi wa shoogai o kakete kare no soosaku ni torikumimasu.|Miinin no kare no ie ni wa ikutsu ka no tegakari ga nokotte iru kamo shiremasen."
 		isMainQuest="1">
 		<Map
 			name="r1m2" />

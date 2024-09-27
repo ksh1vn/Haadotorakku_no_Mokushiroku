@@ -107,7 +107,7 @@
 		id="12"
 		modelName="mask_hero"
 		sound="data\sounds\Speech\r2m2\r2m2_12_hero.ogg"
-		value="|Kinrin chiiki o shuugeki suru tame ni hitobito o haken shita hoohoo o oboete imasu ka? Sorekara anata wa watashi no furusato no mura o yakiharai, watashinochichi o koroshimashita!"
+		value="|Kinrin chiiki o shuugeki suru tame ni hitobito o haken shita hoohoo o oboete imasu ka? Sorekara anata wa watashi no furusato no mura o yakiharai, watashi no chichi o koroshimashita!"
 		time="12" />
 
 	<string
@@ -317,7 +317,7 @@
 		id="40"
 		modelName="mask_hero"
 		sound="data\sounds\Speech\r2m2\r2m2_40_hero.ogg"
-		value="|Watashinochichi? Naze anata wa sore ga hitsuyoona nodesu ka?"
+		value="|Watashi no chichi? Naze anata wa sore ga hitsuyoona nodesu ka?"
 		time="4" />
 
 	<string

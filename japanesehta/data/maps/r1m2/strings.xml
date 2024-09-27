@@ -28,7 +28,7 @@
 	<string
 		id="22"
 		modelName="mask_hero"
-		value="|Watashi wa anata o sukutta, Risa. Saa, anata wa watashi no shitsumon ni kotaete kurerudeshou. Watashi wa dare ga watashinochichi o koroshita no ka shiritai nodesu!"
+		value="|Watashi wa anata o sukutta, Risa. Saa, anata wa watashi no shitsumon ni kotaete kurerudeshou. Watashi wa dare ga watashi no chichi o koroshita no ka shiritai nodesu!"
 		sound="data\sounds\Speech\r1m2\r1m2_22_hero.ogg"
 		time="6" />
 
