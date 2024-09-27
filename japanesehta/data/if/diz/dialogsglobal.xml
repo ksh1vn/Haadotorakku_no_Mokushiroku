@@ -897,7 +897,7 @@
 
 	<Reply
 		name="r4_Dlg_npc_000079"
-		text="Nan'nen mo zen, watashitachi no chiiki wa masani hana ga sakihokoru teiendeshita. Watashitachiha horokoosuto kara tachinaori, arata ni seikatsu o saiken shi hajimemashita. Sorekara watashitachiha, hitobito ga tokidoki kimyoona koodoo o suru koto ni kidzuki hajimemashita. Karera no hitomi ni wa tokiniha kyooki no yorokobi ga kagayaki, tokiniha kuroi ikari ga yadoru."
+		text="Nan-nen mo zen, watashi-tachi no chiiki wa masani hana ga sakihokoru teien de shita. Watashi-tachi wa saigai kara tachinaori, seikatsu o saiken shi hajimemashita. Sorekara watashi-tachi wa, hitobito ga tokidoki kimyoona koodoo o suru koto ni kidzuki hajimemashita. Karera no me wa tokiniha kyooki no yorokobi de kagayaki, tokiniha kuroi ikari de kagayakimasu."
 		role="NPC"
 		scriptResult="AddHistory( 'r4_TalkWithBuhares' ); AddFadingMsgId( 'fm_history_got' );"
 		nextReplies="r4_Dlg_pl_000081" />
