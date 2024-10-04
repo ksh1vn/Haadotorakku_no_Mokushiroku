@@ -340,8 +340,16 @@
 		modelName="mask_lisa"
 		modelSlot="1"
 		sound="data\sounds\Speech\r2m2\r2m2_43_alice.ogg"
-		value="RISA|Kibishii jidai ni wa kibishii taisaku ga hitsuyoodesu. Watashi wa kono nazo o hodoku koto ni jinsei o sasagete kimashita. Watashi wa uso o tsuki, sonotame ni hito o korosanakereba naranakatta. Nan'nen mo sagashi tsudzuketa kekka, tsuini Iwan no nikki o mitsukeru koto ga dekimashita. Soshite anata ga arawarete subete o dainashi ni shimasu!"
-		time="12" />
+		value="RISA|Kibishii jidai ni wa kibishii taisaku ga hitsuyoodesu. Watashi wa kono nazo o hodoku koto ni jinsei o sasagete kimashita. Watashi wa uso o tsuki, sonotame ni hito o korosanakereba naranakatta."
+		time="1" />
+
+	<string
+		id="431"
+		modelName="mask_lisa"
+		modelSlot="1"
+		sound="data\sounds\Speech\r2m2\r2m2_431_alice.ogg"
+		value="RISA|Nan'nen mo sagashi tsudzuketa kekka, tsuini Iwan no nikki o mitsukeru koto ga dekimashita. Soshite anata ga arawarete subete o dainashi ni shimasu!"
+		time="1" />
 
 	<string
 		id="44"
