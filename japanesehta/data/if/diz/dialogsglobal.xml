@@ -3390,7 +3390,7 @@
 
 	<Reply
 		name="Dlg_pl_000448"
-		text="Kitsune wa koko ni imashita ka?"
+		text="Risa wa koko ni imashita ka?"
 		role="PLAYER"
 		nextReplies="Dlg_npc_000449" />
 
