@@ -13,7 +13,7 @@
 	<QuestInfo
 		questName="Buyer_Quest1"
 		briefDiz="Shinai made nimotsu o todokeru"
-		fullDiz="Nimotsu o Yujinii ni motte iku hitsuyoo ga arimasu. Shoonin no Serugo wa watashinochichi to yooji ga arimasu."
+		fullDiz="Nimotsu o Yujinii ni motte iku hitsuyoo ga arimasu. Shoonin no Serugo wa watashi no chichi to yooji ga arimasu."
 		isMainQuest="1">
 		<Map
 			name="r1m1"
@@ -248,7 +248,7 @@
 	<QuestInfo
 		questName="KillExtremist_Quest1"
 		briefDiz="Sooko o senkyo shita sanzoku o taosu"
-		fullDiz="Sooko o kuria suru ni wa 2-tsu no hoohoo ga ari, sonoochi no 1-tsu wa subete no kageki-ha o korosu kotodesu."
+		fullDiz="Sooko o kuria suru ni wa nitsu no hoohoo ga ari, sonoochi no 1-tsu wa subete no kageki-ha o korosu kotodesu."
 		isMainQuest="0">
 		<Map
 			name="r1m4"
@@ -704,7 +704,7 @@
 	<QuestInfo
 		questName="d_FindLisaInBase_Quest"
 		briefDiz="Risa on Base 51 ni tsuite shitsumon suru"
-		fullDiz="Risa wa omotte iru hodo tanjunde wa nai yoodesu. Kanojo wa akiraka ni sanzoku to kankei ga aru. Amari odoroita to iu wakede wa nai nodesuga…"
+		fullDiz="Risa wa omotte iru hodo tanjunde wa nai yoodesu. Kanojo wa akiraka ni sanzoku to kankei ga aru. Amari odoroita to iu wakede wa nai nodesugaï¿½"
 		isMainQuest="1">
 		<Map
 			name="r1m3"
@@ -806,7 +806,7 @@
 	<QuestInfo
 		questName="d_FindRealFatherRoom_Quest"
 		briefDiz="Chichi no ie o sagasu"
-		fullDiz="Watashinochichi wa mada ikite iru kamo shiremasen! Watashi wa shoogai o kakete kare no soosaku ni torikumimasu.|Miinin no kare no ie ni wa ikutsu ka no tegakari ga nokotte iru kamo shiremasen."
+		fullDiz="Watashi no chichi wa mada ikite iru kamo shiremasen! Watashi wa shoogai o kakete kare no soosaku ni torikumimasu.|Miinin no kare no ie ni wa ikutsu ka no tegakari ga nokotte iru kamo shiremasen."
 		isMainQuest="1">
 		<Map
 			name="r1m2" />
@@ -1489,7 +1489,7 @@
 	<QuestInfo
 		questName="r1m1_Botanik_Quest"
 		briefDiz="Shokubutsu gakusha ni kusuri o motte iku"
-		fullDiz="Doko de kusuri o te ni ireru koto ga dekiru ka shiritaidesu ka? Iseki o nozoite mita hoo ga ii kamo shirenai…"
+		fullDiz="Doko de kusuri o te ni ireru koto ga dekiru ka shiritaidesu ka? Iseki o nozoite mita hoo ga ii kamo shirenaiï¿½"
 		isMainQuest="0">
 		<Map
 			name="r1m1"
@@ -2142,7 +2142,7 @@
 	<QuestInfo
 		questName="r2m2_FindROMinCastle"
 		briefDiz="Shuudooin ni kite kudasai"
-		fullDiz="Shuudooin kara wain o hakobu to iu tanjun'na shigoto ni, doko ka ayashii kehai ga…"
+		fullDiz="Shuudooin kara wain o hakobu to iu tanjun'na shigoto ni, doko ka ayashii kehai gaï¿½"
 		isMainQuest="1">
 		<Map
 			name="r2m2"
@@ -2971,8 +2971,8 @@
 
 	<QuestInfo
 		questName="r3m2_TwoMagicThing"
-		briefDiz="2Tsu no aatifakuto o Orakuru ni mochikomu"
-		fullDiz="Orakuru wa, watashi ga hai koojoo kara 2-tsu no aatifakuto o motte kuru baai ni nomi, watashi o tasukeru koto ni dooi shimasu."
+		briefDiz="Nitsu no aatifakuto o Orakuru ni mochikomu"
+		fullDiz="Orakuru wa, watashi ga hai koojoo kara nitsu no aatifakuto o motte kuru baai ni nomi, watashi o tasukeru koto ni dooi shimasu."
 		isMainQuest="1">
 		<Map
 			name="r3m2" />

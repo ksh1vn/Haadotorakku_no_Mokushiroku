@@ -897,7 +897,7 @@
 
 	<Reply
 		name="r4_Dlg_npc_000079"
-		text="Nan'nen mo zen, watashitachi no chiiki wa masani hana ga sakihokoru teiendeshita. Watashitachiha horokoosuto kara tachinaori, arata ni seikatsu o saiken shi hajimemashita. Sorekara watashitachiha, hitobito ga tokidoki kimyoona koodoo o suru koto ni kidzuki hajimemashita. Karera no hitomi ni wa tokiniha kyooki no yorokobi ga kagayaki, tokiniha kuroi ikari ga yadoru."
+		text="Nan-nen mo zen, watashi-tachi no chiiki wa masani hana ga sakihokoru teien de shita. Watashi-tachi wa saigai kara tachinaori, seikatsu o saiken shi hajimemashita. Sorekara watashi-tachi wa, hitobito ga tokidoki kimyoona koodoo o suru koto ni kidzuki hajimemashita. Karera no me wa tokiniha kyooki no yorokobi de kagayaki, tokiniha kuroi ikari de kagayakimasu."
 		role="NPC"
 		scriptResult="AddHistory( 'r4_TalkWithBuhares' ); AddFadingMsgId( 'fm_history_got' );"
 		nextReplies="r4_Dlg_pl_000081" />
@@ -1218,7 +1218,7 @@
 
 	<Reply
 		name="r3m2_Oracle_Oracle_1_N05"
-		text="Yogen no tame ni wa, tetsu no kaibutsu no yoosai, matawa orokamono ga yobu tokoro no shisha no toshi de mitsukaru aatifakuto ga 2-tsu hitsuyoodesu. Itsumo wa 1-dai shika tanomanai nodesuga, anata wa kuruma o o-mochi de, anata no kao ni wa ooku no tatakai no ato ga miemasu."
+		text="Yogen no tame ni wa, tetsu no kaibutsu no yoosai, matawa orokamono ga yobu tokoro no shisha no toshi de mitsukaru aatifakuto ga nitsu hitsuyoodesu. Itsumo wa 1-dai shika tanomanai nodesuga, anata wa kuruma o o-mochi de, anata no kao ni wa ooku no tatakai no ato ga miemasu."
 		role="NPC"
 		nextReplies="r3m2_Oracle_Oracle_1_P06" />
 
@@ -5132,7 +5132,7 @@
 
 	<Reply
 		name="MininWorker_hellodlg15"
-		text="Sate, watashi no mochibeeshon wa doodesu ka? Doo iu wake ka, zero ga 2-tsu hyooji sa remasen."
+		text="Sate, watashi no mochibeeshon wa doodesu ka? Doo iu wake ka, zero ga nitsu hyooji sa remasen."
 		role="NPC"
 		scriptCondition="IsQuestTaken('d_TalkAboutVrataInMinin_Quest')   and   not(IsQuestComplete('d_TalkAboutVrataInMinin_Quest'))  and  (GetCurNpc():GetSpokenCount() > 0)"
 		nextReplies="Dlg_pl_d3d206 Dlg_pl_d3d207" />

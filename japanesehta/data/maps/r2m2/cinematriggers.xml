@@ -1218,6 +1218,7 @@
 			getObj("humLisa"):SetNextForAnimation(AT_STAND2, AT_STAND2)
 
 			AddCinematicMessage( 43, 0.25 )
+			AddCinematicMessage( 431, 0.25 )
 
 			trigger:Deactivate()
 		</script>
